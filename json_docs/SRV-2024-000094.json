@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000094",
+  "source_pdf": "0694_SERVIS_SRV-2024-000094.pdf",
+  "date": "2024-08-06",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Yüksek (8 saat)",
+  "location": "Karşıyaka/Samsun",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-B",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-27730",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 658.0,
+      "unit_price": 7.0,
+      "total": 658.07
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1962.28,
+      "total": 1962.28
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 432.55,
+      "total": 432.55
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1902.2,
+      "total": 1902.2
+    }
+  ],
+  "subtotal": 4955.1,
+  "vat_rate": 0.2,
+  "vat_amount": 991.02,
+  "grand_total": 5946.12,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000094 | Tarih: 06.08.2024 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Yüksek (8 saat)\nLokasyon: Karşıyaka/Samsun | Şube/DM: TR-ANT-DC05 | Depo: Depo-B\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-27730\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 658,07 658,07\nSensör 1 1.962,28 1.962,28\nRulman Seti 1 432,55 432,55\nSensör 1 1.902,20 1.902,20\nAra Toplam: 4.955,10\nKDV (%20): 991,02\nGenel Toplam: 5.946,12\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

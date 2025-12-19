@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000164",
+  "source_pdf": "0764_SERVIS_SRV-2024-000164.pdf",
+  "date": "2024-02-17",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Muratpaşa/Adana",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-A",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-88176",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 740.5,
+      "unit_price": 5.0,
+      "total": 1481.1
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1481.1,
+  "vat_rate": 0.2,
+  "vat_amount": 296.22,
+  "grand_total": 1777.32,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000164 | Tarih: 17.02.2024 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Muratpaşa/Adana | Şube/DM: TR-BUR-DC04 | Depo: Depo-A\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-88176\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 740,55 1.481,10\nParça Değişimi - - 0,00\nAra Toplam: 1.481,10\nKDV (%20): 296,22\nGenel Toplam: 1.777,32\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

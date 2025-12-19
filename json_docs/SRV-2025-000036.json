@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000036",
+  "source_pdf": "0636_SERVIS_SRV-2025-000036.pdf",
+  "date": "2025-12-19",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Düşük (72 saat)",
+  "location": "Şehitkamil/Samsun",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-86639",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 1182.0,
+      "unit_price": 1.0,
+      "total": 1182.01
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1182.01,
+  "vat_rate": 0.2,
+  "vat_amount": 236.4,
+  "grand_total": 1418.41,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000036 | Tarih: 19.12.2025 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Düşük (72 saat)\nLokasyon: Şehitkamil/Samsun | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-86639\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 1.182,01 1.182,01\nParça Değişimi - - 0,00\nAra Toplam: 1.182,01\nKDV (%20): 236,40\nGenel Toplam: 1.418,41\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000093",
+  "source_pdf": "0093_FATURA_INV-2025-000093.pdf",
+  "date": "2025-06-15",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 12.26,
+      "vat_rate": 0.2,
+      "net_total": 147.12
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 23.66,
+      "vat_rate": 0.01,
+      "net_total": 236.6
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 40.22,
+      "vat_rate": 0.1,
+      "net_total": 80.44
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 65.27,
+      "vat_rate": 0.01,
+      "net_total": 391.62
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 157.74,
+      "vat_rate": 0.1,
+      "net_total": 630.96
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 489.05,
+      "vat_rate": 0.1,
+      "net_total": 4890.5
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 98.73,
+      "vat_rate": 0.1,
+      "net_total": 592.38
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 18.61,
+      "vat_rate": 0.01,
+      "net_total": 37.22
+    }
+  ],
+  "subtotal": 7006.84,
+  "vat_total": 655.51,
+  "grand_total": 7662.35,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000093 | Tarih: 15.06.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Nilüfer/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 12 12,26 %20 147,12\nDomates (kg) 10 23,66 %1 236,60\nŞeker (1 kg) 2 40,22 %10 80,44\nPirinç (1 kg) 6 65,27 %1 391,62\nUn (5 kg) 4 157,74 %10 630,96\nSomon Fileto (kg) 10 489,05 %10 4.890,50\nUn (5 kg) 6 98,73 %10 592,38\nSalatalık (kg) 2 18,61 %1 37,22\nAra Toplam: 7.006,84\nKDV Toplam: 655,51\nGenel Toplam: 7.662,35\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

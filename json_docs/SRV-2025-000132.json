@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000132",
+  "source_pdf": "0732_SERVIS_SRV-2025-000132.pdf",
+  "date": "2025-11-17",
+  "status": "Açık",
+  "priority": "Orta",
+  "sla": "Orta (24 saat)",
+  "location": "Kadıköy/İzmir",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-B",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-69967",
+  "technician": "Emre Taş",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 605.9,
+      "unit_price": 3.0,
+      "total": 1514.82
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1514.82,
+  "vat_rate": 0.2,
+  "vat_amount": 302.96,
+  "grand_total": 1817.78,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000132 | Tarih: 17.11.2025 | Durum: Açık\nÖncelik: Orta | SLA: Orta (24 saat)\nLokasyon: Kadıköy/İzmir | Şube/DM: TR-ANK-DC02 | Depo: Depo-B\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-69967\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 605,93 1.514,82\nParça Değişimi - - 0,00\nAra Toplam: 1.514,82\nKDV (%20): 302,96\nGenel Toplam: 1.817,78\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

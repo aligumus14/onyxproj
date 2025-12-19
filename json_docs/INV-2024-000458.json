@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000458",
+  "source_pdf": "0458_FATURA_INV-2024-000458.pdf",
+  "date": "2024-10-04",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 195.47,
+      "vat_rate": 0.2,
+      "net_total": 195.47
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 74.92,
+      "vat_rate": 0.1,
+      "net_total": 599.36
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 115.82,
+      "vat_rate": 0.1,
+      "net_total": 926.56
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 258.46,
+      "vat_rate": 0.2,
+      "net_total": 3876.9
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 67.87,
+      "vat_rate": 0.01,
+      "net_total": 203.61
+    }
+  ],
+  "subtotal": 5801.9,
+  "vat_total": 969.11,
+  "grand_total": 6771.01,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000458 | Tarih: 04.10.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 1 195,47 %20 195,47\nAyçiçek Yağı (1 L) 8 74,92 %10 599,36\nUn (5 kg) 8 115,82 %10 926,56\nKahve Çekirdeği (250 g) 15 258,46 %20 3.876,90\nMuz (kg) 3 67,87 %1 203,61\nAra Toplam: 5.801,90\nKDV Toplam: 969,11\nGenel Toplam: 6.771,01\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

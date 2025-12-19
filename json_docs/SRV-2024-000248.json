@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000248",
+  "source_pdf": "0848_SERVIS_SRV-2024-000248.pdf",
+  "date": "2024-12-07",
+  "status": "Açık",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Muratpaşa/Samsun",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-2",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-90581",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 632.0,
+      "unit_price": 5.0,
+      "total": 948.07
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 1055.86,
+      "total": 1055.86
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 2799.19,
+      "total": 2799.19
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 631.13,
+      "total": 631.13
+    }
+  ],
+  "subtotal": 5434.25,
+  "vat_rate": 0.2,
+  "vat_amount": 1086.85,
+  "grand_total": 6521.1,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000248 | Tarih: 07.12.2024 | Durum: Açık\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Muratpaşa/Samsun | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-2\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-90581\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 632,05 948,07\nHidrolik Hortum 1 1.055,86 1.055,86\nHidrolik Hortum 1 2.799,19 2.799,19\nSensör 1 631,13 631,13\nAra Toplam: 5.434,25\nKDV (%20): 1.086,85\nGenel Toplam: 6.521,10\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

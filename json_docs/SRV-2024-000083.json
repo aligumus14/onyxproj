@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000083",
+  "source_pdf": "0683_SERVIS_SRV-2024-000083.pdf",
+  "date": "2024-01-29",
+  "status": "Açık",
+  "priority": "Orta",
+  "sla": "Yüksek (8 saat)",
+  "location": "Beşiktaş/Bursa",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-A",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-47728",
+  "technician": "Deniz Arı",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 967.5,
+      "unit_price": 2.0,
+      "total": 1451.28
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1451.28,
+  "vat_rate": 0.2,
+  "vat_amount": 290.26,
+  "grand_total": 1741.54,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000083 | Tarih: 29.01.2024 | Durum: Açık\nÖncelik: Orta | SLA: Yüksek (8 saat)\nLokasyon: Beşiktaş/Bursa | Şube/DM: TR-IST-DC01 | Depo: Depo-A\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-47728\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 967,52 1.451,28\nParça Değişimi - - 0,00\nAra Toplam: 1.451,28\nKDV (%20): 290,26\nGenel Toplam: 1.741,54\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000200",
+  "source_pdf": "0800_SERVIS_SRV-2024-000200.pdf",
+  "date": "2024-01-24",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Yüksek (8 saat)",
+  "location": "Şişli/Bursa",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-22369",
+  "technician": "Emre Taş",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 509.1,
+      "unit_price": 8.0,
+      "total": 1272.95
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1408.28,
+      "total": 1408.28
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 271.66,
+      "total": 271.66
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1668.69,
+      "total": 1668.69
+    }
+  ],
+  "subtotal": 4621.58,
+  "vat_rate": 0.2,
+  "vat_amount": 924.32,
+  "grand_total": 5545.9,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000200 | Tarih: 24.01.2024 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Yüksek (8 saat)\nLokasyon: Şişli/Bursa | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-22369\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 509,18 1.272,95\nTermostat 1 1.408,28 1.408,28\nFiltre 1 271,66 271,66\nSensör 1 1.668,69 1.668,69\nAra Toplam: 4.621,58\nKDV (%20): 924,32\nGenel Toplam: 5.545,90\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

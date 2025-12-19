@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000251",
+  "source_pdf": "0251_FATURA_INV-2024-000251.pdf",
+  "date": "2024-06-02",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 64.11,
+      "vat_rate": 0.1,
+      "net_total": 512.88
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 22.3,
+      "vat_rate": 0.01,
+      "net_total": 89.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 61.8,
+      "vat_rate": 0.01,
+      "net_total": 61.8
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 88.55,
+      "vat_rate": 0.01,
+      "net_total": 1771.0
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 39.12,
+      "vat_rate": 0.01,
+      "net_total": 391.2
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 26.48,
+      "vat_rate": 0.01,
+      "net_total": 52.96
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 209.06,
+      "vat_rate": 0.1,
+      "net_total": 418.12
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 65.23,
+      "vat_rate": 0.1,
+      "net_total": 391.38
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 91.87,
+      "vat_rate": 0.01,
+      "net_total": 734.96
+    }
+  ],
+  "subtotal": 4423.5,
+  "vat_total": 163.25,
+  "grand_total": 4586.75,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000251 | Tarih: 02.06.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Seyhan/Antalya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 8 64,11 %10 512,88\nSalatalık (kg) 4 22,30 %1 89,20\nPirinç (1 kg) 1 61,80 %1 61,80\nYoğurt (1 kg) 20 88,55 %1 1.771,00\nSalatalık (kg) 10 39,12 %1 391,20\nSalatalık (kg) 2 26,48 %1 52,96\nTavuk Göğüs (kg) 2 209,06 %10 418,12\nŞeker (1 kg) 6 65,23 %10 391,38\nMuz (kg) 8 91,87 %1 734,96\nAra Toplam: 4.423,50\nKDV Toplam: 163,25\nGenel Toplam: 4.586,75\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

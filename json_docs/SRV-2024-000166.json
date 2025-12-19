@@ -1,0 +1,46 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000166",
+  "source_pdf": "0766_SERVIS_SRV-2024-000166.pdf",
+  "date": "2024-05-05",
+  "status": "Açık",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Çankaya/İstanbul",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-C",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-43038",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 655.6,
+      "unit_price": 9.0,
+      "total": 1639.23
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 2.0,
+      "unit_price": 3582.9,
+      "total": 7165.8
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1101.77,
+      "total": 1101.77
+    }
+  ],
+  "subtotal": 9906.8,
+  "vat_rate": 0.2,
+  "vat_amount": 1981.36,
+  "grand_total": 11888.16,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000166 | Tarih: 05.05.2024 | Durum: Açık\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Çankaya/İstanbul | Şube/DM: TR-IZM-DC03 | Depo: Depo-C\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-43038\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 655,69 1.639,23\nHidrolik Hortum 2 3.582,90 7.165,80\nSensör 1 1.101,77 1.101,77\nAra Toplam: 9.906,80\nKDV (%20): 1.981,36\nGenel Toplam: 11.888,16\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

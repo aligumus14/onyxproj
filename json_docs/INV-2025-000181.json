@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000181",
+  "source_pdf": "0181_FATURA_INV-2025-000181.pdf",
+  "date": "2025-08-13",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 177.38,
+      "vat_rate": 0.2,
+      "net_total": 2128.56
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 149.87,
+      "vat_rate": 0.01,
+      "net_total": 1798.44
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 207.32,
+      "vat_rate": 0.1,
+      "net_total": 1243.92
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 58.79,
+      "vat_rate": 0.2,
+      "net_total": 352.74
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 54.38,
+      "vat_rate": 0.1,
+      "net_total": 1087.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 337.77,
+      "vat_rate": 0.1,
+      "net_total": 5066.55
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 40.0,
+      "vat_rate": 0.2,
+      "net_total": 160.0
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 39.4,
+      "vat_rate": 0.2,
+      "net_total": 197.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 214.78,
+      "vat_rate": 0.1,
+      "net_total": 2147.8
+    }
+  ],
+  "subtotal": 14182.61,
+  "vat_total": 1540.23,
+  "grand_total": 15722.84,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000181 | Tarih: 13.08.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 12 177,38 %20 2.128,56\nKuru Fasulye (1 kg) 12 149,87 %1 1.798,44\nUn (5 kg) 6 207,32 %10 1.243,92\nGazlı İçecek (1 L) 6 58,79 %20 352,74\nŞeker (1 kg) 20 54,38 %10 1.087,60\nDana Kıyma (kg) 15 337,77 %10 5.066,55\nGazlı İçecek (1 L) 4 40,00 %20 160,00\nGazlı İçecek (1 L) 5 39,40 %20 197,00\nUn (5 kg) 10 214,78 %10 2.147,80\nAra Toplam: 14.182,61\nKDV Toplam: 1.540,23\nGenel Toplam: 15.722,84\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

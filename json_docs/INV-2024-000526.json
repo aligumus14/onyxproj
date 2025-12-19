@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000526",
+  "source_pdf": "0526_FATURA_INV-2024-000526.pdf",
+  "date": "2024-03-05",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 497.73,
+      "vat_rate": 0.1,
+      "net_total": 2986.38
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 15.23,
+      "vat_rate": 0.2,
+      "net_total": 60.92
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 200.83,
+      "vat_rate": 0.1,
+      "net_total": 803.32
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 43.52,
+      "vat_rate": 0.2,
+      "net_total": 870.4
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 79.67,
+      "vat_rate": 0.01,
+      "net_total": 1195.05
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 159.06,
+      "vat_rate": 0.1,
+      "net_total": 2385.9
+    }
+  ],
+  "subtotal": 8301.97,
+  "vat_total": 815.77,
+  "grand_total": 9117.74,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000526 | Tarih: 05.03.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Şehitkamil/Antalya\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 6 497,73 %10 2.986,38\nMaden Suyu (200 ml) 4 15,23 %20 60,92\nTavuk Göğüs (kg) 4 200,83 %10 803,32\nÇikolata (80 g) 20 43,52 %20 870,40\nYoğurt (1 kg) 15 79,67 %1 1.195,05\nAyçiçek Yağı (1 L) 15 159,06 %10 2.385,90\nAra Toplam: 8.301,97\nKDV Toplam: 815,77\nGenel Toplam: 9.117,74\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000471",
+  "source_pdf": "0471_FATURA_INV-2025-000471.pdf",
+  "date": "2025-05-21",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 19.1,
+      "vat_rate": 0.2,
+      "net_total": 152.8
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 222.28,
+      "vat_rate": 0.2,
+      "net_total": 222.28
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 24.31,
+      "vat_rate": 0.2,
+      "net_total": 486.2
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 11.76,
+      "vat_rate": 0.2,
+      "net_total": 23.52
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 45.3,
+      "vat_rate": 0.01,
+      "net_total": 271.8
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 67.32,
+      "vat_rate": 0.1,
+      "net_total": 538.56
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 35.47,
+      "vat_rate": 0.01,
+      "net_total": 212.82
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 164.53,
+      "vat_rate": 0.1,
+      "net_total": 1645.3
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 67.31,
+      "vat_rate": 0.2,
+      "net_total": 67.31
+    }
+  ],
+  "subtotal": 3620.59,
+  "vat_total": 413.66,
+  "grand_total": 4034.25,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000471 | Tarih: 21.05.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Beşiktaş/Antalya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 8 19,10 %20 152,80\nKahve Çekirdeği (250 g) 1 222,28 %20 222,28\nMaden Suyu (200 ml) 20 24,31 %20 486,20\nMaden Suyu (200 ml) 2 11,76 %20 23,52\nSüt (1 L) 6 45,30 %1 271,80\nŞeker (1 kg) 8 67,32 %10 538,56\nSalatalık (kg) 6 35,47 %1 212,82\nUn (5 kg) 10 164,53 %10 1.645,30\nÇikolata (80 g) 1 67,31 %20 67,31\nAra Toplam: 3.620,59\nKDV Toplam: 413,66\nGenel Toplam: 4.034,25\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

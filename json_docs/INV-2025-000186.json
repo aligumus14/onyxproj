@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000186",
+  "source_pdf": "0186_FATURA_INV-2025-000186.pdf",
+  "date": "2025-08-12",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 422.53,
+      "vat_rate": 0.1,
+      "net_total": 2535.18
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 25.92,
+      "vat_rate": 0.01,
+      "net_total": 129.6
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 778.63,
+      "vat_rate": 0.1,
+      "net_total": 11679.45
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 108.96,
+      "vat_rate": 0.1,
+      "net_total": 1634.4
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 23.39,
+      "vat_rate": 0.01,
+      "net_total": 93.56
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 753.09,
+      "vat_rate": 0.1,
+      "net_total": 2259.27
+    }
+  ],
+  "subtotal": 18331.46,
+  "vat_total": 1813.08,
+  "grand_total": 20144.54,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000186 | Tarih: 12.08.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Nilüfer/Kocaeli\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 6 422,53 %10 2.535,18\nDomates (kg) 5 25,92 %1 129,60\nSomon Fileto (kg) 15 778,63 %10 11.679,45\nUn (5 kg) 15 108,96 %10 1.634,40\nSalatalık (kg) 4 23,39 %1 93,56\nSomon Fileto (kg) 3 753,09 %10 2.259,27\nAra Toplam: 18.331,46\nKDV Toplam: 1.813,08\nGenel Toplam: 20.144,54\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

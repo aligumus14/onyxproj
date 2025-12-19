@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000280",
+  "source_pdf": "0280_FATURA_INV-2025-000280.pdf",
+  "date": "2025-04-16",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 45.48,
+      "vat_rate": 0.1,
+      "net_total": 363.84
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 211.97,
+      "vat_rate": 0.2,
+      "net_total": 1271.82
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 173.97,
+      "vat_rate": 0.1,
+      "net_total": 869.85
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 115.76,
+      "vat_rate": 0.01,
+      "net_total": 115.76
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 180.97,
+      "vat_rate": 0.1,
+      "net_total": 2171.64
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 32.7,
+      "vat_rate": 0.2,
+      "net_total": 65.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 55.3,
+      "vat_rate": 0.2,
+      "net_total": 829.5
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 12.84,
+      "vat_rate": 0.2,
+      "net_total": 154.08
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 42.22,
+      "vat_rate": 0.1,
+      "net_total": 506.64
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 57.77,
+      "vat_rate": 0.01,
+      "net_total": 1155.4
+    }
+  ],
+  "subtotal": 7503.93,
+  "vat_total": 868.06,
+  "grand_total": 8371.99,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000280 | Tarih: 16.04.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Beşiktaş/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 8 45,48 %10 363,84\nKahve Çekirdeği (250 g) 6 211,97 %20 1.271,82\nUn (5 kg) 5 173,97 %10 869,85\nKuru Fasulye (1 kg) 1 115,76 %1 115,76\nTavuk Göğüs (kg) 12 180,97 %10 2.171,64\nGazlı İçecek (1 L) 2 32,70 %20 65,40\nGazlı İçecek (1 L) 15 55,30 %20 829,50\nMaden Suyu (200 ml) 12 12,84 %20 154,08\nMakarna (500 g) 12 42,22 %10 506,64\nElma (kg) 20 57,77 %1 1.155,40\nAra Toplam: 7.503,93\nKDV Toplam: 868,06\nGenel Toplam: 8.371,99\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

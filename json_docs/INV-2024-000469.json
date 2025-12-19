@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000469",
+  "source_pdf": "0469_FATURA_INV-2024-000469.pdf",
+  "date": "2024-08-25",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 88.14,
+      "vat_rate": 0.01,
+      "net_total": 528.84
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 40.63,
+      "vat_rate": 0.01,
+      "net_total": 325.04
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 93.88,
+      "vat_rate": 0.01,
+      "net_total": 187.76
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 42.58,
+      "vat_rate": 0.1,
+      "net_total": 638.7
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 24.07,
+      "vat_rate": 0.1,
+      "net_total": 120.35
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 59.92,
+      "vat_rate": 0.01,
+      "net_total": 119.84
+    }
+  ],
+  "subtotal": 1920.53,
+  "vat_total": 87.53,
+  "grand_total": 2008.06,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000469 | Tarih: 25.08.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Şehitkamil/Gaziantep\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 6 88,14 %1 528,84\nSalatalık (kg) 8 40,63 %1 325,04\nYoğurt (1 kg) 2 93,88 %1 187,76\nŞeker (1 kg) 15 42,58 %10 638,70\nMakarna (500 g) 5 24,07 %10 120,35\nElma (kg) 2 59,92 %1 119,84\nAra Toplam: 1.920,53\nKDV Toplam: 87,53\nGenel Toplam: 2.008,06\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

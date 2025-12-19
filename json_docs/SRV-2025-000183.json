@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000183",
+  "source_pdf": "0783_SERVIS_SRV-2025-000183.pdf",
+  "date": "2025-04-17",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Yüksek (8 saat)",
+  "location": "Muratpaşa/Bursa",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-C",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-75036",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 1136.2,
+      "unit_price": 6.0,
+      "total": 1704.39
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1704.39,
+  "vat_rate": 0.2,
+  "vat_amount": 340.88,
+  "grand_total": 2045.27,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000183 | Tarih: 17.04.2025 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Yüksek (8 saat)\nLokasyon: Muratpaşa/Bursa | Şube/DM: TR-IST-DC01 | Depo: Depo-C\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-75036\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 1.136,26 1.704,39\nParça Değişimi - - 0,00\nAra Toplam: 1.704,39\nKDV (%20): 340,88\nGenel Toplam: 2.045,27\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

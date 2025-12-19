@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000001",
+  "source_pdf": "0601_SERVIS_SRV-2025-000001.pdf",
+  "date": "2025-10-11",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Yüksek (8 saat)",
+  "location": "Selçuklu/İzmir",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-39123",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 573.3,
+      "unit_price": 2.0,
+      "total": 1433.3
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1433.3,
+  "vat_rate": 0.2,
+  "vat_amount": 286.66,
+  "grand_total": 1719.96,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000001 | Tarih: 11.10.2025 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Yüksek (8 saat)\nLokasyon: Selçuklu/İzmir | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-39123\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 573,32 1.433,30\nParça Değişimi - - 0,00\nAra Toplam: 1.433,30\nKDV (%20): 286,66\nGenel Toplam: 1.719,96\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000145",
+  "source_pdf": "0145_FATURA_INV-2024-000145.pdf",
+  "date": "2024-06-30",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 60.05,
+      "vat_rate": 0.1,
+      "net_total": 300.25
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 82.96,
+      "vat_rate": 0.01,
+      "net_total": 248.88
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 73.14,
+      "vat_rate": 0.01,
+      "net_total": 73.14
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 54.99,
+      "vat_rate": 0.01,
+      "net_total": 54.99
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 292.21,
+      "vat_rate": 0.1,
+      "net_total": 4383.15
+    }
+  ],
+  "subtotal": 5060.41,
+  "vat_total": 472.11,
+  "grand_total": 5532.52,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000145 | Tarih: 30.06.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Beşiktaş/Gaziantep\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 5 60,05 %10 300,25\nPirinç (1 kg) 3 82,96 %1 248,88\nYoğurt (1 kg) 1 73,14 %1 73,14\nPirinç (1 kg) 1 54,99 %1 54,99\nDana Kıyma (kg) 15 292,21 %10 4.383,15\nAra Toplam: 5.060,41\nKDV Toplam: 472,11\nGenel Toplam: 5.532,52\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

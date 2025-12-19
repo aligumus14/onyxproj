@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000594",
+  "source_pdf": "0594_FATURA_INV-2024-000594.pdf",
+  "date": "2024-06-21",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 29.64,
+      "vat_rate": 0.01,
+      "net_total": 59.28
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 136.02,
+      "vat_rate": 0.1,
+      "net_total": 136.02
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 95.01,
+      "vat_rate": 0.1,
+      "net_total": 1900.2
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 41.46,
+      "vat_rate": 0.01,
+      "net_total": 331.68
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 56.68,
+      "vat_rate": 0.01,
+      "net_total": 170.04
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 31.86,
+      "vat_rate": 0.1,
+      "net_total": 637.2
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 71.12,
+      "vat_rate": 0.01,
+      "net_total": 142.24
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 77.38,
+      "vat_rate": 0.01,
+      "net_total": 1547.6
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 32.48,
+      "vat_rate": 0.1,
+      "net_total": 487.2
+    }
+  ],
+  "subtotal": 5411.46,
+  "vat_total": 338.57,
+  "grand_total": 5750.03,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000594 | Tarih: 21.06.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Muratpaşa/İzmir\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 2 29,64 %1 59,28\nTavuk Göğüs (kg) 1 136,02 %10 136,02\nAyçiçek Yağı (1 L) 20 95,01 %10 1.900,20\nElma (kg) 8 41,46 %1 331,68\nElma (kg) 3 56,68 %1 170,04\nMakarna (500 g) 20 31,86 %10 637,20\nKuru Fasulye (1 kg) 2 71,12 %1 142,24\nKuru Fasulye (1 kg) 20 77,38 %1 1.547,60\nMakarna (500 g) 15 32,48 %10 487,20\nAra Toplam: 5.411,46\nKDV Toplam: 338,57\nGenel Toplam: 5.750,03\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000096",
+  "source_pdf": "0696_SERVIS_SRV-2024-000096.pdf",
+  "date": "2024-07-20",
+  "status": "Kapatıldı",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Kadıköy/İstanbul",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-2",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-67667",
+  "technician": "Selin Uçar",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 1127.3,
+      "unit_price": 2.0,
+      "total": 2818.3
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 2818.3,
+  "vat_rate": 0.2,
+  "vat_amount": 563.66,
+  "grand_total": 3381.96,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000096 | Tarih: 20.07.2024 | Durum: Kapatıldı\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Kadıköy/İstanbul | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-2\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-67667\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 1.127,32 2.818,30\nParça Değişimi - - 0,00\nAra Toplam: 2.818,30\nKDV (%20): 563,66\nGenel Toplam: 3.381,96\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

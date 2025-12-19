@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000058",
+  "source_pdf": "0658_SERVIS_SRV-2024-000058.pdf",
+  "date": "2024-01-13",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Kritik (4 saat)",
+  "location": "Kadıköy/Gaziantep",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-42366",
+  "technician": "Deniz Arı",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 926.5,
+      "unit_price": 1.0,
+      "total": 3706.04
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 3706.04,
+  "vat_rate": 0.2,
+  "vat_amount": 741.21,
+  "grand_total": 4447.25,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000058 | Tarih: 13.01.2024 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Kritik (4 saat)\nLokasyon: Kadıköy/Gaziantep | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-42366\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 926,51 3.706,04\nParça Değişimi - - 0,00\nAra Toplam: 3.706,04\nKDV (%20): 741,21\nGenel Toplam: 4.447,25\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

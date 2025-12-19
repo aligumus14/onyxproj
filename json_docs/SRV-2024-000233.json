@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000233",
+  "source_pdf": "0833_SERVIS_SRV-2024-000233.pdf",
+  "date": "2024-04-10",
+  "status": "Kapatıldı",
+  "priority": "Yüksek",
+  "sla": "Yüksek (8 saat)",
+  "location": "Nilüfer/Konya",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-B",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-12090",
+  "technician": "Selin Uçar",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 504.6,
+      "unit_price": 7.0,
+      "total": 3028.02
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1387.95,
+      "total": 1387.95
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 829.15,
+      "total": 829.15
+    }
+  ],
+  "subtotal": 5245.12,
+  "vat_rate": 0.2,
+  "vat_amount": 1049.02,
+  "grand_total": 6294.14,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000233 | Tarih: 10.04.2024 | Durum: Kapatıldı\nÖncelik: Yüksek | SLA: Yüksek (8 saat)\nLokasyon: Nilüfer/Konya | Şube/DM: TR-IZM-DC03 | Depo: Depo-B\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-12090\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 504,67 3.028,02\nTermostat 1 1.387,95 1.387,95\nRulman Seti 1 829,15 829,15\nAra Toplam: 5.245,12\nKDV (%20): 1.049,02\nGenel Toplam: 6.294,14\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

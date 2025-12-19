@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000299",
+  "source_pdf": "0299_FATURA_INV-2024-000299.pdf",
+  "date": "2024-11-05",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 196.14,
+      "vat_rate": 0.1,
+      "net_total": 1176.84
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 259.72,
+      "vat_rate": 0.2,
+      "net_total": 2077.76
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 42.89,
+      "vat_rate": 0.01,
+      "net_total": 428.9
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 59.79,
+      "vat_rate": 0.01,
+      "net_total": 478.32
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 93.37,
+      "vat_rate": 0.1,
+      "net_total": 933.7
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 21.36,
+      "vat_rate": 0.2,
+      "net_total": 256.32
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 192.95,
+      "vat_rate": 0.1,
+      "net_total": 1157.7
+    }
+  ],
+  "subtotal": 6509.54,
+  "vat_total": 802.7,
+  "grand_total": 7312.24,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000299 | Tarih: 05.11.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Karşıyaka/Gaziantep\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 6 196,14 %10 1.176,84\nKahve Çekirdeği (250 g) 8 259,72 %20 2.077,76\nDomates (kg) 10 42,89 %1 428,90\nPirinç (1 kg) 8 59,79 %1 478,32\nAyçiçek Yağı (1 L) 10 93,37 %10 933,70\nMaden Suyu (200 ml) 12 21,36 %20 256,32\nUn (5 kg) 6 192,95 %10 1.157,70\nAra Toplam: 6.509,54\nKDV Toplam: 802,70\nGenel Toplam: 7.312,24\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

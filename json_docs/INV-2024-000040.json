@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000040",
+  "source_pdf": "0040_FATURA_INV-2024-000040.pdf",
+  "date": "2024-10-13",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 37.86,
+      "vat_rate": 0.01,
+      "net_total": 757.2
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 609.26,
+      "vat_rate": 0.1,
+      "net_total": 609.26
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 164.9,
+      "vat_rate": 0.1,
+      "net_total": 329.8
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 2,
+      "unit_price": 176.16,
+      "vat_rate": 0.1,
+      "net_total": 352.32
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 47.54,
+      "vat_rate": 0.01,
+      "net_total": 47.54
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 52.54,
+      "vat_rate": 0.01,
+      "net_total": 157.62
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 152.98,
+      "vat_rate": 0.1,
+      "net_total": 305.96
+    }
+  ],
+  "subtotal": 2559.7,
+  "vat_total": 169.37,
+  "grand_total": 2729.07,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000040 | Tarih: 13.10.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Seyhan/Konya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 20 37,86 %1 757,20\nSomon Fileto (kg) 1 609,26 %10 609,26\nAyçiçek Yağı (1 L) 2 164,90 %10 329,80\nUn (5 kg) 2 176,16 %10 352,32\nDomates (kg) 1 47,54 %1 47,54\nSüt (1 L) 3 52,54 %1 157,62\nAyçiçek Yağı (1 L) 2 152,98 %10 305,96\nAra Toplam: 2.559,70\nKDV Toplam: 169,37\nGenel Toplam: 2.729,07\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000242",
+  "source_pdf": "0842_SERVIS_SRV-2024-000242.pdf",
+  "date": "2024-09-23",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Şişli/İstanbul",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-2",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-82095",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 1003.6,
+      "unit_price": 2.0,
+      "total": 1505.43
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 1070.79,
+      "total": 2141.58
+    }
+  ],
+  "subtotal": 3647.01,
+  "vat_rate": 0.2,
+  "vat_amount": 729.4,
+  "grand_total": 4376.41,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000242 | Tarih: 23.09.2024 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Şişli/İstanbul | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-2\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-82095\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 1.003,62 1.505,43\nKayış 2 1.070,79 2.141,58\nAra Toplam: 3.647,01\nKDV (%20): 729,40\nGenel Toplam: 4.376,41\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000235",
+  "source_pdf": "0235_FATURA_INV-2024-000235.pdf",
+  "date": "2024-03-30",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 41.28,
+      "vat_rate": 0.1,
+      "net_total": 330.24
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 11.29,
+      "vat_rate": 0.2,
+      "net_total": 169.35
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 117.46,
+      "vat_rate": 0.1,
+      "net_total": 587.3
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 27.98,
+      "vat_rate": 0.2,
+      "net_total": 167.88
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 11.33,
+      "vat_rate": 0.2,
+      "net_total": 90.64
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 76.15,
+      "vat_rate": 0.1,
+      "net_total": 1523.0
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 60.01,
+      "vat_rate": 0.1,
+      "net_total": 180.03
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 12.99,
+      "vat_rate": 0.2,
+      "net_total": 38.97
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 214.16,
+      "vat_rate": 0.2,
+      "net_total": 1070.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 40.53,
+      "vat_rate": 0.01,
+      "net_total": 202.65
+    }
+  ],
+  "subtotal": 4360.86,
+  "vat_total": 571.61,
+  "grand_total": 4932.47,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000235 | Tarih: 30.03.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Karşıyaka/Konya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 8 41,28 %10 330,24\nMaden Suyu (200 ml) 15 11,29 %20 169,35\nAyçiçek Yağı (1 L) 5 117,46 %10 587,30\nÇikolata (80 g) 6 27,98 %20 167,88\nMaden Suyu (200 ml) 8 11,33 %20 90,64\nŞeker (1 kg) 20 76,15 %10 1.523,00\nŞeker (1 kg) 3 60,01 %10 180,03\nMaden Suyu (200 ml) 3 12,99 %20 38,97\nKahve Çekirdeği (250 g) 5 214,16 %20 1.070,80\nSalatalık (kg) 5 40,53 %1 202,65\nAra Toplam: 4.360,86\nKDV Toplam: 571,61\nGenel Toplam: 4.932,47\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

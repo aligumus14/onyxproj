@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000059",
+  "source_pdf": "0659_SERVIS_SRV-2025-000059.pdf",
+  "date": "2025-10-01",
+  "status": "Parça Bekleniyor",
+  "priority": "Orta",
+  "sla": "Kritik (4 saat)",
+  "location": "Nilüfer/Bursa",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-14687",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 805.6,
+      "unit_price": 3.0,
+      "total": 2014.08
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1579.58,
+      "total": 1579.58
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1057.71,
+      "total": 1057.71
+    }
+  ],
+  "subtotal": 4651.37,
+  "vat_rate": 0.2,
+  "vat_amount": 930.27,
+  "grand_total": 5581.64,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000059 | Tarih: 01.10.2025 | Durum: Parça Bekleniyor\nÖncelik: Orta | SLA: Kritik (4 saat)\nLokasyon: Nilüfer/Bursa | Şube/DM: TR-ANK-DC02 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-14687\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 805,63 2.014,08\nTermostat 1 1.579,58 1.579,58\nSensör 1 1.057,71 1.057,71\nAra Toplam: 4.651,37\nKDV (%20): 930,27\nGenel Toplam: 5.581,64\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

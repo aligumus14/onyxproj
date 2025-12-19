@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000150",
+  "source_pdf": "0150_FATURA_INV-2025-000150.pdf",
+  "date": "2025-07-12",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 47.72,
+      "vat_rate": 0.01,
+      "net_total": 95.44
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 15.91,
+      "vat_rate": 0.2,
+      "net_total": 238.65
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 37.19,
+      "vat_rate": 0.2,
+      "net_total": 74.38
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 615.06,
+      "vat_rate": 0.1,
+      "net_total": 2460.24
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 32.24,
+      "vat_rate": 0.2,
+      "net_total": 96.72
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 54.22,
+      "vat_rate": 0.01,
+      "net_total": 813.3
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 88.14,
+      "vat_rate": 0.1,
+      "net_total": 176.28
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 22.77,
+      "vat_rate": 0.2,
+      "net_total": 22.77
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 50.79,
+      "vat_rate": 0.2,
+      "net_total": 507.9
+    }
+  ],
+  "subtotal": 4485.68,
+  "vat_total": 460.81,
+  "grand_total": 4946.49,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000150 | Tarih: 12.07.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Kadıköy/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 2 47,72 %1 95,44\nMaden Suyu (200 ml) 15 15,91 %20 238,65\nGazlı İçecek (1 L) 2 37,19 %20 74,38\nSomon Fileto (kg) 4 615,06 %10 2.460,24\nÇikolata (80 g) 3 32,24 %20 96,72\nSüt (1 L) 15 54,22 %1 813,30\nAyçiçek Yağı (1 L) 2 88,14 %10 176,28\nMaden Suyu (200 ml) 1 22,77 %20 22,77\nGazlı İçecek (1 L) 10 50,79 %20 507,90\nAra Toplam: 4.485,68\nKDV Toplam: 460,81\nGenel Toplam: 4.946,49\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

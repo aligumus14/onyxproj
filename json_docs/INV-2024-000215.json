@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000215",
+  "source_pdf": "0215_FATURA_INV-2024-000215.pdf",
+  "date": "2024-04-10",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 55.5,
+      "vat_rate": 0.2,
+      "net_total": 333.0
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 113.81,
+      "vat_rate": 0.01,
+      "net_total": 682.86
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 20.42,
+      "vat_rate": 0.01,
+      "net_total": 40.84
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 28.64,
+      "vat_rate": 0.01,
+      "net_total": 343.68
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 118.52,
+      "vat_rate": 0.1,
+      "net_total": 711.12
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 131.24,
+      "vat_rate": 0.1,
+      "net_total": 656.2
+    }
+  ],
+  "subtotal": 2767.7,
+  "vat_total": 214.01,
+  "grand_total": 2981.71,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000215 | Tarih: 10.04.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Çankaya/Konya\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 6 55,50 %20 333,00\nKuru Fasulye (1 kg) 6 113,81 %1 682,86\nDomates (kg) 2 20,42 %1 40,84\nElma (kg) 12 28,64 %1 343,68\nUn (5 kg) 6 118,52 %10 711,12\nTavuk Göğüs (kg) 5 131,24 %10 656,20\nAra Toplam: 2.767,70\nKDV Toplam: 214,01\nGenel Toplam: 2.981,71\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

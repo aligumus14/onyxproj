@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000417",
+  "source_pdf": "0417_FATURA_INV-2025-000417.pdf",
+  "date": "2025-05-20",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 16.1,
+      "vat_rate": 0.2,
+      "net_total": 241.5
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 44.16,
+      "vat_rate": 0.01,
+      "net_total": 220.8
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 46.82,
+      "vat_rate": 0.2,
+      "net_total": 468.2
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 336.58,
+      "vat_rate": 0.1,
+      "net_total": 6731.6
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 156.88,
+      "vat_rate": 0.1,
+      "net_total": 1568.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 63.41,
+      "vat_rate": 0.01,
+      "net_total": 126.82
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 47.0,
+      "vat_rate": 0.01,
+      "net_total": 376.0
+    }
+  ],
+  "subtotal": 9733.72,
+  "vat_total": 979.22,
+  "grand_total": 10712.94,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000417 | Tarih: 20.05.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Adana\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 15 16,10 %20 241,50\nDomates (kg) 5 44,16 %1 220,80\nGazlı İçecek (1 L) 10 46,82 %20 468,20\nDana Kıyma (kg) 20 336,58 %10 6.731,60\nUn (5 kg) 10 156,88 %10 1.568,80\nMuz (kg) 2 63,41 %1 126,82\nMuz (kg) 8 47,00 %1 376,00\nAra Toplam: 9.733,72\nKDV Toplam: 979,22\nGenel Toplam: 10.712,94\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000197",
+  "source_pdf": "0797_SERVIS_SRV-2025-000197.pdf",
+  "date": "2025-04-17",
+  "status": "Açık",
+  "priority": "Orta",
+  "sla": "Düşük (72 saat)",
+  "location": "Şehitkamil/Bursa",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-A",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-14536",
+  "technician": "Emre Taş",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 531.8,
+      "unit_price": 7.0,
+      "total": 531.87
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1440.54,
+      "total": 1440.54
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 3027.29,
+      "total": 3027.29
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 1431.17,
+      "total": 1431.17
+    }
+  ],
+  "subtotal": 6430.87,
+  "vat_rate": 0.2,
+  "vat_amount": 1286.17,
+  "grand_total": 7717.04,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000197 | Tarih: 17.04.2025 | Durum: Açık\nÖncelik: Orta | SLA: Düşük (72 saat)\nLokasyon: Şehitkamil/Bursa | Şube/DM: TR-BUR-DC04 | Depo: Depo-A\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-14536\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 531,87 531,87\nTermostat 1 1.440,54 1.440,54\nHidrolik Hortum 1 3.027,29 3.027,29\nHidrolik Hortum 1 1.431,17 1.431,17\nAra Toplam: 6.430,87\nKDV (%20): 1.286,17\nGenel Toplam: 7.717,04\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

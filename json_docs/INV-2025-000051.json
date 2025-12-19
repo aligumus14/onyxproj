@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000051",
+  "source_pdf": "0051_FATURA_INV-2025-000051.pdf",
+  "date": "2025-09-11",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 75.54,
+      "vat_rate": 0.01,
+      "net_total": 906.48
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 37.11,
+      "vat_rate": 0.01,
+      "net_total": 148.44
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 12,
+      "unit_price": 157.96,
+      "vat_rate": 0.1,
+      "net_total": 1895.52
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 99.83,
+      "vat_rate": 0.01,
+      "net_total": 598.98
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 154.96,
+      "vat_rate": 0.1,
+      "net_total": 1239.68
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 423.49,
+      "vat_rate": 0.1,
+      "net_total": 8469.8
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 359.13,
+      "vat_rate": 0.1,
+      "net_total": 718.26
+    }
+  ],
+  "subtotal": 13977.16,
+  "vat_total": 1248.86,
+  "grand_total": 15226.02,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000051 | Tarih: 11.09.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Seyhan/İstanbul\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 12 75,54 %1 906,48\nSalatalık (kg) 4 37,11 %1 148,44\nUn (5 kg) 12 157,96 %10 1.895,52\nKuru Fasulye (1 kg) 6 99,83 %1 598,98\nTavuk Göğüs (kg) 8 154,96 %10 1.239,68\nDana Kıyma (kg) 20 423,49 %10 8.469,80\nDana Kıyma (kg) 2 359,13 %10 718,26\nAra Toplam: 13.977,16\nKDV Toplam: 1.248,86\nGenel Toplam: 15.226,02\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

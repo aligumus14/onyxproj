@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000498",
+  "source_pdf": "0498_FATURA_INV-2025-000498.pdf",
+  "date": "2025-11-11",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 45.04,
+      "vat_rate": 0.01,
+      "net_total": 135.12
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 63.81,
+      "vat_rate": 0.01,
+      "net_total": 63.81
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 26.75,
+      "vat_rate": 0.01,
+      "net_total": 107.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 57.62,
+      "vat_rate": 0.01,
+      "net_total": 460.96
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 46.42,
+      "vat_rate": 0.2,
+      "net_total": 185.68
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 130.55,
+      "vat_rate": 0.1,
+      "net_total": 1305.5
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 93.05,
+      "vat_rate": 0.01,
+      "net_total": 930.5
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 16.64,
+      "vat_rate": 0.2,
+      "net_total": 16.64
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 28.58,
+      "vat_rate": 0.2,
+      "net_total": 28.58
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 84.39,
+      "vat_rate": 0.1,
+      "net_total": 421.95
+    }
+  ],
+  "subtotal": 3655.74,
+  "vat_total": 235.91,
+  "grand_total": 3891.65,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000498 | Tarih: 11.11.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 3 45,04 %1 135,12\nMuz (kg) 1 63,81 %1 63,81\nSüt (1 L) 4 26,75 %1 107,00\nMuz (kg) 8 57,62 %1 460,96\nÇikolata (80 g) 4 46,42 %20 185,68\nAyçiçek Yağı (1 L) 10 130,55 %10 1.305,50\nKuru Fasulye (1 kg) 10 93,05 %1 930,50\nMaden Suyu (200 ml) 1 16,64 %20 16,64\nÇikolata (80 g) 1 28,58 %20 28,58\nAyçiçek Yağı (1 L) 5 84,39 %10 421,95\nAra Toplam: 3.655,74\nKDV Toplam: 235,91\nGenel Toplam: 3.891,65\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

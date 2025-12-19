@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000361",
+  "source_pdf": "0361_FATURA_INV-2024-000361.pdf",
+  "date": "2024-12-09",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 104.87,
+      "vat_rate": 0.01,
+      "net_total": 1258.44
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 185.74,
+      "vat_rate": 0.1,
+      "net_total": 3714.8
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 47.75,
+      "vat_rate": 0.1,
+      "net_total": 955.0
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 53.21,
+      "vat_rate": 0.01,
+      "net_total": 106.42
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 47.74,
+      "vat_rate": 0.01,
+      "net_total": 95.48
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 57.34,
+      "vat_rate": 0.1,
+      "net_total": 114.68
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 50.34,
+      "vat_rate": 0.2,
+      "net_total": 100.68
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 15,
+      "unit_price": 61.26,
+      "vat_rate": 0.2,
+      "net_total": 918.9
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 133.31,
+      "vat_rate": 0.1,
+      "net_total": 1066.48
+    }
+  ],
+  "subtotal": 8330.88,
+  "vat_total": 803.61,
+  "grand_total": 9134.49,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000361 | Tarih: 09.12.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Nilüfer/Kocaeli\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 12 104,87 %1 1.258,44\nTavuk Göğüs (kg) 20 185,74 %10 3.714,80\nŞeker (1 kg) 20 47,75 %10 955,00\nElma (kg) 2 53,21 %1 106,42\nElma (kg) 2 47,74 %1 95,48\nŞeker (1 kg) 2 57,34 %10 114,68\nGazlı İçecek (1 L) 2 50,34 %20 100,68\nÇikolata (80 g) 15 61,26 %20 918,90\nTavuk Göğüs (kg) 8 133,31 %10 1.066,48\nAra Toplam: 8.330,88\nKDV Toplam: 803,61\nGenel Toplam: 9.134,49\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

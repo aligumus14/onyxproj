@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000218",
+  "source_pdf": "0818_SERVIS_SRV-2024-000218.pdf",
+  "date": "2024-12-10",
+  "status": "Açık",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Karşıyaka/Kocaeli",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-56781",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 944.9,
+      "unit_price": 4.0,
+      "total": 2362.35
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 2032.83,
+      "total": 2032.83
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 498.35,
+      "total": 996.7
+    }
+  ],
+  "subtotal": 5391.88,
+  "vat_rate": 0.2,
+  "vat_amount": 1078.38,
+  "grand_total": 6470.26,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000218 | Tarih: 10.12.2024 | Durum: Açık\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Karşıyaka/Kocaeli | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-56781\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 944,94 2.362,35\nSensör 1 2.032,83 2.032,83\nFiltre 2 498,35 996,70\nAra Toplam: 5.391,88\nKDV (%20): 1.078,38\nGenel Toplam: 6.470,26\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

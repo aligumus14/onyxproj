@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000185",
+  "source_pdf": "0785_SERVIS_SRV-2024-000185.pdf",
+  "date": "2024-04-13",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Karşıyaka/Kocaeli",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-1",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-15582",
+  "technician": "Emre Taş",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 586.2,
+      "unit_price": 8.0,
+      "total": 1465.7
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1465.7,
+  "vat_rate": 0.2,
+  "vat_amount": 293.14,
+  "grand_total": 1758.84,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000185 | Tarih: 13.04.2024 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Karşıyaka/Kocaeli | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-1\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-15582\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 586,28 1.465,70\nParça Değişimi - - 0,00\nAra Toplam: 1.465,70\nKDV (%20): 293,14\nGenel Toplam: 1.758,84\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

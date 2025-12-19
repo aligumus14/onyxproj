@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000034",
+  "source_pdf": "0034_FATURA_INV-2025-000034.pdf",
+  "date": "2025-02-23",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 133.65,
+      "vat_rate": 0.2,
+      "net_total": 2673.0
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 486.24,
+      "vat_rate": 0.1,
+      "net_total": 9724.8
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 226.56,
+      "vat_rate": 0.2,
+      "net_total": 1359.36
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 18.97,
+      "vat_rate": 0.1,
+      "net_total": 227.64
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 74.71,
+      "vat_rate": 0.01,
+      "net_total": 298.84
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 192.14,
+      "vat_rate": 0.1,
+      "net_total": 768.56
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 69.22,
+      "vat_rate": 0.1,
+      "net_total": 138.44
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 30.82,
+      "vat_rate": 0.01,
+      "net_total": 308.2
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 115.06,
+      "vat_rate": 0.1,
+      "net_total": 115.06
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 27.68,
+      "vat_rate": 0.01,
+      "net_total": 138.4
+    }
+  ],
+  "subtotal": 15752.3,
+  "vat_total": 1911.37,
+  "grand_total": 17663.67,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000034 | Tarih: 23.02.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Nilüfer/Antalya\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 20 133,65 %20 2.673,00\nDana Kıyma (kg) 20 486,24 %10 9.724,80\nKahve Çekirdeği (250 g) 6 226,56 %20 1.359,36\nMakarna (500 g) 12 18,97 %10 227,64\nMuz (kg) 4 74,71 %1 298,84\nTavuk Göğüs (kg) 4 192,14 %10 768,56\nŞeker (1 kg) 2 69,22 %10 138,44\nElma (kg) 10 30,82 %1 308,20\nTavuk Göğüs (kg) 1 115,06 %10 115,06\nSalatalık (kg) 5 27,68 %1 138,40\nAra Toplam: 15.752,30\nKDV Toplam: 1.911,37\nGenel Toplam: 17.663,67\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

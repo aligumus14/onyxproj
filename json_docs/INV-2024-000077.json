@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000077",
+  "source_pdf": "0077_FATURA_INV-2024-000077.pdf",
+  "date": "2024-04-24",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 386.04,
+      "vat_rate": 0.1,
+      "net_total": 4632.48
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 118.88,
+      "vat_rate": 0.1,
+      "net_total": 1783.2
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 61.39,
+      "vat_rate": 0.2,
+      "net_total": 613.9
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 156.72,
+      "vat_rate": 0.1,
+      "net_total": 470.16
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 97.51,
+      "vat_rate": 0.1,
+      "net_total": 1462.65
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 194.9,
+      "vat_rate": 0.1,
+      "net_total": 3898.0
+    }
+  ],
+  "subtotal": 12860.39,
+  "vat_total": 1347.44,
+  "grand_total": 14207.83,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000077 | Tarih: 24.04.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Selçuklu/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 12 386,04 %10 4.632,48\nAyçiçek Yağı (1 L) 15 118,88 %10 1.783,20\nÇikolata (80 g) 10 61,39 %20 613,90\nUn (5 kg) 3 156,72 %10 470,16\nUn (5 kg) 15 97,51 %10 1.462,65\nUn (5 kg) 20 194,90 %10 3.898,00\nAra Toplam: 12.860,39\nKDV Toplam: 1.347,44\nGenel Toplam: 14.207,83\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

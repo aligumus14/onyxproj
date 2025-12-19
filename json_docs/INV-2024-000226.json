@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000226",
+  "source_pdf": "0226_FATURA_INV-2024-000226.pdf",
+  "date": "2024-05-10",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 112.26,
+      "vat_rate": 0.1,
+      "net_total": 898.08
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 492.74,
+      "vat_rate": 0.1,
+      "net_total": 1970.96
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 146.22,
+      "vat_rate": 0.01,
+      "net_total": 2924.4
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 147.61,
+      "vat_rate": 0.01,
+      "net_total": 2214.15
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 39.41,
+      "vat_rate": 0.01,
+      "net_total": 78.82
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 63.8,
+      "vat_rate": 0.2,
+      "net_total": 638.0
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 117.35,
+      "vat_rate": 0.1,
+      "net_total": 1760.25
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 91.89,
+      "vat_rate": 0.1,
+      "net_total": 459.45
+    }
+  ],
+  "subtotal": 10944.11,
+  "vat_total": 688.66,
+  "grand_total": 11632.77,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000226 | Tarih: 10.05.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/Antalya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 8 112,26 %10 898,08\nDana Kıyma (kg) 4 492,74 %10 1.970,96\nKuru Fasulye (1 kg) 20 146,22 %1 2.924,40\nKuru Fasulye (1 kg) 15 147,61 %1 2.214,15\nSüt (1 L) 2 39,41 %1 78,82\nÇikolata (80 g) 10 63,80 %20 638,00\nAyçiçek Yağı (1 L) 15 117,35 %10 1.760,25\nUn (5 kg) 5 91,89 %10 459,45\nAra Toplam: 10.944,11\nKDV Toplam: 688,66\nGenel Toplam: 11.632,77\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000107",
+  "source_pdf": "0107_FATURA_INV-2024-000107.pdf",
+  "date": "2024-10-02",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 93.93,
+      "vat_rate": 0.01,
+      "net_total": 1408.95
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 31.79,
+      "vat_rate": 0.1,
+      "net_total": 317.9
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 41.2,
+      "vat_rate": 0.01,
+      "net_total": 412.0
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 82.58,
+      "vat_rate": 0.01,
+      "net_total": 495.48
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 48.59,
+      "vat_rate": 0.01,
+      "net_total": 728.85
+    }
+  ],
+  "subtotal": 3363.18,
+  "vat_total": 62.24,
+  "grand_total": 3425.42,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000107 | Tarih: 02.10.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Karşıyaka/Kocaeli\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 15 93,93 %1 1.408,95\nMakarna (500 g) 10 31,79 %10 317,90\nSalatalık (kg) 10 41,20 %1 412,00\nKuru Fasulye (1 kg) 6 82,58 %1 495,48\nElma (kg) 15 48,59 %1 728,85\nAra Toplam: 3.363,18\nKDV Toplam: 62,24\nGenel Toplam: 3.425,42\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

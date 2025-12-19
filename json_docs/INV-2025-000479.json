@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000479",
+  "source_pdf": "0479_FATURA_INV-2025-000479.pdf",
+  "date": "2025-06-20",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 147.09,
+      "vat_rate": 0.01,
+      "net_total": 147.09
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 25.21,
+      "vat_rate": 0.2,
+      "net_total": 25.21
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 124.7,
+      "vat_rate": 0.2,
+      "net_total": 623.5
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 15.62,
+      "vat_rate": 0.2,
+      "net_total": 234.3
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 50.37,
+      "vat_rate": 0.01,
+      "net_total": 151.11
+    }
+  ],
+  "subtotal": 1181.21,
+  "vat_total": 179.58,
+  "grand_total": 1360.79,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000479 | Tarih: 20.06.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Kadıköy/Gaziantep\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 1 147,09 %1 147,09\nÇikolata (80 g) 1 25,21 %20 25,21\nKahve Çekirdeği (250 g) 5 124,70 %20 623,50\nMaden Suyu (200 ml) 15 15,62 %20 234,30\nMuz (kg) 3 50,37 %1 151,11\nAra Toplam: 1.181,21\nKDV Toplam: 179,58\nGenel Toplam: 1.360,79\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

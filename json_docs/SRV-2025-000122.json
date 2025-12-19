@@ -1,0 +1,52 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000122",
+  "source_pdf": "0722_SERVIS_SRV-2025-000122.pdf",
+  "date": "2025-01-22",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Karşıyaka/Antalya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-1",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-72906",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 765.6,
+      "unit_price": 5.0,
+      "total": 1148.47
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 1851.24,
+      "total": 1851.24
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 2.0,
+      "unit_price": 970.51,
+      "total": 1941.02
+    },
+    {
+      "item": "Sensör",
+      "qty": 2.0,
+      "unit_price": 1686.17,
+      "total": 3372.34
+    }
+  ],
+  "subtotal": 8313.07,
+  "vat_rate": 0.2,
+  "vat_amount": 1662.61,
+  "grand_total": 9975.68,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000122 | Tarih: 22.01.2025 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Karşıyaka/Antalya | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-1\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-72906\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 765,65 1.148,47\nHidrolik Hortum 1 1.851,24 1.851,24\nRulman Seti 2 970,51 1.941,02\nSensör 2 1.686,17 3.372,34\nAra Toplam: 8.313,07\nKDV (%20): 1.662,61\nGenel Toplam: 9.975,68\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

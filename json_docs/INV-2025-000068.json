@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000068",
+  "source_pdf": "0068_FATURA_INV-2025-000068.pdf",
+  "date": "2025-08-06",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 59.4,
+      "vat_rate": 0.2,
+      "net_total": 594.0
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 97.63,
+      "vat_rate": 0.01,
+      "net_total": 1464.45
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 59.13,
+      "vat_rate": 0.01,
+      "net_total": 177.39
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 255.13,
+      "vat_rate": 0.2,
+      "net_total": 1530.78
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 505.35,
+      "vat_rate": 0.1,
+      "net_total": 6064.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 84.16,
+      "vat_rate": 0.01,
+      "net_total": 336.64
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 126.84,
+      "vat_rate": 0.2,
+      "net_total": 1522.08
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 37.27,
+      "vat_rate": 0.01,
+      "net_total": 111.81
+    }
+  ],
+  "subtotal": 11801.35,
+  "vat_total": 1356.7,
+  "grand_total": 13158.05,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000068 | Tarih: 06.08.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Karşıyaka/Gaziantep\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 10 59,40 %20 594,00\nYoğurt (1 kg) 15 97,63 %1 1.464,45\nElma (kg) 3 59,13 %1 177,39\nKahve Çekirdeği (250 g) 6 255,13 %20 1.530,78\nDana Kıyma (kg) 12 505,35 %10 6.064,20\nPirinç (1 kg) 4 84,16 %1 336,64\nKahve Çekirdeği (250 g) 12 126,84 %20 1.522,08\nSalatalık (kg) 3 37,27 %1 111,81\nAra Toplam: 11.801,35\nKDV Toplam: 1.356,70\nGenel Toplam: 13.158,05\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

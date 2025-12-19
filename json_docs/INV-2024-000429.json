@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000429",
+  "source_pdf": "0429_FATURA_INV-2024-000429.pdf",
+  "date": "2024-12-08",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 55.08,
+      "vat_rate": 0.2,
+      "net_total": 165.24
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 149.34,
+      "vat_rate": 0.1,
+      "net_total": 2240.1
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 20.96,
+      "vat_rate": 0.2,
+      "net_total": 167.68
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 24.82,
+      "vat_rate": 0.1,
+      "net_total": 99.28
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 585.15,
+      "vat_rate": 0.1,
+      "net_total": 8777.25
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 126.82,
+      "vat_rate": 0.2,
+      "net_total": 634.1
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 28.77,
+      "vat_rate": 0.01,
+      "net_total": 345.24
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 77.93,
+      "vat_rate": 0.1,
+      "net_total": 389.65
+    }
+  ],
+  "subtotal": 12818.54,
+  "vat_total": 1347.5,
+  "grand_total": 14166.04,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000429 | Tarih: 08.12.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Karşıyaka/Adana\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 3 55,08 %20 165,24\nUn (5 kg) 15 149,34 %10 2.240,10\nMaden Suyu (200 ml) 8 20,96 %20 167,68\nMakarna (500 g) 4 24,82 %10 99,28\nSomon Fileto (kg) 15 585,15 %10 8.777,25\nKahve Çekirdeği (250 g) 5 126,82 %20 634,10\nSüt (1 L) 12 28,77 %1 345,24\nŞeker (1 kg) 5 77,93 %10 389,65\nAra Toplam: 12.818,54\nKDV Toplam: 1.347,50\nGenel Toplam: 14.166,04\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

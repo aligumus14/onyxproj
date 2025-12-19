@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000363",
+  "source_pdf": "0363_FATURA_INV-2025-000363.pdf",
+  "date": "2025-06-15",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 32.71,
+      "vat_rate": 0.2,
+      "net_total": 261.68
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 256.23,
+      "vat_rate": 0.2,
+      "net_total": 256.23
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 11.93,
+      "vat_rate": 0.2,
+      "net_total": 95.44
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 188.53,
+      "vat_rate": 0.2,
+      "net_total": 565.59
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 318.03,
+      "vat_rate": 0.1,
+      "net_total": 3816.36
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 49.85,
+      "vat_rate": 0.01,
+      "net_total": 99.7
+    }
+  ],
+  "subtotal": 5095.0,
+  "vat_total": 618.44,
+  "grand_total": 5713.44,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000363 | Tarih: 15.06.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Şehitkamil/İzmir\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 8 32,71 %20 261,68\nKahve Çekirdeği (250 g) 1 256,23 %20 256,23\nMaden Suyu (200 ml) 8 11,93 %20 95,44\nKahve Çekirdeği (250 g) 3 188,53 %20 565,59\nDana Kıyma (kg) 12 318,03 %10 3.816,36\nSüt (1 L) 2 49,85 %1 99,70\nAra Toplam: 5.095,00\nKDV Toplam: 618,44\nGenel Toplam: 5.713,44\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

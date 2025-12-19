@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000344",
+  "source_pdf": "0344_FATURA_INV-2024-000344.pdf",
+  "date": "2024-11-13",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 53.49,
+      "vat_rate": 0.01,
+      "net_total": 427.92
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 243.13,
+      "vat_rate": 0.2,
+      "net_total": 486.26
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 84.21,
+      "vat_rate": 0.01,
+      "net_total": 84.21
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 123.52,
+      "vat_rate": 0.2,
+      "net_total": 988.16
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 52.71,
+      "vat_rate": 0.01,
+      "net_total": 1054.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 95.06,
+      "vat_rate": 0.01,
+      "net_total": 380.24
+    }
+  ],
+  "subtotal": 3420.99,
+  "vat_total": 314.34,
+  "grand_total": 3735.33,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000344 | Tarih: 13.11.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Çankaya/Samsun\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 8 53,49 %1 427,92\nKahve Çekirdeği (250 g) 2 243,13 %20 486,26\nPirinç (1 kg) 1 84,21 %1 84,21\nKahve Çekirdeği (250 g) 8 123,52 %20 988,16\nDomates (kg) 20 52,71 %1 1.054,20\nPirinç (1 kg) 4 95,06 %1 380,24\nAra Toplam: 3.420,99\nKDV Toplam: 314,34\nGenel Toplam: 3.735,33\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

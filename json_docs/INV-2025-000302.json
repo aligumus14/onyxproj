@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000302",
+  "source_pdf": "0302_FATURA_INV-2025-000302.pdf",
+  "date": "2025-12-06",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 135.63,
+      "vat_rate": 0.1,
+      "net_total": 542.52
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 2,
+      "unit_price": 45.46,
+      "vat_rate": 0.2,
+      "net_total": 90.92
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 454.42,
+      "vat_rate": 0.1,
+      "net_total": 5453.04
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 373.87,
+      "vat_rate": 0.1,
+      "net_total": 2990.96
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 43.78,
+      "vat_rate": 0.01,
+      "net_total": 131.34
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 28.5,
+      "vat_rate": 0.1,
+      "net_total": 57.0
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 157.04,
+      "vat_rate": 0.1,
+      "net_total": 471.12
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 199.97,
+      "vat_rate": 0.1,
+      "net_total": 1599.76
+    }
+  ],
+  "subtotal": 11336.66,
+  "vat_total": 1130.93,
+  "grand_total": 12467.59,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000302 | Tarih: 06.12.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/İzmir\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 4 135,63 %10 542,52\nÇikolata (80 g) 2 45,46 %20 90,92\nSomon Fileto (kg) 12 454,42 %10 5.453,04\nDana Kıyma (kg) 8 373,87 %10 2.990,96\nElma (kg) 3 43,78 %1 131,34\nMakarna (500 g) 2 28,50 %10 57,00\nAyçiçek Yağı (1 L) 3 157,04 %10 471,12\nTavuk Göğüs (kg) 8 199,97 %10 1.599,76\nAra Toplam: 11.336,66\nKDV Toplam: 1.130,93\nGenel Toplam: 12.467,59\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

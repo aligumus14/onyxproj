@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000555",
+  "source_pdf": "0555_FATURA_INV-2025-000555.pdf",
+  "date": "2025-08-30",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 26.56,
+      "vat_rate": 0.01,
+      "net_total": 531.2
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 200.44,
+      "vat_rate": 0.1,
+      "net_total": 2405.28
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 204.45,
+      "vat_rate": 0.1,
+      "net_total": 204.45
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 35.95,
+      "vat_rate": 0.01,
+      "net_total": 179.75
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 98.02,
+      "vat_rate": 0.01,
+      "net_total": 490.1
+    }
+  ],
+  "subtotal": 3810.78,
+  "vat_total": 272.99,
+  "grand_total": 4083.77,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000555 | Tarih: 30.08.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Gaziantep\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 20 26,56 %1 531,20\nTavuk Göğüs (kg) 12 200,44 %10 2.405,28\nTavuk Göğüs (kg) 1 204,45 %10 204,45\nSalatalık (kg) 5 35,95 %1 179,75\nPirinç (1 kg) 5 98,02 %1 490,10\nAra Toplam: 3.810,78\nKDV Toplam: 272,99\nGenel Toplam: 4.083,77\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

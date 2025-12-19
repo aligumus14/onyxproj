@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000061",
+  "source_pdf": "0061_FATURA_INV-2024-000061.pdf",
+  "date": "2024-12-27",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 32.2,
+      "vat_rate": 0.2,
+      "net_total": 644.0
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 49.7,
+      "vat_rate": 0.01,
+      "net_total": 149.1
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 106.41,
+      "vat_rate": 0.1,
+      "net_total": 106.41
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 37.82,
+      "vat_rate": 0.01,
+      "net_total": 756.4
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 125.51,
+      "vat_rate": 0.2,
+      "net_total": 1882.65
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 74.24,
+      "vat_rate": 0.01,
+      "net_total": 1484.8
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 627.58,
+      "vat_rate": 0.1,
+      "net_total": 3765.48
+    }
+  ],
+  "subtotal": 8788.84,
+  "vat_total": 916.42,
+  "grand_total": 9705.26,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000061 | Tarih: 27.12.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Beşiktaş/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 20 32,20 %20 644,00\nDomates (kg) 3 49,70 %1 149,10\nUn (5 kg) 1 106,41 %10 106,41\nSüt (1 L) 20 37,82 %1 756,40\nKahve Çekirdeği (250 g) 15 125,51 %20 1.882,65\nPirinç (1 kg) 20 74,24 %1 1.484,80\nSomon Fileto (kg) 6 627,58 %10 3.765,48\nAra Toplam: 8.788,84\nKDV Toplam: 916,42\nGenel Toplam: 9.705,26\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

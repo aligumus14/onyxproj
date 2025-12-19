@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000228",
+  "source_pdf": "0828_SERVIS_SRV-2024-000228.pdf",
+  "date": "2024-03-08",
+  "status": "Onay Bekliyor",
+  "priority": "Düşük",
+  "sla": "Kritik (4 saat)",
+  "location": "Kadıköy/Bursa",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-65716",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 621.4,
+      "unit_price": 7.0,
+      "total": 3728.82
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 560.22,
+      "total": 560.22
+    }
+  ],
+  "subtotal": 4289.04,
+  "vat_rate": 0.2,
+  "vat_amount": 857.81,
+  "grand_total": 5146.85,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000228 | Tarih: 08.03.2024 | Durum: Onay Bekliyor\nÖncelik: Düşük | SLA: Kritik (4 saat)\nLokasyon: Kadıköy/Bursa | Şube/DM: TR-IST-DC01 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-65716\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 621,47 3.728,82\nFiltre 1 560,22 560,22\nAra Toplam: 4.289,04\nKDV (%20): 857,81\nGenel Toplam: 5.146,85\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

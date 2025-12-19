@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000231",
+  "source_pdf": "0831_SERVIS_SRV-2025-000231.pdf",
+  "date": "2025-08-29",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Şehitkamil/Adana",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-2",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-54743",
+  "technician": "Deniz Arı",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 1090.5,
+      "unit_price": 6.0,
+      "total": 2726.4
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 2726.4,
+  "vat_rate": 0.2,
+  "vat_amount": 545.28,
+  "grand_total": 3271.68,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000231 | Tarih: 29.08.2025 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Şehitkamil/Adana | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-2\nMakine: Forklift - Linde H35D | Seri No: FLT-54743\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 1.090,56 2.726,40\nParça Değişimi - - 0,00\nAra Toplam: 2.726,40\nKDV (%20): 545,28\nGenel Toplam: 3.271,68\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

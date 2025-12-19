@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000406",
+  "source_pdf": "0406_FATURA_INV-2024-000406.pdf",
+  "date": "2024-01-08",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 127.8,
+      "vat_rate": 0.01,
+      "net_total": 1533.6
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 66.26,
+      "vat_rate": 0.01,
+      "net_total": 132.52
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 19.3,
+      "vat_rate": 0.1,
+      "net_total": 115.8
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 12,
+      "unit_price": 51.09,
+      "vat_rate": 0.2,
+      "net_total": 613.08
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 49.53,
+      "vat_rate": 0.1,
+      "net_total": 247.65
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 508.84,
+      "vat_rate": 0.1,
+      "net_total": 1526.52
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 29.62,
+      "vat_rate": 0.01,
+      "net_total": 118.48
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 111.57,
+      "vat_rate": 0.01,
+      "net_total": 1673.55
+    }
+  ],
+  "subtotal": 5961.2,
+  "vat_total": 346.21,
+  "grand_total": 6307.41,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000406 | Tarih: 08.01.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/Konya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 12 127,80 %1 1.533,60\nYoğurt (1 kg) 2 66,26 %1 132,52\nMakarna (500 g) 6 19,30 %10 115,80\nÇikolata (80 g) 12 51,09 %20 613,08\nŞeker (1 kg) 5 49,53 %10 247,65\nDana Kıyma (kg) 3 508,84 %10 1.526,52\nSalatalık (kg) 4 29,62 %1 118,48\nYoğurt (1 kg) 15 111,57 %1 1.673,55\nAra Toplam: 5.961,20\nKDV Toplam: 346,21\nGenel Toplam: 6.307,41\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

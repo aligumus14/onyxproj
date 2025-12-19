@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000098",
+  "source_pdf": "0698_SERVIS_SRV-2025-000098.pdf",
+  "date": "2025-08-04",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Kritik (4 saat)",
+  "location": "Çankaya/Ankara",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-1",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-11833",
+  "technician": "Deniz Arı",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 1113.6,
+      "unit_price": 0.0,
+      "total": 3340.8
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 2.0,
+      "unit_price": 4043.76,
+      "total": 8087.52
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 255.24,
+      "total": 510.48
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 1085.98,
+      "total": 1085.98
+    }
+  ],
+  "subtotal": 13024.78,
+  "vat_rate": 0.2,
+  "vat_amount": 2604.96,
+  "grand_total": 15629.74,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000098 | Tarih: 04.08.2025 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Kritik (4 saat)\nLokasyon: Çankaya/Ankara | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-1\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-11833\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 1.113,60 3.340,80\nHidrolik Hortum 2 4.043,76 8.087,52\nFiltre 2 255,24 510,48\nHidrolik Hortum 1 1.085,98 1.085,98\nAra Toplam: 13.024,78\nKDV (%20): 2.604,96\nGenel Toplam: 15.629,74\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

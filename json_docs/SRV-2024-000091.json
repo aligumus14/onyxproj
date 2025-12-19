@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000091",
+  "source_pdf": "0691_SERVIS_SRV-2024-000091.pdf",
+  "date": "2024-09-18",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Seyhan/Konya",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-2",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-10143",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 708.1,
+      "unit_price": 9.0,
+      "total": 4249.14
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 499.03,
+      "total": 499.03
+    }
+  ],
+  "subtotal": 4748.17,
+  "vat_rate": 0.2,
+  "vat_amount": 949.63,
+  "grand_total": 5697.8,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000091 | Tarih: 18.09.2024 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Seyhan/Konya | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-2\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-10143\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 708,19 4.249,14\nKayış 1 499,03 499,03\nAra Toplam: 4.748,17\nKDV (%20): 949,63\nGenel Toplam: 5.697,80\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

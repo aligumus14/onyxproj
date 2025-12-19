@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000129",
+  "source_pdf": "0129_FATURA_INV-2024-000129.pdf",
+  "date": "2024-10-10",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 53.19,
+      "vat_rate": 0.01,
+      "net_total": 53.19
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 174.33,
+      "vat_rate": 0.2,
+      "net_total": 3486.6
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 87.6,
+      "vat_rate": 0.01,
+      "net_total": 87.6
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 209.76,
+      "vat_rate": 0.1,
+      "net_total": 1048.8
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 245.24,
+      "vat_rate": 0.2,
+      "net_total": 1961.92
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 22.24,
+      "vat_rate": 0.2,
+      "net_total": 333.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 444.72,
+      "vat_rate": 0.1,
+      "net_total": 1778.88
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 27.68,
+      "vat_rate": 0.1,
+      "net_total": 553.6
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 202.47,
+      "vat_rate": 0.1,
+      "net_total": 607.41
+    }
+  ],
+  "subtotal": 9911.6,
+  "vat_total": 1556.7,
+  "grand_total": 11468.3,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000129 | Tarih: 10.10.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Çankaya/Antalya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 1 53,19 %1 53,19\nKahve Çekirdeği (250 g) 20 174,33 %20 3.486,60\nPirinç (1 kg) 1 87,60 %1 87,60\nTavuk Göğüs (kg) 5 209,76 %10 1.048,80\nKahve Çekirdeği (250 g) 8 245,24 %20 1.961,92\nMaden Suyu (200 ml) 15 22,24 %20 333,60\nDana Kıyma (kg) 4 444,72 %10 1.778,88\nMakarna (500 g) 20 27,68 %10 553,60\nTavuk Göğüs (kg) 3 202,47 %10 607,41\nAra Toplam: 9.911,60\nKDV Toplam: 1.556,70\nGenel Toplam: 11.468,30\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

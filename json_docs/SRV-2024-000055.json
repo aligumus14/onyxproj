@@ -1,0 +1,52 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000055",
+  "source_pdf": "0655_SERVIS_SRV-2024-000055.pdf",
+  "date": "2024-06-17",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Yüksek (8 saat)",
+  "location": "Beşiktaş/Kocaeli",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-A",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-17008",
+  "technician": "Deniz Arı",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 1019.7,
+      "unit_price": 9.0,
+      "total": 4079.16
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1360.17,
+      "total": 1360.17
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 2.0,
+      "unit_price": 1433.0,
+      "total": 2866.0
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1045.69,
+      "total": 1045.69
+    }
+  ],
+  "subtotal": 9351.02,
+  "vat_rate": 0.2,
+  "vat_amount": 1870.2,
+  "grand_total": 11221.22,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000055 | Tarih: 17.06.2024 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Yüksek (8 saat)\nLokasyon: Beşiktaş/Kocaeli | Şube/DM: TR-ANK-DC02 | Depo: Depo-A\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-17008\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 1.019,79 4.079,16\nSensör 1 1.360,17 1.360,17\nRulman Seti 2 1.433,00 2.866,00\nTermostat 1 1.045,69 1.045,69\nAra Toplam: 9.351,02\nKDV (%20): 1.870,20\nGenel Toplam: 11.221,22\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

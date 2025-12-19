@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000589",
+  "source_pdf": "0589_FATURA_INV-2024-000589.pdf",
+  "date": "2024-12-18",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 54.07,
+      "vat_rate": 0.01,
+      "net_total": 1081.4
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 97.47,
+      "vat_rate": 0.01,
+      "net_total": 389.88
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 360.84,
+      "vat_rate": 0.1,
+      "net_total": 5412.6
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 54.52,
+      "vat_rate": 0.01,
+      "net_total": 272.6
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 87.9,
+      "vat_rate": 0.01,
+      "net_total": 703.2
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 52.87,
+      "vat_rate": 0.01,
+      "net_total": 793.05
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 139.91,
+      "vat_rate": 0.1,
+      "net_total": 1678.92
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 40.48,
+      "vat_rate": 0.01,
+      "net_total": 40.48
+    }
+  ],
+  "subtotal": 10372.13,
+  "vat_total": 741.95,
+  "grand_total": 11114.08,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000589 | Tarih: 18.12.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Selçuklu/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 20 54,07 %1 1.081,40\nPirinç (1 kg) 4 97,47 %1 389,88\nDana Kıyma (kg) 15 360,84 %10 5.412,60\nElma (kg) 5 54,52 %1 272,60\nYoğurt (1 kg) 8 87,90 %1 703,20\nSüt (1 L) 15 52,87 %1 793,05\nTavuk Göğüs (kg) 12 139,91 %10 1.678,92\nSalatalık (kg) 1 40,48 %1 40,48\nAra Toplam: 10.372,13\nKDV Toplam: 741,95\nGenel Toplam: 11.114,08\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

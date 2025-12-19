@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000481",
+  "source_pdf": "0481_FATURA_INV-2025-000481.pdf",
+  "date": "2025-02-02",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 31.59,
+      "vat_rate": 0.01,
+      "net_total": 315.9
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 180.91,
+      "vat_rate": 0.2,
+      "net_total": 180.91
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 37.11,
+      "vat_rate": 0.1,
+      "net_total": 742.2
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 22.72,
+      "vat_rate": 0.2,
+      "net_total": 45.44
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 76.01,
+      "vat_rate": 0.01,
+      "net_total": 1520.2
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 15,
+      "unit_price": 50.88,
+      "vat_rate": 0.2,
+      "net_total": 763.2
+    }
+  ],
+  "subtotal": 3567.85,
+  "vat_total": 290.49,
+  "grand_total": 3858.34,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000481 | Tarih: 02.02.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Çankaya/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 10 31,59 %1 315,90\nKahve Çekirdeği (250 g) 1 180,91 %20 180,91\nMakarna (500 g) 20 37,11 %10 742,20\nMaden Suyu (200 ml) 2 22,72 %20 45,44\nMuz (kg) 20 76,01 %1 1.520,20\nÇikolata (80 g) 15 50,88 %20 763,20\nAra Toplam: 3.567,85\nKDV Toplam: 290,49\nGenel Toplam: 3.858,34\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000177",
+  "source_pdf": "0777_SERVIS_SRV-2024-000177.pdf",
+  "date": "2024-10-28",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Düşük (72 saat)",
+  "location": "Karşıyaka/Kocaeli",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-91166",
+  "technician": "Deniz Arı",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 870.7,
+      "unit_price": 8.0,
+      "total": 1306.17
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 2959.37,
+      "total": 2959.37
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1455.93,
+      "total": 1455.93
+    }
+  ],
+  "subtotal": 5721.47,
+  "vat_rate": 0.2,
+  "vat_amount": 1144.29,
+  "grand_total": 6865.76,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000177 | Tarih: 28.10.2024 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Düşük (72 saat)\nLokasyon: Karşıyaka/Kocaeli | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-91166\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 870,78 1.306,17\nHidrolik Hortum 1 2.959,37 2.959,37\nTermostat 1 1.455,93 1.455,93\nAra Toplam: 5.721,47\nKDV (%20): 1.144,29\nGenel Toplam: 6.865,76\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

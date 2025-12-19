@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000202",
+  "source_pdf": "0802_SERVIS_SRV-2024-000202.pdf",
+  "date": "2024-01-10",
+  "status": "Açık",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Selçuklu/Gaziantep",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-C",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-43923",
+  "technician": "Emre Taş",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 943.0,
+      "unit_price": 1.0,
+      "total": 5658.06
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 5658.06,
+  "vat_rate": 0.2,
+  "vat_amount": 1131.61,
+  "grand_total": 6789.67,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000202 | Tarih: 10.01.2024 | Durum: Açık\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Selçuklu/Gaziantep | Şube/DM: TR-IZM-DC03 | Depo: Depo-C\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-43923\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 943,01 5.658,06\nParça Değişimi - - 0,00\nAra Toplam: 5.658,06\nKDV (%20): 1.131,61\nGenel Toplam: 6.789,67\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

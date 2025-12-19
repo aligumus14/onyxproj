@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000260",
+  "source_pdf": "0260_FATURA_INV-2025-000260.pdf",
+  "date": "2025-05-18",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 26.26,
+      "vat_rate": 0.01,
+      "net_total": 78.78
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 99.42,
+      "vat_rate": 0.01,
+      "net_total": 298.26
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 79.78,
+      "vat_rate": 0.1,
+      "net_total": 159.56
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 29.92,
+      "vat_rate": 0.1,
+      "net_total": 29.92
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 43.31,
+      "vat_rate": 0.2,
+      "net_total": 433.1
+    }
+  ],
+  "subtotal": 999.62,
+  "vat_total": 109.34,
+  "grand_total": 1108.96,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000260 | Tarih: 18.05.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Çankaya/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 3 26,26 %1 78,78\nYoğurt (1 kg) 3 99,42 %1 298,26\nŞeker (1 kg) 2 79,78 %10 159,56\nMakarna (500 g) 1 29,92 %10 29,92\nGazlı İçecek (1 L) 10 43,31 %20 433,10\nAra Toplam: 999,62\nKDV Toplam: 109,34\nGenel Toplam: 1.108,96\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

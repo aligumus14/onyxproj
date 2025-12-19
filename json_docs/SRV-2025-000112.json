@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000112",
+  "source_pdf": "0712_SERVIS_SRV-2025-000112.pdf",
+  "date": "2025-03-09",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Düşük (72 saat)",
+  "location": "Beşiktaş/Kocaeli",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-71543",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 1182.0,
+      "unit_price": 9.0,
+      "total": 3546.27
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 3546.27,
+  "vat_rate": 0.2,
+  "vat_amount": 709.25,
+  "grand_total": 4255.52,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000112 | Tarih: 09.03.2025 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Düşük (72 saat)\nLokasyon: Beşiktaş/Kocaeli | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-71543\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 1.182,09 3.546,27\nParça Değişimi - - 0,00\nAra Toplam: 3.546,27\nKDV (%20): 709,25\nGenel Toplam: 4.255,52\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

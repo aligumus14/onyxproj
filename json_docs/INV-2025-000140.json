@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000140",
+  "source_pdf": "0140_FATURA_INV-2025-000140.pdf",
+  "date": "2025-07-16",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 137.23,
+      "vat_rate": 0.1,
+      "net_total": 823.38
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 40.8,
+      "vat_rate": 0.01,
+      "net_total": 163.2
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 464.18,
+      "vat_rate": 0.1,
+      "net_total": 5570.16
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 27.81,
+      "vat_rate": 0.1,
+      "net_total": 556.2
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 2,
+      "unit_price": 102.67,
+      "vat_rate": 0.1,
+      "net_total": 205.34
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 36.95,
+      "vat_rate": 0.01,
+      "net_total": 36.95
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 167.42,
+      "vat_rate": 0.1,
+      "net_total": 2009.04
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 56.39,
+      "vat_rate": 0.01,
+      "net_total": 56.39
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 40.19,
+      "vat_rate": 0.1,
+      "net_total": 120.57
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 46.44,
+      "vat_rate": 0.1,
+      "net_total": 92.88
+    }
+  ],
+  "subtotal": 9634.11,
+  "vat_total": 940.32,
+  "grand_total": 10574.43,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000140 | Tarih: 16.07.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Selçuklu/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 6 137,23 %10 823,38\nSalatalık (kg) 4 40,80 %1 163,20\nDana Kıyma (kg) 12 464,18 %10 5.570,16\nMakarna (500 g) 20 27,81 %10 556,20\nUn (5 kg) 2 102,67 %10 205,34\nSüt (1 L) 1 36,95 %1 36,95\nTavuk Göğüs (kg) 12 167,42 %10 2.009,04\nElma (kg) 1 56,39 %1 56,39\nMakarna (500 g) 3 40,19 %10 120,57\nŞeker (1 kg) 2 46,44 %10 92,88\nAra Toplam: 9.634,11\nKDV Toplam: 940,32\nGenel Toplam: 10.574,43\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

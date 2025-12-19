@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000398",
+  "source_pdf": "0398_FATURA_INV-2025-000398.pdf",
+  "date": "2025-03-13",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 21.54,
+      "vat_rate": 0.2,
+      "net_total": 323.1
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 117.22,
+      "vat_rate": 0.01,
+      "net_total": 351.66
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 107.14,
+      "vat_rate": 0.1,
+      "net_total": 428.56
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 47.99,
+      "vat_rate": 0.01,
+      "net_total": 239.95
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 119.92,
+      "vat_rate": 0.01,
+      "net_total": 239.84
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 38.5,
+      "vat_rate": 0.2,
+      "net_total": 192.5
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 224.64,
+      "vat_rate": 0.2,
+      "net_total": 224.64
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 713.69,
+      "vat_rate": 0.1,
+      "net_total": 3568.45
+    }
+  ],
+  "subtotal": 5568.7,
+  "vat_total": 556.08,
+  "grand_total": 6124.78,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000398 | Tarih: 13.03.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Selçuklu/Antalya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 15 21,54 %20 323,10\nYoğurt (1 kg) 3 117,22 %1 351,66\nUn (5 kg) 4 107,14 %10 428,56\nDomates (kg) 5 47,99 %1 239,95\nYoğurt (1 kg) 2 119,92 %1 239,84\nGazlı İçecek (1 L) 5 38,50 %20 192,50\nKahve Çekirdeği (250 g) 1 224,64 %20 224,64\nSomon Fileto (kg) 5 713,69 %10 3.568,45\nAra Toplam: 5.568,70\nKDV Toplam: 556,08\nGenel Toplam: 6.124,78\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

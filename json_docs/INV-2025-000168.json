@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000168",
+  "source_pdf": "0168_FATURA_INV-2025-000168.pdf",
+  "date": "2025-12-03",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 150.0,
+      "vat_rate": 0.1,
+      "net_total": 450.0
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 97.37,
+      "vat_rate": 0.01,
+      "net_total": 973.7
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 109.97,
+      "vat_rate": 0.01,
+      "net_total": 879.76
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 12,
+      "unit_price": 57.43,
+      "vat_rate": 0.2,
+      "net_total": 689.16
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 24.78,
+      "vat_rate": 0.1,
+      "net_total": 123.9
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 15.98,
+      "vat_rate": 0.2,
+      "net_total": 15.98
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 87.24,
+      "vat_rate": 0.01,
+      "net_total": 87.24
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 108.73,
+      "vat_rate": 0.01,
+      "net_total": 1087.3
+    }
+  ],
+  "subtotal": 4307.04,
+  "vat_total": 228.7,
+  "grand_total": 4535.74,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000168 | Tarih: 03.12.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Selçuklu/Bursa\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 3 150,00 %10 450,00\nPirinç (1 kg) 10 97,37 %1 973,70\nKuru Fasulye (1 kg) 8 109,97 %1 879,76\nÇikolata (80 g) 12 57,43 %20 689,16\nMakarna (500 g) 5 24,78 %10 123,90\nMaden Suyu (200 ml) 1 15,98 %20 15,98\nKuru Fasulye (1 kg) 1 87,24 %1 87,24\nYoğurt (1 kg) 10 108,73 %1 1.087,30\nAra Toplam: 4.307,04\nKDV Toplam: 228,70\nGenel Toplam: 4.535,74\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

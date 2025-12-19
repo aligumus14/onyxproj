@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000012",
+  "source_pdf": "0012_FATURA_INV-2025-000012.pdf",
+  "date": "2025-07-21",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 35.89,
+      "vat_rate": 0.2,
+      "net_total": 107.67
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 90.36,
+      "vat_rate": 0.1,
+      "net_total": 542.16
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 84.2,
+      "vat_rate": 0.01,
+      "net_total": 1010.4
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 35.13,
+      "vat_rate": 0.01,
+      "net_total": 70.26
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 50.25,
+      "vat_rate": 0.01,
+      "net_total": 50.25
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 108.69,
+      "vat_rate": 0.01,
+      "net_total": 2173.8
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 114.13,
+      "vat_rate": 0.01,
+      "net_total": 1141.3
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 35.44,
+      "vat_rate": 0.1,
+      "net_total": 425.28
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 70.01,
+      "vat_rate": 0.01,
+      "net_total": 210.03
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 671.01,
+      "vat_rate": 0.1,
+      "net_total": 10065.15
+    }
+  ],
+  "subtotal": 15796.3,
+  "vat_total": 1171.34,
+  "grand_total": 16967.64,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000012 | Tarih: 21.07.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Beşiktaş/Antalya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 3 35,89 %20 107,67\nAyçiçek Yağı (1 L) 6 90,36 %10 542,16\nYoğurt (1 kg) 12 84,20 %1 1.010,40\nSalatalık (kg) 2 35,13 %1 70,26\nYoğurt (1 kg) 1 50,25 %1 50,25\nPirinç (1 kg) 20 108,69 %1 2.173,80\nKuru Fasulye (1 kg) 10 114,13 %1 1.141,30\nŞeker (1 kg) 12 35,44 %10 425,28\nMuz (kg) 3 70,01 %1 210,03\nSomon Fileto (kg) 15 671,01 %10 10.065,15\nAra Toplam: 15.796,30\nKDV Toplam: 1.171,34\nGenel Toplam: 16.967,64\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

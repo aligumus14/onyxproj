@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000243",
+  "source_pdf": "0243_FATURA_INV-2024-000243.pdf",
+  "date": "2024-04-28",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 36.62,
+      "vat_rate": 0.2,
+      "net_total": 292.96
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 73.55,
+      "vat_rate": 0.1,
+      "net_total": 294.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 27.92,
+      "vat_rate": 0.1,
+      "net_total": 558.4
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 37.21,
+      "vat_rate": 0.01,
+      "net_total": 744.2
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 40.33,
+      "vat_rate": 0.01,
+      "net_total": 322.64
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 47.89,
+      "vat_rate": 0.01,
+      "net_total": 95.78
+    }
+  ],
+  "subtotal": 2308.18,
+  "vat_total": 155.48,
+  "grand_total": 2463.66,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000243 | Tarih: 28.04.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Karşıyaka/Samsun\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 8 36,62 %20 292,96\nŞeker (1 kg) 4 73,55 %10 294,20\nMakarna (500 g) 20 27,92 %10 558,40\nDomates (kg) 20 37,21 %1 744,20\nElma (kg) 8 40,33 %1 322,64\nMuz (kg) 2 47,89 %1 95,78\nAra Toplam: 2.308,18\nKDV Toplam: 155,48\nGenel Toplam: 2.463,66\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

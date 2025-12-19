@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000228",
+  "source_pdf": "0228_FATURA_INV-2024-000228.pdf",
+  "date": "2024-11-08",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 254.28,
+      "vat_rate": 0.2,
+      "net_total": 762.84
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 635.72,
+      "vat_rate": 0.1,
+      "net_total": 12714.4
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 22.47,
+      "vat_rate": 0.01,
+      "net_total": 449.4
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 287.85,
+      "vat_rate": 0.1,
+      "net_total": 3454.2
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 66.41,
+      "vat_rate": 0.1,
+      "net_total": 332.05
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 56.78,
+      "vat_rate": 0.2,
+      "net_total": 851.7
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 88.45,
+      "vat_rate": 0.01,
+      "net_total": 1326.75
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 43.52,
+      "vat_rate": 0.01,
+      "net_total": 522.24
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 494.39,
+      "vat_rate": 0.1,
+      "net_total": 494.39
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 697.65,
+      "vat_rate": 0.1,
+      "net_total": 6976.5
+    }
+  ],
+  "subtotal": 27884.47,
+  "vat_total": 2743.05,
+  "grand_total": 30627.52,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000228 | Tarih: 08.11.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Seyhan/Konya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 3 254,28 %20 762,84\nSomon Fileto (kg) 20 635,72 %10 12.714,40\nDomates (kg) 20 22,47 %1 449,40\nDana Kıyma (kg) 12 287,85 %10 3.454,20\nŞeker (1 kg) 5 66,41 %10 332,05\nGazlı İçecek (1 L) 15 56,78 %20 851,70\nMuz (kg) 15 88,45 %1 1.326,75\nSalatalık (kg) 12 43,52 %1 522,24\nSomon Fileto (kg) 1 494,39 %10 494,39\nSomon Fileto (kg) 10 697,65 %10 6.976,50\nAra Toplam: 27.884,47\nKDV Toplam: 2.743,05\nGenel Toplam: 30.627,52\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

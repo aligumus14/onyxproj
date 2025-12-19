@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000244",
+  "source_pdf": "0244_FATURA_INV-2025-000244.pdf",
+  "date": "2025-02-14",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 154.4,
+      "vat_rate": 0.1,
+      "net_total": 2316.0
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 159.59,
+      "vat_rate": 0.2,
+      "net_total": 319.18
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 47.53,
+      "vat_rate": 0.1,
+      "net_total": 475.3
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 14.09,
+      "vat_rate": 0.2,
+      "net_total": 211.35
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 200.89,
+      "vat_rate": 0.2,
+      "net_total": 1205.34
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 206.94,
+      "vat_rate": 0.2,
+      "net_total": 2069.4
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 52.02,
+      "vat_rate": 0.01,
+      "net_total": 520.2
+    }
+  ],
+  "subtotal": 7116.77,
+  "vat_total": 1045.39,
+  "grand_total": 8162.16,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000244 | Tarih: 14.02.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Nilüfer/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 15 154,40 %10 2.316,00\nKahve Çekirdeği (250 g) 2 159,59 %20 319,18\nŞeker (1 kg) 10 47,53 %10 475,30\nMaden Suyu (200 ml) 15 14,09 %20 211,35\nKahve Çekirdeği (250 g) 6 200,89 %20 1.205,34\nKahve Çekirdeği (250 g) 10 206,94 %20 2.069,40\nPirinç (1 kg) 10 52,02 %1 520,20\nAra Toplam: 7.116,77\nKDV Toplam: 1.045,39\nGenel Toplam: 8.162,16\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000412",
+  "source_pdf": "0412_FATURA_INV-2024-000412.pdf",
+  "date": "2024-11-26",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 68.78,
+      "vat_rate": 0.01,
+      "net_total": 68.78
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 47.27,
+      "vat_rate": 0.01,
+      "net_total": 283.62
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 30.09,
+      "vat_rate": 0.01,
+      "net_total": 150.45
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 55.65,
+      "vat_rate": 0.01,
+      "net_total": 834.75
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 56.18,
+      "vat_rate": 0.2,
+      "net_total": 224.72
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 46.38,
+      "vat_rate": 0.01,
+      "net_total": 695.7
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 80.08,
+      "vat_rate": 0.01,
+      "net_total": 1201.2
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 23.16,
+      "vat_rate": 0.01,
+      "net_total": 185.28
+    }
+  ],
+  "subtotal": 3644.5,
+  "vat_total": 79.14,
+  "grand_total": 3723.64,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000412 | Tarih: 26.11.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Seyhan/Kocaeli\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 1 68,78 %1 68,78\nSüt (1 L) 6 47,27 %1 283,62\nSalatalık (kg) 5 30,09 %1 150,45\nSüt (1 L) 15 55,65 %1 834,75\nGazlı İçecek (1 L) 4 56,18 %20 224,72\nElma (kg) 15 46,38 %1 695,70\nPirinç (1 kg) 15 80,08 %1 1.201,20\nDomates (kg) 8 23,16 %1 185,28\nAra Toplam: 3.644,50\nKDV Toplam: 79,14\nGenel Toplam: 3.723,64\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

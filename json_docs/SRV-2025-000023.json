@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000023",
+  "source_pdf": "0623_SERVIS_SRV-2025-000023.pdf",
+  "date": "2025-11-01",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Düşük (72 saat)",
+  "location": "Çankaya/İstanbul",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-26803",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 1176.6,
+      "unit_price": 6.0,
+      "total": 1764.99
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1764.99,
+  "vat_rate": 0.2,
+  "vat_amount": 353.0,
+  "grand_total": 2117.99,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000023 | Tarih: 01.11.2025 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Düşük (72 saat)\nLokasyon: Çankaya/İstanbul | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-26803\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 1.176,66 1.764,99\nParça Değişimi - - 0,00\nAra Toplam: 1.764,99\nKDV (%20): 353,00\nGenel Toplam: 2.117,99\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000043",
+  "source_pdf": "0643_SERVIS_SRV-2025-000043.pdf",
+  "date": "2025-03-31",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Kritik (4 saat)",
+  "location": "Şehitkamil/Samsun",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-1",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-91689",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 610.8,
+      "unit_price": 4.0,
+      "total": 610.84
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 610.84,
+  "vat_rate": 0.2,
+  "vat_amount": 122.17,
+  "grand_total": 733.01,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000043 | Tarih: 31.03.2025 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Kritik (4 saat)\nLokasyon: Şehitkamil/Samsun | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-1\nMakine: Forklift - Linde H35D | Seri No: FLT-91689\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 610,84 610,84\nParça Değişimi - - 0,00\nAra Toplam: 610,84\nKDV (%20): 122,17\nGenel Toplam: 733,01\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

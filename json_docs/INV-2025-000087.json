@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000087",
+  "source_pdf": "0087_FATURA_INV-2025-000087.pdf",
+  "date": "2025-12-30",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 272.41,
+      "vat_rate": 0.2,
+      "net_total": 5448.2
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 461.35,
+      "vat_rate": 0.1,
+      "net_total": 3690.8
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 77.55,
+      "vat_rate": 0.01,
+      "net_total": 155.1
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 489.07,
+      "vat_rate": 0.1,
+      "net_total": 489.07
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 36.92,
+      "vat_rate": 0.01,
+      "net_total": 73.84
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 125.04,
+      "vat_rate": 0.2,
+      "net_total": 750.24
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 84.34,
+      "vat_rate": 0.01,
+      "net_total": 843.4
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 826.46,
+      "vat_rate": 0.1,
+      "net_total": 9917.52
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 65.59,
+      "vat_rate": 0.1,
+      "net_total": 196.77
+    }
+  ],
+  "subtotal": 21564.94,
+  "vat_total": 2679.83,
+  "grand_total": 24244.77,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000087 | Tarih: 30.12.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Şehitkamil/İzmir\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 20 272,41 %20 5.448,20\nDana Kıyma (kg) 8 461,35 %10 3.690,80\nPirinç (1 kg) 2 77,55 %1 155,10\nSomon Fileto (kg) 1 489,07 %10 489,07\nSüt (1 L) 2 36,92 %1 73,84\nKahve Çekirdeği (250 g) 6 125,04 %20 750,24\nYoğurt (1 kg) 10 84,34 %1 843,40\nSomon Fileto (kg) 12 826,46 %10 9.917,52\nŞeker (1 kg) 3 65,59 %10 196,77\nAra Toplam: 21.564,94\nKDV Toplam: 2.679,83\nGenel Toplam: 24.244,77\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

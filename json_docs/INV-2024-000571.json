@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000571",
+  "source_pdf": "0571_FATURA_INV-2024-000571.pdf",
+  "date": "2024-02-15",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 73.75,
+      "vat_rate": 0.01,
+      "net_total": 1106.25
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 59.6,
+      "vat_rate": 0.1,
+      "net_total": 1192.0
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 319.51,
+      "vat_rate": 0.1,
+      "net_total": 3195.1
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 52.1,
+      "vat_rate": 0.01,
+      "net_total": 312.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 47.14,
+      "vat_rate": 0.01,
+      "net_total": 47.14
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 22.93,
+      "vat_rate": 0.01,
+      "net_total": 22.93
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 116.87,
+      "vat_rate": 0.01,
+      "net_total": 2337.4
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 66.44,
+      "vat_rate": 0.01,
+      "net_total": 265.76
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 52.43,
+      "vat_rate": 0.01,
+      "net_total": 524.3
+    }
+  ],
+  "subtotal": 9003.48,
+  "vat_total": 484.87,
+  "grand_total": 9488.35,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000571 | Tarih: 15.02.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/İzmir\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 15 73,75 %1 1.106,25\nŞeker (1 kg) 20 59,60 %10 1.192,00\nDana Kıyma (kg) 10 319,51 %10 3.195,10\nYoğurt (1 kg) 6 52,10 %1 312,60\nDomates (kg) 1 47,14 %1 47,14\nDomates (kg) 1 22,93 %1 22,93\nKuru Fasulye (1 kg) 20 116,87 %1 2.337,40\nMuz (kg) 4 66,44 %1 265,76\nElma (kg) 10 52,43 %1 524,30\nAra Toplam: 9.003,48\nKDV Toplam: 484,87\nGenel Toplam: 9.488,35\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

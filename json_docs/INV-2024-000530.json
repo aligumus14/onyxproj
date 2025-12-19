@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000530",
+  "source_pdf": "0530_FATURA_INV-2024-000530.pdf",
+  "date": "2024-08-13",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 40.44,
+      "vat_rate": 0.01,
+      "net_total": 485.28
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 53.2,
+      "vat_rate": 0.01,
+      "net_total": 159.6
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 212.09,
+      "vat_rate": 0.2,
+      "net_total": 848.36
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 23.19,
+      "vat_rate": 0.01,
+      "net_total": 69.57
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 58.72,
+      "vat_rate": 0.01,
+      "net_total": 587.2
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 32.73,
+      "vat_rate": 0.01,
+      "net_total": 261.84
+    }
+  ],
+  "subtotal": 2411.85,
+  "vat_total": 185.31,
+  "grand_total": 2597.16,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000530 | Tarih: 13.08.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Nilüfer/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 12 40,44 %1 485,28\nSüt (1 L) 3 53,20 %1 159,60\nKahve Çekirdeği (250 g) 4 212,09 %20 848,36\nDomates (kg) 3 23,19 %1 69,57\nYoğurt (1 kg) 10 58,72 %1 587,20\nSüt (1 L) 8 32,73 %1 261,84\nAra Toplam: 2.411,85\nKDV Toplam: 185,31\nGenel Toplam: 2.597,16\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

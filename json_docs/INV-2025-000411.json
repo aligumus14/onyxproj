@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000411",
+  "source_pdf": "0411_FATURA_INV-2025-000411.pdf",
+  "date": "2025-05-07",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 438.98,
+      "vat_rate": 0.1,
+      "net_total": 1755.92
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 41.27,
+      "vat_rate": 0.01,
+      "net_total": 123.81
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 307.25,
+      "vat_rate": 0.1,
+      "net_total": 6145.0
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 251.53,
+      "vat_rate": 0.2,
+      "net_total": 754.59
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 34.23,
+      "vat_rate": 0.1,
+      "net_total": 342.3
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 35.18,
+      "vat_rate": 0.01,
+      "net_total": 35.18
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 65.04,
+      "vat_rate": 0.2,
+      "net_total": 260.16
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 60.3,
+      "vat_rate": 0.1,
+      "net_total": 60.3
+    }
+  ],
+  "subtotal": 9477.26,
+  "vat_total": 1034.89,
+  "grand_total": 10512.15,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000411 | Tarih: 07.05.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Karşıyaka/Ankara\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 4 438,98 %10 1.755,92\nElma (kg) 3 41,27 %1 123,81\nDana Kıyma (kg) 20 307,25 %10 6.145,00\nKahve Çekirdeği (250 g) 3 251,53 %20 754,59\nMakarna (500 g) 10 34,23 %10 342,30\nSüt (1 L) 1 35,18 %1 35,18\nÇikolata (80 g) 4 65,04 %20 260,16\nŞeker (1 kg) 1 60,30 %10 60,30\nAra Toplam: 9.477,26\nKDV Toplam: 1.034,89\nGenel Toplam: 10.512,15\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

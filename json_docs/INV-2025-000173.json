@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000173",
+  "source_pdf": "0173_FATURA_INV-2025-000173.pdf",
+  "date": "2025-02-26",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 637.68,
+      "vat_rate": 0.1,
+      "net_total": 3188.4
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 53.14,
+      "vat_rate": 0.01,
+      "net_total": 531.4
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 18.25,
+      "vat_rate": 0.1,
+      "net_total": 91.25
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 61.87,
+      "vat_rate": 0.1,
+      "net_total": 309.35
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 33.08,
+      "vat_rate": 0.01,
+      "net_total": 396.96
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 54.67,
+      "vat_rate": 0.1,
+      "net_total": 656.04
+    }
+  ],
+  "subtotal": 5173.4,
+  "vat_total": 433.78,
+  "grand_total": 5607.18,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000173 | Tarih: 26.02.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Kadıköy/İstanbul\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 5 637,68 %10 3.188,40\nDomates (kg) 10 53,14 %1 531,40\nMakarna (500 g) 5 18,25 %10 91,25\nŞeker (1 kg) 5 61,87 %10 309,35\nDomates (kg) 12 33,08 %1 396,96\nŞeker (1 kg) 12 54,67 %10 656,04\nAra Toplam: 5.173,40\nKDV Toplam: 433,78\nGenel Toplam: 5.607,18\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

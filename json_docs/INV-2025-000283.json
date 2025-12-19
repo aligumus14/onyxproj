@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000283",
+  "source_pdf": "0283_FATURA_INV-2025-000283.pdf",
+  "date": "2025-09-03",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 72.28,
+      "vat_rate": 0.01,
+      "net_total": 72.28
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 27.62,
+      "vat_rate": 0.2,
+      "net_total": 220.96
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 42.17,
+      "vat_rate": 0.01,
+      "net_total": 337.36
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 39.39,
+      "vat_rate": 0.01,
+      "net_total": 196.95
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 11.52,
+      "vat_rate": 0.2,
+      "net_total": 230.4
+    }
+  ],
+  "subtotal": 1057.95,
+  "vat_total": 96.33,
+  "grand_total": 1154.28,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000283 | Tarih: 03.09.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Selçuklu/Gaziantep\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 1 72,28 %1 72,28\nGazlı İçecek (1 L) 8 27,62 %20 220,96\nDomates (kg) 8 42,17 %1 337,36\nDomates (kg) 5 39,39 %1 196,95\nMaden Suyu (200 ml) 20 11,52 %20 230,40\nAra Toplam: 1.057,95\nKDV Toplam: 96,33\nGenel Toplam: 1.154,28\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

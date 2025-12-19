@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000580",
+  "source_pdf": "0580_FATURA_INV-2025-000580.pdf",
+  "date": "2025-05-27",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 23.74,
+      "vat_rate": 0.01,
+      "net_total": 356.1
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 59.74,
+      "vat_rate": 0.1,
+      "net_total": 119.48
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 36.0,
+      "vat_rate": 0.2,
+      "net_total": 36.0
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 200.29,
+      "vat_rate": 0.2,
+      "net_total": 1201.74
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 37.69,
+      "vat_rate": 0.1,
+      "net_total": 188.45
+    }
+  ],
+  "subtotal": 1901.77,
+  "vat_total": 281.9,
+  "grand_total": 2183.67,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000580 | Tarih: 27.05.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 15 23,74 %1 356,10\nŞeker (1 kg) 2 59,74 %10 119,48\nÇikolata (80 g) 1 36,00 %20 36,00\nKahve Çekirdeği (250 g) 6 200,29 %20 1.201,74\nMakarna (500 g) 5 37,69 %10 188,45\nAra Toplam: 1.901,77\nKDV Toplam: 281,90\nGenel Toplam: 2.183,67\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

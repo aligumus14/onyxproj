@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000388",
+  "source_pdf": "0388_FATURA_INV-2024-000388.pdf",
+  "date": "2024-06-11",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 56.49,
+      "vat_rate": 0.01,
+      "net_total": 112.98
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 130.47,
+      "vat_rate": 0.01,
+      "net_total": 1043.76
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 37.79,
+      "vat_rate": 0.1,
+      "net_total": 75.58
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 52.62,
+      "vat_rate": 0.01,
+      "net_total": 105.24
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 81.98,
+      "vat_rate": 0.01,
+      "net_total": 819.8
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 31.24,
+      "vat_rate": 0.01,
+      "net_total": 93.72
+    }
+  ],
+  "subtotal": 2251.08,
+  "vat_total": 29.32,
+  "grand_total": 2280.4,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000388 | Tarih: 11.06.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Seyhan/Konya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 2 56,49 %1 112,98\nKuru Fasulye (1 kg) 8 130,47 %1 1.043,76\nŞeker (1 kg) 2 37,79 %10 75,58\nYoğurt (1 kg) 2 52,62 %1 105,24\nMuz (kg) 10 81,98 %1 819,80\nDomates (kg) 3 31,24 %1 93,72\nAra Toplam: 2.251,08\nKDV Toplam: 29,32\nGenel Toplam: 2.280,40\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

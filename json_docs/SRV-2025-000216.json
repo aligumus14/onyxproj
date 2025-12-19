@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000216",
+  "source_pdf": "0816_SERVIS_SRV-2025-000216.pdf",
+  "date": "2025-06-05",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Yüksek (8 saat)",
+  "location": "Muratpaşa/Kocaeli",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-30007",
+  "technician": "Deniz Arı",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 1109.4,
+      "unit_price": 9.0,
+      "total": 3328.47
+    },
+    {
+      "item": "Termostat",
+      "qty": 2.0,
+      "unit_price": 1114.89,
+      "total": 2229.78
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1446.61,
+      "total": 1446.61
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 410.18,
+      "total": 410.18
+    }
+  ],
+  "subtotal": 7415.04,
+  "vat_rate": 0.2,
+  "vat_amount": 1483.01,
+  "grand_total": 8898.05,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000216 | Tarih: 05.06.2025 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Yüksek (8 saat)\nLokasyon: Muratpaşa/Kocaeli | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-30007\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 1.109,49 3.328,47\nTermostat 2 1.114,89 2.229,78\nSensör 1 1.446,61 1.446,61\nFiltre 1 410,18 410,18\nAra Toplam: 7.415,04\nKDV (%20): 1.483,01\nGenel Toplam: 8.898,05\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

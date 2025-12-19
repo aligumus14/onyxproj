@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000126",
+  "source_pdf": "0126_FATURA_INV-2024-000126.pdf",
+  "date": "2024-06-11",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 140.01,
+      "vat_rate": 0.01,
+      "net_total": 560.04
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 94.95,
+      "vat_rate": 0.1,
+      "net_total": 94.95
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 209.34,
+      "vat_rate": 0.1,
+      "net_total": 209.34
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 106.84,
+      "vat_rate": 0.1,
+      "net_total": 534.2
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 12,
+      "unit_price": 141.6,
+      "vat_rate": 0.1,
+      "net_total": 1699.2
+    }
+  ],
+  "subtotal": 3097.73,
+  "vat_total": 259.37,
+  "grand_total": 3357.1,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000126 | Tarih: 11.06.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Selçuklu/İzmir\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 4 140,01 %1 560,04\nAyçiçek Yağı (1 L) 1 94,95 %10 94,95\nUn (5 kg) 1 209,34 %10 209,34\nAyçiçek Yağı (1 L) 5 106,84 %10 534,20\nUn (5 kg) 12 141,60 %10 1.699,20\nAra Toplam: 3.097,73\nKDV Toplam: 259,37\nGenel Toplam: 3.357,10\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

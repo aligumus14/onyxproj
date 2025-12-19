@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000505",
+  "source_pdf": "0505_FATURA_INV-2024-000505.pdf",
+  "date": "2024-07-16",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 32.47,
+      "vat_rate": 0.01,
+      "net_total": 194.82
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 21.95,
+      "vat_rate": 0.1,
+      "net_total": 263.4
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 83.93,
+      "vat_rate": 0.01,
+      "net_total": 503.58
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 491.97,
+      "vat_rate": 0.1,
+      "net_total": 7379.55
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 88.82,
+      "vat_rate": 0.1,
+      "net_total": 1776.4
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 50.67,
+      "vat_rate": 0.01,
+      "net_total": 253.35
+    }
+  ],
+  "subtotal": 10371.1,
+  "vat_total": 951.46,
+  "grand_total": 11322.56,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000505 | Tarih: 16.07.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Seyhan/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 6 32,47 %1 194,82\nMakarna (500 g) 12 21,95 %10 263,40\nYoğurt (1 kg) 6 83,93 %1 503,58\nDana Kıyma (kg) 15 491,97 %10 7.379,55\nAyçiçek Yağı (1 L) 20 88,82 %10 1.776,40\nElma (kg) 5 50,67 %1 253,35\nAra Toplam: 10.371,10\nKDV Toplam: 951,46\nGenel Toplam: 11.322,56\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

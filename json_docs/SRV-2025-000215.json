@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000215",
+  "source_pdf": "0815_SERVIS_SRV-2025-000215.pdf",
+  "date": "2025-10-02",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Karşıyaka/Bursa",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-B",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-40785",
+  "technician": "Selin Uçar",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 1199.3,
+      "unit_price": 8.0,
+      "total": 2998.45
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1132.55,
+      "total": 1132.55
+    }
+  ],
+  "subtotal": 4131.0,
+  "vat_rate": 0.2,
+  "vat_amount": 826.2,
+  "grand_total": 4957.2,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000215 | Tarih: 02.10.2025 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Karşıyaka/Bursa | Şube/DM: TR-BUR-DC04 | Depo: Depo-B\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-40785\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 1.199,38 2.998,45\nKayış 1 1.132,55 1.132,55\nAra Toplam: 4.131,00\nKDV (%20): 826,20\nGenel Toplam: 4.957,20\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

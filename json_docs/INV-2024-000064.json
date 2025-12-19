@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000064",
+  "source_pdf": "0064_FATURA_INV-2024-000064.pdf",
+  "date": "2024-11-20",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 21.52,
+      "vat_rate": 0.2,
+      "net_total": 64.56
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 77.69,
+      "vat_rate": 0.01,
+      "net_total": 621.52
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 31.99,
+      "vat_rate": 0.01,
+      "net_total": 63.98
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 127.82,
+      "vat_rate": 0.1,
+      "net_total": 383.46
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 58.16,
+      "vat_rate": 0.01,
+      "net_total": 348.96
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 63.07,
+      "vat_rate": 0.2,
+      "net_total": 315.35
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 94.45,
+      "vat_rate": 0.01,
+      "net_total": 377.8
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 30.01,
+      "vat_rate": 0.2,
+      "net_total": 150.05
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 168.68,
+      "vat_rate": 0.1,
+      "net_total": 2530.2
+    }
+  ],
+  "subtotal": 4855.88,
+  "vat_total": 411.49,
+  "grand_total": 5267.37,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000064 | Tarih: 20.11.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Nilüfer/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 3 21,52 %20 64,56\nPirinç (1 kg) 8 77,69 %1 621,52\nSalatalık (kg) 2 31,99 %1 63,98\nTavuk Göğüs (kg) 3 127,82 %10 383,46\nSüt (1 L) 6 58,16 %1 348,96\nÇikolata (80 g) 5 63,07 %20 315,35\nYoğurt (1 kg) 4 94,45 %1 377,80\nGazlı İçecek (1 L) 5 30,01 %20 150,05\nTavuk Göğüs (kg) 15 168,68 %10 2.530,20\nAra Toplam: 4.855,88\nKDV Toplam: 411,49\nGenel Toplam: 5.267,37\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

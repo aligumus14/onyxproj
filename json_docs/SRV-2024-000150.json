@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000150",
+  "source_pdf": "0750_SERVIS_SRV-2024-000150.pdf",
+  "date": "2024-11-17",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Nilüfer/Gaziantep",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-1",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-62336",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 993.1,
+      "unit_price": 7.0,
+      "total": 2482.92
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 723.59,
+      "total": 723.59
+    }
+  ],
+  "subtotal": 3206.51,
+  "vat_rate": 0.2,
+  "vat_amount": 641.3,
+  "grand_total": 3847.81,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000150 | Tarih: 17.11.2024 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Nilüfer/Gaziantep | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-1\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-62336\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 993,17 2.482,92\nSensör 1 723,59 723,59\nAra Toplam: 3.206,51\nKDV (%20): 641,30\nGenel Toplam: 3.847,81\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

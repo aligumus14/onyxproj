@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000031",
+  "source_pdf": "0031_FATURA_INV-2025-000031.pdf",
+  "date": "2025-04-18",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 116.46,
+      "vat_rate": 0.1,
+      "net_total": 116.46
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 62.11,
+      "vat_rate": 0.2,
+      "net_total": 186.33
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 105.79,
+      "vat_rate": 0.1,
+      "net_total": 1057.9
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 35.88,
+      "vat_rate": 0.01,
+      "net_total": 107.64
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 34.28,
+      "vat_rate": 0.01,
+      "net_total": 411.36
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 41.15,
+      "vat_rate": 0.01,
+      "net_total": 82.3
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 54.13,
+      "vat_rate": 0.01,
+      "net_total": 1082.6
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 31.74,
+      "vat_rate": 0.1,
+      "net_total": 158.7
+    }
+  ],
+  "subtotal": 3203.29,
+  "vat_total": 187.42,
+  "grand_total": 3390.71,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000031 | Tarih: 18.04.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Nilüfer/Gaziantep\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 1 116,46 %10 116,46\nGazlı İçecek (1 L) 3 62,11 %20 186,33\nUn (5 kg) 10 105,79 %10 1.057,90\nSüt (1 L) 3 35,88 %1 107,64\nDomates (kg) 12 34,28 %1 411,36\nSüt (1 L) 2 41,15 %1 82,30\nElma (kg) 20 54,13 %1 1.082,60\nMakarna (500 g) 5 31,74 %10 158,70\nAra Toplam: 3.203,29\nKDV Toplam: 187,42\nGenel Toplam: 3.390,71\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

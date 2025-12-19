@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000317",
+  "source_pdf": "0317_FATURA_INV-2024-000317.pdf",
+  "date": "2024-01-08",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 51.69,
+      "vat_rate": 0.1,
+      "net_total": 310.14
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 476.04,
+      "vat_rate": 0.1,
+      "net_total": 2856.24
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 609.39,
+      "vat_rate": 0.1,
+      "net_total": 12187.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 41.57,
+      "vat_rate": 0.01,
+      "net_total": 249.42
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 40.99,
+      "vat_rate": 0.01,
+      "net_total": 40.99
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 124.37,
+      "vat_rate": 0.2,
+      "net_total": 373.11
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 34.78,
+      "vat_rate": 0.01,
+      "net_total": 417.36
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 40.82,
+      "vat_rate": 0.01,
+      "net_total": 244.92
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 29.15,
+      "vat_rate": 0.1,
+      "net_total": 349.8
+    }
+  ],
+  "subtotal": 17029.78,
+  "vat_total": 1654.53,
+  "grand_total": 18684.31,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000317 | Tarih: 08.01.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Seyhan/Konya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 6 51,69 %10 310,14\nDana Kıyma (kg) 6 476,04 %10 2.856,24\nSomon Fileto (kg) 20 609,39 %10 12.187,80\nSalatalık (kg) 6 41,57 %1 249,42\nElma (kg) 1 40,99 %1 40,99\nKahve Çekirdeği (250 g) 3 124,37 %20 373,11\nElma (kg) 12 34,78 %1 417,36\nSüt (1 L) 6 40,82 %1 244,92\nMakarna (500 g) 12 29,15 %10 349,80\nAra Toplam: 17.029,78\nKDV Toplam: 1.654,53\nGenel Toplam: 18.684,31\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

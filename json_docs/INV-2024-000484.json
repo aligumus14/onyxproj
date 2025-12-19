@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000484",
+  "source_pdf": "0484_FATURA_INV-2024-000484.pdf",
+  "date": "2024-07-09",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 52.27,
+      "vat_rate": 0.01,
+      "net_total": 52.27
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 162.43,
+      "vat_rate": 0.1,
+      "net_total": 324.86
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 43.09,
+      "vat_rate": 0.01,
+      "net_total": 172.36
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 516.9,
+      "vat_rate": 0.1,
+      "net_total": 1550.7
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 57.12,
+      "vat_rate": 0.01,
+      "net_total": 342.72
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 146.51,
+      "vat_rate": 0.2,
+      "net_total": 146.51
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 48.4,
+      "vat_rate": 0.01,
+      "net_total": 726.0
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 60.67,
+      "vat_rate": 0.1,
+      "net_total": 1213.4
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 213.43,
+      "vat_rate": 0.1,
+      "net_total": 853.72
+    }
+  ],
+  "subtotal": 5382.54,
+  "vat_total": 436.5,
+  "grand_total": 5819.04,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000484 | Tarih: 09.07.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-C | Teslim Yeri: Seyhan/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 1 52,27 %1 52,27\nAyçiçek Yağı (1 L) 2 162,43 %10 324,86\nDomates (kg) 4 43,09 %1 172,36\nDana Kıyma (kg) 3 516,90 %10 1.550,70\nSüt (1 L) 6 57,12 %1 342,72\nKahve Çekirdeği (250 g) 1 146,51 %20 146,51\nSüt (1 L) 15 48,40 %1 726,00\nŞeker (1 kg) 20 60,67 %10 1.213,40\nTavuk Göğüs (kg) 4 213,43 %10 853,72\nAra Toplam: 5.382,54\nKDV Toplam: 436,50\nGenel Toplam: 5.819,04\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

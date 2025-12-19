@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000325",
+  "source_pdf": "0325_FATURA_INV-2025-000325.pdf",
+  "date": "2025-05-10",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 41.21,
+      "vat_rate": 0.2,
+      "net_total": 123.63
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 39.46,
+      "vat_rate": 0.01,
+      "net_total": 315.68
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 44.54,
+      "vat_rate": 0.2,
+      "net_total": 534.48
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 15,
+      "unit_price": 49.25,
+      "vat_rate": 0.2,
+      "net_total": 738.75
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 58.8,
+      "vat_rate": 0.01,
+      "net_total": 235.2
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 55.17,
+      "vat_rate": 0.01,
+      "net_total": 165.51
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 114.38,
+      "vat_rate": 0.01,
+      "net_total": 114.38
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 289.39,
+      "vat_rate": 0.1,
+      "net_total": 578.78
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 19.79,
+      "vat_rate": 0.2,
+      "net_total": 79.16
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 54.12,
+      "vat_rate": 0.01,
+      "net_total": 649.44
+    }
+  ],
+  "subtotal": 3535.01,
+  "vat_total": 367.89,
+  "grand_total": 3902.9,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000325 | Tarih: 10.05.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Nilüfer/Ankara\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 3 41,21 %20 123,63\nDomates (kg) 8 39,46 %1 315,68\nGazlı İçecek (1 L) 12 44,54 %20 534,48\nÇikolata (80 g) 15 49,25 %20 738,75\nElma (kg) 4 58,80 %1 235,20\nElma (kg) 3 55,17 %1 165,51\nKuru Fasulye (1 kg) 1 114,38 %1 114,38\nDana Kıyma (kg) 2 289,39 %10 578,78\nMaden Suyu (200 ml) 4 19,79 %20 79,16\nMuz (kg) 12 54,12 %1 649,44\nAra Toplam: 3.535,01\nKDV Toplam: 367,89\nGenel Toplam: 3.902,90\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

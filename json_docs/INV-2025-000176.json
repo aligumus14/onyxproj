@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000176",
+  "source_pdf": "0176_FATURA_INV-2025-000176.pdf",
+  "date": "2025-03-29",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 108.91,
+      "vat_rate": 0.1,
+      "net_total": 1089.1
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 127.45,
+      "vat_rate": 0.1,
+      "net_total": 764.7
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 32.07,
+      "vat_rate": 0.01,
+      "net_total": 384.84
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 94.7,
+      "vat_rate": 0.01,
+      "net_total": 947.0
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 158.75,
+      "vat_rate": 0.1,
+      "net_total": 952.5
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 93.6,
+      "vat_rate": 0.1,
+      "net_total": 187.2
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 35.68,
+      "vat_rate": 0.1,
+      "net_total": 214.08
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 58.38,
+      "vat_rate": 0.01,
+      "net_total": 875.7
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 58.91,
+      "vat_rate": 0.01,
+      "net_total": 58.91
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 10,
+      "unit_price": 20.33,
+      "vat_rate": 0.2,
+      "net_total": 203.3
+    }
+  ],
+  "subtotal": 5677.33,
+  "vat_total": 384.09,
+  "grand_total": 6061.42,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000176 | Tarih: 29.03.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Beşiktaş/Konya\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 10 108,91 %10 1.089,10\nTavuk Göğüs (kg) 6 127,45 %10 764,70\nSalatalık (kg) 12 32,07 %1 384,84\nYoğurt (1 kg) 10 94,70 %1 947,00\nAyçiçek Yağı (1 L) 6 158,75 %10 952,50\nAyçiçek Yağı (1 L) 2 93,60 %10 187,20\nŞeker (1 kg) 6 35,68 %10 214,08\nYoğurt (1 kg) 15 58,38 %1 875,70\nSüt (1 L) 1 58,91 %1 58,91\nMaden Suyu (200 ml) 10 20,33 %20 203,30\nAra Toplam: 5.677,33\nKDV Toplam: 384,09\nGenel Toplam: 6.061,42\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

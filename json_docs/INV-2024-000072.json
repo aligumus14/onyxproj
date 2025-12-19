@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000072",
+  "source_pdf": "0072_FATURA_INV-2024-000072.pdf",
+  "date": "2024-12-23",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 282.28,
+      "vat_rate": 0.2,
+      "net_total": 1693.68
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 47.73,
+      "vat_rate": 0.01,
+      "net_total": 238.65
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 90.82,
+      "vat_rate": 0.01,
+      "net_total": 544.92
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 64.98,
+      "vat_rate": 0.01,
+      "net_total": 649.8
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 62.32,
+      "vat_rate": 0.2,
+      "net_total": 311.6
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 57.65,
+      "vat_rate": 0.01,
+      "net_total": 172.95
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 13.64,
+      "vat_rate": 0.2,
+      "net_total": 54.56
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 53.71,
+      "vat_rate": 0.2,
+      "net_total": 214.84
+    }
+  ],
+  "subtotal": 3881.0,
+  "vat_total": 471.01,
+  "grand_total": 4352.01,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000072 | Tarih: 23.12.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Şehitkamil/Ankara\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 6 282,28 %20 1.693,68\nPirinç (1 kg) 5 47,73 %1 238,65\nMuz (kg) 6 90,82 %1 544,92\nYoğurt (1 kg) 10 64,98 %1 649,80\nGazlı İçecek (1 L) 5 62,32 %20 311,60\nYoğurt (1 kg) 3 57,65 %1 172,95\nMaden Suyu (200 ml) 4 13,64 %20 54,56\nÇikolata (80 g) 4 53,71 %20 214,84\nAra Toplam: 3.881,00\nKDV Toplam: 471,01\nGenel Toplam: 4.352,01\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

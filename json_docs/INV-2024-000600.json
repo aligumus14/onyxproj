@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000600",
+  "source_pdf": "0600_FATURA_INV-2024-000600.pdf",
+  "date": "2024-08-31",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 389.59,
+      "vat_rate": 0.1,
+      "net_total": 7791.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 36.17,
+      "vat_rate": 0.01,
+      "net_total": 36.17
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 141.98,
+      "vat_rate": 0.01,
+      "net_total": 709.9
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 138.2,
+      "vat_rate": 0.01,
+      "net_total": 829.2
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 62.78,
+      "vat_rate": 0.01,
+      "net_total": 313.9
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 45.73,
+      "vat_rate": 0.2,
+      "net_total": 365.84
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 143.86,
+      "vat_rate": 0.2,
+      "net_total": 575.44
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 180.21,
+      "vat_rate": 0.1,
+      "net_total": 540.63
+    }
+  ],
+  "subtotal": 11162.88,
+  "vat_total": 1040.39,
+  "grand_total": 12203.27,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000600 | Tarih: 31.08.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Nilüfer/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 20 389,59 %10 7.791,80\nSalatalık (kg) 1 36,17 %1 36,17\nKuru Fasulye (1 kg) 5 141,98 %1 709,90\nKuru Fasulye (1 kg) 6 138,20 %1 829,20\nYoğurt (1 kg) 5 62,78 %1 313,90\nÇikolata (80 g) 8 45,73 %20 365,84\nKahve Çekirdeği (250 g) 4 143,86 %20 575,44\nTavuk Göğüs (kg) 3 180,21 %10 540,63\nAra Toplam: 11.162,88\nKDV Toplam: 1.040,39\nGenel Toplam: 12.203,27\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

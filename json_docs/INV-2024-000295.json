@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000295",
+  "source_pdf": "0295_FATURA_INV-2024-000295.pdf",
+  "date": "2024-01-22",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 53.33,
+      "vat_rate": 0.01,
+      "net_total": 319.98
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 148.17,
+      "vat_rate": 0.01,
+      "net_total": 1778.04
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 40.33,
+      "vat_rate": 0.1,
+      "net_total": 80.66
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 57.46,
+      "vat_rate": 0.01,
+      "net_total": 229.84
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 174.05,
+      "vat_rate": 0.2,
+      "net_total": 1044.3
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 46.0,
+      "vat_rate": 0.1,
+      "net_total": 920.0
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 33.86,
+      "vat_rate": 0.01,
+      "net_total": 507.9
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 56.58,
+      "vat_rate": 0.2,
+      "net_total": 282.9
+    }
+  ],
+  "subtotal": 5163.62,
+  "vat_total": 393.87,
+  "grand_total": 5557.49,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000295 | Tarih: 22.01.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 6 53,33 %1 319,98\nKuru Fasulye (1 kg) 12 148,17 %1 1.778,04\nŞeker (1 kg) 2 40,33 %10 80,66\nPirinç (1 kg) 4 57,46 %1 229,84\nKahve Çekirdeği (250 g) 6 174,05 %20 1.044,30\nŞeker (1 kg) 20 46,00 %10 920,00\nSalatalık (kg) 15 33,86 %1 507,90\nGazlı İçecek (1 L) 5 56,58 %20 282,90\nAra Toplam: 5.163,62\nKDV Toplam: 393,87\nGenel Toplam: 5.557,49\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

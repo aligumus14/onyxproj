@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000162",
+  "source_pdf": "0162_FATURA_INV-2025-000162.pdf",
+  "date": "2025-03-25",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 52.68,
+      "vat_rate": 0.2,
+      "net_total": 210.72
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 24.46,
+      "vat_rate": 0.01,
+      "net_total": 146.76
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 23.04,
+      "vat_rate": 0.01,
+      "net_total": 69.12
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 74.72,
+      "vat_rate": 0.01,
+      "net_total": 597.76
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 219.63,
+      "vat_rate": 0.2,
+      "net_total": 1757.04
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 58.16,
+      "vat_rate": 0.2,
+      "net_total": 58.16
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 70.23,
+      "vat_rate": 0.01,
+      "net_total": 140.46
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 38.92,
+      "vat_rate": 0.2,
+      "net_total": 583.8
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 92.45,
+      "vat_rate": 0.01,
+      "net_total": 369.8
+    }
+  ],
+  "subtotal": 3933.62,
+  "vat_total": 535.18,
+  "grand_total": 4468.8,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000162 | Tarih: 25.03.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Kadıköy/Bursa\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 4 52,68 %20 210,72\nSalatalık (kg) 6 24,46 %1 146,76\nDomates (kg) 3 23,04 %1 69,12\nYoğurt (1 kg) 8 74,72 %1 597,76\nKahve Çekirdeği (250 g) 8 219,63 %20 1.757,04\nÇikolata (80 g) 1 58,16 %20 58,16\nMuz (kg) 2 70,23 %1 140,46\nGazlı İçecek (1 L) 15 38,92 %20 583,80\nYoğurt (1 kg) 4 92,45 %1 369,80\nAra Toplam: 3.933,62\nKDV Toplam: 535,18\nGenel Toplam: 4.468,80\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

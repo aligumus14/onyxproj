@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000081",
+  "source_pdf": "0681_SERVIS_SRV-2025-000081.pdf",
+  "date": "2025-12-16",
+  "status": "Açık",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Şişli/Ankara",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-A",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-33886",
+  "technician": "Deniz Arı",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 1103.9,
+      "unit_price": 4.0,
+      "total": 2207.88
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 2207.88,
+  "vat_rate": 0.2,
+  "vat_amount": 441.58,
+  "grand_total": 2649.46,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000081 | Tarih: 16.12.2025 | Durum: Açık\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Şişli/Ankara | Şube/DM: TR-IST-DC01 | Depo: Depo-A\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-33886\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 1.103,94 2.207,88\nParça Değişimi - - 0,00\nAra Toplam: 2.207,88\nKDV (%20): 441,58\nGenel Toplam: 2.649,46\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

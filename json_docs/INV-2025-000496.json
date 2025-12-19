@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000496",
+  "source_pdf": "0496_FATURA_INV-2025-000496.pdf",
+  "date": "2025-11-03",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 20.67,
+      "vat_rate": 0.01,
+      "net_total": 310.05
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 273.77,
+      "vat_rate": 0.2,
+      "net_total": 1095.08
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 126.12,
+      "vat_rate": 0.2,
+      "net_total": 1008.96
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 73.49,
+      "vat_rate": 0.01,
+      "net_total": 587.92
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 43.32,
+      "vat_rate": 0.2,
+      "net_total": 346.56
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 506.3,
+      "vat_rate": 0.1,
+      "net_total": 1518.9
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 63.5,
+      "vat_rate": 0.01,
+      "net_total": 762.0
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 119.16,
+      "vat_rate": 0.1,
+      "net_total": 595.8
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 101.02,
+      "vat_rate": 0.1,
+      "net_total": 2020.4
+    }
+  ],
+  "subtotal": 8245.67,
+  "vat_total": 920.23,
+  "grand_total": 9165.9,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000496 | Tarih: 03.11.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Kadıköy/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 15 20,67 %1 310,05\nKahve Çekirdeği (250 g) 4 273,77 %20 1.095,08\nKahve Çekirdeği (250 g) 8 126,12 %20 1.008,96\nYoğurt (1 kg) 8 73,49 %1 587,92\nÇikolata (80 g) 8 43,32 %20 346,56\nDana Kıyma (kg) 3 506,30 %10 1.518,90\nYoğurt (1 kg) 12 63,50 %1 762,00\nTavuk Göğüs (kg) 5 119,16 %10 595,80\nUn (5 kg) 20 101,02 %10 2.020,40\nAra Toplam: 8.245,67\nKDV Toplam: 920,23\nGenel Toplam: 9.165,90\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

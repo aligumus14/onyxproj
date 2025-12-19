@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000355",
+  "source_pdf": "0355_FATURA_INV-2024-000355.pdf",
+  "date": "2024-06-14",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 218.2,
+      "vat_rate": 0.1,
+      "net_total": 1091.0
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 95.52,
+      "vat_rate": 0.01,
+      "net_total": 955.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 108.16,
+      "vat_rate": 0.01,
+      "net_total": 216.32
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 27.81,
+      "vat_rate": 0.1,
+      "net_total": 27.81
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 154.99,
+      "vat_rate": 0.1,
+      "net_total": 1239.92
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 68.84,
+      "vat_rate": 0.01,
+      "net_total": 688.4
+    }
+  ],
+  "subtotal": 4218.65,
+  "vat_total": 254.46,
+  "grand_total": 4473.11,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000355 | Tarih: 14.06.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Beşiktaş/Adana\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 5 218,20 %10 1.091,00\nYoğurt (1 kg) 10 95,52 %1 955,20\nPirinç (1 kg) 2 108,16 %1 216,32\nMakarna (500 g) 1 27,81 %10 27,81\nTavuk Göğüs (kg) 8 154,99 %10 1.239,92\nPirinç (1 kg) 10 68,84 %1 688,40\nAra Toplam: 4.218,65\nKDV Toplam: 254,46\nGenel Toplam: 4.473,11\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

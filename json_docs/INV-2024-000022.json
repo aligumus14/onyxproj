@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000022",
+  "source_pdf": "0022_FATURA_INV-2024-000022.pdf",
+  "date": "2024-05-09",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 58.77,
+      "vat_rate": 0.01,
+      "net_total": 176.31
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 25.9,
+      "vat_rate": 0.01,
+      "net_total": 388.5
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 184.51,
+      "vat_rate": 0.1,
+      "net_total": 2767.65
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 280.05,
+      "vat_rate": 0.2,
+      "net_total": 2240.4
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 129.21,
+      "vat_rate": 0.1,
+      "net_total": 258.42
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 49.4,
+      "vat_rate": 0.01,
+      "net_total": 98.8
+    }
+  ],
+  "subtotal": 5930.08,
+  "vat_total": 757.33,
+  "grand_total": 6687.41,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000022 | Tarih: 09.05.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Karşıyaka/Konya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 3 58,77 %1 176,31\nElma (kg) 15 25,90 %1 388,50\nTavuk Göğüs (kg) 15 184,51 %10 2.767,65\nKahve Çekirdeği (250 g) 8 280,05 %20 2.240,40\nAyçiçek Yağı (1 L) 2 129,21 %10 258,42\nSüt (1 L) 2 49,40 %1 98,80\nAra Toplam: 5.930,08\nKDV Toplam: 757,33\nGenel Toplam: 6.687,41\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

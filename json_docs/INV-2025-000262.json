@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000262",
+  "source_pdf": "0262_FATURA_INV-2025-000262.pdf",
+  "date": "2025-11-28",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 36.11,
+      "vat_rate": 0.01,
+      "net_total": 72.22
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 34.97,
+      "vat_rate": 0.1,
+      "net_total": 349.7
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 96.06,
+      "vat_rate": 0.01,
+      "net_total": 1440.9
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 437.48,
+      "vat_rate": 0.1,
+      "net_total": 437.48
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 213.16,
+      "vat_rate": 0.1,
+      "net_total": 1278.96
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 13.17,
+      "vat_rate": 0.2,
+      "net_total": 39.51
+    }
+  ],
+  "subtotal": 3618.77,
+  "vat_total": 229.65,
+  "grand_total": 3848.42,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000262 | Tarih: 28.11.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Beşiktaş/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 2 36,11 %1 72,22\nMakarna (500 g) 10 34,97 %10 349,70\nYoğurt (1 kg) 15 96,06 %1 1.440,90\nDana Kıyma (kg) 1 437,48 %10 437,48\nUn (5 kg) 6 213,16 %10 1.278,96\nMaden Suyu (200 ml) 3 13,17 %20 39,51\nAra Toplam: 3.618,77\nKDV Toplam: 229,65\nGenel Toplam: 3.848,42\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000019",
+  "source_pdf": "0619_SERVIS_SRV-2024-000019.pdf",
+  "date": "2024-01-25",
+  "status": "Onay Bekliyor",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Karşıyaka/Ankara",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-1",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-95688",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 597.2,
+      "unit_price": 5.0,
+      "total": 3583.5
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 3583.5,
+  "vat_rate": 0.2,
+  "vat_amount": 716.7,
+  "grand_total": 4300.2,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000019 | Tarih: 25.01.2024 | Durum: Onay Bekliyor\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Karşıyaka/Ankara | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-1\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-95688\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 597,25 3.583,50\nParça Değişimi - - 0,00\nAra Toplam: 3.583,50\nKDV (%20): 716,70\nGenel Toplam: 4.300,20\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

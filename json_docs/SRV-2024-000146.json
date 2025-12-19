@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000146",
+  "source_pdf": "0746_SERVIS_SRV-2024-000146.pdf",
+  "date": "2024-02-13",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Yüksek (8 saat)",
+  "location": "Şehitkamil/İzmir",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-C",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-62720",
+  "technician": "Selin Uçar",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 951.2,
+      "unit_price": 8.0,
+      "total": 2378.2
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 2.0,
+      "unit_price": 565.45,
+      "total": 1130.9
+    }
+  ],
+  "subtotal": 3509.1,
+  "vat_rate": 0.2,
+  "vat_amount": 701.82,
+  "grand_total": 4210.92,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000146 | Tarih: 13.02.2024 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Yüksek (8 saat)\nLokasyon: Şehitkamil/İzmir | Şube/DM: TR-IZM-DC03 | Depo: Depo-C\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-62720\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 951,28 2.378,20\nRulman Seti 2 565,45 1.130,90\nAra Toplam: 3.509,10\nKDV (%20): 701,82\nGenel Toplam: 4.210,92\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

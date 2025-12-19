@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000177",
+  "source_pdf": "0177_FATURA_INV-2024-000177.pdf",
+  "date": "2024-06-07",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 294.41,
+      "vat_rate": 0.1,
+      "net_total": 5888.2
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 511.57,
+      "vat_rate": 0.1,
+      "net_total": 10231.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 30.03,
+      "vat_rate": 0.2,
+      "net_total": 60.06
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 59.36,
+      "vat_rate": 0.01,
+      "net_total": 356.16
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 743.28,
+      "vat_rate": 0.1,
+      "net_total": 7432.8
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 32.54,
+      "vat_rate": 0.01,
+      "net_total": 260.32
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 103.41,
+      "vat_rate": 0.01,
+      "net_total": 517.05
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 33.09,
+      "vat_rate": 0.1,
+      "net_total": 330.9
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 32.59,
+      "vat_rate": 0.2,
+      "net_total": 325.9
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 97.81,
+      "vat_rate": 0.01,
+      "net_total": 1173.72
+    }
+  ],
+  "subtotal": 26576.51,
+  "vat_total": 2488.59,
+  "grand_total": 29065.1,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000177 | Tarih: 07.06.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Seyhan/İzmir\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 20 294,41 %10 5.888,20\nSomon Fileto (kg) 20 511,57 %10 10.231,40\nGazlı İçecek (1 L) 2 30,03 %20 60,06\nSüt (1 L) 6 59,36 %1 356,16\nSomon Fileto (kg) 10 743,28 %10 7.432,80\nDomates (kg) 8 32,54 %1 260,32\nPirinç (1 kg) 5 103,41 %1 517,05\nMakarna (500 g) 10 33,09 %10 330,90\nGazlı İçecek (1 L) 10 32,59 %20 325,90\nKuru Fasulye (1 kg) 12 97,81 %1 1.173,72\nAra Toplam: 26.576,51\nKDV Toplam: 2.488,59\nGenel Toplam: 29.065,10\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

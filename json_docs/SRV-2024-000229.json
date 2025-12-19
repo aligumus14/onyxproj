@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000229",
+  "source_pdf": "0829_SERVIS_SRV-2024-000229.pdf",
+  "date": "2024-10-24",
+  "status": "Parça Bekleniyor",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Çankaya/Kocaeli",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-2",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-40496",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 694.3,
+      "unit_price": 9.0,
+      "total": 694.39
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 694.39,
+  "vat_rate": 0.2,
+  "vat_amount": 138.88,
+  "grand_total": 833.27,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000229 | Tarih: 24.10.2024 | Durum: Parça Bekleniyor\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Çankaya/Kocaeli | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-2\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-40496\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 694,39 694,39\nParça Değişimi - - 0,00\nAra Toplam: 694,39\nKDV (%20): 138,88\nGenel Toplam: 833,27\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

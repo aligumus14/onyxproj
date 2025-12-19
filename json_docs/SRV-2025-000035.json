@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000035",
+  "source_pdf": "0635_SERVIS_SRV-2025-000035.pdf",
+  "date": "2025-03-17",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Düşük (72 saat)",
+  "location": "Kadıköy/İzmir",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-1",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-77576",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 758.0,
+      "unit_price": 6.0,
+      "total": 758.06
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 1138.53,
+      "total": 1138.53
+    }
+  ],
+  "subtotal": 1896.59,
+  "vat_rate": 0.2,
+  "vat_amount": 379.32,
+  "grand_total": 2275.91,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000035 | Tarih: 17.03.2025 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Düşük (72 saat)\nLokasyon: Kadıköy/İzmir | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-1\nMakine: Forklift - Linde H35D | Seri No: FLT-77576\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 758,06 758,06\nRulman Seti 1 1.138,53 1.138,53\nAra Toplam: 1.896,59\nKDV (%20): 379,32\nGenel Toplam: 2.275,91\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

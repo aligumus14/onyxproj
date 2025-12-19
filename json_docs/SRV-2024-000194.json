@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000194",
+  "source_pdf": "0794_SERVIS_SRV-2024-000194.pdf",
+  "date": "2024-10-10",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Yüksek (8 saat)",
+  "location": "Seyhan/Gaziantep",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-2",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-72215",
+  "technician": "Selin Uçar",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 1149.9,
+      "unit_price": 8.0,
+      "total": 6899.88
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 495.2,
+      "total": 495.2
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 528.89,
+      "total": 1057.78
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 618.57,
+      "total": 618.57
+    }
+  ],
+  "subtotal": 9071.43,
+  "vat_rate": 0.2,
+  "vat_amount": 1814.29,
+  "grand_total": 10885.72,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000194 | Tarih: 10.10.2024 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Yüksek (8 saat)\nLokasyon: Seyhan/Gaziantep | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-2\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-72215\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 1.149,98 6.899,88\nKayış 1 495,20 495,20\nFiltre 2 528,89 1.057,78\nKayış 1 618,57 618,57\nAra Toplam: 9.071,43\nKDV (%20): 1.814,29\nGenel Toplam: 10.885,72\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

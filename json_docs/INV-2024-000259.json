@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000259",
+  "source_pdf": "0259_FATURA_INV-2024-000259.pdf",
+  "date": "2024-12-13",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 71.93,
+      "vat_rate": 0.01,
+      "net_total": 143.86
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 101.66,
+      "vat_rate": 0.01,
+      "net_total": 1016.6
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 114.84,
+      "vat_rate": 0.01,
+      "net_total": 689.04
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 177.42,
+      "vat_rate": 0.1,
+      "net_total": 887.1
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 71.91,
+      "vat_rate": 0.01,
+      "net_total": 862.92
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 128.95,
+      "vat_rate": 0.01,
+      "net_total": 773.7
+    }
+  ],
+  "subtotal": 4373.22,
+  "vat_total": 123.58,
+  "grand_total": 4496.8,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000259 | Tarih: 13.12.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Selçuklu/Adana\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 2 71,93 %1 143,86\nPirinç (1 kg) 10 101,66 %1 1.016,60\nYoğurt (1 kg) 6 114,84 %1 689,04\nTavuk Göğüs (kg) 5 177,42 %10 887,10\nYoğurt (1 kg) 12 71,91 %1 862,92\nKuru Fasulye (1 kg) 6 128,95 %1 773,70\nAra Toplam: 4.373,22\nKDV Toplam: 123,58\nGenel Toplam: 4.496,80\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000042",
+  "source_pdf": "0042_FATURA_INV-2025-000042.pdf",
+  "date": "2025-04-07",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 54.95,
+      "vat_rate": 0.01,
+      "net_total": 54.95
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 236.64,
+      "vat_rate": 0.2,
+      "net_total": 1893.12
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 19.98,
+      "vat_rate": 0.1,
+      "net_total": 199.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 73.46,
+      "vat_rate": 0.01,
+      "net_total": 440.76
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 55.13,
+      "vat_rate": 0.01,
+      "net_total": 165.39
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 20.68,
+      "vat_rate": 0.2,
+      "net_total": 248.16
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 210.19,
+      "vat_rate": 0.2,
+      "net_total": 3152.85
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 12,
+      "unit_price": 168.71,
+      "vat_rate": 0.1,
+      "net_total": 2024.52
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 54.85,
+      "vat_rate": 0.01,
+      "net_total": 109.7
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 42.2,
+      "vat_rate": 0.2,
+      "net_total": 168.8
+    }
+  ],
+  "subtotal": 8458.05,
+  "vat_total": 1322.72,
+  "grand_total": 9780.77,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000042 | Tarih: 07.04.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Karşıyaka/Gaziantep\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 1 54,95 %1 54,95\nKahve Çekirdeği (250 g) 8 236,64 %20 1.893,12\nMakarna (500 g) 10 19,98 %10 199,80\nMuz (kg) 6 73,46 %1 440,76\nMuz (kg) 3 55,13 %1 165,39\nMaden Suyu (200 ml) 12 20,68 %20 248,16\nKahve Çekirdeği (250 g) 15 210,19 %20 3.152,85\nUn (5 kg) 12 168,71 %10 2.024,52\nElma (kg) 2 54,85 %1 109,70\nGazlı İçecek (1 L) 4 42,20 %20 168,80\nAra Toplam: 8.458,05\nKDV Toplam: 1.322,72\nGenel Toplam: 9.780,77\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000282",
+  "source_pdf": "0282_FATURA_INV-2024-000282.pdf",
+  "date": "2024-04-27",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 56.87,
+      "vat_rate": 0.01,
+      "net_total": 170.61
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 42.61,
+      "vat_rate": 0.1,
+      "net_total": 852.2
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 286.52,
+      "vat_rate": 0.1,
+      "net_total": 859.56
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 28.53,
+      "vat_rate": 0.01,
+      "net_total": 142.65
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 379.08,
+      "vat_rate": 0.1,
+      "net_total": 1137.24
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 370.12,
+      "vat_rate": 0.1,
+      "net_total": 1850.6
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 32.09,
+      "vat_rate": 0.01,
+      "net_total": 32.09
+    }
+  ],
+  "subtotal": 5044.95,
+  "vat_total": 473.42,
+  "grand_total": 5518.37,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000282 | Tarih: 27.04.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/Antalya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 3 56,87 %1 170,61\nŞeker (1 kg) 20 42,61 %10 852,20\nDana Kıyma (kg) 3 286,52 %10 859,56\nSalatalık (kg) 5 28,53 %1 142,65\nDana Kıyma (kg) 3 379,08 %10 1.137,24\nDana Kıyma (kg) 5 370,12 %10 1.850,60\nElma (kg) 1 32,09 %1 32,09\nAra Toplam: 5.044,95\nKDV Toplam: 473,42\nGenel Toplam: 5.518,37\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

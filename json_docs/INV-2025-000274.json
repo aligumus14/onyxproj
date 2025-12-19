@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000274",
+  "source_pdf": "0274_FATURA_INV-2025-000274.pdf",
+  "date": "2025-06-12",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 57.31,
+      "vat_rate": 0.01,
+      "net_total": 343.86
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 74.92,
+      "vat_rate": 0.01,
+      "net_total": 599.36
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 42.91,
+      "vat_rate": 0.01,
+      "net_total": 858.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 48.76,
+      "vat_rate": 0.01,
+      "net_total": 731.4
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 43.87,
+      "vat_rate": 0.2,
+      "net_total": 219.35
+    }
+  ],
+  "subtotal": 2752.17,
+  "vat_total": 69.19,
+  "grand_total": 2821.36,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000274 | Tarih: 12.06.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Kadıköy/İzmir\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 6 57,31 %1 343,86\nKuru Fasulye (1 kg) 8 74,92 %1 599,36\nSalatalık (kg) 20 42,91 %1 858,20\nPirinç (1 kg) 15 48,76 %1 731,40\nÇikolata (80 g) 5 43,87 %20 219,35\nAra Toplam: 2.752,17\nKDV Toplam: 69,19\nGenel Toplam: 2.821,36\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

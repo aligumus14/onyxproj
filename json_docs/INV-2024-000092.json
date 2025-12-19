@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000092",
+  "source_pdf": "0092_FATURA_INV-2024-000092.pdf",
+  "date": "2024-06-06",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 206.12,
+      "vat_rate": 0.2,
+      "net_total": 2473.44
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 36.65,
+      "vat_rate": 0.1,
+      "net_total": 439.8
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 687.53,
+      "vat_rate": 0.1,
+      "net_total": 8250.36
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 82.29,
+      "vat_rate": 0.01,
+      "net_total": 164.58
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 708.8,
+      "vat_rate": 0.1,
+      "net_total": 2126.4
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 44.56,
+      "vat_rate": 0.01,
+      "net_total": 668.4
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 284.17,
+      "vat_rate": 0.2,
+      "net_total": 1705.02
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 35.47,
+      "vat_rate": 0.1,
+      "net_total": 70.94
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 85.75,
+      "vat_rate": 0.01,
+      "net_total": 343.0
+    }
+  ],
+  "subtotal": 16241.94,
+  "vat_total": 1936.2,
+  "grand_total": 18178.14,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000092 | Tarih: 06.06.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Şehitkamil/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 12 206,12 %20 2.473,44\nŞeker (1 kg) 12 36,65 %10 439,80\nSomon Fileto (kg) 12 687,53 %10 8.250,36\nMuz (kg) 2 82,29 %1 164,58\nSomon Fileto (kg) 3 708,80 %10 2.126,40\nSalatalık (kg) 15 44,56 %1 668,40\nKahve Çekirdeği (250 g) 6 284,17 %20 1.705,02\nŞeker (1 kg) 2 35,47 %10 70,94\nYoğurt (1 kg) 4 85,75 %1 343,00\nAra Toplam: 16.241,94\nKDV Toplam: 1.936,20\nGenel Toplam: 18.178,14\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

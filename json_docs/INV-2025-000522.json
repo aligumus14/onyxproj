@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000522",
+  "source_pdf": "0522_FATURA_INV-2025-000522.pdf",
+  "date": "2025-03-08",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 65.8,
+      "vat_rate": 0.2,
+      "net_total": 263.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 46.57,
+      "vat_rate": 0.01,
+      "net_total": 93.14
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 50.27,
+      "vat_rate": 0.01,
+      "net_total": 754.05
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 135.99,
+      "vat_rate": 0.1,
+      "net_total": 1359.9
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 47.29,
+      "vat_rate": 0.2,
+      "net_total": 283.74
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 44.21,
+      "vat_rate": 0.1,
+      "net_total": 88.42
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 103.06,
+      "vat_rate": 0.01,
+      "net_total": 1545.9
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 34.29,
+      "vat_rate": 0.2,
+      "net_total": 34.29
+    }
+  ],
+  "subtotal": 4422.64,
+  "vat_total": 285.01,
+  "grand_total": 4707.65,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000522 | Tarih: 08.03.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Nilüfer/Antalya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 4 65,80 %20 263,20\nPirinç (1 kg) 2 46,57 %1 93,14\nMuz (kg) 15 50,27 %1 754,05\nAyçiçek Yağı (1 L) 10 135,99 %10 1.359,90\nGazlı İçecek (1 L) 6 47,29 %20 283,74\nMakarna (500 g) 2 44,21 %10 88,42\nKuru Fasulye (1 kg) 15 103,06 %1 1.545,90\nGazlı İçecek (1 L) 1 34,29 %20 34,29\nAra Toplam: 4.422,64\nKDV Toplam: 285,01\nGenel Toplam: 4.707,65\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

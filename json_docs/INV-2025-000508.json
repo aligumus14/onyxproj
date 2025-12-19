@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000508",
+  "source_pdf": "0508_FATURA_INV-2025-000508.pdf",
+  "date": "2025-12-31",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 67.31,
+      "vat_rate": 0.2,
+      "net_total": 201.93
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 51.41,
+      "vat_rate": 0.01,
+      "net_total": 102.82
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 482.46,
+      "vat_rate": 0.1,
+      "net_total": 2894.76
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 398.19,
+      "vat_rate": 0.1,
+      "net_total": 796.38
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 45.99,
+      "vat_rate": 0.2,
+      "net_total": 45.99
+    }
+  ],
+  "subtotal": 4041.88,
+  "vat_total": 419.74,
+  "grand_total": 4461.62,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000508 | Tarih: 31.12.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 3 67,31 %20 201,93\nSüt (1 L) 2 51,41 %1 102,82\nSomon Fileto (kg) 6 482,46 %10 2.894,76\nDana Kıyma (kg) 2 398,19 %10 796,38\nGazlı İçecek (1 L) 1 45,99 %20 45,99\nAra Toplam: 4.041,88\nKDV Toplam: 419,74\nGenel Toplam: 4.461,62\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

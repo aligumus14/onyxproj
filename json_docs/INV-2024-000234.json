@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000234",
+  "source_pdf": "0234_FATURA_INV-2024-000234.pdf",
+  "date": "2024-08-13",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 122.64,
+      "vat_rate": 0.1,
+      "net_total": 1839.6
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 51.58,
+      "vat_rate": 0.01,
+      "net_total": 206.32
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 52.08,
+      "vat_rate": 0.2,
+      "net_total": 520.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 61.69,
+      "vat_rate": 0.01,
+      "net_total": 740.28
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 34.29,
+      "vat_rate": 0.1,
+      "net_total": 205.74
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 65.88,
+      "vat_rate": 0.2,
+      "net_total": 65.88
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 509.18,
+      "vat_rate": 0.1,
+      "net_total": 4073.44
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 52.38,
+      "vat_rate": 0.1,
+      "net_total": 314.28
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 32.07,
+      "vat_rate": 0.01,
+      "net_total": 160.35
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 206.17,
+      "vat_rate": 0.1,
+      "net_total": 2061.7
+    }
+  ],
+  "subtotal": 10188.39,
+  "vat_total": 977.87,
+  "grand_total": 11166.26,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000234 | Tarih: 13.08.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Kadıköy/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 15 122,64 %10 1.839,60\nYoğurt (1 kg) 4 51,58 %1 206,32\nGazlı İçecek (1 L) 10 52,08 %20 520,80\nMuz (kg) 12 61,69 %1 740,28\nMakarna (500 g) 6 34,29 %10 205,74\nÇikolata (80 g) 1 65,88 %20 65,88\nSomon Fileto (kg) 8 509,18 %10 4.073,44\nŞeker (1 kg) 6 52,38 %10 314,28\nDomates (kg) 5 32,07 %1 160,35\nTavuk Göğüs (kg) 10 206,17 %10 2.061,70\nAra Toplam: 10.188,39\nKDV Toplam: 977,87\nGenel Toplam: 11.166,26\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

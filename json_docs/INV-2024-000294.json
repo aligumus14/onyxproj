@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000294",
+  "source_pdf": "0294_FATURA_INV-2024-000294.pdf",
+  "date": "2024-08-23",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 188.05,
+      "vat_rate": 0.2,
+      "net_total": 752.2
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 20.35,
+      "vat_rate": 0.01,
+      "net_total": 122.1
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 671.88,
+      "vat_rate": 0.1,
+      "net_total": 671.88
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 73.63,
+      "vat_rate": 0.01,
+      "net_total": 368.15
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 6,
+      "unit_price": 10.66,
+      "vat_rate": 0.2,
+      "net_total": 63.96
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 26.92,
+      "vat_rate": 0.01,
+      "net_total": 107.68
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 140.83,
+      "vat_rate": 0.01,
+      "net_total": 563.32
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 137.8,
+      "vat_rate": 0.01,
+      "net_total": 826.8
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 31.86,
+      "vat_rate": 0.01,
+      "net_total": 95.58
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 142.85,
+      "vat_rate": 0.01,
+      "net_total": 714.25
+    }
+  ],
+  "subtotal": 4285.92,
+  "vat_total": 258.4,
+  "grand_total": 4544.32,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000294 | Tarih: 23.08.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Seyhan/Bursa\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 4 188,05 %20 752,20\nDomates (kg) 6 20,35 %1 122,10\nSomon Fileto (kg) 1 671,88 %10 671,88\nPirinç (1 kg) 5 73,63 %1 368,15\nMaden Suyu (200 ml) 6 10,66 %20 63,96\nDomates (kg) 4 26,92 %1 107,68\nKuru Fasulye (1 kg) 4 140,83 %1 563,32\nKuru Fasulye (1 kg) 6 137,80 %1 826,80\nSüt (1 L) 3 31,86 %1 95,58\nKuru Fasulye (1 kg) 5 142,85 %1 714,25\nAra Toplam: 4.285,92\nKDV Toplam: 258,40\nGenel Toplam: 4.544,32\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

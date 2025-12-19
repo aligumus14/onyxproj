@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000225",
+  "source_pdf": "0225_FATURA_INV-2024-000225.pdf",
+  "date": "2024-08-23",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 132.5,
+      "vat_rate": 0.2,
+      "net_total": 530.0
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 10,
+      "unit_price": 10.82,
+      "vat_rate": 0.2,
+      "net_total": 108.2
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 44.73,
+      "vat_rate": 0.1,
+      "net_total": 134.19
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 140.35,
+      "vat_rate": 0.1,
+      "net_total": 421.05
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 91.79,
+      "vat_rate": 0.01,
+      "net_total": 917.9
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 530.88,
+      "vat_rate": 0.1,
+      "net_total": 2654.4
+    }
+  ],
+  "subtotal": 4765.74,
+  "vat_total": 457.79,
+  "grand_total": 5223.53,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000225 | Tarih: 23.08.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Çankaya/Ankara\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 4 132,50 %20 530,00\nMaden Suyu (200 ml) 10 10,82 %20 108,20\nŞeker (1 kg) 3 44,73 %10 134,19\nUn (5 kg) 3 140,35 %10 421,05\nPirinç (1 kg) 10 91,79 %1 917,90\nSomon Fileto (kg) 5 530,88 %10 2.654,40\nAra Toplam: 4.765,74\nKDV Toplam: 457,79\nGenel Toplam: 5.223,53\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

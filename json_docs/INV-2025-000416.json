@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000416",
+  "source_pdf": "0416_FATURA_INV-2025-000416.pdf",
+  "date": "2025-04-08",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 20.94,
+      "vat_rate": 0.1,
+      "net_total": 314.1
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 125.81,
+      "vat_rate": 0.1,
+      "net_total": 754.86
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 70.85,
+      "vat_rate": 0.01,
+      "net_total": 141.7
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 129.34,
+      "vat_rate": 0.1,
+      "net_total": 1293.4
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 62.18,
+      "vat_rate": 0.01,
+      "net_total": 186.54
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 37.52,
+      "vat_rate": 0.1,
+      "net_total": 450.24
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 10.88,
+      "vat_rate": 0.2,
+      "net_total": 43.52
+    }
+  ],
+  "subtotal": 3184.36,
+  "vat_total": 293.25,
+  "grand_total": 3477.61,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000416 | Tarih: 08.04.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Çankaya/Kocaeli\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 15 20,94 %10 314,10\nTavuk Göğüs (kg) 6 125,81 %10 754,86\nMuz (kg) 2 70,85 %1 141,70\nAyçiçek Yağı (1 L) 10 129,34 %10 1.293,40\nMuz (kg) 3 62,18 %1 186,54\nMakarna (500 g) 12 37,52 %10 450,24\nMaden Suyu (200 ml) 4 10,88 %20 43,52\nAra Toplam: 3.184,36\nKDV Toplam: 293,25\nGenel Toplam: 3.477,61\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

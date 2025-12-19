@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000419",
+  "source_pdf": "0419_FATURA_INV-2024-000419.pdf",
+  "date": "2024-11-26",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 165.2,
+      "vat_rate": 0.1,
+      "net_total": 2478.0
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 691.81,
+      "vat_rate": 0.1,
+      "net_total": 8301.72
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 23.69,
+      "vat_rate": 0.1,
+      "net_total": 236.9
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 319.42,
+      "vat_rate": 0.1,
+      "net_total": 958.26
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 26.58,
+      "vat_rate": 0.1,
+      "net_total": 26.58
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 107.64,
+      "vat_rate": 0.01,
+      "net_total": 322.92
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 44.55,
+      "vat_rate": 0.01,
+      "net_total": 222.75
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 123.77,
+      "vat_rate": 0.1,
+      "net_total": 247.54
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 294.67,
+      "vat_rate": 0.1,
+      "net_total": 589.34
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 110.34,
+      "vat_rate": 0.1,
+      "net_total": 1655.1
+    }
+  ],
+  "subtotal": 15039.11,
+  "vat_total": 1454.8,
+  "grand_total": 16493.91,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000419 | Tarih: 26.11.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Karşıyaka/İzmir\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 15 165,20 %10 2.478,00\nSomon Fileto (kg) 12 691,81 %10 8.301,72\nMakarna (500 g) 10 23,69 %10 236,90\nDana Kıyma (kg) 3 319,42 %10 958,26\nMakarna (500 g) 1 26,58 %10 26,58\nKuru Fasulye (1 kg) 3 107,64 %1 322,92\nDomates (kg) 5 44,55 %1 222,75\nAyçiçek Yağı (1 L) 2 123,77 %10 247,54\nDana Kıyma (kg) 2 294,67 %10 589,34\nUn (5 kg) 15 110,34 %10 1.655,10\nAra Toplam: 15.039,11\nKDV Toplam: 1.454,80\nGenel Toplam: 16.493,91\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

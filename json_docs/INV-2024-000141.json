@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000141",
+  "source_pdf": "0141_FATURA_INV-2024-000141.pdf",
+  "date": "2024-07-19",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 461.72,
+      "vat_rate": 0.1,
+      "net_total": 923.44
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 40.61,
+      "vat_rate": 0.01,
+      "net_total": 812.2
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 21.58,
+      "vat_rate": 0.2,
+      "net_total": 43.16
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 175.6,
+      "vat_rate": 0.1,
+      "net_total": 1756.0
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 68.37,
+      "vat_rate": 0.2,
+      "net_total": 205.11
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 45.77,
+      "vat_rate": 0.01,
+      "net_total": 549.24
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 58.55,
+      "vat_rate": 0.2,
+      "net_total": 468.4
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 39.09,
+      "vat_rate": 0.1,
+      "net_total": 469.08
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 83.89,
+      "vat_rate": 0.01,
+      "net_total": 1258.35
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 70.18,
+      "vat_rate": 0.01,
+      "net_total": 140.36
+    }
+  ],
+  "subtotal": 6625.34,
+  "vat_total": 485.77,
+  "grand_total": 7111.11,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000141 | Tarih: 19.07.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Seyhan/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 2 461,72 %10 923,44\nSalatalık (kg) 20 40,61 %1 812,20\nMaden Suyu (200 ml) 2 21,58 %20 43,16\nUn (5 kg) 10 175,60 %10 1.756,00\nÇikolata (80 g) 3 68,37 %20 205,11\nDomates (kg) 12 45,77 %1 549,24\nGazlı İçecek (1 L) 8 58,55 %20 468,40\nMakarna (500 g) 12 39,09 %10 469,08\nKuru Fasulye (1 kg) 15 83,89 %1 1.258,35\nPirinç (1 kg) 2 70,18 %1 140,36\nAra Toplam: 6.625,34\nKDV Toplam: 485,77\nGenel Toplam: 7.111,11\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

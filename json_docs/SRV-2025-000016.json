@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000016",
+  "source_pdf": "0616_SERVIS_SRV-2025-000016.pdf",
+  "date": "2025-05-24",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Yüksek (8 saat)",
+  "location": "Çankaya/Ankara",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-85966",
+  "technician": "Emre Taş",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 1059.2,
+      "unit_price": 4.0,
+      "total": 1059.24
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1059.24,
+  "vat_rate": 0.2,
+  "vat_amount": 211.85,
+  "grand_total": 1271.09,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000016 | Tarih: 24.05.2025 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Yüksek (8 saat)\nLokasyon: Çankaya/Ankara | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-85966\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 1.059,24 1.059,24\nParça Değişimi - - 0,00\nAra Toplam: 1.059,24\nKDV (%20): 211,85\nGenel Toplam: 1.271,09\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

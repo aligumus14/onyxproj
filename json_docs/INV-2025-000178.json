@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000178",
+  "source_pdf": "0178_FATURA_INV-2025-000178.pdf",
+  "date": "2025-04-24",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 169.58,
+      "vat_rate": 0.1,
+      "net_total": 847.9
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 190.87,
+      "vat_rate": 0.1,
+      "net_total": 190.87
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 58.01,
+      "vat_rate": 0.2,
+      "net_total": 464.08
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 49.99,
+      "vat_rate": 0.01,
+      "net_total": 749.85
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 50.24,
+      "vat_rate": 0.01,
+      "net_total": 301.44
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 32.59,
+      "vat_rate": 0.2,
+      "net_total": 260.72
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 22.16,
+      "vat_rate": 0.1,
+      "net_total": 265.92
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 155.08,
+      "vat_rate": 0.1,
+      "net_total": 930.48
+    }
+  ],
+  "subtotal": 4011.26,
+  "vat_total": 378.99,
+  "grand_total": 4390.25,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000178 | Tarih: 24.04.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Selçuklu/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 5 169,58 %10 847,90\nUn (5 kg) 1 190,87 %10 190,87\nÇikolata (80 g) 8 58,01 %20 464,08\nDomates (kg) 15 49,99 %1 749,85\nSüt (1 L) 6 50,24 %1 301,44\nGazlı İçecek (1 L) 8 32,59 %20 260,72\nMakarna (500 g) 12 22,16 %10 265,92\nTavuk Göğüs (kg) 6 155,08 %10 930,48\nAra Toplam: 4.011,26\nKDV Toplam: 378,99\nGenel Toplam: 4.390,25\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

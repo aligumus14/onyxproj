@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000169",
+  "source_pdf": "0169_FATURA_INV-2024-000169.pdf",
+  "date": "2024-04-08",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 51.39,
+      "vat_rate": 0.01,
+      "net_total": 308.34
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 55.36,
+      "vat_rate": 0.01,
+      "net_total": 332.16
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 127.59,
+      "vat_rate": 0.1,
+      "net_total": 1913.85
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 64.17,
+      "vat_rate": 0.2,
+      "net_total": 192.51
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 145.76,
+      "vat_rate": 0.1,
+      "net_total": 874.56
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 59.86,
+      "vat_rate": 0.2,
+      "net_total": 598.6
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 2,
+      "unit_price": 139.54,
+      "vat_rate": 0.1,
+      "net_total": 279.08
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 179.49,
+      "vat_rate": 0.1,
+      "net_total": 1794.9
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 86.64,
+      "vat_rate": 0.01,
+      "net_total": 259.92
+    }
+  ],
+  "subtotal": 6553.92,
+  "vat_total": 653.46,
+  "grand_total": 7207.38,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000169 | Tarih: 08.04.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Nilüfer/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 6 51,39 %1 308,34\nElma (kg) 6 55,36 %1 332,16\nAyçiçek Yağı (1 L) 15 127,59 %10 1.913,85\nGazlı İçecek (1 L) 3 64,17 %20 192,51\nTavuk Göğüs (kg) 6 145,76 %10 874,56\nÇikolata (80 g) 10 59,86 %20 598,60\nUn (5 kg) 2 139,54 %10 279,08\nTavuk Göğüs (kg) 10 179,49 %10 1.794,90\nPirinç (1 kg) 3 86,64 %1 259,92\nAra Toplam: 6.553,92\nKDV Toplam: 653,46\nGenel Toplam: 7.207,38\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000213",
+  "source_pdf": "0213_FATURA_INV-2025-000213.pdf",
+  "date": "2025-08-28",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 138.96,
+      "vat_rate": 0.01,
+      "net_total": 1667.52
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 512.16,
+      "vat_rate": 0.1,
+      "net_total": 1024.32
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 93.93,
+      "vat_rate": 0.01,
+      "net_total": 939.3
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 45.71,
+      "vat_rate": 0.1,
+      "net_total": 365.68
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 111.75,
+      "vat_rate": 0.1,
+      "net_total": 2235.0
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 6,
+      "unit_price": 10.81,
+      "vat_rate": 0.2,
+      "net_total": 64.86
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 53.68,
+      "vat_rate": 0.01,
+      "net_total": 107.36
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 151.91,
+      "vat_rate": 0.1,
+      "net_total": 1215.28
+    }
+  ],
+  "subtotal": 7619.32,
+  "vat_total": 524.14,
+  "grand_total": 8143.46,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000213 | Tarih: 28.08.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Karşıyaka/İzmir\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 12 138,96 %1 1.667,52\nDana Kıyma (kg) 2 512,16 %10 1.024,32\nPirinç (1 kg) 10 93,93 %1 939,30\nŞeker (1 kg) 8 45,71 %10 365,68\nUn (5 kg) 20 111,75 %10 2.235,00\nMaden Suyu (200 ml) 6 10,81 %20 64,86\nYoğurt (1 kg) 2 53,68 %1 107,36\nUn (5 kg) 8 151,91 %10 1.215,28\nAra Toplam: 7.619,32\nKDV Toplam: 524,14\nGenel Toplam: 8.143,46\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

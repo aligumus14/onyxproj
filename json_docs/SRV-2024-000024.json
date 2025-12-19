@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000024",
+  "source_pdf": "0624_SERVIS_SRV-2024-000024.pdf",
+  "date": "2024-11-30",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Kritik (4 saat)",
+  "location": "Nilüfer/Gaziantep",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-37788",
+  "technician": "Deniz Arı",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 1033.8,
+      "unit_price": 9.0,
+      "total": 4135.56
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 4135.56,
+  "vat_rate": 0.2,
+  "vat_amount": 827.11,
+  "grand_total": 4962.67,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000024 | Tarih: 30.11.2024 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Kritik (4 saat)\nLokasyon: Nilüfer/Gaziantep | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-37788\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 1.033,89 4.135,56\nParça Değişimi - - 0,00\nAra Toplam: 4.135,56\nKDV (%20): 827,11\nGenel Toplam: 4.962,67\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

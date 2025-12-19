@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000144",
+  "source_pdf": "0144_FATURA_INV-2024-000144.pdf",
+  "date": "2024-10-29",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 54.7,
+      "vat_rate": 0.2,
+      "net_total": 218.8
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 34.5,
+      "vat_rate": 0.2,
+      "net_total": 276.0
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 115.17,
+      "vat_rate": 0.1,
+      "net_total": 2303.4
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 190.82,
+      "vat_rate": 0.2,
+      "net_total": 1526.56
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 292.91,
+      "vat_rate": 0.1,
+      "net_total": 3514.92
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 93.44,
+      "vat_rate": 0.01,
+      "net_total": 373.76
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 208.49,
+      "vat_rate": 0.1,
+      "net_total": 833.96
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 668.65,
+      "vat_rate": 0.1,
+      "net_total": 10029.75
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 99.42,
+      "vat_rate": 0.1,
+      "net_total": 397.68
+    }
+  ],
+  "subtotal": 19474.83,
+  "vat_total": 2115.99,
+  "grand_total": 21590.82,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000144 | Tarih: 29.10.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Seyhan/Adana\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 4 54,70 %20 218,80\nGazlı İçecek (1 L) 8 34,50 %20 276,00\nTavuk Göğüs (kg) 20 115,17 %10 2.303,40\nKahve Çekirdeği (250 g) 8 190,82 %20 1.526,56\nDana Kıyma (kg) 12 292,91 %10 3.514,92\nYoğurt (1 kg) 4 93,44 %1 373,76\nUn (5 kg) 4 208,49 %10 833,96\nSomon Fileto (kg) 15 668,65 %10 10.029,75\nAyçiçek Yağı (1 L) 4 99,42 %10 397,68\nAra Toplam: 19.474,83\nKDV Toplam: 2.115,99\nGenel Toplam: 21.590,82\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

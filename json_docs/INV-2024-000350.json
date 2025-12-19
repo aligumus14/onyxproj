@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000350",
+  "source_pdf": "0350_FATURA_INV-2024-000350.pdf",
+  "date": "2024-03-21",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 38.2,
+      "vat_rate": 0.1,
+      "net_total": 114.6
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 155.27,
+      "vat_rate": 0.1,
+      "net_total": 1552.7
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 467.54,
+      "vat_rate": 0.1,
+      "net_total": 4675.4
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 23.89,
+      "vat_rate": 0.01,
+      "net_total": 119.45
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 18.87,
+      "vat_rate": 0.01,
+      "net_total": 377.4
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 82.83,
+      "vat_rate": 0.01,
+      "net_total": 993.96
+    }
+  ],
+  "subtotal": 7833.51,
+  "vat_total": 649.17,
+  "grand_total": 8482.68,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000350 | Tarih: 21.03.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Muratpaşa/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 3 38,20 %10 114,60\nTavuk Göğüs (kg) 10 155,27 %10 1.552,70\nDana Kıyma (kg) 10 467,54 %10 4.675,40\nDomates (kg) 5 23,89 %1 119,45\nSalatalık (kg) 20 18,87 %1 377,40\nKuru Fasulye (1 kg) 12 82,83 %1 993,96\nAra Toplam: 7.833,51\nKDV Toplam: 649,17\nGenel Toplam: 8.482,68\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

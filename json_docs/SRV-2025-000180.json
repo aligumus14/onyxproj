@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000180",
+  "source_pdf": "0780_SERVIS_SRV-2025-000180.pdf",
+  "date": "2025-08-14",
+  "status": "Açık",
+  "priority": "Orta",
+  "sla": "Orta (24 saat)",
+  "location": "Şehitkamil/Bursa",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-2",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-46058",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 1046.2,
+      "unit_price": 0.0,
+      "total": 4184.8
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 360.6,
+      "total": 721.2
+    }
+  ],
+  "subtotal": 4906.0,
+  "vat_rate": 0.2,
+  "vat_amount": 981.2,
+  "grand_total": 5887.2,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000180 | Tarih: 14.08.2025 | Durum: Açık\nÖncelik: Orta | SLA: Orta (24 saat)\nLokasyon: Şehitkamil/Bursa | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-2\nMakine: Forklift - Linde H35D | Seri No: FLT-46058\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 1.046,20 4.184,80\nFiltre 2 360,60 721,20\nAra Toplam: 4.906,00\nKDV (%20): 981,20\nGenel Toplam: 5.887,20\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000161",
+  "source_pdf": "0161_FATURA_INV-2025-000161.pdf",
+  "date": "2025-10-13",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 52.2,
+      "vat_rate": 0.01,
+      "net_total": 261.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 42.08,
+      "vat_rate": 0.01,
+      "net_total": 631.2
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 224.37,
+      "vat_rate": 0.2,
+      "net_total": 1794.96
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 57.02,
+      "vat_rate": 0.2,
+      "net_total": 285.1
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 35.29,
+      "vat_rate": 0.01,
+      "net_total": 105.87
+    }
+  ],
+  "subtotal": 3078.13,
+  "vat_total": 425.99,
+  "grand_total": 3504.12,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000161 | Tarih: 13.10.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Şehitkamil/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 5 52,20 %1 261,00\nMuz (kg) 15 42,08 %1 631,20\nKahve Çekirdeği (250 g) 8 224,37 %20 1.794,96\nÇikolata (80 g) 5 57,02 %20 285,10\nSalatalık (kg) 3 35,29 %1 105,87\nAra Toplam: 3.078,13\nKDV Toplam: 425,99\nGenel Toplam: 3.504,12\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

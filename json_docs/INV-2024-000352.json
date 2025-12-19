@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000352",
+  "source_pdf": "0352_FATURA_INV-2024-000352.pdf",
+  "date": "2024-12-09",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 71.1,
+      "vat_rate": 0.1,
+      "net_total": 1066.5
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 170.69,
+      "vat_rate": 0.1,
+      "net_total": 682.76
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 25.27,
+      "vat_rate": 0.01,
+      "net_total": 101.08
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 10.67,
+      "vat_rate": 0.2,
+      "net_total": 160.05
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 19.3,
+      "vat_rate": 0.1,
+      "net_total": 19.3
+    }
+  ],
+  "subtotal": 2029.69,
+  "vat_total": 209.88,
+  "grand_total": 2239.57,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000352 | Tarih: 09.12.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Selçuklu/İzmir\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 15 71,10 %10 1.066,50\nTavuk Göğüs (kg) 4 170,69 %10 682,76\nSalatalık (kg) 4 25,27 %1 101,08\nMaden Suyu (200 ml) 15 10,67 %20 160,05\nMakarna (500 g) 1 19,30 %10 19,30\nAra Toplam: 2.029,69\nKDV Toplam: 209,88\nGenel Toplam: 2.239,57\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000152",
+  "source_pdf": "0752_SERVIS_SRV-2025-000152.pdf",
+  "date": "2025-09-16",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Şehitkamil/Samsun",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-2",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-22653",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 862.1,
+      "unit_price": 6.0,
+      "total": 3448.64
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 3448.64,
+  "vat_rate": 0.2,
+  "vat_amount": 689.73,
+  "grand_total": 4138.37,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000152 | Tarih: 16.09.2025 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Şehitkamil/Samsun | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-2\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-22653\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 862,16 3.448,64\nParça Değişimi - - 0,00\nAra Toplam: 3.448,64\nKDV (%20): 689,73\nGenel Toplam: 4.138,37\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

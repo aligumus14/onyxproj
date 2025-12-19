@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000140",
+  "source_pdf": "0740_SERVIS_SRV-2024-000140.pdf",
+  "date": "2024-09-17",
+  "status": "Açık",
+  "priority": "Kritik",
+  "sla": "Yüksek (8 saat)",
+  "location": "Şişli/Gaziantep",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-1",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-92208",
+  "technician": "Selin Uçar",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 1155.3,
+      "unit_price": 7.0,
+      "total": 6932.22
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 188.04,
+      "total": 188.04
+    }
+  ],
+  "subtotal": 7120.26,
+  "vat_rate": 0.2,
+  "vat_amount": 1424.05,
+  "grand_total": 8544.31,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000140 | Tarih: 17.09.2024 | Durum: Açık\nÖncelik: Kritik | SLA: Yüksek (8 saat)\nLokasyon: Şişli/Gaziantep | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-1\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-92208\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 1.155,37 6.932,22\nFiltre 1 188,04 188,04\nAra Toplam: 7.120,26\nKDV (%20): 1.424,05\nGenel Toplam: 8.544,31\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

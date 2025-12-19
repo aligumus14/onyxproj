@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000214",
+  "source_pdf": "0214_FATURA_INV-2025-000214.pdf",
+  "date": "2025-05-02",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 25.53,
+      "vat_rate": 0.2,
+      "net_total": 204.24
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 178.2,
+      "vat_rate": 0.1,
+      "net_total": 1425.6
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 68.01,
+      "vat_rate": 0.2,
+      "net_total": 1360.2
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 47.31,
+      "vat_rate": 0.01,
+      "net_total": 567.72
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 76.31,
+      "vat_rate": 0.1,
+      "net_total": 1144.65
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 68.92,
+      "vat_rate": 0.01,
+      "net_total": 413.52
+    }
+  ],
+  "subtotal": 5115.93,
+  "vat_total": 579.74,
+  "grand_total": 5695.67,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000214 | Tarih: 02.05.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Seyhan/Kocaeli\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 8 25,53 %20 204,24\nUn (5 kg) 8 178,20 %10 1.425,60\nÇikolata (80 g) 20 68,01 %20 1.360,20\nElma (kg) 12 47,31 %1 567,72\nŞeker (1 kg) 15 76,31 %10 1.144,65\nYoğurt (1 kg) 6 68,92 %1 413,52\nAra Toplam: 5.115,93\nKDV Toplam: 579,74\nGenel Toplam: 5.695,67\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

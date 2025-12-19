@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000071",
+  "source_pdf": "0071_FATURA_INV-2025-000071.pdf",
+  "date": "2025-09-18",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 28.17,
+      "vat_rate": 0.1,
+      "net_total": 338.04
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 142.97,
+      "vat_rate": 0.01,
+      "net_total": 1429.7
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 365.03,
+      "vat_rate": 0.1,
+      "net_total": 4380.36
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 83.89,
+      "vat_rate": 0.01,
+      "net_total": 1258.35
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 44.53,
+      "vat_rate": 0.01,
+      "net_total": 222.65
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 51.99,
+      "vat_rate": 0.01,
+      "net_total": 259.95
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 101.7,
+      "vat_rate": 0.1,
+      "net_total": 1017.0
+    }
+  ],
+  "subtotal": 8906.05,
+  "vat_total": 605.25,
+  "grand_total": 9511.3,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000071 | Tarih: 18.09.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Çankaya/Gaziantep\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 12 28,17 %10 338,04\nKuru Fasulye (1 kg) 10 142,97 %1 1.429,70\nDana Kıyma (kg) 12 365,03 %10 4.380,36\nYoğurt (1 kg) 15 83,89 %1 1.258,35\nSüt (1 L) 5 44,53 %1 222,65\nSüt (1 L) 5 51,99 %1 259,95\nAyçiçek Yağı (1 L) 10 101,70 %10 1.017,00\nAra Toplam: 8.906,05\nKDV Toplam: 605,25\nGenel Toplam: 9.511,30\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

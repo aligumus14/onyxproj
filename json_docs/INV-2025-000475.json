@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000475",
+  "source_pdf": "0475_FATURA_INV-2025-000475.pdf",
+  "date": "2025-03-26",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 29.19,
+      "vat_rate": 0.1,
+      "net_total": 291.9
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 32.69,
+      "vat_rate": 0.2,
+      "net_total": 490.35
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 116.47,
+      "vat_rate": 0.01,
+      "net_total": 1397.64
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 21.2,
+      "vat_rate": 0.2,
+      "net_total": 169.6
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 622.53,
+      "vat_rate": 0.1,
+      "net_total": 3112.65
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 578.06,
+      "vat_rate": 0.1,
+      "net_total": 2312.24
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 833.24,
+      "vat_rate": 0.1,
+      "net_total": 1666.48
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 100.9,
+      "vat_rate": 0.01,
+      "net_total": 605.4
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 45.26,
+      "vat_rate": 0.01,
+      "net_total": 543.12
+    }
+  ],
+  "subtotal": 10589.38,
+  "vat_total": 895.78,
+  "grand_total": 11485.16,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000475 | Tarih: 26.03.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Çankaya/Antalya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 10 29,19 %10 291,90\nGazlı İçecek (1 L) 15 32,69 %20 490,35\nKuru Fasulye (1 kg) 12 116,47 %1 1.397,64\nMaden Suyu (200 ml) 8 21,20 %20 169,60\nSomon Fileto (kg) 5 622,53 %10 3.112,65\nSomon Fileto (kg) 4 578,06 %10 2.312,24\nSomon Fileto (kg) 2 833,24 %10 1.666,48\nPirinç (1 kg) 6 100,90 %1 605,40\nSüt (1 L) 12 45,26 %1 543,12\nAra Toplam: 10.589,38\nKDV Toplam: 895,78\nGenel Toplam: 11.485,16\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000101",
+  "source_pdf": "0101_FATURA_INV-2024-000101.pdf",
+  "date": "2024-10-07",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 171.94,
+      "vat_rate": 0.2,
+      "net_total": 3438.8
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 47.94,
+      "vat_rate": 0.01,
+      "net_total": 383.52
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 32.47,
+      "vat_rate": 0.01,
+      "net_total": 32.47
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 72.65,
+      "vat_rate": 0.01,
+      "net_total": 217.95
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 45.03,
+      "vat_rate": 0.2,
+      "net_total": 900.6
+    }
+  ],
+  "subtotal": 4973.34,
+  "vat_total": 874.22,
+  "grand_total": 5847.56,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000101 | Tarih: 07.10.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Nilüfer/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 20 171,94 %20 3.438,80\nSüt (1 L) 8 47,94 %1 383,52\nElma (kg) 1 32,47 %1 32,47\nMuz (kg) 3 72,65 %1 217,95\nÇikolata (80 g) 20 45,03 %20 900,60\nAra Toplam: 4.973,34\nKDV Toplam: 874,22\nGenel Toplam: 5.847,56\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

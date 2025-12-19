@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000081",
+  "source_pdf": "0081_FATURA_INV-2025-000081.pdf",
+  "date": "2025-07-23",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 41.71,
+      "vat_rate": 0.1,
+      "net_total": 333.68
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 248.25,
+      "vat_rate": 0.2,
+      "net_total": 744.75
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 40.93,
+      "vat_rate": 0.1,
+      "net_total": 163.72
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 198.64,
+      "vat_rate": 0.1,
+      "net_total": 595.92
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 29.14,
+      "vat_rate": 0.01,
+      "net_total": 349.68
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 58.85,
+      "vat_rate": 0.1,
+      "net_total": 706.2
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 163.35,
+      "vat_rate": 0.2,
+      "net_total": 653.4
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 298.98,
+      "vat_rate": 0.1,
+      "net_total": 5979.6
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 102.02,
+      "vat_rate": 0.1,
+      "net_total": 612.12
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 96.85,
+      "vat_rate": 0.1,
+      "net_total": 96.85
+    }
+  ],
+  "subtotal": 10235.92,
+  "vat_total": 1131.94,
+  "grand_total": 11367.86,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000081 | Tarih: 23.07.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Selçuklu/Kocaeli\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 8 41,71 %10 333,68\nKahve Çekirdeği (250 g) 3 248,25 %20 744,75\nMakarna (500 g) 4 40,93 %10 163,72\nTavuk Göğüs (kg) 3 198,64 %10 595,92\nSalatalık (kg) 12 29,14 %1 349,68\nŞeker (1 kg) 12 58,85 %10 706,20\nKahve Çekirdeği (250 g) 4 163,35 %20 653,40\nDana Kıyma (kg) 20 298,98 %10 5.979,60\nUn (5 kg) 6 102,02 %10 612,12\nAyçiçek Yağı (1 L) 1 96,85 %10 96,85\nAra Toplam: 10.235,92\nKDV Toplam: 1.131,94\nGenel Toplam: 11.367,86\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

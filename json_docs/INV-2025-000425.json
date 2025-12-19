@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000425",
+  "source_pdf": "0425_FATURA_INV-2025-000425.pdf",
+  "date": "2025-07-11",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 455.67,
+      "vat_rate": 0.1,
+      "net_total": 5468.04
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 262.41,
+      "vat_rate": 0.2,
+      "net_total": 2099.28
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 23.21,
+      "vat_rate": 0.01,
+      "net_total": 46.42
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 57.8,
+      "vat_rate": 0.2,
+      "net_total": 173.4
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 64.39,
+      "vat_rate": 0.01,
+      "net_total": 193.17
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 63.91,
+      "vat_rate": 0.01,
+      "net_total": 958.65
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 32.78,
+      "vat_rate": 0.2,
+      "net_total": 262.24
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 29.58,
+      "vat_rate": 0.01,
+      "net_total": 147.9
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 586.58,
+      "vat_rate": 0.1,
+      "net_total": 1173.16
+    }
+  ],
+  "subtotal": 10522.26,
+  "vat_total": 1184.57,
+  "grand_total": 11706.83,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000425 | Tarih: 11.07.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Nilüfer/Adana\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 12 455,67 %10 5.468,04\nKahve Çekirdeği (250 g) 8 262,41 %20 2.099,28\nSalatalık (kg) 2 23,21 %1 46,42\nÇikolata (80 g) 3 57,80 %20 173,40\nMuz (kg) 3 64,39 %1 193,17\nYoğurt (1 kg) 15 63,91 %1 958,65\nÇikolata (80 g) 8 32,78 %20 262,24\nDomates (kg) 5 29,58 %1 147,90\nSomon Fileto (kg) 2 586,58 %10 1.173,16\nAra Toplam: 10.522,26\nKDV Toplam: 1.184,57\nGenel Toplam: 11.706,83\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

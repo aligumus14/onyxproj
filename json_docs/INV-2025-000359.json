@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000359",
+  "source_pdf": "0359_FATURA_INV-2025-000359.pdf",
+  "date": "2025-07-28",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 316.12,
+      "vat_rate": 0.1,
+      "net_total": 316.12
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 154.93,
+      "vat_rate": 0.1,
+      "net_total": 464.79
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 470.08,
+      "vat_rate": 0.1,
+      "net_total": 940.16
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 58.43,
+      "vat_rate": 0.1,
+      "net_total": 292.15
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 53.02,
+      "vat_rate": 0.01,
+      "net_total": 530.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 74.21,
+      "vat_rate": 0.01,
+      "net_total": 1484.2
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 10.55,
+      "vat_rate": 0.2,
+      "net_total": 21.1
+    }
+  ],
+  "subtotal": 4048.72,
+  "vat_total": 225.68,
+  "grand_total": 4274.4,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000359 | Tarih: 28.07.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Şehitkamil/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 1 316,12 %10 316,12\nUn (5 kg) 3 154,93 %10 464,79\nDana Kıyma (kg) 2 470,08 %10 940,16\nŞeker (1 kg) 5 58,43 %10 292,15\nDomates (kg) 10 53,02 %1 530,20\nPirinç (1 kg) 20 74,21 %1 1.484,20\nMaden Suyu (200 ml) 2 10,55 %20 21,10\nAra Toplam: 4.048,72\nKDV Toplam: 225,68\nGenel Toplam: 4.274,40\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

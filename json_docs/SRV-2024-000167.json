@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000167",
+  "source_pdf": "0767_SERVIS_SRV-2024-000167.pdf",
+  "date": "2024-12-18",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Şehitkamil/Samsun",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-1",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-51343",
+  "technician": "Emre Taş",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 585.6,
+      "unit_price": 0.0,
+      "total": 3513.6
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 3513.6,
+  "vat_rate": 0.2,
+  "vat_amount": 702.72,
+  "grand_total": 4216.32,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000167 | Tarih: 18.12.2024 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Şehitkamil/Samsun | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-1\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-51343\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 585,60 3.513,60\nParça Değişimi - - 0,00\nAra Toplam: 3.513,60\nKDV (%20): 702,72\nGenel Toplam: 4.216,32\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

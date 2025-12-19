@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000123",
+  "source_pdf": "0123_FATURA_INV-2025-000123.pdf",
+  "date": "2025-07-02",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 33.42,
+      "vat_rate": 0.01,
+      "net_total": 401.04
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 15,
+      "unit_price": 55.49,
+      "vat_rate": 0.2,
+      "net_total": 832.35
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 106.7,
+      "vat_rate": 0.01,
+      "net_total": 213.4
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 213.38,
+      "vat_rate": 0.1,
+      "net_total": 640.14
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 134.68,
+      "vat_rate": 0.01,
+      "net_total": 538.72
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 72.52,
+      "vat_rate": 0.01,
+      "net_total": 72.52
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 79.88,
+      "vat_rate": 0.1,
+      "net_total": 319.52
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 61.76,
+      "vat_rate": 0.01,
+      "net_total": 926.4
+    }
+  ],
+  "subtotal": 3944.09,
+  "vat_total": 283.95,
+  "grand_total": 4228.04,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000123 | Tarih: 02.07.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Karşıyaka/Konya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 12 33,42 %1 401,04\nÇikolata (80 g) 15 55,49 %20 832,35\nPirinç (1 kg) 2 106,70 %1 213,40\nUn (5 kg) 3 213,38 %10 640,14\nKuru Fasulye (1 kg) 4 134,68 %1 538,72\nPirinç (1 kg) 1 72,52 %1 72,52\nŞeker (1 kg) 4 79,88 %10 319,52\nPirinç (1 kg) 15 61,76 %1 926,40\nAra Toplam: 3.944,09\nKDV Toplam: 283,95\nGenel Toplam: 4.228,04\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

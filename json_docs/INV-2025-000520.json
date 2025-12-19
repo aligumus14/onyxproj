@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000520",
+  "source_pdf": "0520_FATURA_INV-2025-000520.pdf",
+  "date": "2025-07-19",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 35.56,
+      "vat_rate": 0.01,
+      "net_total": 426.72
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 45.84,
+      "vat_rate": 0.2,
+      "net_total": 137.52
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 22.02,
+      "vat_rate": 0.2,
+      "net_total": 176.16
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 53.97,
+      "vat_rate": 0.2,
+      "net_total": 1079.4
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 58.24,
+      "vat_rate": 0.01,
+      "net_total": 873.6
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 32.83,
+      "vat_rate": 0.2,
+      "net_total": 328.3
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 200.96,
+      "vat_rate": 0.1,
+      "net_total": 1004.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 34.23,
+      "vat_rate": 0.01,
+      "net_total": 171.15
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 65.91,
+      "vat_rate": 0.1,
+      "net_total": 131.82
+    }
+  ],
+  "subtotal": 4329.47,
+  "vat_total": 472.65,
+  "grand_total": 4802.12,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000520 | Tarih: 19.07.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Kadıköy/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 12 35,56 %1 426,72\nÇikolata (80 g) 3 45,84 %20 137,52\nMaden Suyu (200 ml) 8 22,02 %20 176,16\nGazlı İçecek (1 L) 20 53,97 %20 1.079,40\nYoğurt (1 kg) 15 58,24 %1 873,60\nÇikolata (80 g) 10 32,83 %20 328,30\nUn (5 kg) 5 200,96 %10 1.004,80\nSalatalık (kg) 5 34,23 %1 171,15\nŞeker (1 kg) 2 65,91 %10 131,82\nAra Toplam: 4.329,47\nKDV Toplam: 472,65\nGenel Toplam: 4.802,12\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

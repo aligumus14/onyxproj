@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000502",
+  "source_pdf": "0502_FATURA_INV-2024-000502.pdf",
+  "date": "2024-07-21",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 42.03,
+      "vat_rate": 0.01,
+      "net_total": 168.12
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 8,
+      "unit_price": 29.75,
+      "vat_rate": 0.1,
+      "net_total": 238.0
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 147.53,
+      "vat_rate": 0.01,
+      "net_total": 1475.3
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 43.96,
+      "vat_rate": 0.01,
+      "net_total": 263.76
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 78.83,
+      "vat_rate": 0.01,
+      "net_total": 472.98
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 135.87,
+      "vat_rate": 0.1,
+      "net_total": 407.61
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 29.24,
+      "vat_rate": 0.1,
+      "net_total": 116.96
+    }
+  ],
+  "subtotal": 3142.73,
+  "vat_total": 100.06,
+  "grand_total": 3242.79,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000502 | Tarih: 21.07.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Karşıyaka/İzmir\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 4 42,03 %1 168,12\nMakarna (500 g) 8 29,75 %10 238,00\nKuru Fasulye (1 kg) 10 147,53 %1 1.475,30\nSalatalık (kg) 6 43,96 %1 263,76\nMuz (kg) 6 78,83 %1 472,98\nTavuk Göğüs (kg) 3 135,87 %10 407,61\nMakarna (500 g) 4 29,24 %10 116,96\nAra Toplam: 3.142,73\nKDV Toplam: 100,06\nGenel Toplam: 3.242,79\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

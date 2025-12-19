@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000371",
+  "source_pdf": "0371_FATURA_INV-2025-000371.pdf",
+  "date": "2025-03-01",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 426.96,
+      "vat_rate": 0.1,
+      "net_total": 4269.6
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 238.4,
+      "vat_rate": 0.2,
+      "net_total": 1192.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 200.33,
+      "vat_rate": 0.1,
+      "net_total": 2003.3
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 57.82,
+      "vat_rate": 0.01,
+      "net_total": 346.92
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 32.84,
+      "vat_rate": 0.01,
+      "net_total": 32.84
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 23.68,
+      "vat_rate": 0.01,
+      "net_total": 71.04
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 334.32,
+      "vat_rate": 0.1,
+      "net_total": 2674.56
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 79.83,
+      "vat_rate": 0.01,
+      "net_total": 319.32
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 845.83,
+      "vat_rate": 0.1,
+      "net_total": 10149.96
+    }
+  ],
+  "subtotal": 21059.54,
+  "vat_total": 2155.85,
+  "grand_total": 23215.39,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000371 | Tarih: 01.03.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Muratpaşa/Adana\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 10 426,96 %10 4.269,60\nKahve Çekirdeği (250 g) 5 238,40 %20 1.192,00\nUn (5 kg) 10 200,33 %10 2.003,30\nElma (kg) 6 57,82 %1 346,92\nElma (kg) 1 32,84 %1 32,84\nDomates (kg) 3 23,68 %1 71,04\nDana Kıyma (kg) 8 334,32 %10 2.674,56\nMuz (kg) 4 79,83 %1 319,32\nSomon Fileto (kg) 12 845,83 %10 10.149,96\nAra Toplam: 21.059,54\nKDV Toplam: 2.155,85\nGenel Toplam: 23.215,39\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

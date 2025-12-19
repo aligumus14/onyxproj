@@ -1,0 +1,52 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000247",
+  "source_pdf": "0847_SERVIS_SRV-2025-000247.pdf",
+  "date": "2025-05-31",
+  "status": "Parça Bekleniyor",
+  "priority": "Orta",
+  "sla": "Yüksek (8 saat)",
+  "location": "Selçuklu/Gaziantep",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-B",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-35380",
+  "technician": "Emre Taş",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 1087.3,
+      "unit_price": 5.0,
+      "total": 2174.7
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 445.49,
+      "total": 890.98
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 885.55,
+      "total": 885.55
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 503.06,
+      "total": 503.06
+    }
+  ],
+  "subtotal": 4454.29,
+  "vat_rate": 0.2,
+  "vat_amount": 890.86,
+  "grand_total": 5345.15,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000247 | Tarih: 31.05.2025 | Durum: Parça Bekleniyor\nÖncelik: Orta | SLA: Yüksek (8 saat)\nLokasyon: Selçuklu/Gaziantep | Şube/DM: TR-IZM-DC03 | Depo: Depo-B\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-35380\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 1.087,35 2.174,70\nKayış 2 445,49 890,98\nTermostat 1 885,55 885,55\nRulman Seti 1 503,06 503,06\nAra Toplam: 4.454,29\nKDV (%20): 890,86\nGenel Toplam: 5.345,15\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

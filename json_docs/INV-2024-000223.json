@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000223",
+  "source_pdf": "0223_FATURA_INV-2024-000223.pdf",
+  "date": "2024-02-08",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 60.1,
+      "vat_rate": 0.1,
+      "net_total": 60.1
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 168.66,
+      "vat_rate": 0.1,
+      "net_total": 337.32
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 37.67,
+      "vat_rate": 0.01,
+      "net_total": 565.05
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 33.77,
+      "vat_rate": 0.2,
+      "net_total": 405.24
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 75.31,
+      "vat_rate": 0.1,
+      "net_total": 376.55
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 48.98,
+      "vat_rate": 0.01,
+      "net_total": 146.94
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 22.76,
+      "vat_rate": 0.1,
+      "net_total": 227.6
+    }
+  ],
+  "subtotal": 2118.8,
+  "vat_total": 188.33,
+  "grand_total": 2307.13,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000223 | Tarih: 08.02.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Beşiktaş/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 1 60,10 %10 60,10\nAyçiçek Yağı (1 L) 2 168,66 %10 337,32\nElma (kg) 15 37,67 %1 565,05\nGazlı İçecek (1 L) 12 33,77 %20 405,24\nAyçiçek Yağı (1 L) 5 75,31 %10 376,55\nElma (kg) 3 48,98 %1 146,94\nMakarna (500 g) 10 22,76 %10 227,60\nAra Toplam: 2.118,80\nKDV Toplam: 188,33\nGenel Toplam: 2.307,13\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

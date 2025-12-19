@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000029",
+  "source_pdf": "0029_FATURA_INV-2024-000029.pdf",
+  "date": "2024-09-27",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 98.73,
+      "vat_rate": 0.01,
+      "net_total": 493.65
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 49.13,
+      "vat_rate": 0.01,
+      "net_total": 49.13
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 192.39,
+      "vat_rate": 0.1,
+      "net_total": 2885.85
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 16.59,
+      "vat_rate": 0.2,
+      "net_total": 82.95
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 180.97,
+      "vat_rate": 0.1,
+      "net_total": 904.85
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 87.8,
+      "vat_rate": 0.01,
+      "net_total": 1053.6
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 2,
+      "unit_price": 167.74,
+      "vat_rate": 0.1,
+      "net_total": 335.48
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 62.17,
+      "vat_rate": 0.1,
+      "net_total": 373.02
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 28.01,
+      "vat_rate": 0.01,
+      "net_total": 56.02
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 24.26,
+      "vat_rate": 0.2,
+      "net_total": 363.9
+    }
+  ],
+  "subtotal": 6598.45,
+  "vat_total": 555.82,
+  "grand_total": 7154.27,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000029 | Tarih: 27.09.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Selçuklu/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 5 98,73 %1 493,65\nMuz (kg) 1 49,13 %1 49,13\nTavuk Göğüs (kg) 15 192,39 %10 2.885,85\nMaden Suyu (200 ml) 5 16,59 %20 82,95\nUn (5 kg) 5 180,97 %10 904,85\nYoğurt (1 kg) 12 87,80 %1 1.053,60\nUn (5 kg) 2 167,74 %10 335,48\nŞeker (1 kg) 6 62,17 %10 373,02\nDomates (kg) 2 28,01 %1 56,02\nMaden Suyu (200 ml) 15 24,26 %20 363,90\nAra Toplam: 6.598,45\nKDV Toplam: 555,82\nGenel Toplam: 7.154,27\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

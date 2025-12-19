@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000210",
+  "source_pdf": "0810_SERVIS_SRV-2025-000210.pdf",
+  "date": "2025-10-30",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Yüksek (8 saat)",
+  "location": "Selçuklu/Bursa",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-2",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-10147",
+  "technician": "Selin Uçar",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 848.1,
+      "unit_price": 6.0,
+      "total": 848.16
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 848.16,
+  "vat_rate": 0.2,
+  "vat_amount": 169.63,
+  "grand_total": 1017.79,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000210 | Tarih: 30.10.2025 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Yüksek (8 saat)\nLokasyon: Selçuklu/Bursa | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-2\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-10147\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 848,16 848,16\nParça Değişimi - - 0,00\nAra Toplam: 848,16\nKDV (%20): 169,63\nGenel Toplam: 1.017,79\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

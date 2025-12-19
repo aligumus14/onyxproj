@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000435",
+  "source_pdf": "0435_FATURA_INV-2024-000435.pdf",
+  "date": "2024-07-02",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 21.02,
+      "vat_rate": 0.01,
+      "net_total": 315.3
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 37.94,
+      "vat_rate": 0.01,
+      "net_total": 455.28
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 27.94,
+      "vat_rate": 0.01,
+      "net_total": 83.82
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 50.44,
+      "vat_rate": 0.01,
+      "net_total": 151.32
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 8,
+      "unit_price": 42.1,
+      "vat_rate": 0.1,
+      "net_total": 336.8
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 725.6,
+      "vat_rate": 0.1,
+      "net_total": 7256.0
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 44.92,
+      "vat_rate": 0.01,
+      "net_total": 539.04
+    }
+  ],
+  "subtotal": 9137.56,
+  "vat_total": 774.72,
+  "grand_total": 9912.28,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000435 | Tarih: 02.07.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Seyhan/İstanbul\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 15 21,02 %1 315,30\nSalatalık (kg) 12 37,94 %1 455,28\nSüt (1 L) 3 27,94 %1 83,82\nElma (kg) 3 50,44 %1 151,32\nMakarna (500 g) 8 42,10 %10 336,80\nSomon Fileto (kg) 10 725,60 %10 7.256,00\nSüt (1 L) 12 44,92 %1 539,04\nAra Toplam: 9.137,56\nKDV Toplam: 774,72\nGenel Toplam: 9.912,28\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

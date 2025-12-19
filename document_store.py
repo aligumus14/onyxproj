@@ -9,10 +9,13 @@ class DocumentStore:
 
     def add_document(self, text, filename):
         """
-        Belgeyi parçalara ayırır (Overlap ekleyerek kelime bölünmesini önler).
+        pdfplumber (layout=True) çok fazla boşluk ürettiği için
+        Chunk boyutunu artırıyoruz. Yoksa tablolar bölünür.
         """
-        chunk_size = 1000
-        overlap = 200  # <--- YENİ: Parçalar birbirinin üstüne 200 karakter binsin
+        # ESKİ: chunk_size = 1000, overlap = 200
+        # YENİ: Daha geniş pencere
+        chunk_size = 3000  # <--- Büyüttük
+        overlap = 500      # <--- Örtüşmeyi artırdık
         
         chunks = []
         start = 0
@@ -20,24 +23,13 @@ class DocumentStore:
             end = start + chunk_size
             chunk = text[start:end]
             
-            # Eğer chunk çok kısaysa (son parça) ve boşsa ekleme
+            # Eğer parça çok kısaysa ve içi boşsa (sadece space varsa) atla
             if len(chunk.strip()) > 10:
                 chunks.append(chunk)
             
-            # Bir sonraki parça, 200 karakter geriden başlasın
             start += (chunk_size - overlap)
         
-        # Her parça için ID ve metadata oluştur
-        ids = [f"{filename}_{i}" for i in range(len(chunks))]
-        metadatas = [{"source": filename} for _ in chunks]
-
-        if len(chunks) > 0:
-            # print(f"💾 {filename} -> {len(chunks)} parça olarak kaydediliyor.") 
-            self.collection.add(
-                documents=chunks,
-                metadatas=metadatas,
-                ids=ids
-            )
+        # ... (Geri kalan kod aynı) ...
 
     def search_document(self, query, n_results=5, filter_filename=None):
         """

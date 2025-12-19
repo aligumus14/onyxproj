@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000148",
+  "source_pdf": "0748_SERVIS_SRV-2025-000148.pdf",
+  "date": "2025-10-19",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Şişli/Ankara",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-A",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-19996",
+  "technician": "Deniz Arı",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 1133.7,
+      "unit_price": 7.0,
+      "total": 4535.08
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 4535.08,
+  "vat_rate": 0.2,
+  "vat_amount": 907.02,
+  "grand_total": 5442.1,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000148 | Tarih: 19.10.2025 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Şişli/Ankara | Şube/DM: TR-ANK-DC02 | Depo: Depo-A\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-19996\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 1.133,77 4.535,08\nParça Değişimi - - 0,00\nAra Toplam: 4.535,08\nKDV (%20): 907,02\nGenel Toplam: 5.442,10\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

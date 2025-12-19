@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000186",
+  "source_pdf": "0786_SERVIS_SRV-2024-000186.pdf",
+  "date": "2024-09-12",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Orta (24 saat)",
+  "location": "Şişli/Antalya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-A",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-43408",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 476.2,
+      "unit_price": 2.0,
+      "total": 476.22
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 476.22,
+  "vat_rate": 0.2,
+  "vat_amount": 95.24,
+  "grand_total": 571.46,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000186 | Tarih: 12.09.2024 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Orta (24 saat)\nLokasyon: Şişli/Antalya | Şube/DM: TR-ANT-DC05 | Depo: Depo-A\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-43408\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 476,22 476,22\nParça Değişimi - - 0,00\nAra Toplam: 476,22\nKDV (%20): 95,24\nGenel Toplam: 571,46\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

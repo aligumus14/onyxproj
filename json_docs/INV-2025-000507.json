@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000507",
+  "source_pdf": "0507_FATURA_INV-2025-000507.pdf",
+  "date": "2025-07-19",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 49.57,
+      "vat_rate": 0.1,
+      "net_total": 991.4
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 119.05,
+      "vat_rate": 0.01,
+      "net_total": 714.3
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 25.64,
+      "vat_rate": 0.01,
+      "net_total": 512.8
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 10.59,
+      "vat_rate": 0.2,
+      "net_total": 158.85
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 57.52,
+      "vat_rate": 0.2,
+      "net_total": 57.52
+    }
+  ],
+  "subtotal": 2434.87,
+  "vat_total": 154.68,
+  "grand_total": 2589.55,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000507 | Tarih: 19.07.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Muratpaşa/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 20 49,57 %10 991,40\nKuru Fasulye (1 kg) 6 119,05 %1 714,30\nSalatalık (kg) 20 25,64 %1 512,80\nMaden Suyu (200 ml) 15 10,59 %20 158,85\nÇikolata (80 g) 1 57,52 %20 57,52\nAra Toplam: 2.434,87\nKDV Toplam: 154,68\nGenel Toplam: 2.589,55\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

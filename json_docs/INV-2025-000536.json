@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000536",
+  "source_pdf": "0536_FATURA_INV-2025-000536.pdf",
+  "date": "2025-04-18",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 44.54,
+      "vat_rate": 0.01,
+      "net_total": 89.08
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 63.67,
+      "vat_rate": 0.01,
+      "net_total": 63.67
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 55.49,
+      "vat_rate": 0.2,
+      "net_total": 554.9
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 212.05,
+      "vat_rate": 0.2,
+      "net_total": 2544.6
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 199.33,
+      "vat_rate": 0.2,
+      "net_total": 2391.96
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 60.39,
+      "vat_rate": 0.2,
+      "net_total": 362.34
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 21.27,
+      "vat_rate": 0.2,
+      "net_total": 170.16
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 32.51,
+      "vat_rate": 0.2,
+      "net_total": 260.08
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 39.73,
+      "vat_rate": 0.1,
+      "net_total": 119.19
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 129.98,
+      "vat_rate": 0.1,
+      "net_total": 259.96
+    }
+  ],
+  "subtotal": 6815.94,
+  "vat_total": 1296.26,
+  "grand_total": 8112.2,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000536 | Tarih: 18.04.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 2 44,54 %1 89,08\nPirinç (1 kg) 1 63,67 %1 63,67\nÇikolata (80 g) 10 55,49 %20 554,90\nKahve Çekirdeği (250 g) 12 212,05 %20 2.544,60\nKahve Çekirdeği (250 g) 12 199,33 %20 2.391,96\nÇikolata (80 g) 6 60,39 %20 362,34\nMaden Suyu (200 ml) 8 21,27 %20 170,16\nÇikolata (80 g) 8 32,51 %20 260,08\nMakarna (500 g) 3 39,73 %10 119,19\nAyçiçek Yağı (1 L) 2 129,98 %10 259,96\nAra Toplam: 6.815,94\nKDV Toplam: 1.296,26\nGenel Toplam: 8.112,20\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

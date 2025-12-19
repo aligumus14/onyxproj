@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000341",
+  "source_pdf": "0341_FATURA_INV-2025-000341.pdf",
+  "date": "2025-02-14",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 139.67,
+      "vat_rate": 0.1,
+      "net_total": 2095.05
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 47.67,
+      "vat_rate": 0.2,
+      "net_total": 476.7
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 38.65,
+      "vat_rate": 0.2,
+      "net_total": 193.25
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 49.79,
+      "vat_rate": 0.01,
+      "net_total": 248.95
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 31.84,
+      "vat_rate": 0.2,
+      "net_total": 63.68
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 24.43,
+      "vat_rate": 0.01,
+      "net_total": 293.16
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 22.0,
+      "vat_rate": 0.01,
+      "net_total": 440.0
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 68.93,
+      "vat_rate": 0.01,
+      "net_total": 206.79
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 44.46,
+      "vat_rate": 0.01,
+      "net_total": 889.2
+    }
+  ],
+  "subtotal": 4906.78,
+  "vat_total": 377.02,
+  "grand_total": 5283.8,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000341 | Tarih: 14.02.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Kadıköy/İzmir\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 15 139,67 %10 2.095,05\nÇikolata (80 g) 10 47,67 %20 476,70\nÇikolata (80 g) 5 38,65 %20 193,25\nSüt (1 L) 5 49,79 %1 248,95\nGazlı İçecek (1 L) 2 31,84 %20 63,68\nSalatalık (kg) 12 24,43 %1 293,16\nSalatalık (kg) 20 22,00 %1 440,00\nYoğurt (1 kg) 3 68,93 %1 206,79\nSalatalık (kg) 20 44,46 %1 889,20\nAra Toplam: 4.906,78\nKDV Toplam: 377,02\nGenel Toplam: 5.283,80\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

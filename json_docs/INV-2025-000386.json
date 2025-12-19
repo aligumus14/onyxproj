@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000386",
+  "source_pdf": "0386_FATURA_INV-2025-000386.pdf",
+  "date": "2025-08-25",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 41.67,
+      "vat_rate": 0.1,
+      "net_total": 333.36
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 123.21,
+      "vat_rate": 0.1,
+      "net_total": 1232.1
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 218.69,
+      "vat_rate": 0.2,
+      "net_total": 218.69
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 35.56,
+      "vat_rate": 0.01,
+      "net_total": 711.2
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 208.05,
+      "vat_rate": 0.1,
+      "net_total": 208.05
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 637.16,
+      "vat_rate": 0.1,
+      "net_total": 1911.48
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 91.19,
+      "vat_rate": 0.1,
+      "net_total": 455.95
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 110.05,
+      "vat_rate": 0.01,
+      "net_total": 660.3
+    }
+  ],
+  "subtotal": 5731.13,
+  "vat_total": 471.55,
+  "grand_total": 6202.68,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000386 | Tarih: 25.08.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Muratpaşa/Kocaeli\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 8 41,67 %10 333,36\nTavuk Göğüs (kg) 10 123,21 %10 1.232,10\nKahve Çekirdeği (250 g) 1 218,69 %20 218,69\nSalatalık (kg) 20 35,56 %1 711,20\nUn (5 kg) 1 208,05 %10 208,05\nSomon Fileto (kg) 3 637,16 %10 1.911,48\nUn (5 kg) 5 91,19 %10 455,95\nKuru Fasulye (1 kg) 6 110,05 %1 660,30\nAra Toplam: 5.731,13\nKDV Toplam: 471,55\nGenel Toplam: 6.202,68\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

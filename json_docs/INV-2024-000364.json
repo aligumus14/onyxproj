@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000364",
+  "source_pdf": "0364_FATURA_INV-2024-000364.pdf",
+  "date": "2024-05-09",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 79.33,
+      "vat_rate": 0.1,
+      "net_total": 158.66
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 63.3,
+      "vat_rate": 0.1,
+      "net_total": 63.3
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 10.42,
+      "vat_rate": 0.2,
+      "net_total": 31.26
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 47.87,
+      "vat_rate": 0.2,
+      "net_total": 95.74
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 54.42,
+      "vat_rate": 0.01,
+      "net_total": 163.26
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 545.89,
+      "vat_rate": 0.1,
+      "net_total": 1637.67
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 31.78,
+      "vat_rate": 0.01,
+      "net_total": 158.9
+    }
+  ],
+  "subtotal": 2308.79,
+  "vat_total": 214.59,
+  "grand_total": 2523.38,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000364 | Tarih: 09.05.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Selçuklu/Antalya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 2 79,33 %10 158,66\nŞeker (1 kg) 1 63,30 %10 63,30\nMaden Suyu (200 ml) 3 10,42 %20 31,26\nGazlı İçecek (1 L) 2 47,87 %20 95,74\nDomates (kg) 3 54,42 %1 163,26\nSomon Fileto (kg) 3 545,89 %10 1.637,67\nSüt (1 L) 5 31,78 %1 158,90\nAra Toplam: 2.308,79\nKDV Toplam: 214,59\nGenel Toplam: 2.523,38\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

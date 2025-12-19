@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000172",
+  "source_pdf": "0172_FATURA_INV-2024-000172.pdf",
+  "date": "2024-05-14",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 12,
+      "unit_price": 211.53,
+      "vat_rate": 0.1,
+      "net_total": 2538.36
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 30.4,
+      "vat_rate": 0.2,
+      "net_total": 304.0
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 48.63,
+      "vat_rate": 0.2,
+      "net_total": 145.89
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 187.36,
+      "vat_rate": 0.1,
+      "net_total": 3747.2
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 17.85,
+      "vat_rate": 0.2,
+      "net_total": 142.8
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 61.36,
+      "vat_rate": 0.2,
+      "net_total": 306.8
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 24.13,
+      "vat_rate": 0.1,
+      "net_total": 289.56
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 56.93,
+      "vat_rate": 0.01,
+      "net_total": 569.3
+    }
+  ],
+  "subtotal": 8043.91,
+  "vat_total": 843.11,
+  "grand_total": 8887.02,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000172 | Tarih: 14.05.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Nilüfer/İstanbul\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 12 211,53 %10 2.538,36\nGazlı İçecek (1 L) 10 30,40 %20 304,00\nGazlı İçecek (1 L) 3 48,63 %20 145,89\nUn (5 kg) 20 187,36 %10 3.747,20\nMaden Suyu (200 ml) 8 17,85 %20 142,80\nGazlı İçecek (1 L) 5 61,36 %20 306,80\nMakarna (500 g) 12 24,13 %10 289,56\nMuz (kg) 10 56,93 %1 569,30\nAra Toplam: 8.043,91\nKDV Toplam: 843,11\nGenel Toplam: 8.887,02\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000324",
+  "source_pdf": "0324_FATURA_INV-2025-000324.pdf",
+  "date": "2025-10-04",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 215.0,
+      "vat_rate": 0.1,
+      "net_total": 3225.0
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 231.95,
+      "vat_rate": 0.2,
+      "net_total": 4639.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 139.67,
+      "vat_rate": 0.1,
+      "net_total": 2793.4
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 91.51,
+      "vat_rate": 0.1,
+      "net_total": 549.06
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 29.27,
+      "vat_rate": 0.01,
+      "net_total": 58.54
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 26.04,
+      "vat_rate": 0.2,
+      "net_total": 104.16
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 17.19,
+      "vat_rate": 0.2,
+      "net_total": 257.85
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 31.34,
+      "vat_rate": 0.01,
+      "net_total": 470.1
+    }
+  ],
+  "subtotal": 12097.11,
+  "vat_total": 1662.24,
+  "grand_total": 13759.35,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000324 | Tarih: 04.10.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Çankaya/Ankara\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 15 215,00 %10 3.225,00\nKahve Çekirdeği (250 g) 20 231,95 %20 4.639,00\nUn (5 kg) 20 139,67 %10 2.793,40\nUn (5 kg) 6 91,51 %10 549,06\nElma (kg) 2 29,27 %1 58,54\nÇikolata (80 g) 4 26,04 %20 104,16\nMaden Suyu (200 ml) 15 17,19 %20 257,85\nElma (kg) 15 31,34 %1 470,10\nAra Toplam: 12.097,11\nKDV Toplam: 1.662,24\nGenel Toplam: 13.759,35\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

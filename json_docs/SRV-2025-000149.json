@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000149",
+  "source_pdf": "0749_SERVIS_SRV-2025-000149.pdf",
+  "date": "2025-05-26",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Karşıyaka/Kocaeli",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-A",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-24383",
+  "technician": "Deniz Arı",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 493.8,
+      "unit_price": 7.0,
+      "total": 1481.61
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 2174.34,
+      "total": 2174.34
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 403.23,
+      "total": 403.23
+    }
+  ],
+  "subtotal": 4059.18,
+  "vat_rate": 0.2,
+  "vat_amount": 811.84,
+  "grand_total": 4871.02,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000149 | Tarih: 26.05.2025 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Karşıyaka/Kocaeli | Şube/DM: TR-IST-DC01 | Depo: Depo-A\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-24383\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 493,87 1.481,61\nSensör 1 2.174,34 2.174,34\nRulman Seti 1 403,23 403,23\nAra Toplam: 4.059,18\nKDV (%20): 811,84\nGenel Toplam: 4.871,02\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

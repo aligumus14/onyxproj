@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000097",
+  "source_pdf": "0697_SERVIS_SRV-2024-000097.pdf",
+  "date": "2024-06-14",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Düşük (72 saat)",
+  "location": "Beşiktaş/Samsun",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-A",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-49129",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 1011.8,
+      "unit_price": 1.0,
+      "total": 3035.43
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 268.65,
+      "total": 268.65
+    }
+  ],
+  "subtotal": 3304.08,
+  "vat_rate": 0.2,
+  "vat_amount": 660.82,
+  "grand_total": 3964.9,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000097 | Tarih: 14.06.2024 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Düşük (72 saat)\nLokasyon: Beşiktaş/Samsun | Şube/DM: TR-BUR-DC04 | Depo: Depo-A\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-49129\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 1.011,81 3.035,43\nFiltre 1 268,65 268,65\nAra Toplam: 3.304,08\nKDV (%20): 660,82\nGenel Toplam: 3.964,90\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

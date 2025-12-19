@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000328",
+  "source_pdf": "0328_FATURA_INV-2024-000328.pdf",
+  "date": "2024-07-16",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 283.88,
+      "vat_rate": 0.2,
+      "net_total": 283.88
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 34.45,
+      "vat_rate": 0.01,
+      "net_total": 68.9
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 52.36,
+      "vat_rate": 0.2,
+      "net_total": 104.72
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 49.82,
+      "vat_rate": 0.1,
+      "net_total": 99.64
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 90.01,
+      "vat_rate": 0.01,
+      "net_total": 540.06
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 110.82,
+      "vat_rate": 0.01,
+      "net_total": 332.46
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 25.35,
+      "vat_rate": 0.01,
+      "net_total": 126.75
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 184.37,
+      "vat_rate": 0.2,
+      "net_total": 737.48
+    }
+  ],
+  "subtotal": 2293.89,
+  "vat_total": 245.86,
+  "grand_total": 2539.75,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000328 | Tarih: 16.07.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/Kocaeli\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 1 283,88 %20 283,88\nSüt (1 L) 2 34,45 %1 68,90\nGazlı İçecek (1 L) 2 52,36 %20 104,72\nŞeker (1 kg) 2 49,82 %10 99,64\nMuz (kg) 6 90,01 %1 540,06\nYoğurt (1 kg) 3 110,82 %1 332,46\nSüt (1 L) 5 25,35 %1 126,75\nKahve Çekirdeği (250 g) 4 184,37 %20 737,48\nAra Toplam: 2.293,89\nKDV Toplam: 245,86\nGenel Toplam: 2.539,75\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

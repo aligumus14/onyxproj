@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000083",
+  "source_pdf": "0083_FATURA_INV-2025-000083.pdf",
+  "date": "2025-01-14",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 115.43,
+      "vat_rate": 0.01,
+      "net_total": 1385.16
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 14.43,
+      "vat_rate": 0.2,
+      "net_total": 115.44
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 93.0,
+      "vat_rate": 0.1,
+      "net_total": 558.0
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 17.49,
+      "vat_rate": 0.2,
+      "net_total": 69.96
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 463.21,
+      "vat_rate": 0.1,
+      "net_total": 2316.05
+    }
+  ],
+  "subtotal": 4444.61,
+  "vat_total": 338.34,
+  "grand_total": 4782.95,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000083 | Tarih: 14.01.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 12 115,43 %1 1.385,16\nMaden Suyu (200 ml) 8 14,43 %20 115,44\nAyçiçek Yağı (1 L) 6 93,00 %10 558,00\nMaden Suyu (200 ml) 4 17,49 %20 69,96\nDana Kıyma (kg) 5 463,21 %10 2.316,05\nAra Toplam: 4.444,61\nKDV Toplam: 338,34\nGenel Toplam: 4.782,95\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

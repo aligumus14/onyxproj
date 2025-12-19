@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000533",
+  "source_pdf": "0533_FATURA_INV-2025-000533.pdf",
+  "date": "2025-07-30",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 458.2,
+      "vat_rate": 0.1,
+      "net_total": 3665.6
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 75.91,
+      "vat_rate": 0.1,
+      "net_total": 759.1
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 54.02,
+      "vat_rate": 0.01,
+      "net_total": 432.16
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 37.83,
+      "vat_rate": 0.01,
+      "net_total": 189.15
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 61.07,
+      "vat_rate": 0.01,
+      "net_total": 610.7
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 47.58,
+      "vat_rate": 0.01,
+      "net_total": 713.7
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 63.07,
+      "vat_rate": 0.2,
+      "net_total": 252.28
+    }
+  ],
+  "subtotal": 6622.69,
+  "vat_total": 512.39,
+  "grand_total": 7135.08,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000533 | Tarih: 30.07.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Muratpaşa/İstanbul\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 8 458,20 %10 3.665,60\nŞeker (1 kg) 10 75,91 %10 759,10\nMuz (kg) 8 54,02 %1 432,16\nSüt (1 L) 5 37,83 %1 189,15\nYoğurt (1 kg) 10 61,07 %1 610,70\nSüt (1 L) 15 47,58 %1 713,70\nÇikolata (80 g) 4 63,07 %20 252,28\nAra Toplam: 6.622,69\nKDV Toplam: 512,39\nGenel Toplam: 7.135,08\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

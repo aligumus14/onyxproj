@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000127",
+  "source_pdf": "0127_FATURA_INV-2024-000127.pdf",
+  "date": "2024-05-06",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 32.89,
+      "vat_rate": 0.1,
+      "net_total": 493.35
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 785.06,
+      "vat_rate": 0.1,
+      "net_total": 2355.18
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 69.95,
+      "vat_rate": 0.01,
+      "net_total": 139.9
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 147.69,
+      "vat_rate": 0.2,
+      "net_total": 147.69
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 22.86,
+      "vat_rate": 0.2,
+      "net_total": 91.44
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 32.24,
+      "vat_rate": 0.01,
+      "net_total": 644.8
+    }
+  ],
+  "subtotal": 3872.36,
+  "vat_total": 340.54,
+  "grand_total": 4212.9,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000127 | Tarih: 06.05.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Şehitkamil/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 15 32,89 %10 493,35\nSomon Fileto (kg) 3 785,06 %10 2.355,18\nYoğurt (1 kg) 2 69,95 %1 139,90\nKahve Çekirdeği (250 g) 1 147,69 %20 147,69\nMaden Suyu (200 ml) 4 22,86 %20 91,44\nSüt (1 L) 20 32,24 %1 644,80\nAra Toplam: 3.872,36\nKDV Toplam: 340,54\nGenel Toplam: 4.212,90\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

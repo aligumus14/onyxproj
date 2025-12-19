@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000346",
+  "source_pdf": "0346_FATURA_INV-2024-000346.pdf",
+  "date": "2024-10-20",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 37.51,
+      "vat_rate": 0.01,
+      "net_total": 187.55
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 366.52,
+      "vat_rate": 0.1,
+      "net_total": 733.04
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 73.25,
+      "vat_rate": 0.01,
+      "net_total": 73.25
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 112.44,
+      "vat_rate": 0.01,
+      "net_total": 899.52
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 104.02,
+      "vat_rate": 0.01,
+      "net_total": 2080.4
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 199.93,
+      "vat_rate": 0.1,
+      "net_total": 2998.95
+    }
+  ],
+  "subtotal": 6972.71,
+  "vat_total": 405.6,
+  "grand_total": 7378.31,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000346 | Tarih: 20.10.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Konya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 5 37,51 %1 187,55\nDana Kıyma (kg) 2 366,52 %10 733,04\nMuz (kg) 1 73,25 %1 73,25\nKuru Fasulye (1 kg) 8 112,44 %1 899,52\nKuru Fasulye (1 kg) 20 104,02 %1 2.080,40\nTavuk Göğüs (kg) 15 199,93 %10 2.998,95\nAra Toplam: 6.972,71\nKDV Toplam: 405,60\nGenel Toplam: 7.378,31\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

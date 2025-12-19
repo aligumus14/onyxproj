@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000309",
+  "source_pdf": "0309_FATURA_INV-2024-000309.pdf",
+  "date": "2024-04-07",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 395.71,
+      "vat_rate": 0.1,
+      "net_total": 7914.2
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 426.05,
+      "vat_rate": 0.1,
+      "net_total": 426.05
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 10,
+      "unit_price": 15.74,
+      "vat_rate": 0.2,
+      "net_total": 157.4
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 45.56,
+      "vat_rate": 0.01,
+      "net_total": 546.72
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 20.74,
+      "vat_rate": 0.01,
+      "net_total": 82.96
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 33.27,
+      "vat_rate": 0.01,
+      "net_total": 166.35
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 62.89,
+      "vat_rate": 0.1,
+      "net_total": 251.56
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 28.11,
+      "vat_rate": 0.01,
+      "net_total": 84.33
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 126.68,
+      "vat_rate": 0.1,
+      "net_total": 506.72
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 73.79,
+      "vat_rate": 0.1,
+      "net_total": 1475.8
+    }
+  ],
+  "subtotal": 11612.09,
+  "vat_total": 1097.72,
+  "grand_total": 12709.81,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000309 | Tarih: 07.04.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Nilüfer/İzmir\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 20 395,71 %10 7.914,20\nDana Kıyma (kg) 1 426,05 %10 426,05\nMaden Suyu (200 ml) 10 15,74 %20 157,40\nSüt (1 L) 12 45,56 %1 546,72\nDomates (kg) 4 20,74 %1 82,96\nElma (kg) 5 33,27 %1 166,35\nŞeker (1 kg) 4 62,89 %10 251,56\nSalatalık (kg) 3 28,11 %1 84,33\nTavuk Göğüs (kg) 4 126,68 %10 506,72\nAyçiçek Yağı (1 L) 20 73,79 %10 1.475,80\nAra Toplam: 11.612,09\nKDV Toplam: 1.097,72\nGenel Toplam: 12.709,81\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000561",
+  "source_pdf": "0561_FATURA_INV-2024-000561.pdf",
+  "date": "2024-12-15",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 64.68,
+      "vat_rate": 0.1,
+      "net_total": 517.44
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 96.42,
+      "vat_rate": 0.01,
+      "net_total": 964.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 70.3,
+      "vat_rate": 0.01,
+      "net_total": 281.2
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 155.81,
+      "vat_rate": 0.1,
+      "net_total": 3116.2
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 42.11,
+      "vat_rate": 0.01,
+      "net_total": 421.1
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 53.43,
+      "vat_rate": 0.01,
+      "net_total": 427.44
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 36.23,
+      "vat_rate": 0.01,
+      "net_total": 289.84
+    }
+  ],
+  "subtotal": 6017.42,
+  "vat_total": 387.19,
+  "grand_total": 6404.61,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000561 | Tarih: 15.12.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Beşiktaş/İzmir\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 8 64,68 %10 517,44\nYoğurt (1 kg) 10 96,42 %1 964,20\nPirinç (1 kg) 4 70,30 %1 281,20\nAyçiçek Yağı (1 L) 20 155,81 %10 3.116,20\nSüt (1 L) 10 42,11 %1 421,10\nYoğurt (1 kg) 8 53,43 %1 427,44\nDomates (kg) 8 36,23 %1 289,84\nAra Toplam: 6.017,42\nKDV Toplam: 387,19\nGenel Toplam: 6.404,61\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

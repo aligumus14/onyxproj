@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000270",
+  "source_pdf": "0270_FATURA_INV-2024-000270.pdf",
+  "date": "2024-06-14",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 130.57,
+      "vat_rate": 0.1,
+      "net_total": 391.71
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 58.01,
+      "vat_rate": 0.01,
+      "net_total": 464.08
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 24.34,
+      "vat_rate": 0.1,
+      "net_total": 121.7
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 64.97,
+      "vat_rate": 0.2,
+      "net_total": 64.97
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 592.82,
+      "vat_rate": 0.1,
+      "net_total": 2964.1
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 136.24,
+      "vat_rate": 0.01,
+      "net_total": 408.72
+    }
+  ],
+  "subtotal": 4415.28,
+  "vat_total": 369.47,
+  "grand_total": 4784.75,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000270 | Tarih: 14.06.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Seyhan/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 3 130,57 %10 391,71\nElma (kg) 8 58,01 %1 464,08\nMakarna (500 g) 5 24,34 %10 121,70\nGazlı İçecek (1 L) 1 64,97 %20 64,97\nSomon Fileto (kg) 5 592,82 %10 2.964,10\nKuru Fasulye (1 kg) 3 136,24 %1 408,72\nAra Toplam: 4.415,28\nKDV Toplam: 369,47\nGenel Toplam: 4.784,75\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

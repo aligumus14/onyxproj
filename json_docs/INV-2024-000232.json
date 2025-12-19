@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000232",
+  "source_pdf": "0232_FATURA_INV-2024-000232.pdf",
+  "date": "2024-10-18",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 60.46,
+      "vat_rate": 0.01,
+      "net_total": 181.38
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 33.51,
+      "vat_rate": 0.01,
+      "net_total": 201.06
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 138.06,
+      "vat_rate": 0.1,
+      "net_total": 690.3
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 140.71,
+      "vat_rate": 0.1,
+      "net_total": 1688.52
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 315.51,
+      "vat_rate": 0.1,
+      "net_total": 1893.06
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 12,
+      "unit_price": 216.81,
+      "vat_rate": 0.1,
+      "net_total": 2601.72
+    }
+  ],
+  "subtotal": 7256.04,
+  "vat_total": 691.18,
+  "grand_total": 7947.22,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000232 | Tarih: 18.10.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Karşıyaka/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 3 60,46 %1 181,38\nSalatalık (kg) 6 33,51 %1 201,06\nUn (5 kg) 5 138,06 %10 690,30\nAyçiçek Yağı (1 L) 12 140,71 %10 1.688,52\nDana Kıyma (kg) 6 315,51 %10 1.893,06\nUn (5 kg) 12 216,81 %10 2.601,72\nAra Toplam: 7.256,04\nKDV Toplam: 691,18\nGenel Toplam: 7.947,22\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000080",
+  "source_pdf": "0080_FATURA_INV-2024-000080.pdf",
+  "date": "2024-04-13",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 29.85,
+      "vat_rate": 0.01,
+      "net_total": 238.8
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 55.18,
+      "vat_rate": 0.2,
+      "net_total": 220.72
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 31.61,
+      "vat_rate": 0.01,
+      "net_total": 94.83
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 199.74,
+      "vat_rate": 0.1,
+      "net_total": 798.96
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 6,
+      "unit_price": 18.66,
+      "vat_rate": 0.2,
+      "net_total": 111.96
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 352.42,
+      "vat_rate": 0.1,
+      "net_total": 1409.68
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 78.88,
+      "vat_rate": 0.01,
+      "net_total": 1577.6
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 47.38,
+      "vat_rate": 0.1,
+      "net_total": 236.9
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 60.19,
+      "vat_rate": 0.2,
+      "net_total": 902.85
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 124.3,
+      "vat_rate": 0.01,
+      "net_total": 2486.0
+    }
+  ],
+  "subtotal": 8078.3,
+  "vat_total": 535.64,
+  "grand_total": 8613.94,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000080 | Tarih: 13.04.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Kadıköy/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 8 29,85 %1 238,80\nGazlı İçecek (1 L) 4 55,18 %20 220,72\nSalatalık (kg) 3 31,61 %1 94,83\nTavuk Göğüs (kg) 4 199,74 %10 798,96\nMaden Suyu (200 ml) 6 18,66 %20 111,96\nDana Kıyma (kg) 4 352,42 %10 1.409,68\nPirinç (1 kg) 20 78,88 %1 1.577,60\nŞeker (1 kg) 5 47,38 %10 236,90\nGazlı İçecek (1 L) 15 60,19 %20 902,85\nKuru Fasulye (1 kg) 20 124,30 %1 2.486,00\nAra Toplam: 8.078,30\nKDV Toplam: 535,64\nGenel Toplam: 8.613,94\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000229",
+  "source_pdf": "0229_FATURA_INV-2025-000229.pdf",
+  "date": "2025-01-09",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 28.97,
+      "vat_rate": 0.01,
+      "net_total": 347.64
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 41.52,
+      "vat_rate": 0.1,
+      "net_total": 622.8
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 102.05,
+      "vat_rate": 0.1,
+      "net_total": 408.2
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 97.62,
+      "vat_rate": 0.01,
+      "net_total": 1171.44
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 54.44,
+      "vat_rate": 0.01,
+      "net_total": 54.44
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 644.49,
+      "vat_rate": 0.1,
+      "net_total": 6444.9
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 2,
+      "unit_price": 46.16,
+      "vat_rate": 0.2,
+      "net_total": 92.32
+    }
+  ],
+  "subtotal": 9141.74,
+  "vat_total": 781.78,
+  "grand_total": 9923.52,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000229 | Tarih: 09.01.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Çankaya/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 12 28,97 %1 347,64\nMakarna (500 g) 15 41,52 %10 622,80\nAyçiçek Yağı (1 L) 4 102,05 %10 408,20\nYoğurt (1 kg) 12 97,62 %1 1.171,44\nYoğurt (1 kg) 1 54,44 %1 54,44\nSomon Fileto (kg) 10 644,49 %10 6.444,90\nÇikolata (80 g) 2 46,16 %20 92,32\nAra Toplam: 9.141,74\nKDV Toplam: 781,78\nGenel Toplam: 9.923,52\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

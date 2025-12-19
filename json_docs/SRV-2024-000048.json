@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000048",
+  "source_pdf": "0648_SERVIS_SRV-2024-000048.pdf",
+  "date": "2024-04-02",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Kritik (4 saat)",
+  "location": "Nilüfer/Adana",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-96495",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 551.0,
+      "unit_price": 8.0,
+      "total": 1653.24
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 597.61,
+      "total": 1195.22
+    }
+  ],
+  "subtotal": 2848.46,
+  "vat_rate": 0.2,
+  "vat_amount": 569.69,
+  "grand_total": 3418.15,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000048 | Tarih: 02.04.2024 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Kritik (4 saat)\nLokasyon: Nilüfer/Adana | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-96495\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 551,08 1.653,24\nFiltre 2 597,61 1.195,22\nAra Toplam: 2.848,46\nKDV (%20): 569,69\nGenel Toplam: 3.418,15\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

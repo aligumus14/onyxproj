@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000331",
+  "source_pdf": "0331_FATURA_INV-2024-000331.pdf",
+  "date": "2024-10-19",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 36.5,
+      "vat_rate": 0.1,
+      "net_total": 438.0
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 41.22,
+      "vat_rate": 0.2,
+      "net_total": 82.44
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 141.42,
+      "vat_rate": 0.1,
+      "net_total": 141.42
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 34.77,
+      "vat_rate": 0.2,
+      "net_total": 208.62
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 52.41,
+      "vat_rate": 0.2,
+      "net_total": 1048.2
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 177.69,
+      "vat_rate": 0.1,
+      "net_total": 533.07
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 32.87,
+      "vat_rate": 0.2,
+      "net_total": 131.48
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 655.47,
+      "vat_rate": 0.1,
+      "net_total": 1966.41
+    }
+  ],
+  "subtotal": 4549.64,
+  "vat_total": 602.04,
+  "grand_total": 5151.68,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000331 | Tarih: 19.10.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Kocaeli\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 12 36,50 %10 438,00\nGazlı İçecek (1 L) 2 41,22 %20 82,44\nAyçiçek Yağı (1 L) 1 141,42 %10 141,42\nGazlı İçecek (1 L) 6 34,77 %20 208,62\nÇikolata (80 g) 20 52,41 %20 1.048,20\nUn (5 kg) 3 177,69 %10 533,07\nÇikolata (80 g) 4 32,87 %20 131,48\nSomon Fileto (kg) 3 655,47 %10 1.966,41\nAra Toplam: 4.549,64\nKDV Toplam: 602,04\nGenel Toplam: 5.151,68\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

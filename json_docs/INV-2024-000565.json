@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000565",
+  "source_pdf": "0565_FATURA_INV-2024-000565.pdf",
+  "date": "2024-09-03",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 71.08,
+      "vat_rate": 0.01,
+      "net_total": 142.16
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 71.7,
+      "vat_rate": 0.01,
+      "net_total": 286.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 30.61,
+      "vat_rate": 0.01,
+      "net_total": 122.44
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 29.1,
+      "vat_rate": 0.2,
+      "net_total": 58.2
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 53.74,
+      "vat_rate": 0.2,
+      "net_total": 537.4
+    }
+  ],
+  "subtotal": 1147.0,
+  "vat_total": 124.63,
+  "grand_total": 1271.63,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000565 | Tarih: 03.09.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Muratpaşa/Bursa\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 2 71,08 %1 142,16\nPirinç (1 kg) 4 71,70 %1 286,80\nSalatalık (kg) 4 30,61 %1 122,44\nGazlı İçecek (1 L) 2 29,10 %20 58,20\nGazlı İçecek (1 L) 10 53,74 %20 537,40\nAra Toplam: 1.147,00\nKDV Toplam: 124,63\nGenel Toplam: 1.271,63\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

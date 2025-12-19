@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000337",
+  "source_pdf": "0337_FATURA_INV-2024-000337.pdf",
+  "date": "2024-07-15",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 209.25,
+      "vat_rate": 0.2,
+      "net_total": 1674.0
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 36.77,
+      "vat_rate": 0.01,
+      "net_total": 147.08
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 31.77,
+      "vat_rate": 0.1,
+      "net_total": 31.77
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 20.97,
+      "vat_rate": 0.01,
+      "net_total": 104.85
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 827.2,
+      "vat_rate": 0.1,
+      "net_total": 4136.0
+    }
+  ],
+  "subtotal": 6093.7,
+  "vat_total": 754.1,
+  "grand_total": 6847.8,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000337 | Tarih: 15.07.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/Samsun\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 8 209,25 %20 1.674,00\nSüt (1 L) 4 36,77 %1 147,08\nMakarna (500 g) 1 31,77 %10 31,77\nSalatalık (kg) 5 20,97 %1 104,85\nSomon Fileto (kg) 5 827,20 %10 4.136,00\nAra Toplam: 6.093,70\nKDV Toplam: 754,10\nGenel Toplam: 6.847,80\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

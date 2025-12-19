@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000097",
+  "source_pdf": "0097_FATURA_INV-2025-000097.pdf",
+  "date": "2025-12-02",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 30.22,
+      "vat_rate": 0.01,
+      "net_total": 120.88
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 87.63,
+      "vat_rate": 0.01,
+      "net_total": 350.52
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 115.25,
+      "vat_rate": 0.01,
+      "net_total": 1152.5
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 31.79,
+      "vat_rate": 0.1,
+      "net_total": 381.48
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 14.02,
+      "vat_rate": 0.2,
+      "net_total": 28.04
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 46.68,
+      "vat_rate": 0.2,
+      "net_total": 280.08
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 32.75,
+      "vat_rate": 0.01,
+      "net_total": 327.5
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 68.12,
+      "vat_rate": 0.1,
+      "net_total": 136.24
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 55.62,
+      "vat_rate": 0.01,
+      "net_total": 278.1
+    }
+  ],
+  "subtotal": 3055.34,
+  "vat_total": 135.7,
+  "grand_total": 3191.04,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000097 | Tarih: 02.12.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Konya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 4 30,22 %1 120,88\nYoğurt (1 kg) 4 87,63 %1 350,52\nKuru Fasulye (1 kg) 10 115,25 %1 1.152,50\nMakarna (500 g) 12 31,79 %10 381,48\nMaden Suyu (200 ml) 2 14,02 %20 28,04\nGazlı İçecek (1 L) 6 46,68 %20 280,08\nSalatalık (kg) 10 32,75 %1 327,50\nŞeker (1 kg) 2 68,12 %10 136,24\nSüt (1 L) 5 55,62 %1 278,10\nAra Toplam: 3.055,34\nKDV Toplam: 135,70\nGenel Toplam: 3.191,04\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

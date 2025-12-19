@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000160",
+  "source_pdf": "0760_SERVIS_SRV-2024-000160.pdf",
+  "date": "2024-10-01",
+  "status": "Parça Bekleniyor",
+  "priority": "Orta",
+  "sla": "Orta (24 saat)",
+  "location": "Şişli/Konya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-1",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-87367",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 914.0,
+      "unit_price": 5.0,
+      "total": 2742.15
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 398.96,
+      "total": 398.96
+    },
+    {
+      "item": "Termostat",
+      "qty": 2.0,
+      "unit_price": 829.79,
+      "total": 1659.58
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 2.0,
+      "unit_price": 668.64,
+      "total": 1337.28
+    }
+  ],
+  "subtotal": 6137.97,
+  "vat_rate": 0.2,
+  "vat_amount": 1227.59,
+  "grand_total": 7365.56,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000160 | Tarih: 01.10.2024 | Durum: Parça Bekleniyor\nÖncelik: Orta | SLA: Orta (24 saat)\nLokasyon: Şişli/Konya | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-1\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-87367\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 914,05 2.742,15\nFiltre 1 398,96 398,96\nTermostat 2 829,79 1.659,58\nRulman Seti 2 668,64 1.337,28\nAra Toplam: 6.137,97\nKDV (%20): 1.227,59\nGenel Toplam: 7.365,56\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

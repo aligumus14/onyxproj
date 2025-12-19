@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000454",
+  "source_pdf": "0454_FATURA_INV-2025-000454.pdf",
+  "date": "2025-08-26",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 411.18,
+      "vat_rate": 0.1,
+      "net_total": 6167.7
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 87.17,
+      "vat_rate": 0.01,
+      "net_total": 1046.04
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 125.45,
+      "vat_rate": 0.1,
+      "net_total": 125.45
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 92.65,
+      "vat_rate": 0.01,
+      "net_total": 555.9
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 748.91,
+      "vat_rate": 0.1,
+      "net_total": 7489.1
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 102.13,
+      "vat_rate": 0.1,
+      "net_total": 306.39
+    }
+  ],
+  "subtotal": 15690.58,
+  "vat_total": 1424.89,
+  "grand_total": 17115.47,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000454 | Tarih: 26.08.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Beşiktaş/Gaziantep\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 15 411,18 %10 6.167,70\nYoğurt (1 kg) 12 87,17 %1 1.046,04\nTavuk Göğüs (kg) 1 125,45 %10 125,45\nMuz (kg) 6 92,65 %1 555,90\nSomon Fileto (kg) 10 748,91 %10 7.489,10\nAyçiçek Yağı (1 L) 3 102,13 %10 306,39\nAra Toplam: 15.690,58\nKDV Toplam: 1.424,89\nGenel Toplam: 17.115,47\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

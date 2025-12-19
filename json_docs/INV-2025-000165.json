@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000165",
+  "source_pdf": "0165_FATURA_INV-2025-000165.pdf",
+  "date": "2025-11-30",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 54.22,
+      "vat_rate": 0.01,
+      "net_total": 216.88
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 761.58,
+      "vat_rate": 0.1,
+      "net_total": 2284.74
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 48.65,
+      "vat_rate": 0.01,
+      "net_total": 97.3
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 18.18,
+      "vat_rate": 0.1,
+      "net_total": 272.7
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 58.92,
+      "vat_rate": 0.2,
+      "net_total": 58.92
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 576.17,
+      "vat_rate": 0.1,
+      "net_total": 8642.55
+    }
+  ],
+  "subtotal": 11573.09,
+  "vat_total": 1134.91,
+  "grand_total": 12708.0,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000165 | Tarih: 30.11.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/Bursa\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 4 54,22 %1 216,88\nSomon Fileto (kg) 3 761,58 %10 2.284,74\nElma (kg) 2 48,65 %1 97,30\nMakarna (500 g) 15 18,18 %10 272,70\nGazlı İçecek (1 L) 1 58,92 %20 58,92\nSomon Fileto (kg) 15 576,17 %10 8.642,55\nAra Toplam: 11.573,09\nKDV Toplam: 1.134,91\nGenel Toplam: 12.708,00\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

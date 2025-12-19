@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000548",
+  "source_pdf": "0548_FATURA_INV-2024-000548.pdf",
+  "date": "2024-11-30",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 88.15,
+      "vat_rate": 0.01,
+      "net_total": 881.5
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 290.09,
+      "vat_rate": 0.1,
+      "net_total": 870.27
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 78.33,
+      "vat_rate": 0.01,
+      "net_total": 313.32
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 42.5,
+      "vat_rate": 0.1,
+      "net_total": 212.5
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 73.08,
+      "vat_rate": 0.01,
+      "net_total": 584.64
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 32.63,
+      "vat_rate": 0.01,
+      "net_total": 652.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 369.53,
+      "vat_rate": 0.1,
+      "net_total": 5542.95
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 36.9,
+      "vat_rate": 0.01,
+      "net_total": 73.8
+    }
+  ],
+  "subtotal": 9131.58,
+  "vat_total": 687.63,
+  "grand_total": 9819.21,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000548 | Tarih: 30.11.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 10 88,15 %1 881,50\nDana Kıyma (kg) 3 290,09 %10 870,27\nPirinç (1 kg) 4 78,33 %1 313,32\nMakarna (500 g) 5 42,50 %10 212,50\nKuru Fasulye (1 kg) 8 73,08 %1 584,64\nDomates (kg) 20 32,63 %1 652,60\nDana Kıyma (kg) 15 369,53 %10 5.542,95\nDomates (kg) 2 36,90 %1 73,80\nAra Toplam: 9.131,58\nKDV Toplam: 687,63\nGenel Toplam: 9.819,21\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

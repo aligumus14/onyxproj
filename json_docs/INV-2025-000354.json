@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000354",
+  "source_pdf": "0354_FATURA_INV-2025-000354.pdf",
+  "date": "2025-11-29",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 111.3,
+      "vat_rate": 0.01,
+      "net_total": 1335.6
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 45.14,
+      "vat_rate": 0.2,
+      "net_total": 270.84
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 63.9,
+      "vat_rate": 0.01,
+      "net_total": 383.4
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 75.08,
+      "vat_rate": 0.1,
+      "net_total": 75.08
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 155.5,
+      "vat_rate": 0.2,
+      "net_total": 622.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 71.18,
+      "vat_rate": 0.01,
+      "net_total": 213.54
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 39.73,
+      "vat_rate": 0.1,
+      "net_total": 79.46
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 80.56,
+      "vat_rate": 0.01,
+      "net_total": 402.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 45.18,
+      "vat_rate": 0.01,
+      "net_total": 451.8
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 504.17,
+      "vat_rate": 0.1,
+      "net_total": 1512.51
+    }
+  ],
+  "subtotal": 5347.03,
+  "vat_total": 373.16,
+  "grand_total": 5720.19,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000354 | Tarih: 29.11.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Çankaya/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 12 111,30 %1 1.335,60\nÇikolata (80 g) 6 45,14 %20 270,84\nPirinç (1 kg) 6 63,90 %1 383,40\nŞeker (1 kg) 1 75,08 %10 75,08\nKahve Çekirdeği (250 g) 4 155,50 %20 622,00\nMuz (kg) 3 71,18 %1 213,54\nMakarna (500 g) 2 39,73 %10 79,46\nPirinç (1 kg) 5 80,56 %1 402,80\nMuz (kg) 10 45,18 %1 451,80\nDana Kıyma (kg) 3 504,17 %10 1.512,51\nAra Toplam: 5.347,03\nKDV Toplam: 373,16\nGenel Toplam: 5.720,19\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

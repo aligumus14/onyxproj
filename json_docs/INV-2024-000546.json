@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000546",
+  "source_pdf": "0546_FATURA_INV-2024-000546.pdf",
+  "date": "2024-09-23",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 153.27,
+      "vat_rate": 0.1,
+      "net_total": 153.27
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 319.07,
+      "vat_rate": 0.1,
+      "net_total": 6381.4
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 27.69,
+      "vat_rate": 0.1,
+      "net_total": 276.9
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 38.21,
+      "vat_rate": 0.2,
+      "net_total": 191.05
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 257.18,
+      "vat_rate": 0.2,
+      "net_total": 2057.44
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 48.32,
+      "vat_rate": 0.01,
+      "net_total": 241.6
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 116.13,
+      "vat_rate": 0.1,
+      "net_total": 464.52
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 50.16,
+      "vat_rate": 0.01,
+      "net_total": 50.16
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 12.22,
+      "vat_rate": 0.2,
+      "net_total": 24.44
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 109.41,
+      "vat_rate": 0.1,
+      "net_total": 328.23
+    }
+  ],
+  "subtotal": 10169.01,
+  "vat_total": 1217.94,
+  "grand_total": 11386.95,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000546 | Tarih: 23.09.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Şehitkamil/Konya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 1 153,27 %10 153,27\nDana Kıyma (kg) 20 319,07 %10 6.381,40\nMakarna (500 g) 10 27,69 %10 276,90\nÇikolata (80 g) 5 38,21 %20 191,05\nKahve Çekirdeği (250 g) 8 257,18 %20 2.057,44\nSüt (1 L) 5 48,32 %1 241,60\nAyçiçek Yağı (1 L) 4 116,13 %10 464,52\nPirinç (1 kg) 1 50,16 %1 50,16\nMaden Suyu (200 ml) 2 12,22 %20 24,44\nUn (5 kg) 3 109,41 %10 328,23\nAra Toplam: 10.169,01\nKDV Toplam: 1.217,94\nGenel Toplam: 11.386,95\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

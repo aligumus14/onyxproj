@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000183",
+  "source_pdf": "0183_FATURA_INV-2024-000183.pdf",
+  "date": "2024-05-21",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 18.54,
+      "vat_rate": 0.2,
+      "net_total": 148.32
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 142.36,
+      "vat_rate": 0.1,
+      "net_total": 284.72
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 31.18,
+      "vat_rate": 0.1,
+      "net_total": 93.54
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 18.93,
+      "vat_rate": 0.2,
+      "net_total": 37.86
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 190.39,
+      "vat_rate": 0.1,
+      "net_total": 190.39
+    }
+  ],
+  "subtotal": 754.83,
+  "vat_total": 94.09,
+  "grand_total": 848.92,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000183 | Tarih: 21.05.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Karşıyaka/Bursa\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 8 18,54 %20 148,32\nAyçiçek Yağı (1 L) 2 142,36 %10 284,72\nMakarna (500 g) 3 31,18 %10 93,54\nMaden Suyu (200 ml) 2 18,93 %20 37,86\nTavuk Göğüs (kg) 1 190,39 %10 190,39\nAra Toplam: 754,83\nKDV Toplam: 94,09\nGenel Toplam: 848,92\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

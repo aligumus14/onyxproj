@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000375",
+  "source_pdf": "0375_FATURA_INV-2024-000375.pdf",
+  "date": "2024-09-03",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 40.84,
+      "vat_rate": 0.2,
+      "net_total": 408.4
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 27.94,
+      "vat_rate": 0.01,
+      "net_total": 335.28
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 41.78,
+      "vat_rate": 0.1,
+      "net_total": 167.12
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 47.86,
+      "vat_rate": 0.2,
+      "net_total": 382.88
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 25.36,
+      "vat_rate": 0.01,
+      "net_total": 253.6
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 47.7,
+      "vat_rate": 0.01,
+      "net_total": 47.7
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 48.23,
+      "vat_rate": 0.1,
+      "net_total": 192.92
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 220.99,
+      "vat_rate": 0.2,
+      "net_total": 662.97
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 15,
+      "unit_price": 47.21,
+      "vat_rate": 0.2,
+      "net_total": 708.15
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 65.65,
+      "vat_rate": 0.1,
+      "net_total": 131.3
+    }
+  ],
+  "subtotal": 3290.32,
+  "vat_total": 487.98,
+  "grand_total": 3778.3,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000375 | Tarih: 03.09.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Kadıköy/Antalya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 10 40,84 %20 408,40\nElma (kg) 12 27,94 %1 335,28\nŞeker (1 kg) 4 41,78 %10 167,12\nÇikolata (80 g) 8 47,86 %20 382,88\nSalatalık (kg) 10 25,36 %1 253,60\nElma (kg) 1 47,70 %1 47,70\nŞeker (1 kg) 4 48,23 %10 192,92\nKahve Çekirdeği (250 g) 3 220,99 %20 662,97\nÇikolata (80 g) 15 47,21 %20 708,15\nŞeker (1 kg) 2 65,65 %10 131,30\nAra Toplam: 3.290,32\nKDV Toplam: 487,98\nGenel Toplam: 3.778,30\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

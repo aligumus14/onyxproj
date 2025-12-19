@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000178",
+  "source_pdf": "0778_SERVIS_SRV-2025-000178.pdf",
+  "date": "2025-03-27",
+  "status": "Onay Bekliyor",
+  "priority": "Kritik",
+  "sla": "Orta (24 saat)",
+  "location": "Seyhan/Samsun",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-28043",
+  "technician": "Emre Taş",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 788.8,
+      "unit_price": 9.0,
+      "total": 4733.34
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 4733.34,
+  "vat_rate": 0.2,
+  "vat_amount": 946.67,
+  "grand_total": 5680.01,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000178 | Tarih: 27.03.2025 | Durum: Onay Bekliyor\nÖncelik: Kritik | SLA: Orta (24 saat)\nLokasyon: Seyhan/Samsun | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Forklift - Linde H35D | Seri No: FLT-28043\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 788,89 4.733,34\nParça Değişimi - - 0,00\nAra Toplam: 4.733,34\nKDV (%20): 946,67\nGenel Toplam: 5.680,01\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

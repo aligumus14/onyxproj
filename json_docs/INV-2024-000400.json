@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000400",
+  "source_pdf": "0400_FATURA_INV-2024-000400.pdf",
+  "date": "2024-10-09",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 21.09,
+      "vat_rate": 0.01,
+      "net_total": 84.36
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 36.48,
+      "vat_rate": 0.01,
+      "net_total": 109.44
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 131.25,
+      "vat_rate": 0.1,
+      "net_total": 1968.75
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 27.43,
+      "vat_rate": 0.2,
+      "net_total": 109.72
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 51.13,
+      "vat_rate": 0.01,
+      "net_total": 255.65
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 737.33,
+      "vat_rate": 0.1,
+      "net_total": 8847.96
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 28.82,
+      "vat_rate": 0.01,
+      "net_total": 172.92
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 30.09,
+      "vat_rate": 0.2,
+      "net_total": 300.9
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 51.22,
+      "vat_rate": 0.01,
+      "net_total": 204.88
+    }
+  ],
+  "subtotal": 12054.58,
+  "vat_total": 1172.07,
+  "grand_total": 13226.65,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000400 | Tarih: 09.10.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 4 21,09 %1 84,36\nSalatalık (kg) 3 36,48 %1 109,44\nUn (5 kg) 15 131,25 %10 1.968,75\nGazlı İçecek (1 L) 4 27,43 %20 109,72\nYoğurt (1 kg) 5 51,13 %1 255,65\nSomon Fileto (kg) 12 737,33 %10 8.847,96\nSüt (1 L) 6 28,82 %1 172,92\nÇikolata (80 g) 10 30,09 %20 300,90\nMuz (kg) 4 51,22 %1 204,88\nAra Toplam: 12.054,58\nKDV Toplam: 1.172,07\nGenel Toplam: 13.226,65\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000096",
+  "source_pdf": "0096_FATURA_INV-2024-000096.pdf",
+  "date": "2024-11-08",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 69.94,
+      "vat_rate": 0.01,
+      "net_total": 1049.1
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 120.84,
+      "vat_rate": 0.01,
+      "net_total": 1208.4
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 83.35,
+      "vat_rate": 0.01,
+      "net_total": 1000.2
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 130.58,
+      "vat_rate": 0.1,
+      "net_total": 391.74
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 96.97,
+      "vat_rate": 0.1,
+      "net_total": 1454.55
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 643.84,
+      "vat_rate": 0.1,
+      "net_total": 643.84
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 166.38,
+      "vat_rate": 0.1,
+      "net_total": 1331.04
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 47.27,
+      "vat_rate": 0.2,
+      "net_total": 945.4
+    }
+  ],
+  "subtotal": 8024.27,
+  "vat_total": 603.76,
+  "grand_total": 8628.03,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000096 | Tarih: 08.11.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Selçuklu/İzmir\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 15 69,94 %1 1.049,10\nKuru Fasulye (1 kg) 10 120,84 %1 1.208,40\nKuru Fasulye (1 kg) 12 83,35 %1 1.000,20\nTavuk Göğüs (kg) 3 130,58 %10 391,74\nUn (5 kg) 15 96,97 %10 1.454,55\nSomon Fileto (kg) 1 643,84 %10 643,84\nAyçiçek Yağı (1 L) 8 166,38 %10 1.331,04\nÇikolata (80 g) 20 47,27 %20 945,40\nAra Toplam: 8.024,27\nKDV Toplam: 603,76\nGenel Toplam: 8.628,03\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

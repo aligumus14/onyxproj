@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000487",
+  "source_pdf": "0487_FATURA_INV-2025-000487.pdf",
+  "date": "2025-02-01",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 147.46,
+      "vat_rate": 0.1,
+      "net_total": 442.38
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 43.21,
+      "vat_rate": 0.01,
+      "net_total": 864.2
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 142.49,
+      "vat_rate": 0.1,
+      "net_total": 569.96
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 18.38,
+      "vat_rate": 0.01,
+      "net_total": 275.7
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 100.87,
+      "vat_rate": 0.01,
+      "net_total": 605.22
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 74.51,
+      "vat_rate": 0.01,
+      "net_total": 223.53
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 75.64,
+      "vat_rate": 0.1,
+      "net_total": 1512.8
+    }
+  ],
+  "subtotal": 4493.79,
+  "vat_total": 272.21,
+  "grand_total": 4766.0,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000487 | Tarih: 01.02.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Muratpaşa/Bursa\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 3 147,46 %10 442,38\nSalatalık (kg) 20 43,21 %1 864,20\nAyçiçek Yağı (1 L) 4 142,49 %10 569,96\nSalatalık (kg) 15 18,38 %1 275,70\nPirinç (1 kg) 6 100,87 %1 605,22\nYoğurt (1 kg) 3 74,51 %1 223,53\nAyçiçek Yağı (1 L) 20 75,64 %10 1.512,80\nAra Toplam: 4.493,79\nKDV Toplam: 272,21\nGenel Toplam: 4.766,00\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

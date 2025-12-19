@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000142",
+  "source_pdf": "0742_SERVIS_SRV-2024-000142.pdf",
+  "date": "2024-04-22",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Beşiktaş/Konya",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-B",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-74517",
+  "technician": "Deniz Arı",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 868.1,
+      "unit_price": 7.0,
+      "total": 1302.25
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 696.79,
+      "total": 696.79
+    }
+  ],
+  "subtotal": 1999.04,
+  "vat_rate": 0.2,
+  "vat_amount": 399.81,
+  "grand_total": 2398.85,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000142 | Tarih: 22.04.2024 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Beşiktaş/Konya | Şube/DM: TR-ANK-DC02 | Depo: Depo-B\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-74517\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 868,17 1.302,25\nKayış 1 696,79 696,79\nAra Toplam: 1.999,04\nKDV (%20): 399,81\nGenel Toplam: 2.398,85\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

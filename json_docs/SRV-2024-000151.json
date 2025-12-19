@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000151",
+  "source_pdf": "0751_SERVIS_SRV-2024-000151.pdf",
+  "date": "2024-07-06",
+  "status": "Açık",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Karşıyaka/İstanbul",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-A",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-31377",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 999.5,
+      "unit_price": 5.0,
+      "total": 1999.1
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1999.1,
+  "vat_rate": 0.2,
+  "vat_amount": 399.82,
+  "grand_total": 2398.92,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000151 | Tarih: 06.07.2024 | Durum: Açık\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Karşıyaka/İstanbul | Şube/DM: TR-IST-DC01 | Depo: Depo-A\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-31377\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 999,55 1.999,10\nParça Değişimi - - 0,00\nAra Toplam: 1.999,10\nKDV (%20): 399,82\nGenel Toplam: 2.398,92\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

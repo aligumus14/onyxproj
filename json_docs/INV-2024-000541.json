@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000541",
+  "source_pdf": "0541_FATURA_INV-2024-000541.pdf",
+  "date": "2024-02-12",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 149.95,
+      "vat_rate": 0.1,
+      "net_total": 1199.6
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 80.56,
+      "vat_rate": 0.01,
+      "net_total": 644.48
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 50.04,
+      "vat_rate": 0.01,
+      "net_total": 200.16
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 87.24,
+      "vat_rate": 0.01,
+      "net_total": 261.72
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 105.09,
+      "vat_rate": 0.01,
+      "net_total": 1050.9
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 57.03,
+      "vat_rate": 0.01,
+      "net_total": 570.3
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 109.48,
+      "vat_rate": 0.01,
+      "net_total": 2189.6
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 65.28,
+      "vat_rate": 0.01,
+      "net_total": 1305.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 454.7,
+      "vat_rate": 0.1,
+      "net_total": 6820.5
+    }
+  ],
+  "subtotal": 14242.86,
+  "vat_total": 864.24,
+  "grand_total": 15107.1,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000541 | Tarih: 12.02.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Çankaya/İzmir\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 8 149,95 %10 1.199,60\nPirinç (1 kg) 8 80,56 %1 644,48\nYoğurt (1 kg) 4 50,04 %1 200,16\nMuz (kg) 3 87,24 %1 261,72\nYoğurt (1 kg) 10 105,09 %1 1.050,90\nSüt (1 L) 10 57,03 %1 570,30\nKuru Fasulye (1 kg) 20 109,48 %1 2.189,60\nMuz (kg) 20 65,28 %1 1.305,60\nDana Kıyma (kg) 15 454,70 %10 6.820,50\nAra Toplam: 14.242,86\nKDV Toplam: 864,24\nGenel Toplam: 15.107,10\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

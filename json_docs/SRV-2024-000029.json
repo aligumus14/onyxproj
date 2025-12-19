@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000029",
+  "source_pdf": "0629_SERVIS_SRV-2024-000029.pdf",
+  "date": "2024-02-01",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Kritik (4 saat)",
+  "location": "Nilüfer/Ankara",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-1",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-35622",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 634.8,
+      "unit_price": 8.0,
+      "total": 634.88
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 765.17,
+      "total": 765.17
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 312.5,
+      "total": 312.5
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1088.85,
+      "total": 1088.85
+    }
+  ],
+  "subtotal": 2801.4,
+  "vat_rate": 0.2,
+  "vat_amount": 560.28,
+  "grand_total": 3361.68,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000029 | Tarih: 01.02.2024 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Kritik (4 saat)\nLokasyon: Nilüfer/Ankara | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-1\nMakine: Forklift - Linde H35D | Seri No: FLT-35622\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 634,88 634,88\nRulman Seti 1 765,17 765,17\nFiltre 1 312,50 312,50\nTermostat 1 1.088,85 1.088,85\nAra Toplam: 2.801,40\nKDV (%20): 560,28\nGenel Toplam: 3.361,68\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

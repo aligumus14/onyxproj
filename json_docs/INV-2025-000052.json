@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000052",
+  "source_pdf": "0052_FATURA_INV-2025-000052.pdf",
+  "date": "2025-07-25",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 12.12,
+      "vat_rate": 0.2,
+      "net_total": 242.4
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 837.08,
+      "vat_rate": 0.1,
+      "net_total": 4185.4
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 221.16,
+      "vat_rate": 0.2,
+      "net_total": 663.48
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 70.74,
+      "vat_rate": 0.01,
+      "net_total": 353.7
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 440.83,
+      "vat_rate": 0.1,
+      "net_total": 1322.49
+    }
+  ],
+  "subtotal": 6767.47,
+  "vat_total": 735.51,
+  "grand_total": 7502.98,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000052 | Tarih: 25.07.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Şişli/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 20 12,12 %20 242,40\nSomon Fileto (kg) 5 837,08 %10 4.185,40\nKahve Çekirdeği (250 g) 3 221,16 %20 663,48\nMuz (kg) 5 70,74 %1 353,70\nDana Kıyma (kg) 3 440,83 %10 1.322,49\nAra Toplam: 6.767,47\nKDV Toplam: 735,51\nGenel Toplam: 7.502,98\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

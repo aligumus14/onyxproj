@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000203",
+  "source_pdf": "0203_FATURA_INV-2024-000203.pdf",
+  "date": "2024-04-10",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 2,
+      "unit_price": 25.18,
+      "vat_rate": 0.2,
+      "net_total": 50.36
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 40.9,
+      "vat_rate": 0.01,
+      "net_total": 818.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 65.68,
+      "vat_rate": 0.01,
+      "net_total": 394.08
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 32.06,
+      "vat_rate": 0.01,
+      "net_total": 64.12
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 173.53,
+      "vat_rate": 0.1,
+      "net_total": 173.53
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 208.13,
+      "vat_rate": 0.1,
+      "net_total": 4162.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 326.21,
+      "vat_rate": 0.1,
+      "net_total": 1304.84
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 72.34,
+      "vat_rate": 0.01,
+      "net_total": 868.08
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 105.29,
+      "vat_rate": 0.1,
+      "net_total": 2105.8
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 62.79,
+      "vat_rate": 0.01,
+      "net_total": 188.37
+    }
+  ],
+  "subtotal": 10129.78,
+  "vat_total": 808.06,
+  "grand_total": 10937.84,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000203 | Tarih: 10.04.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Seyhan/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 2 25,18 %20 50,36\nSalatalık (kg) 20 40,90 %1 818,00\nMuz (kg) 6 65,68 %1 394,08\nSalatalık (kg) 2 32,06 %1 64,12\nTavuk Göğüs (kg) 1 173,53 %10 173,53\nTavuk Göğüs (kg) 20 208,13 %10 4.162,60\nDana Kıyma (kg) 4 326,21 %10 1.304,84\nYoğurt (1 kg) 12 72,34 %1 868,08\nUn (5 kg) 20 105,29 %10 2.105,80\nPirinç (1 kg) 3 62,79 %1 188,37\nAra Toplam: 10.129,78\nKDV Toplam: 808,06\nGenel Toplam: 10.937,84\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

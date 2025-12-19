@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000004",
+  "source_pdf": "0004_FATURA_INV-2025-000004.pdf",
+  "date": "2025-07-28",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 77.08,
+      "vat_rate": 0.01,
+      "net_total": 924.96
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 22.13,
+      "vat_rate": 0.01,
+      "net_total": 44.26
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 103.77,
+      "vat_rate": 0.01,
+      "net_total": 2075.4
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 60.99,
+      "vat_rate": 0.01,
+      "net_total": 487.92
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 12,
+      "unit_price": 122.68,
+      "vat_rate": 0.1,
+      "net_total": 1472.16
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 52.21,
+      "vat_rate": 0.2,
+      "net_total": 52.21
+    }
+  ],
+  "subtotal": 5056.91,
+  "vat_total": 192.98,
+  "grand_total": 5249.89,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000004 | Tarih: 28.07.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Muratpaşa/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 12 77,08 %1 924,96\nSalatalık (kg) 2 22,13 %1 44,26\nKuru Fasulye (1 kg) 20 103,77 %1 2.075,40\nMuz (kg) 8 60,99 %1 487,92\nUn (5 kg) 12 122,68 %10 1.472,16\nGazlı İçecek (1 L) 1 52,21 %20 52,21\nAra Toplam: 5.056,91\nKDV Toplam: 192,98\nGenel Toplam: 5.249,89\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

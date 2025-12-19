@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000396",
+  "source_pdf": "0396_FATURA_INV-2025-000396.pdf",
+  "date": "2025-12-23",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 50.97,
+      "vat_rate": 0.01,
+      "net_total": 254.85
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 107.24,
+      "vat_rate": 0.1,
+      "net_total": 214.48
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 108.56,
+      "vat_rate": 0.01,
+      "net_total": 108.56
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 189.34,
+      "vat_rate": 0.1,
+      "net_total": 3786.8
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 42.46,
+      "vat_rate": 0.01,
+      "net_total": 42.46
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 25.51,
+      "vat_rate": 0.01,
+      "net_total": 127.55
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 260.62,
+      "vat_rate": 0.2,
+      "net_total": 1303.1
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 55.35,
+      "vat_rate": 0.01,
+      "net_total": 55.35
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 123.2,
+      "vat_rate": 0.2,
+      "net_total": 1232.0
+    }
+  ],
+  "subtotal": 7125.15,
+  "vat_total": 913.04,
+  "grand_total": 8038.19,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000396 | Tarih: 23.12.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 5 50,97 %1 254,85\nAyçiçek Yağı (1 L) 2 107,24 %10 214,48\nPirinç (1 kg) 1 108,56 %1 108,56\nUn (5 kg) 20 189,34 %10 3.786,80\nElma (kg) 1 42,46 %1 42,46\nSalatalık (kg) 5 25,51 %1 127,55\nKahve Çekirdeği (250 g) 5 260,62 %20 1.303,10\nMuz (kg) 1 55,35 %1 55,35\nKahve Çekirdeği (250 g) 10 123,20 %20 1.232,00\nAra Toplam: 7.125,15\nKDV Toplam: 913,04\nGenel Toplam: 8.038,19\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000511",
+  "source_pdf": "0511_FATURA_INV-2024-000511.pdf",
+  "date": "2024-07-19",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 215.81,
+      "vat_rate": 0.1,
+      "net_total": 3237.15
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 34.21,
+      "vat_rate": 0.2,
+      "net_total": 273.68
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 38.56,
+      "vat_rate": 0.01,
+      "net_total": 38.56
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 32.0,
+      "vat_rate": 0.01,
+      "net_total": 128.0
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 22.49,
+      "vat_rate": 0.2,
+      "net_total": 112.45
+    }
+  ],
+  "subtotal": 3789.84,
+  "vat_total": 402.62,
+  "grand_total": 4192.46,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000511 | Tarih: 19.07.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Karşıyaka/Ankara\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 15 215,81 %10 3.237,15\nÇikolata (80 g) 8 34,21 %20 273,68\nElma (kg) 1 38,56 %1 38,56\nElma (kg) 4 32,00 %1 128,00\nMaden Suyu (200 ml) 5 22,49 %20 112,45\nAra Toplam: 3.789,84\nKDV Toplam: 402,62\nGenel Toplam: 4.192,46\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

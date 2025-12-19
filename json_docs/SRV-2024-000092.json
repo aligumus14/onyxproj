@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000092",
+  "source_pdf": "0692_SERVIS_SRV-2024-000092.pdf",
+  "date": "2024-12-27",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Beşiktaş/Gaziantep",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-10560",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 1029.6,
+      "unit_price": 0.0,
+      "total": 1029.6
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 665.55,
+      "total": 665.55
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1422.46,
+      "total": 1422.46
+    },
+    {
+      "item": "Sensör",
+      "qty": 2.0,
+      "unit_price": 1880.53,
+      "total": 3761.06
+    }
+  ],
+  "subtotal": 6878.67,
+  "vat_rate": 0.2,
+  "vat_amount": 1375.73,
+  "grand_total": 8254.4,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000092 | Tarih: 27.12.2024 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Beşiktaş/Gaziantep | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-10560\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 1.029,60 1.029,60\nKayış 1 665,55 665,55\nTermostat 1 1.422,46 1.422,46\nSensör 2 1.880,53 3.761,06\nAra Toplam: 6.878,67\nKDV (%20): 1.375,73\nGenel Toplam: 8.254,40\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

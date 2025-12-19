@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000099",
+  "source_pdf": "0699_SERVIS_SRV-2024-000099.pdf",
+  "date": "2024-10-20",
+  "status": "Parça Bekleniyor",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Karşıyaka/Antalya",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-1",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-61316",
+  "technician": "Deniz Arı",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 591.4,
+      "unit_price": 2.0,
+      "total": 3548.52
+    },
+    {
+      "item": "Termostat",
+      "qty": 2.0,
+      "unit_price": 881.31,
+      "total": 1762.62
+    }
+  ],
+  "subtotal": 5311.14,
+  "vat_rate": 0.2,
+  "vat_amount": 1062.23,
+  "grand_total": 6373.37,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000099 | Tarih: 20.10.2024 | Durum: Parça Bekleniyor\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Karşıyaka/Antalya | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-1\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-61316\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 591,42 3.548,52\nTermostat 2 881,31 1.762,62\nAra Toplam: 5.311,14\nKDV (%20): 1.062,23\nGenel Toplam: 6.373,37\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

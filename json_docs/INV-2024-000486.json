@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000486",
+  "source_pdf": "0486_FATURA_INV-2024-000486.pdf",
+  "date": "2024-09-19",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 53.8,
+      "vat_rate": 0.01,
+      "net_total": 430.4
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 125.47,
+      "vat_rate": 0.1,
+      "net_total": 250.94
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 21.43,
+      "vat_rate": 0.1,
+      "net_total": 85.72
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 30.93,
+      "vat_rate": 0.01,
+      "net_total": 309.3
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 26.33,
+      "vat_rate": 0.01,
+      "net_total": 105.32
+    }
+  ],
+  "subtotal": 1181.68,
+  "vat_total": 42.1,
+  "grand_total": 1223.78,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000486 | Tarih: 19.09.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Şehitkamil/Antalya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 8 53,80 %1 430,40\nAyçiçek Yağı (1 L) 2 125,47 %10 250,94\nMakarna (500 g) 4 21,43 %10 85,72\nSalatalık (kg) 10 30,93 %1 309,30\nElma (kg) 4 26,33 %1 105,32\nAra Toplam: 1.181,68\nKDV Toplam: 42,10\nGenel Toplam: 1.223,78\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

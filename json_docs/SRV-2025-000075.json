@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000075",
+  "source_pdf": "0675_SERVIS_SRV-2025-000075.pdf",
+  "date": "2025-04-18",
+  "status": "Onay Bekliyor",
+  "priority": "Düşük",
+  "sla": "Düşük (72 saat)",
+  "location": "Muratpaşa/Ankara",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-10603",
+  "technician": "Deniz Arı",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 880.5,
+      "unit_price": 0.0,
+      "total": 2641.5
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1378.78,
+      "total": 1378.78
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1177.19,
+      "total": 1177.19
+    }
+  ],
+  "subtotal": 5197.47,
+  "vat_rate": 0.2,
+  "vat_amount": 1039.49,
+  "grand_total": 6236.96,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000075 | Tarih: 18.04.2025 | Durum: Onay Bekliyor\nÖncelik: Düşük | SLA: Düşük (72 saat)\nLokasyon: Muratpaşa/Ankara | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-10603\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 880,50 2.641,50\nTermostat 1 1.378,78 1.378,78\nKayış 1 1.177,19 1.177,19\nAra Toplam: 5.197,47\nKDV (%20): 1.039,49\nGenel Toplam: 6.236,96\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

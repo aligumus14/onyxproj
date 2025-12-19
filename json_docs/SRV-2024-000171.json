@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000171",
+  "source_pdf": "0771_SERVIS_SRV-2024-000171.pdf",
+  "date": "2024-03-09",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Orta (24 saat)",
+  "location": "Nilüfer/İstanbul",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-2",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-57614",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 790.5,
+      "unit_price": 8.0,
+      "total": 1976.45
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 3399.93,
+      "total": 3399.93
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 795.78,
+      "total": 795.78
+    }
+  ],
+  "subtotal": 6172.16,
+  "vat_rate": 0.2,
+  "vat_amount": 1234.43,
+  "grand_total": 7406.59,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000171 | Tarih: 09.03.2024 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Orta (24 saat)\nLokasyon: Nilüfer/İstanbul | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-2\nMakine: Forklift - Linde H35D | Seri No: FLT-57614\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 790,58 1.976,45\nHidrolik Hortum 1 3.399,93 3.399,93\nRulman Seti 1 795,78 795,78\nAra Toplam: 6.172,16\nKDV (%20): 1.234,43\nGenel Toplam: 7.406,59\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

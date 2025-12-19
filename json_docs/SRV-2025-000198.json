@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000198",
+  "source_pdf": "0798_SERVIS_SRV-2025-000198.pdf",
+  "date": "2025-02-21",
+  "status": "Kapatıldı",
+  "priority": "Yüksek",
+  "sla": "Kritik (4 saat)",
+  "location": "Seyhan/Ankara",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-2",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-81717",
+  "technician": "Selin Uçar",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 642.6,
+      "unit_price": 3.0,
+      "total": 1606.58
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 4143.05,
+      "total": 4143.05
+    }
+  ],
+  "subtotal": 5749.63,
+  "vat_rate": 0.2,
+  "vat_amount": 1149.93,
+  "grand_total": 6899.56,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000198 | Tarih: 21.02.2025 | Durum: Kapatıldı\nÖncelik: Yüksek | SLA: Kritik (4 saat)\nLokasyon: Seyhan/Ankara | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-2\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-81717\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 642,63 1.606,58\nHidrolik Hortum 1 4.143,05 4.143,05\nAra Toplam: 5.749,63\nKDV (%20): 1.149,93\nGenel Toplam: 6.899,56\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

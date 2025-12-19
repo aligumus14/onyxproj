@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000593",
+  "source_pdf": "0593_FATURA_INV-2025-000593.pdf",
+  "date": "2025-09-09",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 39.3,
+      "vat_rate": 0.2,
+      "net_total": 786.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 160.99,
+      "vat_rate": 0.1,
+      "net_total": 1609.9
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 498.51,
+      "vat_rate": 0.1,
+      "net_total": 3988.08
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 77.43,
+      "vat_rate": 0.1,
+      "net_total": 774.3
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 37.28,
+      "vat_rate": 0.2,
+      "net_total": 186.4
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 20.89,
+      "vat_rate": 0.2,
+      "net_total": 20.89
+    }
+  ],
+  "subtotal": 7365.57,
+  "vat_total": 835.89,
+  "grand_total": 8201.46,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000593 | Tarih: 09.09.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Çankaya/Ankara\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 20 39,30 %20 786,00\nUn (5 kg) 10 160,99 %10 1.609,90\nSomon Fileto (kg) 8 498,51 %10 3.988,08\nAyçiçek Yağı (1 L) 10 77,43 %10 774,30\nGazlı İçecek (1 L) 5 37,28 %20 186,40\nMaden Suyu (200 ml) 1 20,89 %20 20,89\nAra Toplam: 7.365,57\nKDV Toplam: 835,89\nGenel Toplam: 8.201,46\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

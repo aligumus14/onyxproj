@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000525",
+  "source_pdf": "0525_FATURA_INV-2024-000525.pdf",
+  "date": "2024-03-08",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 95.51,
+      "vat_rate": 0.01,
+      "net_total": 955.1
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 480.72,
+      "vat_rate": 0.1,
+      "net_total": 2403.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 485.29,
+      "vat_rate": 0.1,
+      "net_total": 2426.45
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 31.17,
+      "vat_rate": 0.1,
+      "net_total": 374.04
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 23.85,
+      "vat_rate": 0.2,
+      "net_total": 286.2
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 17.04,
+      "vat_rate": 0.2,
+      "net_total": 51.12
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 93.64,
+      "vat_rate": 0.01,
+      "net_total": 936.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 49.65,
+      "vat_rate": 0.2,
+      "net_total": 595.8
+    }
+  ],
+  "subtotal": 8028.71,
+  "vat_total": 725.93,
+  "grand_total": 8754.64,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000525 | Tarih: 08.03.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Nilüfer/İstanbul\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 10 95,51 %1 955,10\nDana Kıyma (kg) 5 480,72 %10 2.403,60\nDana Kıyma (kg) 5 485,29 %10 2.426,45\nMakarna (500 g) 12 31,17 %10 374,04\nMaden Suyu (200 ml) 12 23,85 %20 286,20\nMaden Suyu (200 ml) 3 17,04 %20 51,12\nMuz (kg) 10 93,64 %1 936,40\nGazlı İçecek (1 L) 12 49,65 %20 595,80\nAra Toplam: 8.028,71\nKDV Toplam: 725,93\nGenel Toplam: 8.754,64\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

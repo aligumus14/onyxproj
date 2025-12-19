@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000163",
+  "source_pdf": "0163_FATURA_INV-2024-000163.pdf",
+  "date": "2024-07-18",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 27.53,
+      "vat_rate": 0.01,
+      "net_total": 330.36
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 214.17,
+      "vat_rate": 0.1,
+      "net_total": 1285.02
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 64.43,
+      "vat_rate": 0.2,
+      "net_total": 322.15
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 20.41,
+      "vat_rate": 0.2,
+      "net_total": 102.05
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 202.22,
+      "vat_rate": 0.2,
+      "net_total": 3033.3
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 58.64,
+      "vat_rate": 0.01,
+      "net_total": 351.84
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 149.89,
+      "vat_rate": 0.1,
+      "net_total": 2997.8
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 17.23,
+      "vat_rate": 0.2,
+      "net_total": 17.23
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 76.79,
+      "vat_rate": 0.01,
+      "net_total": 153.58
+    }
+  ],
+  "subtotal": 8593.33,
+  "vat_total": 1131.59,
+  "grand_total": 9724.92,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000163 | Tarih: 18.07.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Antalya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 12 27,53 %1 330,36\nTavuk Göğüs (kg) 6 214,17 %10 1.285,02\nÇikolata (80 g) 5 64,43 %20 322,15\nMaden Suyu (200 ml) 5 20,41 %20 102,05\nKahve Çekirdeği (250 g) 15 202,22 %20 3.033,30\nSüt (1 L) 6 58,64 %1 351,84\nUn (5 kg) 20 149,89 %10 2.997,80\nMaden Suyu (200 ml) 1 17,23 %20 17,23\nYoğurt (1 kg) 2 76,79 %1 153,58\nAra Toplam: 8.593,33\nKDV Toplam: 1.131,59\nGenel Toplam: 9.724,92\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

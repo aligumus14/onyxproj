@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000105",
+  "source_pdf": "0105_FATURA_INV-2024-000105.pdf",
+  "date": "2024-03-15",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 31.68,
+      "vat_rate": 0.01,
+      "net_total": 253.44
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 44.06,
+      "vat_rate": 0.2,
+      "net_total": 352.48
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 228.89,
+      "vat_rate": 0.2,
+      "net_total": 457.78
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 31.11,
+      "vat_rate": 0.2,
+      "net_total": 466.65
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 44.35,
+      "vat_rate": 0.01,
+      "net_total": 221.75
+    }
+  ],
+  "subtotal": 1752.1,
+  "vat_total": 260.14,
+  "grand_total": 2012.24,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000105 | Tarih: 15.03.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Karşıyaka/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 8 31,68 %1 253,44\nÇikolata (80 g) 8 44,06 %20 352,48\nKahve Çekirdeği (250 g) 2 228,89 %20 457,78\nGazlı İçecek (1 L) 15 31,11 %20 466,65\nMuz (kg) 5 44,35 %1 221,75\nAra Toplam: 1.752,10\nKDV Toplam: 260,14\nGenel Toplam: 2.012,24\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

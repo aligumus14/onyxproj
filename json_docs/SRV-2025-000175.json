@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000175",
+  "source_pdf": "0775_SERVIS_SRV-2025-000175.pdf",
+  "date": "2025-05-04",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Düşük (72 saat)",
+  "location": "Karşıyaka/Bursa",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-1",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-21484",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 894.3,
+      "unit_price": 7.0,
+      "total": 1341.56
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1781.71,
+      "total": 1781.71
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1195.0,
+      "total": 1195.0
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1277.52,
+      "total": 1277.52
+    }
+  ],
+  "subtotal": 5595.79,
+  "vat_rate": 0.2,
+  "vat_amount": 1119.16,
+  "grand_total": 6714.95,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000175 | Tarih: 04.05.2025 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Düşük (72 saat)\nLokasyon: Karşıyaka/Bursa | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-1\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-21484\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 894,37 1.341,56\nTermostat 1 1.781,71 1.781,71\nKayış 1 1.195,00 1.195,00\nKayış 1 1.277,52 1.277,52\nAra Toplam: 5.595,79\nKDV (%20): 1.119,16\nGenel Toplam: 6.714,95\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

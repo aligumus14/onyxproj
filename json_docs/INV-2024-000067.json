@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000067",
+  "source_pdf": "0067_FATURA_INV-2024-000067.pdf",
+  "date": "2024-06-12",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 204.28,
+      "vat_rate": 0.1,
+      "net_total": 2042.8
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 20.43,
+      "vat_rate": 0.1,
+      "net_total": 20.43
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 197.73,
+      "vat_rate": 0.2,
+      "net_total": 2372.76
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 45.42,
+      "vat_rate": 0.01,
+      "net_total": 181.68
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 25.6,
+      "vat_rate": 0.01,
+      "net_total": 25.6
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 32.49,
+      "vat_rate": 0.1,
+      "net_total": 162.45
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 29.69,
+      "vat_rate": 0.01,
+      "net_total": 237.52
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 103.47,
+      "vat_rate": 0.01,
+      "net_total": 620.82
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 610.23,
+      "vat_rate": 0.1,
+      "net_total": 610.23
+    }
+  ],
+  "subtotal": 6274.29,
+  "vat_total": 768.81,
+  "grand_total": 7043.1,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000067 | Tarih: 12.06.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/Bursa\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 10 204,28 %10 2.042,80\nMakarna (500 g) 1 20,43 %10 20,43\nKahve Çekirdeği (250 g) 12 197,73 %20 2.372,76\nSüt (1 L) 4 45,42 %1 181,68\nSalatalık (kg) 1 25,60 %1 25,60\nMakarna (500 g) 5 32,49 %10 162,45\nElma (kg) 8 29,69 %1 237,52\nYoğurt (1 kg) 6 103,47 %1 620,82\nSomon Fileto (kg) 1 610,23 %10 610,23\nAra Toplam: 6.274,29\nKDV Toplam: 768,81\nGenel Toplam: 7.043,10\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

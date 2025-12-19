@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000368",
+  "source_pdf": "0368_FATURA_INV-2024-000368.pdf",
+  "date": "2024-03-06",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 200.94,
+      "vat_rate": 0.1,
+      "net_total": 3014.1
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 42.92,
+      "vat_rate": 0.2,
+      "net_total": 257.52
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 53.32,
+      "vat_rate": 0.01,
+      "net_total": 159.96
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 51.1,
+      "vat_rate": 0.1,
+      "net_total": 153.3
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 76.13,
+      "vat_rate": 0.01,
+      "net_total": 304.52
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 761.81,
+      "vat_rate": 0.1,
+      "net_total": 2285.43
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 36.15,
+      "vat_rate": 0.01,
+      "net_total": 36.15
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 27.48,
+      "vat_rate": 0.01,
+      "net_total": 164.88
+    }
+  ],
+  "subtotal": 6375.86,
+  "vat_total": 603.44,
+  "grand_total": 6979.3,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000368 | Tarih: 06.03.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Karşıyaka/Gaziantep\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 15 200,94 %10 3.014,10\nÇikolata (80 g) 6 42,92 %20 257,52\nElma (kg) 3 53,32 %1 159,96\nŞeker (1 kg) 3 51,10 %10 153,30\nMuz (kg) 4 76,13 %1 304,52\nSomon Fileto (kg) 3 761,81 %10 2.285,43\nElma (kg) 1 36,15 %1 36,15\nDomates (kg) 6 27,48 %1 164,88\nAra Toplam: 6.375,86\nKDV Toplam: 603,44\nGenel Toplam: 6.979,30\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

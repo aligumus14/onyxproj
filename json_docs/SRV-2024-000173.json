@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000173",
+  "source_pdf": "0773_SERVIS_SRV-2024-000173.pdf",
+  "date": "2024-03-26",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Düşük (72 saat)",
+  "location": "Çankaya/Ankara",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-2",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-33883",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 829.5,
+      "unit_price": 2.0,
+      "total": 2073.8
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 893.68,
+      "total": 893.68
+    }
+  ],
+  "subtotal": 2967.48,
+  "vat_rate": 0.2,
+  "vat_amount": 593.5,
+  "grand_total": 3560.98,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000173 | Tarih: 26.03.2024 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Düşük (72 saat)\nLokasyon: Çankaya/Ankara | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-2\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-33883\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 829,52 2.073,80\nTermostat 1 893,68 893,68\nAra Toplam: 2.967,48\nKDV (%20): 593,50\nGenel Toplam: 3.560,98\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

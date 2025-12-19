@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000008",
+  "source_pdf": "0608_SERVIS_SRV-2025-000008.pdf",
+  "date": "2025-09-21",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Beşiktaş/Ankara",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-27842",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 1051.2,
+      "unit_price": 2.0,
+      "total": 1576.83
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 1082.91,
+      "total": 1082.91
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1354.31,
+      "total": 1354.31
+    }
+  ],
+  "subtotal": 4014.05,
+  "vat_rate": 0.2,
+  "vat_amount": 802.81,
+  "grand_total": 4816.86,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000008 | Tarih: 21.09.2025 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Beşiktaş/Ankara | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-27842\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 1.051,22 1.576,83\nRulman Seti 1 1.082,91 1.082,91\nKayış 1 1.354,31 1.354,31\nAra Toplam: 4.014,05\nKDV (%20): 802,81\nGenel Toplam: 4.816,86\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

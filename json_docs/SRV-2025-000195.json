@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000195",
+  "source_pdf": "0795_SERVIS_SRV-2025-000195.pdf",
+  "date": "2025-06-30",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Düşük (72 saat)",
+  "location": "Kadıköy/Samsun",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-B",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-60144",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 487.7,
+      "unit_price": 0.0,
+      "total": 731.55
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 731.55,
+  "vat_rate": 0.2,
+  "vat_amount": 146.31,
+  "grand_total": 877.86,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000195 | Tarih: 30.06.2025 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Düşük (72 saat)\nLokasyon: Kadıköy/Samsun | Şube/DM: TR-IST-DC01 | Depo: Depo-B\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-60144\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 487,70 731,55\nParça Değişimi - - 0,00\nAra Toplam: 731,55\nKDV (%20): 146,31\nGenel Toplam: 877,86\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

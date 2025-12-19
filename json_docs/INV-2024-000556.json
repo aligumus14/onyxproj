@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000556",
+  "source_pdf": "0556_FATURA_INV-2024-000556.pdf",
+  "date": "2024-06-05",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 37.94,
+      "vat_rate": 0.1,
+      "net_total": 189.7
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 36.18,
+      "vat_rate": 0.1,
+      "net_total": 36.18
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 130.33,
+      "vat_rate": 0.1,
+      "net_total": 781.98
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 91.23,
+      "vat_rate": 0.01,
+      "net_total": 273.69
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 28.97,
+      "vat_rate": 0.01,
+      "net_total": 173.82
+    }
+  ],
+  "subtotal": 1455.37,
+  "vat_total": 105.27,
+  "grand_total": 1560.64,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000556 | Tarih: 05.06.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Selçuklu/Ankara\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 5 37,94 %10 189,70\nŞeker (1 kg) 1 36,18 %10 36,18\nTavuk Göğüs (kg) 6 130,33 %10 781,98\nMuz (kg) 3 91,23 %1 273,69\nElma (kg) 6 28,97 %1 173,82\nAra Toplam: 1.455,37\nKDV Toplam: 105,27\nGenel Toplam: 1.560,64\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

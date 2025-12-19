@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000312",
+  "source_pdf": "0312_FATURA_INV-2025-000312.pdf",
+  "date": "2025-01-03",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 71.88,
+      "vat_rate": 0.1,
+      "net_total": 215.64
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 38.57,
+      "vat_rate": 0.1,
+      "net_total": 38.57
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 69.15,
+      "vat_rate": 0.1,
+      "net_total": 138.3
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 169.09,
+      "vat_rate": 0.1,
+      "net_total": 2536.35
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 35.29,
+      "vat_rate": 0.2,
+      "net_total": 105.87
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 148.97,
+      "vat_rate": 0.1,
+      "net_total": 744.85
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 223.02,
+      "vat_rate": 0.2,
+      "net_total": 2676.24
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 47.52,
+      "vat_rate": 0.01,
+      "net_total": 285.12
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 22.18,
+      "vat_rate": 0.1,
+      "net_total": 88.72
+    }
+  ],
+  "subtotal": 6829.66,
+  "vat_total": 935.5,
+  "grand_total": 7765.16,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000312 | Tarih: 03.01.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Seyhan/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 3 71,88 %10 215,64\nMakarna (500 g) 1 38,57 %10 38,57\nŞeker (1 kg) 2 69,15 %10 138,30\nTavuk Göğüs (kg) 15 169,09 %10 2.536,35\nGazlı İçecek (1 L) 3 35,29 %20 105,87\nUn (5 kg) 5 148,97 %10 744,85\nKahve Çekirdeği (250 g) 12 223,02 %20 2.676,24\nMuz (kg) 6 47,52 %1 285,12\nMakarna (500 g) 4 22,18 %10 88,72\nAra Toplam: 6.829,66\nKDV Toplam: 935,50\nGenel Toplam: 7.765,16\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

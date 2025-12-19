@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000090",
+  "source_pdf": "0090_FATURA_INV-2024-000090.pdf",
+  "date": "2024-09-09",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 31.63,
+      "vat_rate": 0.01,
+      "net_total": 253.04
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 194.84,
+      "vat_rate": 0.2,
+      "net_total": 1169.04
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 78.84,
+      "vat_rate": 0.1,
+      "net_total": 1576.8
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 65.84,
+      "vat_rate": 0.01,
+      "net_total": 329.2
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 101.42,
+      "vat_rate": 0.1,
+      "net_total": 1014.2
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 169.55,
+      "vat_rate": 0.2,
+      "net_total": 1017.3
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 39.11,
+      "vat_rate": 0.1,
+      "net_total": 586.65
+    }
+  ],
+  "subtotal": 5946.23,
+  "vat_total": 760.85,
+  "grand_total": 6707.08,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000090 | Tarih: 09.09.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Beşiktaş/Konya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 8 31,63 %1 253,04\nKahve Çekirdeği (250 g) 6 194,84 %20 1.169,04\nŞeker (1 kg) 20 78,84 %10 1.576,80\nPirinç (1 kg) 5 65,84 %1 329,20\nAyçiçek Yağı (1 L) 10 101,42 %10 1.014,20\nKahve Çekirdeği (250 g) 6 169,55 %20 1.017,30\nMakarna (500 g) 15 39,11 %10 586,65\nAra Toplam: 5.946,23\nKDV Toplam: 760,85\nGenel Toplam: 6.707,08\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

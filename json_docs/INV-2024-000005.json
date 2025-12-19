@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000005",
+  "source_pdf": "0005_FATURA_INV-2024-000005.pdf",
+  "date": "2024-04-27",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 214.0,
+      "vat_rate": 0.1,
+      "net_total": 214.0
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 103.34,
+      "vat_rate": 0.01,
+      "net_total": 1240.08
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 2,
+      "unit_price": 64.17,
+      "vat_rate": 0.2,
+      "net_total": 128.34
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 165.84,
+      "vat_rate": 0.1,
+      "net_total": 3316.8
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 107.39,
+      "vat_rate": 0.1,
+      "net_total": 322.17
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 146.28,
+      "vat_rate": 0.01,
+      "net_total": 1755.36
+    }
+  ],
+  "subtotal": 6976.75,
+  "vat_total": 440.92,
+  "grand_total": 7417.67,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000005 | Tarih: 27.04.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Karşıyaka/Ankara\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 1 214,00 %10 214,00\nYoğurt (1 kg) 12 103,34 %1 1.240,08\nÇikolata (80 g) 2 64,17 %20 128,34\nTavuk Göğüs (kg) 20 165,84 %10 3.316,80\nAyçiçek Yağı (1 L) 3 107,39 %10 322,17\nKuru Fasulye (1 kg) 12 146,28 %1 1.755,36\nAra Toplam: 6.976,75\nKDV Toplam: 440,92\nGenel Toplam: 7.417,67\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

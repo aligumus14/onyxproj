@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000188",
+  "source_pdf": "0788_SERVIS_SRV-2024-000188.pdf",
+  "date": "2024-10-04",
+  "status": "Onay Bekliyor",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Beşiktaş/Konya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-87591",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 758.8,
+      "unit_price": 2.0,
+      "total": 2276.46
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 2276.46,
+  "vat_rate": 0.2,
+  "vat_amount": 455.29,
+  "grand_total": 2731.75,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000188 | Tarih: 04.10.2024 | Durum: Onay Bekliyor\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Beşiktaş/Konya | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-87591\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 758,82 2.276,46\nParça Değişimi - - 0,00\nAra Toplam: 2.276,46\nKDV (%20): 455,29\nGenel Toplam: 2.731,75\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

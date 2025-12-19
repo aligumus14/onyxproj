@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000539",
+  "source_pdf": "0539_FATURA_INV-2025-000539.pdf",
+  "date": "2025-06-02",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 27.65,
+      "vat_rate": 0.01,
+      "net_total": 331.8
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 26.09,
+      "vat_rate": 0.2,
+      "net_total": 156.54
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 255.75,
+      "vat_rate": 0.2,
+      "net_total": 1534.5
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 170.83,
+      "vat_rate": 0.1,
+      "net_total": 1024.98
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 115.6,
+      "vat_rate": 0.1,
+      "net_total": 693.6
+    }
+  ],
+  "subtotal": 3741.42,
+  "vat_total": 513.39,
+  "grand_total": 4254.81,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000539 | Tarih: 02.06.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Selçuklu/İzmir\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 12 27,65 %1 331,80\nÇikolata (80 g) 6 26,09 %20 156,54\nKahve Çekirdeği (250 g) 6 255,75 %20 1.534,50\nUn (5 kg) 6 170,83 %10 1.024,98\nTavuk Göğüs (kg) 6 115,60 %10 693,60\nAra Toplam: 3.741,42\nKDV Toplam: 513,39\nGenel Toplam: 4.254,81\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

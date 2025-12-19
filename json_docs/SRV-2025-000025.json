@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000025",
+  "source_pdf": "0625_SERVIS_SRV-2025-000025.pdf",
+  "date": "2025-09-20",
+  "status": "Onay Bekliyor",
+  "priority": "Düşük",
+  "sla": "Kritik (4 saat)",
+  "location": "Seyhan/İzmir",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-46428",
+  "technician": "Emre Taş",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 496.1,
+      "unit_price": 4.0,
+      "total": 1488.42
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1488.42,
+  "vat_rate": 0.2,
+  "vat_amount": 297.68,
+  "grand_total": 1786.1,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000025 | Tarih: 20.09.2025 | Durum: Onay Bekliyor\nÖncelik: Düşük | SLA: Kritik (4 saat)\nLokasyon: Seyhan/İzmir | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-46428\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 496,14 1.488,42\nParça Değişimi - - 0,00\nAra Toplam: 1.488,42\nKDV (%20): 297,68\nGenel Toplam: 1.786,10\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

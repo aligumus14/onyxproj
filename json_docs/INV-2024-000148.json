@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000148",
+  "source_pdf": "0148_FATURA_INV-2024-000148.pdf",
+  "date": "2024-04-08",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 44.25,
+      "vat_rate": 0.1,
+      "net_total": 88.5
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 71.75,
+      "vat_rate": 0.1,
+      "net_total": 1435.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 48.46,
+      "vat_rate": 0.01,
+      "net_total": 969.2
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 94.93,
+      "vat_rate": 0.1,
+      "net_total": 569.58
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 49.79,
+      "vat_rate": 0.01,
+      "net_total": 49.79
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 54.93,
+      "vat_rate": 0.01,
+      "net_total": 659.16
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 39.27,
+      "vat_rate": 0.01,
+      "net_total": 196.35
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 142.58,
+      "vat_rate": 0.1,
+      "net_total": 2851.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 373.48,
+      "vat_rate": 0.1,
+      "net_total": 373.48
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 25.21,
+      "vat_rate": 0.01,
+      "net_total": 302.52
+    }
+  ],
+  "subtotal": 7495.18,
+  "vat_total": 553.59,
+  "grand_total": 8048.77,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000148 | Tarih: 08.04.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Çankaya/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 2 44,25 %10 88,50\nŞeker (1 kg) 20 71,75 %10 1.435,00\nMuz (kg) 20 48,46 %1 969,20\nUn (5 kg) 6 94,93 %10 569,58\nMuz (kg) 1 49,79 %1 49,79\nYoğurt (1 kg) 12 54,93 %1 659,16\nSüt (1 L) 5 39,27 %1 196,35\nUn (5 kg) 20 142,58 %10 2.851,60\nDana Kıyma (kg) 1 373,48 %10 373,48\nElma (kg) 12 25,21 %1 302,52\nAra Toplam: 7.495,18\nKDV Toplam: 553,59\nGenel Toplam: 8.048,77\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000473",
+  "source_pdf": "0473_FATURA_INV-2024-000473.pdf",
+  "date": "2024-12-07",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 62.33,
+      "vat_rate": 0.01,
+      "net_total": 1246.6
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 23.03,
+      "vat_rate": 0.1,
+      "net_total": 460.6
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 165.0,
+      "vat_rate": 0.2,
+      "net_total": 660.0
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 27.1,
+      "vat_rate": 0.1,
+      "net_total": 162.6
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 188.12,
+      "vat_rate": 0.1,
+      "net_total": 1128.72
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 71.27,
+      "vat_rate": 0.01,
+      "net_total": 427.62
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 101.05,
+      "vat_rate": 0.1,
+      "net_total": 1515.75
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 50.22,
+      "vat_rate": 0.2,
+      "net_total": 1004.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 32.12,
+      "vat_rate": 0.2,
+      "net_total": 385.44
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 45.14,
+      "vat_rate": 0.01,
+      "net_total": 180.56
+    }
+  ],
+  "subtotal": 7172.29,
+  "vat_total": 755.3,
+  "grand_total": 7927.59,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000473 | Tarih: 07.12.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Karşıyaka/Adana\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 20 62,33 %1 1.246,60\nMakarna (500 g) 20 23,03 %10 460,60\nKahve Çekirdeği (250 g) 4 165,00 %20 660,00\nMakarna (500 g) 6 27,10 %10 162,60\nUn (5 kg) 6 188,12 %10 1.128,72\nKuru Fasulye (1 kg) 6 71,27 %1 427,62\nAyçiçek Yağı (1 L) 15 101,05 %10 1.515,75\nÇikolata (80 g) 20 50,22 %20 1.004,40\nGazlı İçecek (1 L) 12 32,12 %20 385,44\nMuz (kg) 4 45,14 %1 180,56\nAra Toplam: 7.172,29\nKDV Toplam: 755,30\nGenel Toplam: 7.927,59\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

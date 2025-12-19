@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000578",
+  "source_pdf": "0578_FATURA_INV-2024-000578.pdf",
+  "date": "2024-01-24",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 96.52,
+      "vat_rate": 0.01,
+      "net_total": 482.6
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 84.66,
+      "vat_rate": 0.01,
+      "net_total": 846.6
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 36.58,
+      "vat_rate": 0.01,
+      "net_total": 731.6
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 36.54,
+      "vat_rate": 0.01,
+      "net_total": 182.7
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 24.45,
+      "vat_rate": 0.01,
+      "net_total": 122.25
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 166.97,
+      "vat_rate": 0.1,
+      "net_total": 667.88
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 781.41,
+      "vat_rate": 0.1,
+      "net_total": 3125.64
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 72.06,
+      "vat_rate": 0.01,
+      "net_total": 1080.9
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 50.5,
+      "vat_rate": 0.01,
+      "net_total": 404.0
+    }
+  ],
+  "subtotal": 7644.17,
+  "vat_total": 417.87,
+  "grand_total": 8062.04,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000578 | Tarih: 24.01.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Selçuklu/Bursa\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 5 96,52 %1 482,60\nPirinç (1 kg) 10 84,66 %1 846,60\nSalatalık (kg) 20 36,58 %1 731,60\nSalatalık (kg) 5 36,54 %1 182,70\nSalatalık (kg) 5 24,45 %1 122,25\nAyçiçek Yağı (1 L) 4 166,97 %10 667,88\nSomon Fileto (kg) 4 781,41 %10 3.125,64\nYoğurt (1 kg) 15 72,06 %1 1.080,90\nElma (kg) 8 50,50 %1 404,00\nAra Toplam: 7.644,17\nKDV Toplam: 417,87\nGenel Toplam: 8.062,04\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

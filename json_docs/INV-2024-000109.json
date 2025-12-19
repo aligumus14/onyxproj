@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000109",
+  "source_pdf": "0109_FATURA_INV-2024-000109.pdf",
+  "date": "2024-03-20",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 67.93,
+      "vat_rate": 0.2,
+      "net_total": 67.93
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 87.63,
+      "vat_rate": 0.01,
+      "net_total": 876.3
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 119.5,
+      "vat_rate": 0.1,
+      "net_total": 717.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 137.96,
+      "vat_rate": 0.1,
+      "net_total": 137.96
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 196.3,
+      "vat_rate": 0.1,
+      "net_total": 2944.5
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 37.89,
+      "vat_rate": 0.01,
+      "net_total": 378.9
+    }
+  ],
+  "subtotal": 5122.59,
+  "vat_total": 406.09,
+  "grand_total": 5528.68,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000109 | Tarih: 20.03.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Kadıköy/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 1 67,93 %20 67,93\nMuz (kg) 10 87,63 %1 876,30\nTavuk Göğüs (kg) 6 119,50 %10 717,00\nUn (5 kg) 1 137,96 %10 137,96\nTavuk Göğüs (kg) 15 196,30 %10 2.944,50\nSüt (1 L) 10 37,89 %1 378,90\nAra Toplam: 5.122,59\nKDV Toplam: 406,09\nGenel Toplam: 5.528,68\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,54 +1,38 @@
-import os
-from pypdf import PdfReader
+import chromadb
 
-# PDF klasörünün yolu
-PDF_FOLDER = "./pdfs"
-TARGET_ID = "INV-2025-000001"
+DB_PATH = "./vector_db"
+COLLECTION_NAME = "company_docs"
 
-def debug_pdf():
-    print(f"🔍 '{PDF_FOLDER}' klasöründeki dosyalar taranıyor...\n")
-    
-    files = [f for f in os.listdir(PDF_FOLDER) if f.lower().endswith('.pdf')]
-    
-    found_file = None
-    
-    # 1. Dosya isminde ID'yi ara
-    for f in files:
-        if TARGET_ID in f:
-            print(f"📄 Dosya İsmi Eşleşti: {f}")
-            found_file = f
-            break
-    
-    if not found_file:
-        print(f"❌ '{TARGET_ID}' ismini içeren bir dosya bulunamadı!")
-        print("Lütfen dosya adının doğru olduğundan emin ol.")
-        # Eğer dosya adında ID yoksa, manuel olarak dosya adını buraya yazabilirsin:
-        # found_file = "fatura_ornek.pdf" 
-        return
+def main():
+    client = chromadb.PersistentClient(path=DB_PATH)
+    col = client.get_collection(name=COLLECTION_NAME)
 
-    # 2. İçeriği Oku
-    file_path = os.path.join(PDF_FOLDER, found_file)
-    try:
-        reader = PdfReader(file_path)
-        full_text = ""
-        for page in reader.pages:
-            full_text += page.extract_text() + "\n"
-            
-        print(f"\n📖 '{found_file}' OKUNUYOR...")
-        print("="*40)
-        print(full_text.strip())
-        print("="*40)
-        
-        # 3. İçerik Kontrolü
-        if TARGET_ID in full_text:
-            print(f"\n✅ BAŞARILI: '{TARGET_ID}' metnin içinde aynen geçiyor.")
-            print("👉 Sorun Veritabanında. Çözüm: 'vector_db' klasörünü sil ve yeniden yükle.")
-        else:
-            print(f"\n❌ BAŞARISIZ: '{TARGET_ID}' metnin içinde BULUNAMADI.")
-            print("👉 Sorun PDF Formatında. Python bu PDF'i metin olarak okuyamıyor (Resim olabilir).")
-            
-    except Exception as e:
-        print(f"HATA: {e}")
+    print("count:", col.count())
+
+    sample = col.get(limit=5, include=["documents", "metadatas", "embeddings"])
+    embs = sample.get("embeddings")
+
+    # embeddings bazen [[...],[...]] veya None dönebilir
+    has_any = False
+    emb_shapes = []
+    if embs:
+        for e in embs:
+            if e is None:
+                emb_shapes.append(None)
+            else:
+                has_any = True
+                emb_shapes.append(len(e))
+
+    print("embeddings_present:", bool(embs) and has_any)
+    print("embedding_lengths:", emb_shapes)
+
+    # Bir de ilk dokümanı göster
+    docs = sample.get("documents", [])
+    metas = sample.get("metadatas", [])
+    for i in range(min(3, len(docs))):
+        src = (metas[i] or {}).get("source", "BILINMEYEN") if isinstance(metas, list) else "?"
+        print(f"\n[{i}] source={src}")
+        print((docs[i] or "")[:250])
 
 if __name__ == "__main__":
-    debug_pdf()
+    main()

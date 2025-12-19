@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000230",
+  "source_pdf": "0230_FATURA_INV-2025-000230.pdf",
+  "date": "2025-06-28",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 2,
+      "unit_price": 100.42,
+      "vat_rate": 0.1,
+      "net_total": 200.84
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 146.66,
+      "vat_rate": 0.01,
+      "net_total": 733.3
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 49.06,
+      "vat_rate": 0.01,
+      "net_total": 98.12
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 42.37,
+      "vat_rate": 0.01,
+      "net_total": 127.11
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 165.21,
+      "vat_rate": 0.1,
+      "net_total": 1982.52
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 34.58,
+      "vat_rate": 0.01,
+      "net_total": 172.9
+    }
+  ],
+  "subtotal": 3314.79,
+  "vat_total": 229.64,
+  "grand_total": 3544.43,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000230 | Tarih: 28.06.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Nilüfer/Samsun\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 2 100,42 %10 200,84\nKuru Fasulye (1 kg) 5 146,66 %1 733,30\nMuz (kg) 2 49,06 %1 98,12\nElma (kg) 3 42,37 %1 127,11\nAyçiçek Yağı (1 L) 12 165,21 %10 1.982,52\nDomates (kg) 5 34,58 %1 172,90\nAra Toplam: 3.314,79\nKDV Toplam: 229,64\nGenel Toplam: 3.544,43\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

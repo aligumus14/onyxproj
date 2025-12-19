@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000439",
+  "source_pdf": "0439_FATURA_INV-2025-000439.pdf",
+  "date": "2025-03-17",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 40.14,
+      "vat_rate": 0.2,
+      "net_total": 120.42
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 38.85,
+      "vat_rate": 0.01,
+      "net_total": 77.7
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 127.07,
+      "vat_rate": 0.1,
+      "net_total": 254.14
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 131.35,
+      "vat_rate": 0.01,
+      "net_total": 394.05
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 189.45,
+      "vat_rate": 0.2,
+      "net_total": 2273.4
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 160.05,
+      "vat_rate": 0.1,
+      "net_total": 1280.4
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 103.93,
+      "vat_rate": 0.01,
+      "net_total": 623.58
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 55.97,
+      "vat_rate": 0.01,
+      "net_total": 1119.4
+    }
+  ],
+  "subtotal": 6143.09,
+  "vat_total": 654.36,
+  "grand_total": 6797.45,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000439 | Tarih: 17.03.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Seyhan/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 3 40,14 %20 120,42\nElma (kg) 2 38,85 %1 77,70\nAyçiçek Yağı (1 L) 2 127,07 %10 254,14\nKuru Fasulye (1 kg) 3 131,35 %1 394,05\nKahve Çekirdeği (250 g) 12 189,45 %20 2.273,40\nAyçiçek Yağı (1 L) 8 160,05 %10 1.280,40\nYoğurt (1 kg) 6 103,93 %1 623,58\nElma (kg) 20 55,97 %1 1.119,40\nAra Toplam: 6.143,09\nKDV Toplam: 654,36\nGenel Toplam: 6.797,45\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

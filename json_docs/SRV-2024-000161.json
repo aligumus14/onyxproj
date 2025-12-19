@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000161",
+  "source_pdf": "0761_SERVIS_SRV-2024-000161.pdf",
+  "date": "2024-07-17",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Yüksek (8 saat)",
+  "location": "Selçuklu/Samsun",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-A",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-70560",
+  "technician": "Deniz Arı",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 1157.7,
+      "unit_price": 9.0,
+      "total": 3473.37
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 1106.38,
+      "total": 2212.76
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1796.14,
+      "total": 1796.14
+    }
+  ],
+  "subtotal": 7482.27,
+  "vat_rate": 0.2,
+  "vat_amount": 1496.45,
+  "grand_total": 8978.72,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000161 | Tarih: 17.07.2024 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Yüksek (8 saat)\nLokasyon: Selçuklu/Samsun | Şube/DM: TR-IZM-DC03 | Depo: Depo-A\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-70560\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 1.157,79 3.473,37\nKayış 2 1.106,38 2.212,76\nTermostat 1 1.796,14 1.796,14\nAra Toplam: 7.482,27\nKDV (%20): 1.496,45\nGenel Toplam: 8.978,72\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

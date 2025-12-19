@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000329",
+  "source_pdf": "0329_FATURA_INV-2024-000329.pdf",
+  "date": "2024-04-17",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 796.16,
+      "vat_rate": 0.1,
+      "net_total": 11942.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 49.3,
+      "vat_rate": 0.2,
+      "net_total": 246.5
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 26.59,
+      "vat_rate": 0.01,
+      "net_total": 79.77
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 178.68,
+      "vat_rate": 0.2,
+      "net_total": 536.04
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 48.78,
+      "vat_rate": 0.2,
+      "net_total": 585.36
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 220.69,
+      "vat_rate": 0.2,
+      "net_total": 2206.9
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 98.07,
+      "vat_rate": 0.01,
+      "net_total": 98.07
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 53.21,
+      "vat_rate": 0.01,
+      "net_total": 1064.2
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 245.02,
+      "vat_rate": 0.2,
+      "net_total": 3675.3
+    }
+  ],
+  "subtotal": 20434.54,
+  "vat_total": 2656.68,
+  "grand_total": 23091.22,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000329 | Tarih: 17.04.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Seyhan/Samsun\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 15 796,16 %10 11.942,40\nGazlı İçecek (1 L) 5 49,30 %20 246,50\nSalatalık (kg) 3 26,59 %1 79,77\nKahve Çekirdeği (250 g) 3 178,68 %20 536,04\nGazlı İçecek (1 L) 12 48,78 %20 585,36\nKahve Çekirdeği (250 g) 10 220,69 %20 2.206,90\nYoğurt (1 kg) 1 98,07 %1 98,07\nPirinç (1 kg) 20 53,21 %1 1.064,20\nKahve Çekirdeği (250 g) 15 245,02 %20 3.675,30\nAra Toplam: 20.434,54\nKDV Toplam: 2.656,68\nGenel Toplam: 23.091,22\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

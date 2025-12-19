@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000049",
+  "source_pdf": "0049_FATURA_INV-2024-000049.pdf",
+  "date": "2024-06-21",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 776.01,
+      "vat_rate": 0.1,
+      "net_total": 15520.2
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 30.13,
+      "vat_rate": 0.01,
+      "net_total": 60.26
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 130.24,
+      "vat_rate": 0.1,
+      "net_total": 390.72
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 92.32,
+      "vat_rate": 0.01,
+      "net_total": 276.96
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 38.37,
+      "vat_rate": 0.1,
+      "net_total": 383.7
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 10,
+      "unit_price": 20.22,
+      "vat_rate": 0.2,
+      "net_total": 202.2
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 19.53,
+      "vat_rate": 0.2,
+      "net_total": 390.6
+    }
+  ],
+  "subtotal": 17224.64,
+  "vat_total": 1751.39,
+  "grand_total": 18976.03,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000049 | Tarih: 21.06.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Selçuklu/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 20 776,01 %10 15.520,20\nSüt (1 L) 2 30,13 %1 60,26\nAyçiçek Yağı (1 L) 3 130,24 %10 390,72\nMuz (kg) 3 92,32 %1 276,96\nMakarna (500 g) 10 38,37 %10 383,70\nMaden Suyu (200 ml) 10 20,22 %20 202,20\nMaden Suyu (200 ml) 20 19,53 %20 390,60\nAra Toplam: 17.224,64\nKDV Toplam: 1.751,39\nGenel Toplam: 18.976,03\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000175",
+  "source_pdf": "0175_FATURA_INV-2024-000175.pdf",
+  "date": "2024-01-23",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 23.16,
+      "vat_rate": 0.01,
+      "net_total": 92.64
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 27.6,
+      "vat_rate": 0.01,
+      "net_total": 276.0
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 70.36,
+      "vat_rate": 0.1,
+      "net_total": 351.8
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 30.52,
+      "vat_rate": 0.1,
+      "net_total": 183.12
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 20.17,
+      "vat_rate": 0.01,
+      "net_total": 121.02
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 62.32,
+      "vat_rate": 0.01,
+      "net_total": 62.32
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 212.34,
+      "vat_rate": 0.2,
+      "net_total": 424.68
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 141.66,
+      "vat_rate": 0.01,
+      "net_total": 566.64
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 107.98,
+      "vat_rate": 0.01,
+      "net_total": 863.84
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 38.47,
+      "vat_rate": 0.01,
+      "net_total": 153.88
+    }
+  ],
+  "subtotal": 3095.94,
+  "vat_total": 159.8,
+  "grand_total": 3255.74,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000175 | Tarih: 23.01.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Şişli/Antalya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 4 23,16 %1 92,64\nDomates (kg) 10 27,60 %1 276,00\nŞeker (1 kg) 5 70,36 %10 351,80\nMakarna (500 g) 6 30,52 %10 183,12\nSalatalık (kg) 6 20,17 %1 121,02\nPirinç (1 kg) 1 62,32 %1 62,32\nKahve Çekirdeği (250 g) 2 212,34 %20 424,68\nKuru Fasulye (1 kg) 4 141,66 %1 566,64\nYoğurt (1 kg) 8 107,98 %1 863,84\nElma (kg) 4 38,47 %1 153,88\nAra Toplam: 3.095,94\nKDV Toplam: 159,80\nGenel Toplam: 3.255,74\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

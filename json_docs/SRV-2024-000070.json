@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000070",
+  "source_pdf": "0670_SERVIS_SRV-2024-000070.pdf",
+  "date": "2024-04-02",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Kritik (4 saat)",
+  "location": "Seyhan/İzmir",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-1",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-34232",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 1047.9,
+      "unit_price": 3.0,
+      "total": 4191.72
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1717.1,
+      "total": 1717.1
+    }
+  ],
+  "subtotal": 5908.82,
+  "vat_rate": 0.2,
+  "vat_amount": 1181.76,
+  "grand_total": 7090.58,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000070 | Tarih: 02.04.2024 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Kritik (4 saat)\nLokasyon: Seyhan/İzmir | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-1\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-34232\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 1.047,93 4.191,72\nSensör 1 1.717,10 1.717,10\nAra Toplam: 5.908,82\nKDV (%20): 1.181,76\nGenel Toplam: 7.090,58\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

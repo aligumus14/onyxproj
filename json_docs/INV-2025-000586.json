@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000586",
+  "source_pdf": "0586_FATURA_INV-2025-000586.pdf",
+  "date": "2025-07-19",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 48.17,
+      "vat_rate": 0.2,
+      "net_total": 289.02
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 12.2,
+      "vat_rate": 0.2,
+      "net_total": 48.8
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 14.42,
+      "vat_rate": 0.2,
+      "net_total": 28.84
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 50.63,
+      "vat_rate": 0.2,
+      "net_total": 253.15
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 159.05,
+      "vat_rate": 0.1,
+      "net_total": 477.15
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 54.37,
+      "vat_rate": 0.01,
+      "net_total": 163.11
+    }
+  ],
+  "subtotal": 1260.07,
+  "vat_total": 173.31,
+  "grand_total": 1433.38,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000586 | Tarih: 19.07.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Selçuklu/Ankara\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 6 48,17 %20 289,02\nMaden Suyu (200 ml) 4 12,20 %20 48,80\nMaden Suyu (200 ml) 2 14,42 %20 28,84\nÇikolata (80 g) 5 50,63 %20 253,15\nAyçiçek Yağı (1 L) 3 159,05 %10 477,15\nElma (kg) 3 54,37 %1 163,11\nAra Toplam: 1.260,07\nKDV Toplam: 173,31\nGenel Toplam: 1.433,38\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

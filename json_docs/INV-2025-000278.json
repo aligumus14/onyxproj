@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000278",
+  "source_pdf": "0278_FATURA_INV-2025-000278.pdf",
+  "date": "2025-02-08",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 41.5,
+      "vat_rate": 0.1,
+      "net_total": 124.5
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 91.22,
+      "vat_rate": 0.01,
+      "net_total": 912.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 101.11,
+      "vat_rate": 0.01,
+      "net_total": 1213.32
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 40.94,
+      "vat_rate": 0.01,
+      "net_total": 163.76
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 43.49,
+      "vat_rate": 0.01,
+      "net_total": 130.47
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 690.64,
+      "vat_rate": 0.1,
+      "net_total": 1381.28
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 40.44,
+      "vat_rate": 0.1,
+      "net_total": 80.88
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 10.6,
+      "vat_rate": 0.2,
+      "net_total": 53.0
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 69.15,
+      "vat_rate": 0.01,
+      "net_total": 138.3
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 567.59,
+      "vat_rate": 0.1,
+      "net_total": 2837.95
+    }
+  ],
+  "subtotal": 7035.66,
+  "vat_total": 478.64,
+  "grand_total": 7514.3,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000278 | Tarih: 08.02.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Seyhan/Kocaeli\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 3 41,50 %10 124,50\nPirinç (1 kg) 10 91,22 %1 912,20\nPirinç (1 kg) 12 101,11 %1 1.213,32\nElma (kg) 4 40,94 %1 163,76\nSalatalık (kg) 3 43,49 %1 130,47\nSomon Fileto (kg) 2 690,64 %10 1.381,28\nŞeker (1 kg) 2 40,44 %10 80,88\nMaden Suyu (200 ml) 5 10,60 %20 53,00\nPirinç (1 kg) 2 69,15 %1 138,30\nSomon Fileto (kg) 5 567,59 %10 2.837,95\nAra Toplam: 7.035,66\nKDV Toplam: 478,64\nGenel Toplam: 7.514,30\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

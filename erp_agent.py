@@ -196,18 +196,20 @@ DİL: Türkçe, Resmi ve Kurumsal.
 
         # 3. AI Prompt (Sıkı Kurallar)
         prompt = f"""
-Sen Kurumsal Belge Analistisin.
-Aşağıdaki metin parçalarını oku ve soruyu cevapla.
+Sen Uzman Bir Muhasebe Asistanısın.
+Görevin, aşağıdaki OCR (Optik Karakter Tanıma) ile okunmuş fatura verilerini analiz etmektir.
 
-METİN PARÇALARI:
+VERİ:
 {context_text}
 
 SORU: {user_question}
 
 KURALLAR:
-1. Eğer metinde '{invoice_match.group(1) if invoice_match else "aranan bilgi"}' geçiyorsa cevabı ver.
-2. Eğer metinde bu numara veya bilgi KESİNLİKLE YOKSA, "Verilen belgelerde bu bilgiye rastlanmadı" de.
-3. Asla tahmin yürütme veya sayı uydurma.
+1. Veriler TABLO formatındadır. Sütunların hizasına dikkat et.
+2. Genellikle format şöyledir: [Ürün Adı] [Miktar] [Birim Fiyat] [Toplam]
+3. Satırları birbirine karıştırma. Ürün adının hemen sağındaki sayı genellikle Miktardır.
+4. "Dana Kıyma" için birden fazla satır varsa, hepsini bul ve topla.
+5. Sadece metinde KESİN olarak yazan sayıları kullan.
 
 CEVAP:
 """

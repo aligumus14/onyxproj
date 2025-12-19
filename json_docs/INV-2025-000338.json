@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000338",
+  "source_pdf": "0338_FATURA_INV-2025-000338.pdf",
+  "date": "2025-12-29",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 38.11,
+      "vat_rate": 0.01,
+      "net_total": 762.2
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 117.21,
+      "vat_rate": 0.1,
+      "net_total": 586.05
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 31.47,
+      "vat_rate": 0.01,
+      "net_total": 251.76
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 27.03,
+      "vat_rate": 0.1,
+      "net_total": 162.18
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 48.41,
+      "vat_rate": 0.01,
+      "net_total": 96.82
+    }
+  ],
+  "subtotal": 1859.01,
+  "vat_total": 85.93,
+  "grand_total": 1944.94,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000338 | Tarih: 29.12.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 20 38,11 %1 762,20\nAyçiçek Yağı (1 L) 5 117,21 %10 586,05\nElma (kg) 8 31,47 %1 251,76\nMakarna (500 g) 6 27,03 %10 162,18\nElma (kg) 2 48,41 %1 96,82\nAra Toplam: 1.859,01\nKDV Toplam: 85,93\nGenel Toplam: 1.944,94\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

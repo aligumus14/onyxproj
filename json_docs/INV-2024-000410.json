@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000410",
+  "source_pdf": "0410_FATURA_INV-2024-000410.pdf",
+  "date": "2024-07-22",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 33.34,
+      "vat_rate": 0.2,
+      "net_total": 500.1
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 103.45,
+      "vat_rate": 0.01,
+      "net_total": 103.45
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 76.62,
+      "vat_rate": 0.01,
+      "net_total": 1149.3
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 19.57,
+      "vat_rate": 0.2,
+      "net_total": 78.28
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 35.74,
+      "vat_rate": 0.1,
+      "net_total": 428.88
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 137.26,
+      "vat_rate": 0.01,
+      "net_total": 686.3
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 163.36,
+      "vat_rate": 0.1,
+      "net_total": 3267.2
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 180.71,
+      "vat_rate": 0.2,
+      "net_total": 2710.65
+    }
+  ],
+  "subtotal": 8924.16,
+  "vat_total": 1046.8,
+  "grand_total": 9970.96,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000410 | Tarih: 22.07.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/İstanbul\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 15 33,34 %20 500,10\nKuru Fasulye (1 kg) 1 103,45 %1 103,45\nYoğurt (1 kg) 15 76,62 %1 1.149,30\nMaden Suyu (200 ml) 4 19,57 %20 78,28\nMakarna (500 g) 12 35,74 %10 428,88\nKuru Fasulye (1 kg) 5 137,26 %1 686,30\nTavuk Göğüs (kg) 20 163,36 %10 3.267,20\nKahve Çekirdeği (250 g) 15 180,71 %20 2.710,65\nAra Toplam: 8.924,16\nKDV Toplam: 1.046,80\nGenel Toplam: 9.970,96\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

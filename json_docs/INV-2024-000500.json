@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000500",
+  "source_pdf": "0500_FATURA_INV-2024-000500.pdf",
+  "date": "2024-12-18",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 72.35,
+      "vat_rate": 0.01,
+      "net_total": 434.1
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 692.2,
+      "vat_rate": 0.1,
+      "net_total": 13844.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 54.43,
+      "vat_rate": 0.01,
+      "net_total": 816.45
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 365.95,
+      "vat_rate": 0.1,
+      "net_total": 3659.5
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 31.49,
+      "vat_rate": 0.1,
+      "net_total": 188.94
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 32.74,
+      "vat_rate": 0.1,
+      "net_total": 196.44
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 128.72,
+      "vat_rate": 0.1,
+      "net_total": 514.88
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 29.06,
+      "vat_rate": 0.01,
+      "net_total": 174.36
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 210.05,
+      "vat_rate": 0.1,
+      "net_total": 1260.3
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 267.68,
+      "vat_rate": 0.2,
+      "net_total": 2676.8
+    }
+  ],
+  "subtotal": 23765.77,
+  "vat_total": 2516.0,
+  "grand_total": 26281.77,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000500 | Tarih: 18.12.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Seyhan/Ankara\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 6 72,35 %1 434,10\nSomon Fileto (kg) 20 692,20 %10 13.844,00\nMuz (kg) 15 54,43 %1 816,45\nDana Kıyma (kg) 10 365,95 %10 3.659,50\nMakarna (500 g) 6 31,49 %10 188,94\nMakarna (500 g) 6 32,74 %10 196,44\nAyçiçek Yağı (1 L) 4 128,72 %10 514,88\nSalatalık (kg) 6 29,06 %1 174,36\nUn (5 kg) 6 210,05 %10 1.260,30\nKahve Çekirdeği (250 g) 10 267,68 %20 2.676,80\nAra Toplam: 23.765,77\nKDV Toplam: 2.516,00\nGenel Toplam: 26.281,77\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

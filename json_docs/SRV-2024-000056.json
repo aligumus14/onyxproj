@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000056",
+  "source_pdf": "0656_SERVIS_SRV-2024-000056.pdf",
+  "date": "2024-05-10",
+  "status": "Açık",
+  "priority": "Kritik",
+  "sla": "Orta (24 saat)",
+  "location": "Selçuklu/Ankara",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-2",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-43189",
+  "technician": "Deniz Arı",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 956.8,
+      "unit_price": 7.0,
+      "total": 956.87
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1805.64,
+      "total": 1805.64
+    },
+    {
+      "item": "Sensör",
+      "qty": 2.0,
+      "unit_price": 1177.08,
+      "total": 2354.16
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1230.06,
+      "total": 1230.06
+    }
+  ],
+  "subtotal": 6346.73,
+  "vat_rate": 0.2,
+  "vat_amount": 1269.35,
+  "grand_total": 7616.08,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000056 | Tarih: 10.05.2024 | Durum: Açık\nÖncelik: Kritik | SLA: Orta (24 saat)\nLokasyon: Selçuklu/Ankara | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-2\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-43189\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 956,87 956,87\nSensör 1 1.805,64 1.805,64\nSensör 2 1.177,08 2.354,16\nKayış 1 1.230,06 1.230,06\nAra Toplam: 6.346,73\nKDV (%20): 1.269,35\nGenel Toplam: 7.616,08\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

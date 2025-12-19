@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000165",
+  "source_pdf": "0765_SERVIS_SRV-2025-000165.pdf",
+  "date": "2025-04-04",
+  "status": "Açık",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Kadıköy/Samsun",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-1",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-95672",
+  "technician": "Selin Uçar",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 1108.6,
+      "unit_price": 4.0,
+      "total": 2771.6
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 2771.6,
+  "vat_rate": 0.2,
+  "vat_amount": 554.32,
+  "grand_total": 3325.92,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000165 | Tarih: 04.04.2025 | Durum: Açık\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Kadıköy/Samsun | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-1\nMakine: Forklift - Linde H35D | Seri No: FLT-95672\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 1.108,64 2.771,60\nParça Değişimi - - 0,00\nAra Toplam: 2.771,60\nKDV (%20): 554,32\nGenel Toplam: 3.325,92\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

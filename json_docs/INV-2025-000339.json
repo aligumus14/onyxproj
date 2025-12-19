@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000339",
+  "source_pdf": "0339_FATURA_INV-2025-000339.pdf",
+  "date": "2025-11-30",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 710.1,
+      "vat_rate": 0.1,
+      "net_total": 2840.4
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 108.4,
+      "vat_rate": 0.1,
+      "net_total": 1626.0
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 47.03,
+      "vat_rate": 0.01,
+      "net_total": 141.09
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 45.53,
+      "vat_rate": 0.01,
+      "net_total": 45.53
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 140.47,
+      "vat_rate": 0.1,
+      "net_total": 561.88
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 57.96,
+      "vat_rate": 0.01,
+      "net_total": 115.92
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 454.08,
+      "vat_rate": 0.1,
+      "net_total": 2270.4
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 142.08,
+      "vat_rate": 0.1,
+      "net_total": 1704.96
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 23.18,
+      "vat_rate": 0.01,
+      "net_total": 69.54
+    }
+  ],
+  "subtotal": 9375.72,
+  "vat_total": 904.1,
+  "grand_total": 10279.82,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000339 | Tarih: 30.11.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Nilüfer/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 4 710,10 %10 2.840,40\nAyçiçek Yağı (1 L) 15 108,40 %10 1.626,00\nElma (kg) 3 47,03 %1 141,09\nElma (kg) 1 45,53 %1 45,53\nAyçiçek Yağı (1 L) 4 140,47 %10 561,88\nElma (kg) 2 57,96 %1 115,92\nDana Kıyma (kg) 5 454,08 %10 2.270,40\nAyçiçek Yağı (1 L) 12 142,08 %10 1.704,96\nSalatalık (kg) 3 23,18 %1 69,54\nAra Toplam: 9.375,72\nKDV Toplam: 904,10\nGenel Toplam: 10.279,82\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

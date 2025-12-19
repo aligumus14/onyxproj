@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000334",
+  "source_pdf": "0334_FATURA_INV-2024-000334.pdf",
+  "date": "2024-07-05",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 452.32,
+      "vat_rate": 0.1,
+      "net_total": 3618.56
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 88.96,
+      "vat_rate": 0.1,
+      "net_total": 177.92
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 28.65,
+      "vat_rate": 0.01,
+      "net_total": 85.95
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 318.48,
+      "vat_rate": 0.1,
+      "net_total": 318.48
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 165.97,
+      "vat_rate": 0.1,
+      "net_total": 1659.7
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 79.48,
+      "vat_rate": 0.01,
+      "net_total": 158.96
+    }
+  ],
+  "subtotal": 6019.57,
+  "vat_total": 579.92,
+  "grand_total": 6599.49,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000334 | Tarih: 05.07.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Seyhan/Konya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 8 452,32 %10 3.618,56\nAyçiçek Yağı (1 L) 2 88,96 %10 177,92\nSalatalık (kg) 3 28,65 %1 85,95\nDana Kıyma (kg) 1 318,48 %10 318,48\nAyçiçek Yağı (1 L) 10 165,97 %10 1.659,70\nYoğurt (1 kg) 2 79,48 %1 158,96\nAra Toplam: 6.019,57\nKDV Toplam: 579,92\nGenel Toplam: 6.599,49\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

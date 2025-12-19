@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000415",
+  "source_pdf": "0415_FATURA_INV-2024-000415.pdf",
+  "date": "2024-07-26",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 44.63,
+      "vat_rate": 0.01,
+      "net_total": 357.04
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 42.51,
+      "vat_rate": 0.1,
+      "net_total": 212.55
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 34.78,
+      "vat_rate": 0.2,
+      "net_total": 417.36
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 45.46,
+      "vat_rate": 0.01,
+      "net_total": 454.6
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 735.83,
+      "vat_rate": 0.1,
+      "net_total": 8829.96
+    }
+  ],
+  "subtotal": 10271.51,
+  "vat_total": 995.85,
+  "grand_total": 11267.36,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000415 | Tarih: 26.07.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Karşıyaka/Kocaeli\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 8 44,63 %1 357,04\nMakarna (500 g) 5 42,51 %10 212,55\nGazlı İçecek (1 L) 12 34,78 %20 417,36\nDomates (kg) 10 45,46 %1 454,60\nSomon Fileto (kg) 12 735,83 %10 8.829,96\nAra Toplam: 10.271,51\nKDV Toplam: 995,85\nGenel Toplam: 11.267,36\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

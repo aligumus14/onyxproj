@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000098",
+  "source_pdf": "0098_FATURA_INV-2024-000098.pdf",
+  "date": "2024-02-03",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 138.91,
+      "vat_rate": 0.1,
+      "net_total": 2083.65
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 62.73,
+      "vat_rate": 0.1,
+      "net_total": 188.19
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 150.54,
+      "vat_rate": 0.1,
+      "net_total": 602.16
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 6,
+      "unit_price": 17.98,
+      "vat_rate": 0.2,
+      "net_total": 107.88
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 37.95,
+      "vat_rate": 0.2,
+      "net_total": 113.85
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 173.0,
+      "vat_rate": 0.1,
+      "net_total": 865.0
+    }
+  ],
+  "subtotal": 3960.73,
+  "vat_total": 418.26,
+  "grand_total": 4378.99,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000098 | Tarih: 03.02.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Seyhan/Ankara\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 15 138,91 %10 2.083,65\nŞeker (1 kg) 3 62,73 %10 188,19\nAyçiçek Yağı (1 L) 4 150,54 %10 602,16\nMaden Suyu (200 ml) 6 17,98 %20 107,88\nGazlı İçecek (1 L) 3 37,95 %20 113,85\nTavuk Göğüs (kg) 5 173,00 %10 865,00\nAra Toplam: 3.960,73\nKDV Toplam: 418,26\nGenel Toplam: 4.378,99\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

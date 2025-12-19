@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000552",
+  "source_pdf": "0552_FATURA_INV-2024-000552.pdf",
+  "date": "2024-06-08",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 105.79,
+      "vat_rate": 0.1,
+      "net_total": 634.74
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 45.43,
+      "vat_rate": 0.2,
+      "net_total": 454.3
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 34.59,
+      "vat_rate": 0.1,
+      "net_total": 691.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 83.4,
+      "vat_rate": 0.01,
+      "net_total": 500.4
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 605.15,
+      "vat_rate": 0.1,
+      "net_total": 1815.45
+    }
+  ],
+  "subtotal": 4096.69,
+  "vat_total": 410.06,
+  "grand_total": 4506.75,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000552 | Tarih: 08.06.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Karşıyaka/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 6 105,79 %10 634,74\nGazlı İçecek (1 L) 10 45,43 %20 454,30\nMakarna (500 g) 20 34,59 %10 691,80\nMuz (kg) 6 83,40 %1 500,40\nSomon Fileto (kg) 3 605,15 %10 1.815,45\nAra Toplam: 4.096,69\nKDV Toplam: 410,06\nGenel Toplam: 4.506,75\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

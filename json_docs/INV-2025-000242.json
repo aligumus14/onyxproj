@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000242",
+  "source_pdf": "0242_FATURA_INV-2025-000242.pdf",
+  "date": "2025-06-25",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 57.22,
+      "vat_rate": 0.01,
+      "net_total": 228.88
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 36.85,
+      "vat_rate": 0.1,
+      "net_total": 221.1
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 123.88,
+      "vat_rate": 0.01,
+      "net_total": 1238.8
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 54.22,
+      "vat_rate": 0.01,
+      "net_total": 162.66
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 156.43,
+      "vat_rate": 0.2,
+      "net_total": 1251.44
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 28.95,
+      "vat_rate": 0.01,
+      "net_total": 231.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 391.82,
+      "vat_rate": 0.1,
+      "net_total": 783.64
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 47.31,
+      "vat_rate": 0.2,
+      "net_total": 141.93
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 672.85,
+      "vat_rate": 0.1,
+      "net_total": 3364.25
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 26.86,
+      "vat_rate": 0.01,
+      "net_total": 53.72
+    }
+  ],
+  "subtotal": 7678.02,
+  "vat_total": 734.75,
+  "grand_total": 8412.77,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000242 | Tarih: 25.06.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Selçuklu/İzmir\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 4 57,22 %1 228,88\nMakarna (500 g) 6 36,85 %10 221,10\nKuru Fasulye (1 kg) 10 123,88 %1 1.238,80\nElma (kg) 3 54,22 %1 162,66\nKahve Çekirdeği (250 g) 8 156,43 %20 1.251,44\nSüt (1 L) 8 28,95 %1 231,60\nDana Kıyma (kg) 2 391,82 %10 783,64\nÇikolata (80 g) 3 47,31 %20 141,93\nSomon Fileto (kg) 5 672,85 %10 3.364,25\nSalatalık (kg) 2 26,86 %1 53,72\nAra Toplam: 7.678,02\nKDV Toplam: 734,75\nGenel Toplam: 8.412,77\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

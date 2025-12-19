@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000387",
+  "source_pdf": "0387_FATURA_INV-2025-000387.pdf",
+  "date": "2025-05-30",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 87.64,
+      "vat_rate": 0.01,
+      "net_total": 525.84
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 6,
+      "unit_price": 16.89,
+      "vat_rate": 0.2,
+      "net_total": 101.34
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 96.02,
+      "vat_rate": 0.01,
+      "net_total": 480.1
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 117.5,
+      "vat_rate": 0.1,
+      "net_total": 940.0
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 8,
+      "unit_price": 43.99,
+      "vat_rate": 0.1,
+      "net_total": 351.92
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 126.68,
+      "vat_rate": 0.01,
+      "net_total": 1900.2
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 48.64,
+      "vat_rate": 0.2,
+      "net_total": 972.8
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 83.28,
+      "vat_rate": 0.01,
+      "net_total": 499.68
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 6,
+      "unit_price": 18.77,
+      "vat_rate": 0.2,
+      "net_total": 112.62
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 127.64,
+      "vat_rate": 0.2,
+      "net_total": 255.28
+    }
+  ],
+  "subtotal": 6139.78,
+  "vat_total": 451.66,
+  "grand_total": 6591.44,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000387 | Tarih: 30.05.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-C | Teslim Yeri: Beşiktaş/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 6 87,64 %1 525,84\nMaden Suyu (200 ml) 6 16,89 %20 101,34\nPirinç (1 kg) 5 96,02 %1 480,10\nTavuk Göğüs (kg) 8 117,50 %10 940,00\nMakarna (500 g) 8 43,99 %10 351,92\nKuru Fasulye (1 kg) 15 126,68 %1 1.900,20\nÇikolata (80 g) 20 48,64 %20 972,80\nPirinç (1 kg) 6 83,28 %1 499,68\nMaden Suyu (200 ml) 6 18,77 %20 112,62\nKahve Çekirdeği (250 g) 2 127,64 %20 255,28\nAra Toplam: 6.139,78\nKDV Toplam: 451,66\nGenel Toplam: 6.591,44\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,52 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000124",
+  "source_pdf": "0724_SERVIS_SRV-2025-000124.pdf",
+  "date": "2025-10-12",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Nilüfer/Samsun",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-39194",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 728.2,
+      "unit_price": 2.0,
+      "total": 2912.88
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 574.06,
+      "total": 574.06
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 823.02,
+      "total": 823.02
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 754.88,
+      "total": 1509.76
+    }
+  ],
+  "subtotal": 5819.72,
+  "vat_rate": 0.2,
+  "vat_amount": 1163.94,
+  "grand_total": 6983.66,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000124 | Tarih: 12.10.2025 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Nilüfer/Samsun | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-39194\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 728,22 2.912,88\nRulman Seti 1 574,06 574,06\nSensör 1 823,02 823,02\nKayış 2 754,88 1.509,76\nAra Toplam: 5.819,72\nKDV (%20): 1.163,94\nGenel Toplam: 6.983,66\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

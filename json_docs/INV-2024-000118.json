@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000118",
+  "source_pdf": "0118_FATURA_INV-2024-000118.pdf",
+  "date": "2024-06-10",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 45.61,
+      "vat_rate": 0.01,
+      "net_total": 912.2
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 94.55,
+      "vat_rate": 0.01,
+      "net_total": 756.4
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 129.55,
+      "vat_rate": 0.1,
+      "net_total": 388.65
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 33.71,
+      "vat_rate": 0.01,
+      "net_total": 505.65
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 12.73,
+      "vat_rate": 0.2,
+      "net_total": 12.73
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 333.01,
+      "vat_rate": 0.1,
+      "net_total": 4995.15
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 24.05,
+      "vat_rate": 0.2,
+      "net_total": 48.1
+    }
+  ],
+  "subtotal": 7618.88,
+  "vat_total": 572.29,
+  "grand_total": 8191.17,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000118 | Tarih: 10.06.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/İzmir\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 20 45,61 %1 912,20\nKuru Fasulye (1 kg) 8 94,55 %1 756,40\nTavuk Göğüs (kg) 3 129,55 %10 388,65\nDomates (kg) 15 33,71 %1 505,65\nMaden Suyu (200 ml) 1 12,73 %20 12,73\nDana Kıyma (kg) 15 333,01 %10 4.995,15\nMaden Suyu (200 ml) 2 24,05 %20 48,10\nAra Toplam: 7.618,88\nKDV Toplam: 572,29\nGenel Toplam: 8.191,17\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

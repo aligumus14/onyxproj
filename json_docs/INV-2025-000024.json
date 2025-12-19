@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000024",
+  "source_pdf": "0024_FATURA_INV-2025-000024.pdf",
+  "date": "2025-08-06",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 27.58,
+      "vat_rate": 0.1,
+      "net_total": 110.32
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 69.58,
+      "vat_rate": 0.01,
+      "net_total": 417.48
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 50.71,
+      "vat_rate": 0.01,
+      "net_total": 608.52
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 94.14,
+      "vat_rate": 0.1,
+      "net_total": 188.28
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 59.98,
+      "vat_rate": 0.1,
+      "net_total": 599.8
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 47.61,
+      "vat_rate": 0.01,
+      "net_total": 476.1
+    }
+  ],
+  "subtotal": 2400.5,
+  "vat_total": 104.86,
+  "grand_total": 2505.36,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000024 | Tarih: 06.08.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Seyhan/İstanbul\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 4 27,58 %10 110,32\nYoğurt (1 kg) 6 69,58 %1 417,48\nYoğurt (1 kg) 12 50,71 %1 608,52\nAyçiçek Yağı (1 L) 2 94,14 %10 188,28\nŞeker (1 kg) 10 59,98 %10 599,80\nSüt (1 L) 10 47,61 %1 476,10\nAra Toplam: 2.400,50\nKDV Toplam: 104,86\nGenel Toplam: 2.505,36\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

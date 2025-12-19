@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000349",
+  "source_pdf": "0349_FATURA_INV-2024-000349.pdf",
+  "date": "2024-05-16",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 108.17,
+      "vat_rate": 0.01,
+      "net_total": 1298.04
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 44.48,
+      "vat_rate": 0.1,
+      "net_total": 177.92
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 51.14,
+      "vat_rate": 0.01,
+      "net_total": 51.14
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 38.21,
+      "vat_rate": 0.01,
+      "net_total": 114.63
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 33.01,
+      "vat_rate": 0.01,
+      "net_total": 264.08
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 45.36,
+      "vat_rate": 0.01,
+      "net_total": 907.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 41.5,
+      "vat_rate": 0.1,
+      "net_total": 622.5
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 32.78,
+      "vat_rate": 0.01,
+      "net_total": 98.34
+    }
+  ],
+  "subtotal": 3533.85,
+  "vat_total": 107.37,
+  "grand_total": 3641.22,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000349 | Tarih: 16.05.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Şişli/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 12 108,17 %1 1.298,04\nŞeker (1 kg) 4 44,48 %10 177,92\nSüt (1 L) 1 51,14 %1 51,14\nElma (kg) 3 38,21 %1 114,63\nDomates (kg) 8 33,01 %1 264,08\nElma (kg) 20 45,36 %1 907,20\nMakarna (500 g) 15 41,50 %10 622,50\nDomates (kg) 3 32,78 %1 98,34\nAra Toplam: 3.533,85\nKDV Toplam: 107,37\nGenel Toplam: 3.641,22\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

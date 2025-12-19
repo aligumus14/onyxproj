@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000379",
+  "source_pdf": "0379_FATURA_INV-2024-000379.pdf",
+  "date": "2024-09-07",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 55.7,
+      "vat_rate": 0.01,
+      "net_total": 278.5
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 64.49,
+      "vat_rate": 0.2,
+      "net_total": 644.9
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 36.94,
+      "vat_rate": 0.2,
+      "net_total": 110.82
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 606.41,
+      "vat_rate": 0.1,
+      "net_total": 3638.46
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 48.92,
+      "vat_rate": 0.1,
+      "net_total": 244.6
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 32.04,
+      "vat_rate": 0.01,
+      "net_total": 480.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 309.51,
+      "vat_rate": 0.1,
+      "net_total": 4642.65
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 215.86,
+      "vat_rate": 0.1,
+      "net_total": 3237.9
+    }
+  ],
+  "subtotal": 13278.43,
+  "vat_total": 1335.1,
+  "grand_total": 14613.53,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000379 | Tarih: 07.09.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Beşiktaş/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 5 55,70 %1 278,50\nGazlı İçecek (1 L) 10 64,49 %20 644,90\nÇikolata (80 g) 3 36,94 %20 110,82\nSomon Fileto (kg) 6 606,41 %10 3.638,46\nŞeker (1 kg) 5 48,92 %10 244,60\nSalatalık (kg) 15 32,04 %1 480,60\nDana Kıyma (kg) 15 309,51 %10 4.642,65\nUn (5 kg) 15 215,86 %10 3.237,90\nAra Toplam: 13.278,43\nKDV Toplam: 1.335,10\nGenel Toplam: 14.613,53\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

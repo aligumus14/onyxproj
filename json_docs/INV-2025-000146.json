@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000146",
+  "source_pdf": "0146_FATURA_INV-2025-000146.pdf",
+  "date": "2025-10-02",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 332.79,
+      "vat_rate": 0.1,
+      "net_total": 3993.48
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 75.45,
+      "vat_rate": 0.01,
+      "net_total": 905.4
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 43.72,
+      "vat_rate": 0.2,
+      "net_total": 131.16
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 28.68,
+      "vat_rate": 0.2,
+      "net_total": 229.44
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 48.22,
+      "vat_rate": 0.01,
+      "net_total": 192.88
+    }
+  ],
+  "subtotal": 5452.36,
+  "vat_total": 482.45,
+  "grand_total": 5934.81,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000146 | Tarih: 02.10.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Selçuklu/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 12 332,79 %10 3.993,48\nKuru Fasulye (1 kg) 12 75,45 %1 905,40\nÇikolata (80 g) 3 43,72 %20 131,16\nGazlı İçecek (1 L) 8 28,68 %20 229,44\nSüt (1 L) 4 48,22 %1 192,88\nAra Toplam: 5.452,36\nKDV Toplam: 482,45\nGenel Toplam: 5.934,81\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

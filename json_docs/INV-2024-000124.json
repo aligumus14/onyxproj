@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000124",
+  "source_pdf": "0124_FATURA_INV-2024-000124.pdf",
+  "date": "2024-03-09",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 192.25,
+      "vat_rate": 0.1,
+      "net_total": 192.25
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 21.73,
+      "vat_rate": 0.2,
+      "net_total": 260.76
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 30.24,
+      "vat_rate": 0.01,
+      "net_total": 241.92
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 18.74,
+      "vat_rate": 0.2,
+      "net_total": 281.1
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 44.69,
+      "vat_rate": 0.01,
+      "net_total": 89.38
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 55.36,
+      "vat_rate": 0.01,
+      "net_total": 276.8
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 555.65,
+      "vat_rate": 0.1,
+      "net_total": 4445.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 34.44,
+      "vat_rate": 0.1,
+      "net_total": 516.6
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 25.44,
+      "vat_rate": 0.01,
+      "net_total": 76.32
+    }
+  ],
+  "subtotal": 6380.33,
+  "vat_total": 630.62,
+  "grand_total": 7010.95,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000124 | Tarih: 09.03.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Nilüfer/Gaziantep\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 1 192,25 %10 192,25\nMaden Suyu (200 ml) 12 21,73 %20 260,76\nElma (kg) 8 30,24 %1 241,92\nMaden Suyu (200 ml) 15 18,74 %20 281,10\nElma (kg) 2 44,69 %1 89,38\nElma (kg) 5 55,36 %1 276,80\nSomon Fileto (kg) 8 555,65 %10 4.445,20\nMakarna (500 g) 15 34,44 %10 516,60\nSalatalık (kg) 3 25,44 %1 76,32\nAra Toplam: 6.380,33\nKDV Toplam: 630,62\nGenel Toplam: 7.010,95\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

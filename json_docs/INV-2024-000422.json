@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000422",
+  "source_pdf": "0422_FATURA_INV-2024-000422.pdf",
+  "date": "2024-11-30",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 180.35,
+      "vat_rate": 0.2,
+      "net_total": 1803.5
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 48.88,
+      "vat_rate": 0.2,
+      "net_total": 293.28
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 164.55,
+      "vat_rate": 0.1,
+      "net_total": 493.65
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 108.79,
+      "vat_rate": 0.01,
+      "net_total": 326.37
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 44.6,
+      "vat_rate": 0.2,
+      "net_total": 446.0
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 58.42,
+      "vat_rate": 0.01,
+      "net_total": 1168.4
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 50.67,
+      "vat_rate": 0.1,
+      "net_total": 1013.4
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 49.94,
+      "vat_rate": 0.01,
+      "net_total": 299.64
+    }
+  ],
+  "subtotal": 5844.24,
+  "vat_total": 677.21,
+  "grand_total": 6521.45,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000422 | Tarih: 30.11.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Selçuklu/Bursa\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 10 180,35 %20 1.803,50\nÇikolata (80 g) 6 48,88 %20 293,28\nAyçiçek Yağı (1 L) 3 164,55 %10 493,65\nYoğurt (1 kg) 3 108,79 %1 326,37\nGazlı İçecek (1 L) 10 44,60 %20 446,00\nYoğurt (1 kg) 20 58,42 %1 1.168,40\nŞeker (1 kg) 20 50,67 %10 1.013,40\nDomates (kg) 6 49,94 %1 299,64\nAra Toplam: 5.844,24\nKDV Toplam: 677,21\nGenel Toplam: 6.521,45\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

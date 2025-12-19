@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000482",
+  "source_pdf": "0482_FATURA_INV-2025-000482.pdf",
+  "date": "2025-06-28",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 164.42,
+      "vat_rate": 0.1,
+      "net_total": 822.1
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 54.58,
+      "vat_rate": 0.1,
+      "net_total": 436.64
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 41.31,
+      "vat_rate": 0.01,
+      "net_total": 413.1
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 44.64,
+      "vat_rate": 0.01,
+      "net_total": 267.84
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 204.59,
+      "vat_rate": 0.2,
+      "net_total": 1022.95
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 186.88,
+      "vat_rate": 0.1,
+      "net_total": 3737.6
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 33.46,
+      "vat_rate": 0.2,
+      "net_total": 33.46
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 89.07,
+      "vat_rate": 0.01,
+      "net_total": 445.35
+    }
+  ],
+  "subtotal": 7179.04,
+  "vat_total": 722.17,
+  "grand_total": 7901.21,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000482 | Tarih: 28.06.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Nilüfer/Antalya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 5 164,42 %10 822,10\nŞeker (1 kg) 8 54,58 %10 436,64\nMuz (kg) 10 41,31 %1 413,10\nElma (kg) 6 44,64 %1 267,84\nKahve Çekirdeği (250 g) 5 204,59 %20 1.022,95\nTavuk Göğüs (kg) 20 186,88 %10 3.737,60\nÇikolata (80 g) 1 33,46 %20 33,46\nMuz (kg) 5 89,07 %1 445,35\nAra Toplam: 7.179,04\nKDV Toplam: 722,17\nGenel Toplam: 7.901,21\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

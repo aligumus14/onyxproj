@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000327",
+  "source_pdf": "0327_FATURA_INV-2024-000327.pdf",
+  "date": "2024-08-08",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 59.74,
+      "vat_rate": 0.1,
+      "net_total": 119.48
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 95.48,
+      "vat_rate": 0.01,
+      "net_total": 763.84
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 106.49,
+      "vat_rate": 0.01,
+      "net_total": 851.92
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 79.77,
+      "vat_rate": 0.01,
+      "net_total": 1595.4
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 58.24,
+      "vat_rate": 0.01,
+      "net_total": 698.88
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 98.78,
+      "vat_rate": 0.01,
+      "net_total": 1975.6
+    }
+  ],
+  "subtotal": 6005.12,
+  "vat_total": 70.81,
+  "grand_total": 6075.93,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000327 | Tarih: 08.08.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Nilüfer/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 2 59,74 %10 119,48\nYoğurt (1 kg) 8 95,48 %1 763,84\nKuru Fasulye (1 kg) 8 106,49 %1 851,92\nYoğurt (1 kg) 20 79,77 %1 1.595,40\nPirinç (1 kg) 12 58,24 %1 698,88\nYoğurt (1 kg) 20 98,78 %1 1.975,60\nAra Toplam: 6.005,12\nKDV Toplam: 70,81\nGenel Toplam: 6.075,93\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

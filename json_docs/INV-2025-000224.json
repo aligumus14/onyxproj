@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000224",
+  "source_pdf": "0224_FATURA_INV-2025-000224.pdf",
+  "date": "2025-11-17",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 473.24,
+      "vat_rate": 0.1,
+      "net_total": 7098.6
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 103.57,
+      "vat_rate": 0.1,
+      "net_total": 103.57
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 22.75,
+      "vat_rate": 0.01,
+      "net_total": 273.0
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 38.02,
+      "vat_rate": 0.01,
+      "net_total": 380.2
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 79.68,
+      "vat_rate": 0.01,
+      "net_total": 318.72
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 14.89,
+      "vat_rate": 0.2,
+      "net_total": 223.35
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 159.84,
+      "vat_rate": 0.1,
+      "net_total": 3196.8
+    }
+  ],
+  "subtotal": 11594.24,
+  "vat_total": 1094.29,
+  "grand_total": 12688.53,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000224 | Tarih: 17.11.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Çankaya/Antalya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 15 473,24 %10 7.098,60\nUn (5 kg) 1 103,57 %10 103,57\nSalatalık (kg) 12 22,75 %1 273,00\nDomates (kg) 10 38,02 %1 380,20\nMuz (kg) 4 79,68 %1 318,72\nMaden Suyu (200 ml) 15 14,89 %20 223,35\nAyçiçek Yağı (1 L) 20 159,84 %10 3.196,80\nAra Toplam: 11.594,24\nKDV Toplam: 1.094,29\nGenel Toplam: 12.688,53\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

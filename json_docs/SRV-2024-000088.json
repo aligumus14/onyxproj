@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000088",
+  "source_pdf": "0688_SERVIS_SRV-2024-000088.pdf",
+  "date": "2024-07-10",
+  "status": "Onay Bekliyor",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Şişli/Samsun",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-B",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-53388",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 1040.5,
+      "unit_price": 9.0,
+      "total": 4162.36
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 4162.36,
+  "vat_rate": 0.2,
+  "vat_amount": 832.47,
+  "grand_total": 4994.83,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000088 | Tarih: 10.07.2024 | Durum: Onay Bekliyor\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Şişli/Samsun | Şube/DM: TR-ANK-DC02 | Depo: Depo-B\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-53388\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 1.040,59 4.162,36\nParça Değişimi - - 0,00\nAra Toplam: 4.162,36\nKDV (%20): 832,47\nGenel Toplam: 4.994,83\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

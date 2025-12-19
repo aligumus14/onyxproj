@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000567",
+  "source_pdf": "0567_FATURA_INV-2025-000567.pdf",
+  "date": "2025-10-06",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 48.6,
+      "vat_rate": 0.01,
+      "net_total": 486.0
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 158.75,
+      "vat_rate": 0.1,
+      "net_total": 1270.0
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 42.63,
+      "vat_rate": 0.01,
+      "net_total": 85.26
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 34.72,
+      "vat_rate": 0.01,
+      "net_total": 520.8
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 77.06,
+      "vat_rate": 0.1,
+      "net_total": 462.36
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 12,
+      "unit_price": 180.47,
+      "vat_rate": 0.1,
+      "net_total": 2165.64
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 54.32,
+      "vat_rate": 0.01,
+      "net_total": 108.64
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 20.01,
+      "vat_rate": 0.2,
+      "net_total": 20.01
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 152.23,
+      "vat_rate": 0.1,
+      "net_total": 456.69
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 50.64,
+      "vat_rate": 0.01,
+      "net_total": 50.64
+    }
+  ],
+  "subtotal": 5626.04,
+  "vat_total": 451.99,
+  "grand_total": 6078.03,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000567 | Tarih: 06.10.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Selçuklu/Antalya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 10 48,60 %1 486,00\nAyçiçek Yağı (1 L) 8 158,75 %10 1.270,00\nElma (kg) 2 42,63 %1 85,26\nSüt (1 L) 15 34,72 %1 520,80\nŞeker (1 kg) 6 77,06 %10 462,36\nUn (5 kg) 12 180,47 %10 2.165,64\nDomates (kg) 2 54,32 %1 108,64\nMaden Suyu (200 ml) 1 20,01 %20 20,01\nAyçiçek Yağı (1 L) 3 152,23 %10 456,69\nSüt (1 L) 1 50,64 %1 50,64\nAra Toplam: 5.626,04\nKDV Toplam: 451,99\nGenel Toplam: 6.078,03\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

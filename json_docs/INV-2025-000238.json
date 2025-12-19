@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000238",
+  "source_pdf": "0238_FATURA_INV-2025-000238.pdf",
+  "date": "2025-06-10",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 471.97,
+      "vat_rate": 0.1,
+      "net_total": 9439.4
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 98.86,
+      "vat_rate": 0.01,
+      "net_total": 1977.2
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 663.77,
+      "vat_rate": 0.1,
+      "net_total": 1327.54
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 455.16,
+      "vat_rate": 0.1,
+      "net_total": 1365.48
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 41.79,
+      "vat_rate": 0.2,
+      "net_total": 208.95
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 8,
+      "unit_price": 27.19,
+      "vat_rate": 0.1,
+      "net_total": 217.52
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 87.43,
+      "vat_rate": 0.01,
+      "net_total": 174.86
+    }
+  ],
+  "subtotal": 14710.95,
+  "vat_total": 1298.3,
+  "grand_total": 16009.25,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000238 | Tarih: 10.06.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Şişli/Samsun\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 20 471,97 %10 9.439,40\nYoğurt (1 kg) 20 98,86 %1 1.977,20\nSomon Fileto (kg) 2 663,77 %10 1.327,54\nSomon Fileto (kg) 3 455,16 %10 1.365,48\nÇikolata (80 g) 5 41,79 %20 208,95\nMakarna (500 g) 8 27,19 %10 217,52\nKuru Fasulye (1 kg) 2 87,43 %1 174,86\nAra Toplam: 14.710,95\nKDV Toplam: 1.298,30\nGenel Toplam: 16.009,25\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

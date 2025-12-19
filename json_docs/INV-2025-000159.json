@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000159",
+  "source_pdf": "0159_FATURA_INV-2025-000159.pdf",
+  "date": "2025-05-08",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 34.91,
+      "vat_rate": 0.01,
+      "net_total": 69.82
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 35.31,
+      "vat_rate": 0.2,
+      "net_total": 282.48
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 40.23,
+      "vat_rate": 0.01,
+      "net_total": 40.23
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 25.25,
+      "vat_rate": 0.01,
+      "net_total": 303.0
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 110.88,
+      "vat_rate": 0.1,
+      "net_total": 665.28
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 39.91,
+      "vat_rate": 0.01,
+      "net_total": 119.73
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 13.92,
+      "vat_rate": 0.2,
+      "net_total": 69.6
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 47.59,
+      "vat_rate": 0.2,
+      "net_total": 380.72
+    }
+  ],
+  "subtotal": 1930.86,
+  "vat_total": 218.42,
+  "grand_total": 2149.28,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000159 | Tarih: 08.05.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Şişli/Kocaeli\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 2 34,91 %1 69,82\nGazlı İçecek (1 L) 8 35,31 %20 282,48\nDomates (kg) 1 40,23 %1 40,23\nElma (kg) 12 25,25 %1 303,00\nAyçiçek Yağı (1 L) 6 110,88 %10 665,28\nElma (kg) 3 39,91 %1 119,73\nMaden Suyu (200 ml) 5 13,92 %20 69,60\nGazlı İçecek (1 L) 8 47,59 %20 380,72\nAra Toplam: 1.930,86\nKDV Toplam: 218,42\nGenel Toplam: 2.149,28\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

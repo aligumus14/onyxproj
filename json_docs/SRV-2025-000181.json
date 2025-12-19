@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000181",
+  "source_pdf": "0781_SERVIS_SRV-2025-000181.pdf",
+  "date": "2025-08-22",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Çankaya/Bursa",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-A",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-76137",
+  "technician": "Selin Uçar",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 1077.1,
+      "unit_price": 0.0,
+      "total": 6462.6
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1040.67,
+      "total": 1040.67
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 204.84,
+      "total": 204.84
+    }
+  ],
+  "subtotal": 7708.11,
+  "vat_rate": 0.2,
+  "vat_amount": 1541.62,
+  "grand_total": 9249.73,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000181 | Tarih: 22.08.2025 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Çankaya/Bursa | Şube/DM: TR-IZM-DC03 | Depo: Depo-A\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-76137\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 1.077,10 6.462,60\nKayış 1 1.040,67 1.040,67\nFiltre 1 204,84 204,84\nAra Toplam: 7.708,11\nKDV (%20): 1.541,62\nGenel Toplam: 9.249,73\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

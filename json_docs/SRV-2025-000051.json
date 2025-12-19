@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000051",
+  "source_pdf": "0651_SERVIS_SRV-2025-000051.pdf",
+  "date": "2025-03-09",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Seyhan/Adana",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-13825",
+  "technician": "Deniz Arı",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 594.2,
+      "unit_price": 2.0,
+      "total": 891.33
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 891.33,
+  "vat_rate": 0.2,
+  "vat_amount": 178.27,
+  "grand_total": 1069.6,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000051 | Tarih: 09.03.2025 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Seyhan/Adana | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-13825\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 594,22 891,33\nParça Değişimi - - 0,00\nAra Toplam: 891,33\nKDV (%20): 178,27\nGenel Toplam: 1.069,60\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

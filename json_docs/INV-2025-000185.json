@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000185",
+  "source_pdf": "0185_FATURA_INV-2025-000185.pdf",
+  "date": "2025-03-18",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 18.22,
+      "vat_rate": 0.2,
+      "net_total": 18.22
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 77.9,
+      "vat_rate": 0.01,
+      "net_total": 155.8
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 69.29,
+      "vat_rate": 0.1,
+      "net_total": 207.87
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 23.35,
+      "vat_rate": 0.1,
+      "net_total": 280.2
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 217.13,
+      "vat_rate": 0.2,
+      "net_total": 4342.6
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 64.88,
+      "vat_rate": 0.2,
+      "net_total": 973.2
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 35.9,
+      "vat_rate": 0.2,
+      "net_total": 143.6
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 72.64,
+      "vat_rate": 0.01,
+      "net_total": 581.12
+    }
+  ],
+  "subtotal": 6702.61,
+  "vat_total": 1151.7,
+  "grand_total": 7854.31,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000185 | Tarih: 18.03.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-1 | Teslim Yeri: Nilüfer/İzmir\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 1 18,22 %20 18,22\nYoğurt (1 kg) 2 77,90 %1 155,80\nŞeker (1 kg) 3 69,29 %10 207,87\nMakarna (500 g) 12 23,35 %10 280,20\nKahve Çekirdeği (250 g) 20 217,13 %20 4.342,60\nGazlı İçecek (1 L) 15 64,88 %20 973,20\nÇikolata (80 g) 4 35,90 %20 143,60\nYoğurt (1 kg) 8 72,64 %1 581,12\nAra Toplam: 6.702,61\nKDV Toplam: 1.151,70\nGenel Toplam: 7.854,31\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

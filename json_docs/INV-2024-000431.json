@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000431",
+  "source_pdf": "0431_FATURA_INV-2024-000431.pdf",
+  "date": "2024-06-06",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 36.54,
+      "vat_rate": 0.1,
+      "net_total": 438.48
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 136.84,
+      "vat_rate": 0.1,
+      "net_total": 1368.4
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 189.2,
+      "vat_rate": 0.1,
+      "net_total": 756.8
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 29.5,
+      "vat_rate": 0.01,
+      "net_total": 236.0
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 95.26,
+      "vat_rate": 0.01,
+      "net_total": 762.08
+    }
+  ],
+  "subtotal": 3561.76,
+  "vat_total": 266.35,
+  "grand_total": 3828.11,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000431 | Tarih: 06.06.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Şişli/Konya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 12 36,54 %10 438,48\nAyçiçek Yağı (1 L) 10 136,84 %10 1.368,40\nUn (5 kg) 4 189,20 %10 756,80\nElma (kg) 8 29,50 %1 236,00\nPirinç (1 kg) 8 95,26 %1 762,08\nAra Toplam: 3.561,76\nKDV Toplam: 266,35\nGenel Toplam: 3.828,11\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

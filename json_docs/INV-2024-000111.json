@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000111",
+  "source_pdf": "0111_FATURA_INV-2024-000111.pdf",
+  "date": "2024-04-05",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 29.67,
+      "vat_rate": 0.01,
+      "net_total": 356.04
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 220.62,
+      "vat_rate": 0.2,
+      "net_total": 441.24
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 35.89,
+      "vat_rate": 0.01,
+      "net_total": 287.12
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 63.96,
+      "vat_rate": 0.01,
+      "net_total": 255.84
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 448.17,
+      "vat_rate": 0.1,
+      "net_total": 3585.36
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 388.66,
+      "vat_rate": 0.1,
+      "net_total": 2331.96
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 58.02,
+      "vat_rate": 0.01,
+      "net_total": 116.04
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 52.08,
+      "vat_rate": 0.01,
+      "net_total": 781.2
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 40.73,
+      "vat_rate": 0.01,
+      "net_total": 122.19
+    }
+  ],
+  "subtotal": 8276.99,
+  "vat_total": 699.17,
+  "grand_total": 8976.16,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000111 | Tarih: 05.04.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Seyhan/Adana\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 12 29,67 %1 356,04\nKahve Çekirdeği (250 g) 2 220,62 %20 441,24\nSalatalık (kg) 8 35,89 %1 287,12\nPirinç (1 kg) 4 63,96 %1 255,84\nDana Kıyma (kg) 8 448,17 %10 3.585,36\nDana Kıyma (kg) 6 388,66 %10 2.331,96\nSüt (1 L) 2 58,02 %1 116,04\nPirinç (1 kg) 15 52,08 %1 781,20\nElma (kg) 3 40,73 %1 122,19\nAra Toplam: 8.276,99\nKDV Toplam: 699,17\nGenel Toplam: 8.976,16\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

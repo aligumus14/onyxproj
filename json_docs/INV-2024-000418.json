@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000418",
+  "source_pdf": "0418_FATURA_INV-2024-000418.pdf",
+  "date": "2024-01-14",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 31.37,
+      "vat_rate": 0.01,
+      "net_total": 250.96
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 31.29,
+      "vat_rate": 0.2,
+      "net_total": 312.9
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 40.98,
+      "vat_rate": 0.2,
+      "net_total": 327.84
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 157.9,
+      "vat_rate": 0.1,
+      "net_total": 315.8
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 139.82,
+      "vat_rate": 0.1,
+      "net_total": 2796.4
+    }
+  ],
+  "subtotal": 4003.9,
+  "vat_total": 441.88,
+  "grand_total": 4445.78,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000418 | Tarih: 14.01.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Çankaya/İzmir\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 8 31,37 %1 250,96\nÇikolata (80 g) 10 31,29 %20 312,90\nGazlı İçecek (1 L) 8 40,98 %20 327,84\nTavuk Göğüs (kg) 2 157,90 %10 315,80\nTavuk Göğüs (kg) 20 139,82 %10 2.796,40\nAra Toplam: 4.003,90\nKDV Toplam: 441,88\nGenel Toplam: 4.445,78\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000238",
+  "source_pdf": "0838_SERVIS_SRV-2024-000238.pdf",
+  "date": "2024-03-02",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Şişli/İzmir",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-1",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-23948",
+  "technician": "Selin Uçar",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 1115.2,
+      "unit_price": 6.0,
+      "total": 4461.04
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1756.2,
+      "total": 1756.2
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 223.97,
+      "total": 447.94
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1733.58,
+      "total": 1733.58
+    }
+  ],
+  "subtotal": 8398.76,
+  "vat_rate": 0.2,
+  "vat_amount": 1679.75,
+  "grand_total": 10078.51,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000238 | Tarih: 02.03.2024 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Şişli/İzmir | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-1\nMakine: Forklift - Linde H35D | Seri No: FLT-23948\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 1.115,26 4.461,04\nTermostat 1 1.756,20 1.756,20\nFiltre 2 223,97 447,94\nSensör 1 1.733,58 1.733,58\nAra Toplam: 8.398,76\nKDV (%20): 1.679,75\nGenel Toplam: 10.078,51\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

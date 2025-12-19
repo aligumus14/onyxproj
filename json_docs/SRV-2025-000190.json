@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000190",
+  "source_pdf": "0790_SERVIS_SRV-2025-000190.pdf",
+  "date": "2025-04-09",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Kritik (4 saat)",
+  "location": "Çankaya/Antalya",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-1",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-83393",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 1074.0,
+      "unit_price": 8.0,
+      "total": 6444.48
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 603.87,
+      "total": 603.87
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 857.98,
+      "total": 857.98
+    }
+  ],
+  "subtotal": 7906.33,
+  "vat_rate": 0.2,
+  "vat_amount": 1581.27,
+  "grand_total": 9487.6,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000190 | Tarih: 09.04.2025 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Kritik (4 saat)\nLokasyon: Çankaya/Antalya | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-1\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-83393\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 1.074,08 6.444,48\nRulman Seti 1 603,87 603,87\nKayış 1 857,98 857,98\nAra Toplam: 7.906,33\nKDV (%20): 1.581,27\nGenel Toplam: 9.487,60\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

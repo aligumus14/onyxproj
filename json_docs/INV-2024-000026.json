@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000026",
+  "source_pdf": "0026_FATURA_INV-2024-000026.pdf",
+  "date": "2024-04-12",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 35.97,
+      "vat_rate": 0.2,
+      "net_total": 107.91
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 25.89,
+      "vat_rate": 0.01,
+      "net_total": 310.68
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 101.45,
+      "vat_rate": 0.01,
+      "net_total": 2029.0
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 41.56,
+      "vat_rate": 0.1,
+      "net_total": 83.12
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 17.04,
+      "vat_rate": 0.2,
+      "net_total": 85.2
+    }
+  ],
+  "subtotal": 2615.91,
+  "vat_total": 70.33,
+  "grand_total": 2686.24,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000026 | Tarih: 12.04.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-C | Teslim Yeri: Şişli/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 3 35,97 %20 107,91\nSalatalık (kg) 12 25,89 %1 310,68\nPirinç (1 kg) 20 101,45 %1 2.029,00\nMakarna (500 g) 2 41,56 %10 83,12\nMaden Suyu (200 ml) 5 17,04 %20 85,20\nAra Toplam: 2.615,91\nKDV Toplam: 70,33\nGenel Toplam: 2.686,24\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

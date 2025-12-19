@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000225",
+  "source_pdf": "0825_SERVIS_SRV-2025-000225.pdf",
+  "date": "2025-07-16",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Yüksek (8 saat)",
+  "location": "Nilüfer/Adana",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-2",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-11930",
+  "technician": "Deniz Arı",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 1048.8,
+      "unit_price": 0.0,
+      "total": 1573.2
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 1360.41,
+      "total": 2720.82
+    }
+  ],
+  "subtotal": 4294.02,
+  "vat_rate": 0.2,
+  "vat_amount": 858.8,
+  "grand_total": 5152.82,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000225 | Tarih: 16.07.2025 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Yüksek (8 saat)\nLokasyon: Nilüfer/Adana | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-2\nMakine: Forklift - Linde H35D | Seri No: FLT-11930\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 1.048,80 1.573,20\nKayış 2 1.360,41 2.720,82\nAra Toplam: 4.294,02\nKDV (%20): 858,80\nGenel Toplam: 5.152,82\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

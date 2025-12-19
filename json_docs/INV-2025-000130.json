@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000130",
+  "source_pdf": "0130_FATURA_INV-2025-000130.pdf",
+  "date": "2025-07-25",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 62.88,
+      "vat_rate": 0.2,
+      "net_total": 188.64
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 301.43,
+      "vat_rate": 0.1,
+      "net_total": 6028.6
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 747.68,
+      "vat_rate": 0.1,
+      "net_total": 2990.72
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 196.69,
+      "vat_rate": 0.1,
+      "net_total": 1573.52
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 342.53,
+      "vat_rate": 0.1,
+      "net_total": 2055.18
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 203.63,
+      "vat_rate": 0.1,
+      "net_total": 2036.3
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 41.39,
+      "vat_rate": 0.1,
+      "net_total": 41.39
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 24.16,
+      "vat_rate": 0.2,
+      "net_total": 362.4
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 88.92,
+      "vat_rate": 0.01,
+      "net_total": 889.2
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 2,
+      "unit_price": 64.04,
+      "vat_rate": 0.2,
+      "net_total": 128.08
+    }
+  ],
+  "subtotal": 16294.03,
+  "vat_total": 1617.29,
+  "grand_total": 17911.32,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000130 | Tarih: 25.07.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-C | Teslim Yeri: Şişli/Konya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 3 62,88 %20 188,64\nDana Kıyma (kg) 20 301,43 %10 6.028,60\nSomon Fileto (kg) 4 747,68 %10 2.990,72\nTavuk Göğüs (kg) 8 196,69 %10 1.573,52\nDana Kıyma (kg) 6 342,53 %10 2.055,18\nTavuk Göğüs (kg) 10 203,63 %10 2.036,30\nMakarna (500 g) 1 41,39 %10 41,39\nMaden Suyu (200 ml) 15 24,16 %20 362,40\nMuz (kg) 10 88,92 %1 889,20\nÇikolata (80 g) 2 64,04 %20 128,08\nAra Toplam: 16.294,03\nKDV Toplam: 1.617,29\nGenel Toplam: 17.911,32\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

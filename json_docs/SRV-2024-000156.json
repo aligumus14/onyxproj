@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000156",
+  "source_pdf": "0756_SERVIS_SRV-2024-000156.pdf",
+  "date": "2024-04-17",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Muratpaşa/Bursa",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-10107",
+  "technician": "Emre Taş",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 829.3,
+      "unit_price": 8.0,
+      "total": 3317.52
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1088.59,
+      "total": 1088.59
+    }
+  ],
+  "subtotal": 4406.11,
+  "vat_rate": 0.2,
+  "vat_amount": 881.22,
+  "grand_total": 5287.33,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000156 | Tarih: 17.04.2024 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Muratpaşa/Bursa | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-10107\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 829,38 3.317,52\nKayış 1 1.088,59 1.088,59\nAra Toplam: 4.406,11\nKDV (%20): 881,22\nGenel Toplam: 5.287,33\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

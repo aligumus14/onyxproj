@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000113",
+  "source_pdf": "0113_FATURA_INV-2024-000113.pdf",
+  "date": "2024-05-23",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 702.12,
+      "vat_rate": 0.1,
+      "net_total": 14042.4
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 72.24,
+      "vat_rate": 0.01,
+      "net_total": 1083.6
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 94.84,
+      "vat_rate": 0.01,
+      "net_total": 94.84
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 114.34,
+      "vat_rate": 0.1,
+      "net_total": 2286.8
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 103.83,
+      "vat_rate": 0.01,
+      "net_total": 207.66
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 290.25,
+      "vat_rate": 0.1,
+      "net_total": 580.5
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 111.84,
+      "vat_rate": 0.1,
+      "net_total": 111.84
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 22.33,
+      "vat_rate": 0.2,
+      "net_total": 178.64
+    }
+  ],
+  "subtotal": 18586.28,
+  "vat_total": 1751.75,
+  "grand_total": 20338.03,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000113 | Tarih: 23.05.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Şişli/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 20 702,12 %10 14.042,40\nMuz (kg) 15 72,24 %1 1.083,60\nMuz (kg) 1 94,84 %1 94,84\nAyçiçek Yağı (1 L) 20 114,34 %10 2.286,80\nPirinç (1 kg) 2 103,83 %1 207,66\nDana Kıyma (kg) 2 290,25 %10 580,50\nUn (5 kg) 1 111,84 %10 111,84\nMaden Suyu (200 ml) 8 22,33 %20 178,64\nAra Toplam: 18.586,28\nKDV Toplam: 1.751,75\nGenel Toplam: 20.338,03\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

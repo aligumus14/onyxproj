@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000025",
+  "source_pdf": "0025_FATURA_INV-2025-000025.pdf",
+  "date": "2025-05-17",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 48.24,
+      "vat_rate": 0.01,
+      "net_total": 241.2
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 671.39,
+      "vat_rate": 0.1,
+      "net_total": 6713.9
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 848.65,
+      "vat_rate": 0.1,
+      "net_total": 6789.2
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 39.07,
+      "vat_rate": 0.2,
+      "net_total": 234.42
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 129.86,
+      "vat_rate": 0.1,
+      "net_total": 649.3
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 50.24,
+      "vat_rate": 0.01,
+      "net_total": 100.48
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 458.29,
+      "vat_rate": 0.1,
+      "net_total": 916.58
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 87.31,
+      "vat_rate": 0.01,
+      "net_total": 349.24
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 37.56,
+      "vat_rate": 0.1,
+      "net_total": 187.8
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 15,
+      "unit_price": 37.73,
+      "vat_rate": 0.2,
+      "net_total": 565.95
+    }
+  ],
+  "subtotal": 16748.07,
+  "vat_total": 1692.65,
+  "grand_total": 18440.72,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000025 | Tarih: 17.05.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Çankaya/Antalya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 5 48,24 %1 241,20\nSomon Fileto (kg) 10 671,39 %10 6.713,90\nSomon Fileto (kg) 8 848,65 %10 6.789,20\nGazlı İçecek (1 L) 6 39,07 %20 234,42\nUn (5 kg) 5 129,86 %10 649,30\nSüt (1 L) 2 50,24 %1 100,48\nDana Kıyma (kg) 2 458,29 %10 916,58\nKuru Fasulye (1 kg) 4 87,31 %1 349,24\nMakarna (500 g) 5 37,56 %10 187,80\nÇikolata (80 g) 15 37,73 %20 565,95\nAra Toplam: 16.748,07\nKDV Toplam: 1.692,65\nGenel Toplam: 18.440,72\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

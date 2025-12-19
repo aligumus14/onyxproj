@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000055",
+  "source_pdf": "0055_FATURA_INV-2024-000055.pdf",
+  "date": "2024-04-15",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 62.4,
+      "vat_rate": 0.2,
+      "net_total": 187.2
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 84.92,
+      "vat_rate": 0.01,
+      "net_total": 339.68
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 615.96,
+      "vat_rate": 0.1,
+      "net_total": 615.96
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 183.57,
+      "vat_rate": 0.2,
+      "net_total": 2202.84
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 183.74,
+      "vat_rate": 0.2,
+      "net_total": 367.48
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 52.58,
+      "vat_rate": 0.01,
+      "net_total": 315.48
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 313.02,
+      "vat_rate": 0.1,
+      "net_total": 939.06
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 186.57,
+      "vat_rate": 0.1,
+      "net_total": 1865.7
+    }
+  ],
+  "subtotal": 6833.4,
+  "vat_total": 900.14,
+  "grand_total": 7733.54,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000055 | Tarih: 15.04.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Şişli/Ankara\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 3 62,40 %20 187,20\nMuz (kg) 4 84,92 %1 339,68\nSomon Fileto (kg) 1 615,96 %10 615,96\nKahve Çekirdeği (250 g) 12 183,57 %20 2.202,84\nKahve Çekirdeği (250 g) 2 183,74 %20 367,48\nDomates (kg) 6 52,58 %1 315,48\nDana Kıyma (kg) 3 313,02 %10 939,06\nTavuk Göğüs (kg) 10 186,57 %10 1.865,70\nAra Toplam: 6.833,40\nKDV Toplam: 900,14\nGenel Toplam: 7.733,54\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

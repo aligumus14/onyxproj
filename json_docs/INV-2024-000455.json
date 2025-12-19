@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000455",
+  "source_pdf": "0455_FATURA_INV-2024-000455.pdf",
+  "date": "2024-08-21",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 24.17,
+      "vat_rate": 0.01,
+      "net_total": 72.51
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 52.83,
+      "vat_rate": 0.1,
+      "net_total": 422.64
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 40.46,
+      "vat_rate": 0.1,
+      "net_total": 40.46
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 28.08,
+      "vat_rate": 0.01,
+      "net_total": 336.96
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 24.93,
+      "vat_rate": 0.2,
+      "net_total": 199.44
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 60.56,
+      "vat_rate": 0.2,
+      "net_total": 363.36
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 33.52,
+      "vat_rate": 0.1,
+      "net_total": 167.6
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 71.09,
+      "vat_rate": 0.01,
+      "net_total": 142.18
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 46.27,
+      "vat_rate": 0.2,
+      "net_total": 92.54
+    }
+  ],
+  "subtotal": 1837.69,
+  "vat_total": 199.66,
+  "grand_total": 2037.35,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000455 | Tarih: 21.08.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Karşıyaka/Bursa\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 3 24,17 %1 72,51\nŞeker (1 kg) 8 52,83 %10 422,64\nMakarna (500 g) 1 40,46 %10 40,46\nSalatalık (kg) 12 28,08 %1 336,96\nMaden Suyu (200 ml) 8 24,93 %20 199,44\nÇikolata (80 g) 6 60,56 %20 363,36\nMakarna (500 g) 5 33,52 %10 167,60\nMuz (kg) 2 71,09 %1 142,18\nGazlı İçecek (1 L) 2 46,27 %20 92,54\nAra Toplam: 1.837,69\nKDV Toplam: 199,66\nGenel Toplam: 2.037,35\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

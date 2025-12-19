@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000202",
+  "source_pdf": "0202_FATURA_INV-2024-000202.pdf",
+  "date": "2024-11-05",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 114.38,
+      "vat_rate": 0.1,
+      "net_total": 228.76
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 51.67,
+      "vat_rate": 0.01,
+      "net_total": 516.7
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 67.11,
+      "vat_rate": 0.01,
+      "net_total": 268.44
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 26.38,
+      "vat_rate": 0.1,
+      "net_total": 316.56
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 464.68,
+      "vat_rate": 0.1,
+      "net_total": 1394.04
+    }
+  ],
+  "subtotal": 2724.5,
+  "vat_total": 201.79,
+  "grand_total": 2926.29,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000202 | Tarih: 05.11.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Beşiktaş/İzmir\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 2 114,38 %10 228,76\nDomates (kg) 10 51,67 %1 516,70\nPirinç (1 kg) 4 67,11 %1 268,44\nMakarna (500 g) 12 26,38 %10 316,56\nDana Kıyma (kg) 3 464,68 %10 1.394,04\nAra Toplam: 2.724,50\nKDV Toplam: 201,79\nGenel Toplam: 2.926,29\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000472",
+  "source_pdf": "0472_FATURA_INV-2025-000472.pdf",
+  "date": "2025-10-05",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 350.15,
+      "vat_rate": 0.1,
+      "net_total": 700.3
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 67.81,
+      "vat_rate": 0.1,
+      "net_total": 67.81
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 107.29,
+      "vat_rate": 0.01,
+      "net_total": 643.74
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 839.43,
+      "vat_rate": 0.1,
+      "net_total": 5036.58
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 40.61,
+      "vat_rate": 0.01,
+      "net_total": 203.05
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 30.37,
+      "vat_rate": 0.01,
+      "net_total": 182.22
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 64.66,
+      "vat_rate": 0.01,
+      "net_total": 193.98
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 37.88,
+      "vat_rate": 0.2,
+      "net_total": 757.6
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 252.76,
+      "vat_rate": 0.2,
+      "net_total": 1516.56
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 138.53,
+      "vat_rate": 0.01,
+      "net_total": 1385.3
+    }
+  ],
+  "subtotal": 10687.14,
+  "vat_total": 1061.38,
+  "grand_total": 11748.52,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000472 | Tarih: 05.10.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Şişli/Samsun\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 2 350,15 %10 700,30\nŞeker (1 kg) 1 67,81 %10 67,81\nYoğurt (1 kg) 6 107,29 %1 643,74\nSomon Fileto (kg) 6 839,43 %10 5.036,58\nSüt (1 L) 5 40,61 %1 203,05\nSalatalık (kg) 6 30,37 %1 182,22\nYoğurt (1 kg) 3 64,66 %1 193,98\nGazlı İçecek (1 L) 20 37,88 %20 757,60\nKahve Çekirdeği (250 g) 6 252,76 %20 1.516,56\nKuru Fasulye (1 kg) 10 138,53 %1 1.385,30\nAra Toplam: 10.687,14\nKDV Toplam: 1.061,38\nGenel Toplam: 11.748,52\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000330",
+  "source_pdf": "0330_FATURA_INV-2024-000330.pdf",
+  "date": "2024-02-24",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 12,
+      "unit_price": 127.29,
+      "vat_rate": 0.1,
+      "net_total": 1527.48
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 77.38,
+      "vat_rate": 0.1,
+      "net_total": 928.56
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 47.25,
+      "vat_rate": 0.01,
+      "net_total": 236.25
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 62.36,
+      "vat_rate": 0.01,
+      "net_total": 311.8
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 432.32,
+      "vat_rate": 0.1,
+      "net_total": 864.64
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 91.97,
+      "vat_rate": 0.01,
+      "net_total": 367.88
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 74.59,
+      "vat_rate": 0.01,
+      "net_total": 1118.85
+    }
+  ],
+  "subtotal": 5355.46,
+  "vat_total": 352.42,
+  "grand_total": 5707.88,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000330 | Tarih: 24.02.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Şişli/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 12 127,29 %10 1.527,48\nŞeker (1 kg) 12 77,38 %10 928,56\nSüt (1 L) 5 47,25 %1 236,25\nMuz (kg) 5 62,36 %1 311,80\nDana Kıyma (kg) 2 432,32 %10 864,64\nMuz (kg) 4 91,97 %1 367,88\nKuru Fasulye (1 kg) 15 74,59 %1 1.118,85\nAra Toplam: 5.355,46\nKDV Toplam: 352,42\nGenel Toplam: 5.707,88\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

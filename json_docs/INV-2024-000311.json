@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000311",
+  "source_pdf": "0311_FATURA_INV-2024-000311.pdf",
+  "date": "2024-05-24",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 27.74,
+      "vat_rate": 0.01,
+      "net_total": 332.88
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 111.34,
+      "vat_rate": 0.1,
+      "net_total": 556.7
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 112.4,
+      "vat_rate": 0.1,
+      "net_total": 449.6
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 34.99,
+      "vat_rate": 0.01,
+      "net_total": 174.95
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 116.18,
+      "vat_rate": 0.1,
+      "net_total": 2323.6
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 43.68,
+      "vat_rate": 0.1,
+      "net_total": 87.36
+    }
+  ],
+  "subtotal": 3925.09,
+  "vat_total": 346.81,
+  "grand_total": 4271.9,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000311 | Tarih: 24.05.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Şehitkamil/İzmir\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 12 27,74 %1 332,88\nUn (5 kg) 5 111,34 %10 556,70\nAyçiçek Yağı (1 L) 4 112,40 %10 449,60\nSüt (1 L) 5 34,99 %1 174,95\nUn (5 kg) 20 116,18 %10 2.323,60\nMakarna (500 g) 2 43,68 %10 87,36\nAra Toplam: 3.925,09\nKDV Toplam: 346,81\nGenel Toplam: 4.271,90\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

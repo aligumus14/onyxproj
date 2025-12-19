@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000063",
+  "source_pdf": "0663_SERVIS_SRV-2024-000063.pdf",
+  "date": "2024-01-16",
+  "status": "Onay Bekliyor",
+  "priority": "Düşük",
+  "sla": "Düşük (72 saat)",
+  "location": "Çankaya/İzmir",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-A",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-18261",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 535.9,
+      "unit_price": 6.0,
+      "total": 1339.9
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1339.9,
+  "vat_rate": 0.2,
+  "vat_amount": 267.98,
+  "grand_total": 1607.88,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000063 | Tarih: 16.01.2024 | Durum: Onay Bekliyor\nÖncelik: Düşük | SLA: Düşük (72 saat)\nLokasyon: Çankaya/İzmir | Şube/DM: TR-ANK-DC02 | Depo: Depo-A\nMakine: Forklift - Linde H35D | Seri No: FLT-18261\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 535,96 1.339,90\nParça Değişimi - - 0,00\nAra Toplam: 1.339,90\nKDV (%20): 267,98\nGenel Toplam: 1.607,88\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

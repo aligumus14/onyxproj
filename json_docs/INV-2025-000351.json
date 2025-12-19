@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000351",
+  "source_pdf": "0351_FATURA_INV-2025-000351.pdf",
+  "date": "2025-02-09",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 57.6,
+      "vat_rate": 0.01,
+      "net_total": 460.8
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 86.51,
+      "vat_rate": 0.01,
+      "net_total": 173.02
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 71.03,
+      "vat_rate": 0.01,
+      "net_total": 284.12
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 28.59,
+      "vat_rate": 0.01,
+      "net_total": 114.36
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 58.67,
+      "vat_rate": 0.2,
+      "net_total": 880.05
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 130.71,
+      "vat_rate": 0.1,
+      "net_total": 1307.1
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 148.02,
+      "vat_rate": 0.2,
+      "net_total": 1184.16
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 619.69,
+      "vat_rate": 0.1,
+      "net_total": 12393.8
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 57.31,
+      "vat_rate": 0.01,
+      "net_total": 114.62
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 761.52,
+      "vat_rate": 0.1,
+      "net_total": 11422.8
+    }
+  ],
+  "subtotal": 28334.83,
+  "vat_total": 2936.68,
+  "grand_total": 31271.51,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000351 | Tarih: 09.02.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 8 57,60 %1 460,80\nYoğurt (1 kg) 2 86,51 %1 173,02\nPirinç (1 kg) 4 71,03 %1 284,12\nSalatalık (kg) 4 28,59 %1 114,36\nGazlı İçecek (1 L) 15 58,67 %20 880,05\nUn (5 kg) 10 130,71 %10 1.307,10\nKahve Çekirdeği (250 g) 8 148,02 %20 1.184,16\nSomon Fileto (kg) 20 619,69 %10 12.393,80\nYoğurt (1 kg) 2 57,31 %1 114,62\nSomon Fileto (kg) 15 761,52 %10 11.422,80\nAra Toplam: 28.334,83\nKDV Toplam: 2.936,68\nGenel Toplam: 31.271,51\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

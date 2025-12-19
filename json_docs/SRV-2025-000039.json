@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000039",
+  "source_pdf": "0639_SERVIS_SRV-2025-000039.pdf",
+  "date": "2025-05-31",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Seyhan/İzmir",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-97108",
+  "technician": "Deniz Arı",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 715.9,
+      "unit_price": 8.0,
+      "total": 2147.94
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 2147.94,
+  "vat_rate": 0.2,
+  "vat_amount": 429.59,
+  "grand_total": 2577.53,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000039 | Tarih: 31.05.2025 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Seyhan/İzmir | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-97108\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 715,98 2.147,94\nParça Değişimi - - 0,00\nAra Toplam: 2.147,94\nKDV (%20): 429,59\nGenel Toplam: 2.577,53\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

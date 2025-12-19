@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000131",
+  "source_pdf": "0131_FATURA_INV-2025-000131.pdf",
+  "date": "2025-01-25",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 516.93,
+      "vat_rate": 0.1,
+      "net_total": 4135.44
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 131.13,
+      "vat_rate": 0.1,
+      "net_total": 393.39
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 109.01,
+      "vat_rate": 0.01,
+      "net_total": 218.02
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 120.76,
+      "vat_rate": 0.01,
+      "net_total": 724.56
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 29.57,
+      "vat_rate": 0.01,
+      "net_total": 295.7
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 131.16,
+      "vat_rate": 0.01,
+      "net_total": 1967.4
+    }
+  ],
+  "subtotal": 7734.51,
+  "vat_total": 484.94,
+  "grand_total": 8219.45,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000131 | Tarih: 25.01.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 8 516,93 %10 4.135,44\nUn (5 kg) 3 131,13 %10 393,39\nKuru Fasulye (1 kg) 2 109,01 %1 218,02\nKuru Fasulye (1 kg) 6 120,76 %1 724,56\nDomates (kg) 10 29,57 %1 295,70\nKuru Fasulye (1 kg) 15 131,16 %1 1.967,40\nAra Toplam: 7.734,51\nKDV Toplam: 484,94\nGenel Toplam: 8.219,45\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

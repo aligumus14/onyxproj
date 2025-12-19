@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000545",
+  "source_pdf": "0545_FATURA_INV-2025-000545.pdf",
+  "date": "2025-12-17",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 59.87,
+      "vat_rate": 0.01,
+      "net_total": 59.87
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 73.79,
+      "vat_rate": 0.01,
+      "net_total": 73.79
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 159.71,
+      "vat_rate": 0.1,
+      "net_total": 479.13
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 25.22,
+      "vat_rate": 0.1,
+      "net_total": 50.44
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 202.05,
+      "vat_rate": 0.1,
+      "net_total": 3030.75
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 55.64,
+      "vat_rate": 0.01,
+      "net_total": 834.6
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 73.34,
+      "vat_rate": 0.01,
+      "net_total": 733.4
+    }
+  ],
+  "subtotal": 5261.98,
+  "vat_total": 373.04,
+  "grand_total": 5635.02,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000545 | Tarih: 17.12.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 1 59,87 %1 59,87\nMuz (kg) 1 73,79 %1 73,79\nAyçiçek Yağı (1 L) 3 159,71 %10 479,13\nMakarna (500 g) 2 25,22 %10 50,44\nTavuk Göğüs (kg) 15 202,05 %10 3.030,75\nMuz (kg) 15 55,64 %1 834,60\nMuz (kg) 10 73,34 %1 733,40\nAra Toplam: 5.261,98\nKDV Toplam: 373,04\nGenel Toplam: 5.635,02\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

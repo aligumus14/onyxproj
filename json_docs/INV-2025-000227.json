@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000227",
+  "source_pdf": "0227_FATURA_INV-2025-000227.pdf",
+  "date": "2025-03-14",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 103.39,
+      "vat_rate": 0.01,
+      "net_total": 1550.85
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 36.8,
+      "vat_rate": 0.1,
+      "net_total": 36.8
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 18.91,
+      "vat_rate": 0.1,
+      "net_total": 226.92
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 46.57,
+      "vat_rate": 0.2,
+      "net_total": 372.56
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 42.33,
+      "vat_rate": 0.01,
+      "net_total": 423.3
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 81.42,
+      "vat_rate": 0.01,
+      "net_total": 977.04
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 40.97,
+      "vat_rate": 0.1,
+      "net_total": 163.88
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 181.24,
+      "vat_rate": 0.1,
+      "net_total": 724.96
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 66.39,
+      "vat_rate": 0.01,
+      "net_total": 66.39
+    }
+  ],
+  "subtotal": 4542.7,
+  "vat_total": 219.94,
+  "grand_total": 4762.64,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000227 | Tarih: 14.03.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Şehitkamil/Kocaeli\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 15 103,39 %1 1.550,85\nŞeker (1 kg) 1 36,80 %10 36,80\nMakarna (500 g) 12 18,91 %10 226,92\nÇikolata (80 g) 8 46,57 %20 372,56\nElma (kg) 10 42,33 %1 423,30\nMuz (kg) 12 81,42 %1 977,04\nŞeker (1 kg) 4 40,97 %10 163,88\nTavuk Göğüs (kg) 4 181,24 %10 724,96\nMuz (kg) 1 66,39 %1 66,39\nAra Toplam: 4.542,70\nKDV Toplam: 219,94\nGenel Toplam: 4.762,64\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

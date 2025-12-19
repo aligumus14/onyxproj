@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000192",
+  "source_pdf": "0792_SERVIS_SRV-2024-000192.pdf",
+  "date": "2024-07-09",
+  "status": "Parça Bekleniyor",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Şişli/Gaziantep",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-B",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-44669",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 941.4,
+      "unit_price": 1.0,
+      "total": 941.41
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 972.33,
+      "total": 972.33
+    }
+  ],
+  "subtotal": 1913.74,
+  "vat_rate": 0.2,
+  "vat_amount": 382.75,
+  "grand_total": 2296.49,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000192 | Tarih: 09.07.2024 | Durum: Parça Bekleniyor\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Şişli/Gaziantep | Şube/DM: TR-BUR-DC04 | Depo: Depo-B\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-44669\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 941,41 941,41\nKayış 1 972,33 972,33\nAra Toplam: 1.913,74\nKDV (%20): 382,75\nGenel Toplam: 2.296,49\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

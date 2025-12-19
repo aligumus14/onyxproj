@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000254",
+  "source_pdf": "0254_FATURA_INV-2024-000254.pdf",
+  "date": "2024-08-30",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 32.36,
+      "vat_rate": 0.01,
+      "net_total": 161.8
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 120.51,
+      "vat_rate": 0.01,
+      "net_total": 1205.1
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 47.33,
+      "vat_rate": 0.1,
+      "net_total": 47.33
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 65.91,
+      "vat_rate": 0.01,
+      "net_total": 659.1
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 67.28,
+      "vat_rate": 0.1,
+      "net_total": 403.68
+    }
+  ],
+  "subtotal": 2477.01,
+  "vat_total": 65.36,
+  "grand_total": 2542.37,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000254 | Tarih: 30.08.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Karşıyaka/Kocaeli\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 5 32,36 %1 161,80\nKuru Fasulye (1 kg) 10 120,51 %1 1.205,10\nŞeker (1 kg) 1 47,33 %10 47,33\nMuz (kg) 10 65,91 %1 659,10\nŞeker (1 kg) 6 67,28 %10 403,68\nAra Toplam: 2.477,01\nKDV Toplam: 65,36\nGenel Toplam: 2.542,37\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

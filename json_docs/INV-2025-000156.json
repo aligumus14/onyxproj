@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000156",
+  "source_pdf": "0156_FATURA_INV-2025-000156.pdf",
+  "date": "2025-05-05",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 83.5,
+      "vat_rate": 0.01,
+      "net_total": 1252.5
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 78.32,
+      "vat_rate": 0.01,
+      "net_total": 1566.4
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 10.84,
+      "vat_rate": 0.2,
+      "net_total": 32.52
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 86.16,
+      "vat_rate": 0.01,
+      "net_total": 258.48
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 284.77,
+      "vat_rate": 0.2,
+      "net_total": 4271.55
+    }
+  ],
+  "subtotal": 7381.45,
+  "vat_total": 891.58,
+  "grand_total": 8273.03,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000156 | Tarih: 05.05.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Kadıköy/Kocaeli\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 15 83,50 %1 1.252,50\nPirinç (1 kg) 20 78,32 %1 1.566,40\nMaden Suyu (200 ml) 3 10,84 %20 32,52\nYoğurt (1 kg) 3 86,16 %1 258,48\nKahve Çekirdeği (250 g) 15 284,77 %20 4.271,55\nAra Toplam: 7.381,45\nKDV Toplam: 891,58\nGenel Toplam: 8.273,03\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000488",
+  "source_pdf": "0488_FATURA_INV-2025-000488.pdf",
+  "date": "2025-01-24",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 203.27,
+      "vat_rate": 0.1,
+      "net_total": 203.27
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 73.09,
+      "vat_rate": 0.01,
+      "net_total": 292.36
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 127.72,
+      "vat_rate": 0.1,
+      "net_total": 1532.64
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 27.27,
+      "vat_rate": 0.2,
+      "net_total": 163.62
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 68.49,
+      "vat_rate": 0.01,
+      "net_total": 547.92
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 45.22,
+      "vat_rate": 0.01,
+      "net_total": 678.3
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 289.22,
+      "vat_rate": 0.1,
+      "net_total": 1735.32
+    }
+  ],
+  "subtotal": 5153.43,
+  "vat_total": 395.02,
+  "grand_total": 5548.45,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000488 | Tarih: 24.01.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-C | Teslim Yeri: Şişli/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 1 203,27 %10 203,27\nMuz (kg) 4 73,09 %1 292,36\nTavuk Göğüs (kg) 12 127,72 %10 1.532,64\nGazlı İçecek (1 L) 6 27,27 %20 163,62\nMuz (kg) 8 68,49 %1 547,92\nDomates (kg) 15 45,22 %1 678,30\nDana Kıyma (kg) 6 289,22 %10 1.735,32\nAra Toplam: 5.153,43\nKDV Toplam: 395,02\nGenel Toplam: 5.548,45\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

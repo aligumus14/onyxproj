@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000389",
+  "source_pdf": "0389_FATURA_INV-2025-000389.pdf",
+  "date": "2025-12-16",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 80.63,
+      "vat_rate": 0.01,
+      "net_total": 806.3
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 132.13,
+      "vat_rate": 0.1,
+      "net_total": 528.52
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 135.11,
+      "vat_rate": 0.01,
+      "net_total": 1080.88
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 128.21,
+      "vat_rate": 0.1,
+      "net_total": 256.42
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 26.16,
+      "vat_rate": 0.01,
+      "net_total": 104.64
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 68.37,
+      "vat_rate": 0.01,
+      "net_total": 68.37
+    }
+  ],
+  "subtotal": 2845.13,
+  "vat_total": 99.09,
+  "grand_total": 2944.22,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000389 | Tarih: 16.12.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 10 80,63 %1 806,30\nTavuk Göğüs (kg) 4 132,13 %10 528,52\nKuru Fasulye (1 kg) 8 135,11 %1 1.080,88\nAyçiçek Yağı (1 L) 2 128,21 %10 256,42\nElma (kg) 4 26,16 %1 104,64\nPirinç (1 kg) 1 68,37 %1 68,37\nAra Toplam: 2.845,13\nKDV Toplam: 99,09\nGenel Toplam: 2.944,22\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000255",
+  "source_pdf": "0255_FATURA_INV-2024-000255.pdf",
+  "date": "2024-04-12",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 43.13,
+      "vat_rate": 0.2,
+      "net_total": 258.78
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 42.45,
+      "vat_rate": 0.01,
+      "net_total": 42.45
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 105.47,
+      "vat_rate": 0.01,
+      "net_total": 2109.4
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 71.04,
+      "vat_rate": 0.01,
+      "net_total": 71.04
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 173.34,
+      "vat_rate": 0.1,
+      "net_total": 1040.04
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 33.74,
+      "vat_rate": 0.01,
+      "net_total": 101.22
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 89.57,
+      "vat_rate": 0.01,
+      "net_total": 1343.55
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 394.81,
+      "vat_rate": 0.1,
+      "net_total": 3948.1
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 56.28,
+      "vat_rate": 0.01,
+      "net_total": 281.4
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 6,
+      "unit_price": 21.99,
+      "vat_rate": 0.2,
+      "net_total": 131.94
+    }
+  ],
+  "subtotal": 9327.92,
+  "vat_total": 616.44,
+  "grand_total": 9944.36,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000255 | Tarih: 12.04.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-C | Teslim Yeri: Muratpaşa/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 6 43,13 %20 258,78\nDomates (kg) 1 42,45 %1 42,45\nKuru Fasulye (1 kg) 20 105,47 %1 2.109,40\nPirinç (1 kg) 1 71,04 %1 71,04\nTavuk Göğüs (kg) 6 173,34 %10 1.040,04\nElma (kg) 3 33,74 %1 101,22\nPirinç (1 kg) 15 89,57 %1 1.343,55\nDana Kıyma (kg) 10 394,81 %10 3.948,10\nPirinç (1 kg) 5 56,28 %1 281,40\nMaden Suyu (200 ml) 6 21,99 %20 131,94\nAra Toplam: 9.327,92\nKDV Toplam: 616,44\nGenel Toplam: 9.944,36\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

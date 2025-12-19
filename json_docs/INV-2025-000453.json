@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000453",
+  "source_pdf": "0453_FATURA_INV-2025-000453.pdf",
+  "date": "2025-12-24",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 47.39,
+      "vat_rate": 0.01,
+      "net_total": 47.39
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 75.86,
+      "vat_rate": 0.01,
+      "net_total": 910.32
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 161.9,
+      "vat_rate": 0.1,
+      "net_total": 323.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 93.74,
+      "vat_rate": 0.01,
+      "net_total": 562.44
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 74.33,
+      "vat_rate": 0.1,
+      "net_total": 222.99
+    }
+  ],
+  "subtotal": 2066.94,
+  "vat_total": 69.87,
+  "grand_total": 2136.81,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000453 | Tarih: 24.12.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Şehitkamil/Samsun\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 1 47,39 %1 47,39\nYoğurt (1 kg) 12 75,86 %1 910,32\nTavuk Göğüs (kg) 2 161,90 %10 323,80\nMuz (kg) 6 93,74 %1 562,44\nŞeker (1 kg) 3 74,33 %10 222,99\nAra Toplam: 2.066,94\nKDV Toplam: 69,87\nGenel Toplam: 2.136,81\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

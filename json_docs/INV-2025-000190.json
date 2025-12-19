@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000190",
+  "source_pdf": "0190_FATURA_INV-2025-000190.pdf",
+  "date": "2025-02-06",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 30.35,
+      "vat_rate": 0.01,
+      "net_total": 455.25
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 146.22,
+      "vat_rate": 0.1,
+      "net_total": 2193.3
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 33.27,
+      "vat_rate": 0.2,
+      "net_total": 99.81
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 80.19,
+      "vat_rate": 0.01,
+      "net_total": 1202.85
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 100.9,
+      "vat_rate": 0.1,
+      "net_total": 302.7
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 44.35,
+      "vat_rate": 0.2,
+      "net_total": 133.05
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 105.65,
+      "vat_rate": 0.01,
+      "net_total": 2113.0
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 75.43,
+      "vat_rate": 0.01,
+      "net_total": 452.58
+    }
+  ],
+  "subtotal": 6952.54,
+  "vat_total": 338.41,
+  "grand_total": 7290.95,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000190 | Tarih: 06.02.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Şehitkamil/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 15 30,35 %1 455,25\nTavuk Göğüs (kg) 15 146,22 %10 2.193,30\nGazlı İçecek (1 L) 3 33,27 %20 99,81\nPirinç (1 kg) 15 80,19 %1 1.202,85\nAyçiçek Yağı (1 L) 3 100,90 %10 302,70\nÇikolata (80 g) 3 44,35 %20 133,05\nPirinç (1 kg) 20 105,65 %1 2.113,00\nKuru Fasulye (1 kg) 6 75,43 %1 452,58\nAra Toplam: 6.952,54\nKDV Toplam: 338,41\nGenel Toplam: 7.290,95\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

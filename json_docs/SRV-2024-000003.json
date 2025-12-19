@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000003",
+  "source_pdf": "0603_SERVIS_SRV-2024-000003.pdf",
+  "date": "2024-09-26",
+  "status": "Açık",
+  "priority": "Düşük",
+  "sla": "Düşük (72 saat)",
+  "location": "Selçuklu/Kocaeli",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-A",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-52000",
+  "technician": "Deniz Arı",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 455.7,
+      "unit_price": 0.0,
+      "total": 683.55
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 1447.19,
+      "total": 1447.19
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1696.85,
+      "total": 1696.85
+    }
+  ],
+  "subtotal": 3827.59,
+  "vat_rate": 0.2,
+  "vat_amount": 765.52,
+  "grand_total": 4593.11,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000003 | Tarih: 26.09.2024 | Durum: Açık\nÖncelik: Düşük | SLA: Düşük (72 saat)\nLokasyon: Selçuklu/Kocaeli | Şube/DM: TR-IZM-DC03 | Depo: Depo-A\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-52000\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 455,70 683,55\nRulman Seti 1 1.447,19 1.447,19\nTermostat 1 1.696,85 1.696,85\nAra Toplam: 3.827,59\nKDV (%20): 765,52\nGenel Toplam: 4.593,11\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

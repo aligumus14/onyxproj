@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000074",
+  "source_pdf": "0074_FATURA_INV-2024-000074.pdf",
+  "date": "2024-02-08",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 111.02,
+      "vat_rate": 0.1,
+      "net_total": 111.02
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 11.61,
+      "vat_rate": 0.2,
+      "net_total": 174.15
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 389.04,
+      "vat_rate": 0.1,
+      "net_total": 1945.2
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 44.76,
+      "vat_rate": 0.2,
+      "net_total": 537.12
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 75.42,
+      "vat_rate": 0.01,
+      "net_total": 905.04
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 103.07,
+      "vat_rate": 0.1,
+      "net_total": 206.14
+    }
+  ],
+  "subtotal": 3878.67,
+  "vat_total": 377.53,
+  "grand_total": 4256.2,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000074 | Tarih: 08.02.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Muratpaşa/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 1 111,02 %10 111,02\nMaden Suyu (200 ml) 15 11,61 %20 174,15\nDana Kıyma (kg) 5 389,04 %10 1.945,20\nGazlı İçecek (1 L) 12 44,76 %20 537,12\nPirinç (1 kg) 12 75,42 %1 905,04\nAyçiçek Yağı (1 L) 2 103,07 %10 206,14\nAra Toplam: 3.878,67\nKDV Toplam: 377,53\nGenel Toplam: 4.256,20\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

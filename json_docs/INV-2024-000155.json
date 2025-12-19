@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000155",
+  "source_pdf": "0155_FATURA_INV-2024-000155.pdf",
+  "date": "2024-09-26",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 53.84,
+      "vat_rate": 0.01,
+      "net_total": 646.08
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 39.2,
+      "vat_rate": 0.01,
+      "net_total": 470.4
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 767.06,
+      "vat_rate": 0.1,
+      "net_total": 7670.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 50.87,
+      "vat_rate": 0.01,
+      "net_total": 610.44
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 119.9,
+      "vat_rate": 0.1,
+      "net_total": 359.7
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 37.64,
+      "vat_rate": 0.2,
+      "net_total": 752.8
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 55.23,
+      "vat_rate": 0.01,
+      "net_total": 165.69
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 33.06,
+      "vat_rate": 0.01,
+      "net_total": 661.2
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 395.56,
+      "vat_rate": 0.1,
+      "net_total": 791.12
+    }
+  ],
+  "subtotal": 12128.03,
+  "vat_total": 1058.23,
+  "grand_total": 13186.26,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000155 | Tarih: 26.09.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/Kocaeli\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 12 53,84 %1 646,08\nSüt (1 L) 12 39,20 %1 470,40\nSomon Fileto (kg) 10 767,06 %10 7.670,60\nDomates (kg) 12 50,87 %1 610,44\nUn (5 kg) 3 119,90 %10 359,70\nÇikolata (80 g) 20 37,64 %20 752,80\nPirinç (1 kg) 3 55,23 %1 165,69\nElma (kg) 20 33,06 %1 661,20\nDana Kıyma (kg) 2 395,56 %10 791,12\nAra Toplam: 12.128,03\nKDV Toplam: 1.058,23\nGenel Toplam: 13.186,26\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

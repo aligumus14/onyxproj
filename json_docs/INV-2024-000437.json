@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000437",
+  "source_pdf": "0437_FATURA_INV-2024-000437.pdf",
+  "date": "2024-07-09",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 110.56,
+      "vat_rate": 0.1,
+      "net_total": 552.8
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 148.21,
+      "vat_rate": 0.1,
+      "net_total": 148.21
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 62.36,
+      "vat_rate": 0.01,
+      "net_total": 311.8
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 333.12,
+      "vat_rate": 0.1,
+      "net_total": 666.24
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 27.74,
+      "vat_rate": 0.01,
+      "net_total": 166.44
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 200.97,
+      "vat_rate": 0.1,
+      "net_total": 3014.55
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 19.52,
+      "vat_rate": 0.2,
+      "net_total": 156.16
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 373.37,
+      "vat_rate": 0.1,
+      "net_total": 4480.44
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 38.72,
+      "vat_rate": 0.2,
+      "net_total": 38.72
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 477.43,
+      "vat_rate": 0.1,
+      "net_total": 2864.58
+    }
+  ],
+  "subtotal": 12399.94,
+  "vat_total": 1216.43,
+  "grand_total": 13616.37,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000437 | Tarih: 09.07.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 5 110,56 %10 552,80\nAyçiçek Yağı (1 L) 1 148,21 %10 148,21\nPirinç (1 kg) 5 62,36 %1 311,80\nDana Kıyma (kg) 2 333,12 %10 666,24\nDomates (kg) 6 27,74 %1 166,44\nTavuk Göğüs (kg) 15 200,97 %10 3.014,55\nMaden Suyu (200 ml) 8 19,52 %20 156,16\nDana Kıyma (kg) 12 373,37 %10 4.480,44\nGazlı İçecek (1 L) 1 38,72 %20 38,72\nDana Kıyma (kg) 6 477,43 %10 2.864,58\nAra Toplam: 12.399,94\nKDV Toplam: 1.216,43\nGenel Toplam: 13.616,37\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000099",
+  "source_pdf": "0099_FATURA_INV-2025-000099.pdf",
+  "date": "2025-06-10",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 54.51,
+      "vat_rate": 0.01,
+      "net_total": 218.04
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 462.75,
+      "vat_rate": 0.1,
+      "net_total": 1851.0
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 144.17,
+      "vat_rate": 0.2,
+      "net_total": 1441.7
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 79.0,
+      "vat_rate": 0.01,
+      "net_total": 1580.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 2,
+      "unit_price": 172.37,
+      "vat_rate": 0.1,
+      "net_total": 344.74
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 68.36,
+      "vat_rate": 0.01,
+      "net_total": 546.88
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 81.83,
+      "vat_rate": 0.01,
+      "net_total": 490.98
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 33.71,
+      "vat_rate": 0.1,
+      "net_total": 202.26
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 74.92,
+      "vat_rate": 0.01,
+      "net_total": 749.2
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 768.27,
+      "vat_rate": 0.1,
+      "net_total": 1536.54
+    }
+  ],
+  "subtotal": 8961.34,
+  "vat_total": 717.64,
+  "grand_total": 9678.98,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000099 | Tarih: 10.06.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Karşıyaka/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 4 54,51 %1 218,04\nDana Kıyma (kg) 4 462,75 %10 1.851,00\nKahve Çekirdeği (250 g) 10 144,17 %20 1.441,70\nYoğurt (1 kg) 20 79,00 %1 1.580,00\nUn (5 kg) 2 172,37 %10 344,74\nMuz (kg) 8 68,36 %1 546,88\nYoğurt (1 kg) 6 81,83 %1 490,98\nMakarna (500 g) 6 33,71 %10 202,26\nMuz (kg) 10 74,92 %1 749,20\nSomon Fileto (kg) 2 768,27 %10 1.536,54\nAra Toplam: 8.961,34\nKDV Toplam: 717,64\nGenel Toplam: 9.678,98\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

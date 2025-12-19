@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000298",
+  "source_pdf": "0298_FATURA_INV-2024-000298.pdf",
+  "date": "2024-01-26",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 166.41,
+      "vat_rate": 0.1,
+      "net_total": 1996.92
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 90.96,
+      "vat_rate": 0.01,
+      "net_total": 454.8
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 27.5,
+      "vat_rate": 0.01,
+      "net_total": 55.0
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 23.41,
+      "vat_rate": 0.01,
+      "net_total": 280.92
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 102.92,
+      "vat_rate": 0.1,
+      "net_total": 2058.4
+    }
+  ],
+  "subtotal": 4846.04,
+  "vat_total": 413.44,
+  "grand_total": 5259.48,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000298 | Tarih: 26.01.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Beşiktaş/Antalya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 12 166,41 %10 1.996,92\nMuz (kg) 5 90,96 %1 454,80\nElma (kg) 2 27,50 %1 55,00\nSalatalık (kg) 12 23,41 %1 280,92\nAyçiçek Yağı (1 L) 20 102,92 %10 2.058,40\nAra Toplam: 4.846,04\nKDV Toplam: 413,44\nGenel Toplam: 5.259,48\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,52 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000157",
+  "source_pdf": "0757_SERVIS_SRV-2025-000157.pdf",
+  "date": "2025-09-06",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Selçuklu/Ankara",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-63223",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 937.9,
+      "unit_price": 8.0,
+      "total": 937.98
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 1381.9,
+      "total": 1381.9
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 998.28,
+      "total": 998.28
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1598.82,
+      "total": 1598.82
+    }
+  ],
+  "subtotal": 4916.98,
+  "vat_rate": 0.2,
+  "vat_amount": 983.4,
+  "grand_total": 5900.38,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000157 | Tarih: 06.09.2025 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Selçuklu/Ankara | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-63223\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 937,98 937,98\nRulman Seti 1 1.381,90 1.381,90\nKayış 1 998,28 998,28\nTermostat 1 1.598,82 1.598,82\nAra Toplam: 4.916,98\nKDV (%20): 983,40\nGenel Toplam: 5.900,38\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

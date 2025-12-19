@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000300",
+  "source_pdf": "0300_FATURA_INV-2024-000300.pdf",
+  "date": "2024-11-16",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 24.86,
+      "vat_rate": 0.01,
+      "net_total": 149.16
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 106.32,
+      "vat_rate": 0.01,
+      "net_total": 531.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 48.36,
+      "vat_rate": 0.01,
+      "net_total": 483.6
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 540.2,
+      "vat_rate": 0.1,
+      "net_total": 3241.2
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 68.87,
+      "vat_rate": 0.1,
+      "net_total": 1377.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 38.04,
+      "vat_rate": 0.2,
+      "net_total": 190.2
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 47.49,
+      "vat_rate": 0.01,
+      "net_total": 712.35
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 108.52,
+      "vat_rate": 0.01,
+      "net_total": 325.56
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 431.16,
+      "vat_rate": 0.1,
+      "net_total": 6467.4
+    }
+  ],
+  "subtotal": 13478.47,
+  "vat_total": 1168.67,
+  "grand_total": 14647.14,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000300 | Tarih: 16.11.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Seyhan/Bursa\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 6 24,86 %1 149,16\nPirinç (1 kg) 5 106,32 %1 531,60\nDomates (kg) 10 48,36 %1 483,60\nSomon Fileto (kg) 6 540,20 %10 3.241,20\nŞeker (1 kg) 20 68,87 %10 1.377,40\nGazlı İçecek (1 L) 5 38,04 %20 190,20\nDomates (kg) 15 47,49 %1 712,35\nPirinç (1 kg) 3 108,52 %1 325,56\nDana Kıyma (kg) 15 431,16 %10 6.467,40\nAra Toplam: 13.478,47\nKDV Toplam: 1.168,67\nGenel Toplam: 14.647,14\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

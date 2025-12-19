@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000243",
+  "source_pdf": "0843_SERVIS_SRV-2024-000243.pdf",
+  "date": "2024-08-15",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Kadıköy/Adana",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-17798",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 746.3,
+      "unit_price": 5.0,
+      "total": 1865.88
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 1249.31,
+      "total": 2498.62
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 898.26,
+      "total": 898.26
+    }
+  ],
+  "subtotal": 5262.76,
+  "vat_rate": 0.2,
+  "vat_amount": 1052.55,
+  "grand_total": 6315.31,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000243 | Tarih: 15.08.2024 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Kadıköy/Adana | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-17798\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 746,35 1.865,88\nKayış 2 1.249,31 2.498,62\nTermostat 1 898,26 898,26\nAra Toplam: 5.262,76\nKDV (%20): 1.052,55\nGenel Toplam: 6.315,31\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

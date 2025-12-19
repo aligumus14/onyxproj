@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000436",
+  "source_pdf": "0436_FATURA_INV-2024-000436.pdf",
+  "date": "2024-02-11",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 42.94,
+      "vat_rate": 0.01,
+      "net_total": 343.52
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 91.01,
+      "vat_rate": 0.01,
+      "net_total": 546.06
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 154.08,
+      "vat_rate": 0.1,
+      "net_total": 1232.64
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 127.73,
+      "vat_rate": 0.01,
+      "net_total": 638.65
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 93.08,
+      "vat_rate": 0.01,
+      "net_total": 744.64
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 96.1,
+      "vat_rate": 0.1,
+      "net_total": 1441.5
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 166.54,
+      "vat_rate": 0.1,
+      "net_total": 2498.1
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 38.1,
+      "vat_rate": 0.01,
+      "net_total": 38.1
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 38.54,
+      "vat_rate": 0.1,
+      "net_total": 154.16
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 68.61,
+      "vat_rate": 0.1,
+      "net_total": 343.05
+    }
+  ],
+  "subtotal": 7980.42,
+  "vat_total": 590.06,
+  "grand_total": 8570.48,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000436 | Tarih: 11.02.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 8 42,94 %1 343,52\nMuz (kg) 6 91,01 %1 546,06\nTavuk Göğüs (kg) 8 154,08 %10 1.232,64\nKuru Fasulye (1 kg) 5 127,73 %1 638,65\nMuz (kg) 8 93,08 %1 744,64\nAyçiçek Yağı (1 L) 15 96,10 %10 1.441,50\nTavuk Göğüs (kg) 15 166,54 %10 2.498,10\nSüt (1 L) 1 38,10 %1 38,10\nMakarna (500 g) 4 38,54 %10 154,16\nŞeker (1 kg) 5 68,61 %10 343,05\nAra Toplam: 7.980,42\nKDV Toplam: 590,06\nGenel Toplam: 8.570,48\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

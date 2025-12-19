@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000575",
+  "source_pdf": "0575_FATURA_INV-2025-000575.pdf",
+  "date": "2025-06-22",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 261.93,
+      "vat_rate": 0.2,
+      "net_total": 1309.65
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 57.03,
+      "vat_rate": 0.01,
+      "net_total": 684.36
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 41.9,
+      "vat_rate": 0.01,
+      "net_total": 209.5
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 62.42,
+      "vat_rate": 0.01,
+      "net_total": 1248.4
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 41.77,
+      "vat_rate": 0.1,
+      "net_total": 417.7
+    }
+  ],
+  "subtotal": 3869.61,
+  "vat_total": 325.12,
+  "grand_total": 4194.73,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000575 | Tarih: 22.06.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Karşıyaka/İstanbul\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 5 261,93 %20 1.309,65\nElma (kg) 12 57,03 %1 684,36\nDomates (kg) 5 41,90 %1 209,50\nYoğurt (1 kg) 20 62,42 %1 1.248,40\nMakarna (500 g) 10 41,77 %10 417,70\nAra Toplam: 3.869,61\nKDV Toplam: 325,12\nGenel Toplam: 4.194,73\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

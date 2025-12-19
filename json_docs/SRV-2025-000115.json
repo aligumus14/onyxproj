@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000115",
+  "source_pdf": "0715_SERVIS_SRV-2025-000115.pdf",
+  "date": "2025-11-17",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Kritik (4 saat)",
+  "location": "Şişli/Samsun",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-B",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-63087",
+  "technician": "Selin Uçar",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 1116.3,
+      "unit_price": 2.0,
+      "total": 6697.92
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1021.7,
+      "total": 1021.7
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 3632.59,
+      "total": 3632.59
+    }
+  ],
+  "subtotal": 11352.21,
+  "vat_rate": 0.2,
+  "vat_amount": 2270.44,
+  "grand_total": 13622.65,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000115 | Tarih: 17.11.2025 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Kritik (4 saat)\nLokasyon: Şişli/Samsun | Şube/DM: TR-ANK-DC02 | Depo: Depo-B\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-63087\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 1.116,32 6.697,92\nKayış 1 1.021,70 1.021,70\nHidrolik Hortum 1 3.632,59 3.632,59\nAra Toplam: 11.352,21\nKDV (%20): 2.270,44\nGenel Toplam: 13.622,65\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

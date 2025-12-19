@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000424",
+  "source_pdf": "0424_FATURA_INV-2024-000424.pdf",
+  "date": "2024-02-28",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 38.27,
+      "vat_rate": 0.1,
+      "net_total": 765.4
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 37.93,
+      "vat_rate": 0.01,
+      "net_total": 37.93
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 101.61,
+      "vat_rate": 0.01,
+      "net_total": 304.83
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 72.27,
+      "vat_rate": 0.01,
+      "net_total": 144.54
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 40.52,
+      "vat_rate": 0.01,
+      "net_total": 40.52
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 20.63,
+      "vat_rate": 0.01,
+      "net_total": 123.78
+    }
+  ],
+  "subtotal": 1417.0,
+  "vat_total": 83.07,
+  "grand_total": 1500.07,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000424 | Tarih: 28.02.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Seyhan/Samsun\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 20 38,27 %10 765,40\nElma (kg) 1 37,93 %1 37,93\nPirinç (1 kg) 3 101,61 %1 304,83\nPirinç (1 kg) 2 72,27 %1 144,54\nElma (kg) 1 40,52 %1 40,52\nSalatalık (kg) 6 20,63 %1 123,78\nAra Toplam: 1.417,00\nKDV Toplam: 83,07\nGenel Toplam: 1.500,07\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

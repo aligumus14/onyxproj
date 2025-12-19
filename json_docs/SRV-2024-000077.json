@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000077",
+  "source_pdf": "0677_SERVIS_SRV-2024-000077.pdf",
+  "date": "2024-06-06",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Selçuklu/Adana",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-1",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-99732",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 610.0,
+      "unit_price": 0.0,
+      "total": 1220.0
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 2581.66,
+      "total": 2581.66
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1258.49,
+      "total": 1258.49
+    }
+  ],
+  "subtotal": 5060.15,
+  "vat_rate": 0.2,
+  "vat_amount": 1012.03,
+  "grand_total": 6072.18,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000077 | Tarih: 06.06.2024 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Selçuklu/Adana | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-1\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-99732\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 610,00 1.220,00\nHidrolik Hortum 1 2.581,66 2.581,66\nKayış 1 1.258,49 1.258,49\nAra Toplam: 5.060,15\nKDV (%20): 1.012,03\nGenel Toplam: 6.072,18\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000585",
+  "source_pdf": "0585_FATURA_INV-2025-000585.pdf",
+  "date": "2025-08-01",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 165.78,
+      "vat_rate": 0.1,
+      "net_total": 828.9
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 130.5,
+      "vat_rate": 0.01,
+      "net_total": 1044.0
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 24.14,
+      "vat_rate": 0.2,
+      "net_total": 362.1
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 60.77,
+      "vat_rate": 0.1,
+      "net_total": 911.55
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 170.39,
+      "vat_rate": 0.2,
+      "net_total": 3407.8
+    }
+  ],
+  "subtotal": 6554.35,
+  "vat_total": 938.47,
+  "grand_total": 7492.82,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000585 | Tarih: 01.08.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Şehitkamil/Antalya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 5 165,78 %10 828,90\nKuru Fasulye (1 kg) 8 130,50 %1 1.044,00\nMaden Suyu (200 ml) 15 24,14 %20 362,10\nŞeker (1 kg) 15 60,77 %10 911,55\nKahve Çekirdeği (250 g) 20 170,39 %20 3.407,80\nAra Toplam: 6.554,35\nKDV Toplam: 938,47\nGenel Toplam: 7.492,82\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

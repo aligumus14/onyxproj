@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000248",
+  "source_pdf": "0248_FATURA_INV-2025-000248.pdf",
+  "date": "2025-04-25",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 22.12,
+      "vat_rate": 0.2,
+      "net_total": 44.24
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 32.21,
+      "vat_rate": 0.01,
+      "net_total": 644.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 39.91,
+      "vat_rate": 0.1,
+      "net_total": 478.92
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 427.56,
+      "vat_rate": 0.1,
+      "net_total": 1282.68
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 530.7,
+      "vat_rate": 0.1,
+      "net_total": 4245.6
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 51.77,
+      "vat_rate": 0.01,
+      "net_total": 621.24
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 70.81,
+      "vat_rate": 0.01,
+      "net_total": 70.81
+    }
+  ],
+  "subtotal": 7387.69,
+  "vat_total": 622.93,
+  "grand_total": 8010.62,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000248 | Tarih: 25.04.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Şehitkamil/Kocaeli\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 2 22,12 %20 44,24\nElma (kg) 20 32,21 %1 644,20\nMakarna (500 g) 12 39,91 %10 478,92\nDana Kıyma (kg) 3 427,56 %10 1.282,68\nSomon Fileto (kg) 8 530,70 %10 4.245,60\nMuz (kg) 12 51,77 %1 621,24\nYoğurt (1 kg) 1 70,81 %1 70,81\nAra Toplam: 7.387,69\nKDV Toplam: 622,93\nGenel Toplam: 8.010,62\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

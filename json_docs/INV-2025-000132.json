@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000132",
+  "source_pdf": "0132_FATURA_INV-2025-000132.pdf",
+  "date": "2025-05-16",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 126.41,
+      "vat_rate": 0.2,
+      "net_total": 126.41
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 165.01,
+      "vat_rate": 0.1,
+      "net_total": 990.06
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 325.74,
+      "vat_rate": 0.1,
+      "net_total": 3908.88
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 45.68,
+      "vat_rate": 0.01,
+      "net_total": 913.6
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 35.92,
+      "vat_rate": 0.01,
+      "net_total": 215.52
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 42.62,
+      "vat_rate": 0.01,
+      "net_total": 340.96
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 117.18,
+      "vat_rate": 0.1,
+      "net_total": 351.54
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 43.61,
+      "vat_rate": 0.01,
+      "net_total": 218.05
+    }
+  ],
+  "subtotal": 7065.02,
+  "vat_total": 567.22,
+  "grand_total": 7632.24,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000132 | Tarih: 16.05.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Muratpaşa/Kocaeli\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 1 126,41 %20 126,41\nAyçiçek Yağı (1 L) 6 165,01 %10 990,06\nDana Kıyma (kg) 12 325,74 %10 3.908,88\nDomates (kg) 20 45,68 %1 913,60\nSüt (1 L) 6 35,92 %1 215,52\nElma (kg) 8 42,62 %1 340,96\nTavuk Göğüs (kg) 3 117,18 %10 351,54\nSalatalık (kg) 5 43,61 %1 218,05\nAra Toplam: 7.065,02\nKDV Toplam: 567,22\nGenel Toplam: 7.632,24\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

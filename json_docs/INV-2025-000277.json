@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000277",
+  "source_pdf": "0277_FATURA_INV-2025-000277.pdf",
+  "date": "2025-01-21",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 489.2,
+      "vat_rate": 0.1,
+      "net_total": 4892.0
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 38.69,
+      "vat_rate": 0.1,
+      "net_total": 309.52
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 41.99,
+      "vat_rate": 0.01,
+      "net_total": 335.92
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 30.05,
+      "vat_rate": 0.1,
+      "net_total": 120.2
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 660.5,
+      "vat_rate": 0.1,
+      "net_total": 13210.0
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 17.78,
+      "vat_rate": 0.2,
+      "net_total": 213.36
+    }
+  ],
+  "subtotal": 19081.0,
+  "vat_total": 1899.2,
+  "grand_total": 20980.2,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000277 | Tarih: 21.01.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-B | Teslim Yeri: Selçuklu/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 10 489,20 %10 4.892,00\nŞeker (1 kg) 8 38,69 %10 309,52\nSalatalık (kg) 8 41,99 %1 335,92\nMakarna (500 g) 4 30,05 %10 120,20\nSomon Fileto (kg) 20 660,50 %10 13.210,00\nMaden Suyu (200 ml) 12 17,78 %20 213,36\nAra Toplam: 19.081,00\nKDV Toplam: 1.899,20\nGenel Toplam: 20.980,20\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

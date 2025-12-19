@@ -1,0 +1,52 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000080",
+  "source_pdf": "0680_SERVIS_SRV-2025-000080.pdf",
+  "date": "2025-05-20",
+  "status": "Açık",
+  "priority": "Düşük",
+  "sla": "Kritik (4 saat)",
+  "location": "Kadıköy/Antalya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-A",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-23071",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 830.6,
+      "unit_price": 3.0,
+      "total": 4983.78
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 214.05,
+      "total": 214.05
+    },
+    {
+      "item": "Sensör",
+      "qty": 2.0,
+      "unit_price": 1863.95,
+      "total": 3727.9
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 225.69,
+      "total": 225.69
+    }
+  ],
+  "subtotal": 9151.42,
+  "vat_rate": 0.2,
+  "vat_amount": 1830.28,
+  "grand_total": 10981.7,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000080 | Tarih: 20.05.2025 | Durum: Açık\nÖncelik: Düşük | SLA: Kritik (4 saat)\nLokasyon: Kadıköy/Antalya | Şube/DM: TR-ANT-DC05 | Depo: Depo-A\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-23071\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 830,63 4.983,78\nFiltre 1 214,05 214,05\nSensör 2 1.863,95 3.727,90\nFiltre 1 225,69 225,69\nAra Toplam: 9.151,42\nKDV (%20): 1.830,28\nGenel Toplam: 10.981,70\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

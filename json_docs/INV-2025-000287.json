@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000287",
+  "source_pdf": "0287_FATURA_INV-2025-000287.pdf",
+  "date": "2025-11-27",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 18.99,
+      "vat_rate": 0.1,
+      "net_total": 113.94
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 23.65,
+      "vat_rate": 0.1,
+      "net_total": 354.75
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 109.61,
+      "vat_rate": 0.1,
+      "net_total": 2192.2
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 85.02,
+      "vat_rate": 0.01,
+      "net_total": 1275.3
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 85.5,
+      "vat_rate": 0.01,
+      "net_total": 1026.0
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 20.24,
+      "vat_rate": 0.2,
+      "net_total": 404.8
+    }
+  ],
+  "subtotal": 5366.99,
+  "vat_total": 370.06,
+  "grand_total": 5737.05,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000287 | Tarih: 27.11.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Karşıyaka/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 6 18,99 %10 113,94\nMakarna (500 g) 15 23,65 %10 354,75\nAyçiçek Yağı (1 L) 20 109,61 %10 2.192,20\nYoğurt (1 kg) 15 85,02 %1 1.275,30\nKuru Fasulye (1 kg) 12 85,50 %1 1.026,00\nMaden Suyu (200 ml) 20 20,24 %20 404,80\nAra Toplam: 5.366,99\nKDV Toplam: 370,06\nGenel Toplam: 5.737,05\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

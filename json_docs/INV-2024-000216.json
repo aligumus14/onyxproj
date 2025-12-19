@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000216",
+  "source_pdf": "0216_FATURA_INV-2024-000216.pdf",
+  "date": "2024-01-25",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 28.02,
+      "vat_rate": 0.01,
+      "net_total": 56.04
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 87.67,
+      "vat_rate": 0.01,
+      "net_total": 701.36
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 23.44,
+      "vat_rate": 0.2,
+      "net_total": 70.32
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 93.57,
+      "vat_rate": 0.01,
+      "net_total": 467.85
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 64.94,
+      "vat_rate": 0.01,
+      "net_total": 1298.8
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 98.46,
+      "vat_rate": 0.01,
+      "net_total": 787.68
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 318.87,
+      "vat_rate": 0.1,
+      "net_total": 1594.35
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 82.74,
+      "vat_rate": 0.01,
+      "net_total": 413.7
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 176.55,
+      "vat_rate": 0.2,
+      "net_total": 1412.4
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 43.8,
+      "vat_rate": 0.01,
+      "net_total": 219.0
+    }
+  ],
+  "subtotal": 7021.5,
+  "vat_total": 495.43,
+  "grand_total": 7516.93,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000216 | Tarih: 25.01.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Çankaya/Samsun\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 2 28,02 %1 56,04\nPirinç (1 kg) 8 87,67 %1 701,36\nMaden Suyu (200 ml) 3 23,44 %20 70,32\nKuru Fasulye (1 kg) 5 93,57 %1 467,85\nMuz (kg) 20 64,94 %1 1.298,80\nYoğurt (1 kg) 8 98,46 %1 787,68\nDana Kıyma (kg) 5 318,87 %10 1.594,35\nMuz (kg) 5 82,74 %1 413,70\nKahve Çekirdeği (250 g) 8 176,55 %20 1.412,40\nSalatalık (kg) 5 43,80 %1 219,00\nAra Toplam: 7.021,50\nKDV Toplam: 495,43\nGenel Toplam: 7.516,93\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

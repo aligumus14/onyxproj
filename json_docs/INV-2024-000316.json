@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000316",
+  "source_pdf": "0316_FATURA_INV-2024-000316.pdf",
+  "date": "2024-08-05",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 208.69,
+      "vat_rate": 0.1,
+      "net_total": 4173.8
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 30.81,
+      "vat_rate": 0.01,
+      "net_total": 616.2
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 151.55,
+      "vat_rate": 0.1,
+      "net_total": 303.1
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 73.95,
+      "vat_rate": 0.01,
+      "net_total": 147.9
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 17.17,
+      "vat_rate": 0.2,
+      "net_total": 68.68
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 27.14,
+      "vat_rate": 0.01,
+      "net_total": 27.14
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 40.39,
+      "vat_rate": 0.01,
+      "net_total": 807.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 23.7,
+      "vat_rate": 0.01,
+      "net_total": 47.4
+    }
+  ],
+  "subtotal": 6192.02,
+  "vat_total": 477.89,
+  "grand_total": 6669.91,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000316 | Tarih: 05.08.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Çankaya/İzmir\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 20 208,69 %10 4.173,80\nElma (kg) 20 30,81 %1 616,20\nTavuk Göğüs (kg) 2 151,55 %10 303,10\nYoğurt (1 kg) 2 73,95 %1 147,90\nMaden Suyu (200 ml) 4 17,17 %20 68,68\nElma (kg) 1 27,14 %1 27,14\nDomates (kg) 20 40,39 %1 807,80\nSalatalık (kg) 2 23,70 %1 47,40\nAra Toplam: 6.192,02\nKDV Toplam: 477,89\nGenel Toplam: 6.669,91\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

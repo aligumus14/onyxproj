@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000284",
+  "source_pdf": "0284_FATURA_INV-2025-000284.pdf",
+  "date": "2025-07-22",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 80.13,
+      "vat_rate": 0.01,
+      "net_total": 480.78
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 113.0,
+      "vat_rate": 0.01,
+      "net_total": 452.0
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 55.33,
+      "vat_rate": 0.1,
+      "net_total": 663.96
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 53.64,
+      "vat_rate": 0.01,
+      "net_total": 536.4
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 216.93,
+      "vat_rate": 0.1,
+      "net_total": 4338.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 52.67,
+      "vat_rate": 0.01,
+      "net_total": 52.67
+    }
+  ],
+  "subtotal": 6524.41,
+  "vat_total": 515.48,
+  "grand_total": 7039.89,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000284 | Tarih: 22.07.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-C | Teslim Yeri: Beşiktaş/Konya\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 6 80,13 %1 480,78\nKuru Fasulye (1 kg) 4 113,00 %1 452,00\nŞeker (1 kg) 12 55,33 %10 663,96\nDomates (kg) 10 53,64 %1 536,40\nTavuk Göğüs (kg) 20 216,93 %10 4.338,60\nDomates (kg) 1 52,67 %1 52,67\nAra Toplam: 6.524,41\nKDV Toplam: 515,48\nGenel Toplam: 7.039,89\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

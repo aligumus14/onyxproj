@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000326",
+  "source_pdf": "0326_FATURA_INV-2024-000326.pdf",
+  "date": "2024-02-05",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 30.52,
+      "vat_rate": 0.01,
+      "net_total": 122.08
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 54.66,
+      "vat_rate": 0.2,
+      "net_total": 273.3
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 165.02,
+      "vat_rate": 0.1,
+      "net_total": 495.06
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 498.59,
+      "vat_rate": 0.1,
+      "net_total": 5983.08
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 665.28,
+      "vat_rate": 0.1,
+      "net_total": 9979.2
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 136.26,
+      "vat_rate": 0.1,
+      "net_total": 272.52
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 18.99,
+      "vat_rate": 0.01,
+      "net_total": 75.96
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 100.65,
+      "vat_rate": 0.01,
+      "net_total": 503.25
+    }
+  ],
+  "subtotal": 17704.45,
+  "vat_total": 1734.66,
+  "grand_total": 19439.11,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000326 | Tarih: 05.02.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Selçuklu/Adana\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 4 30,52 %1 122,08\nÇikolata (80 g) 5 54,66 %20 273,30\nUn (5 kg) 3 165,02 %10 495,06\nDana Kıyma (kg) 12 498,59 %10 5.983,08\nSomon Fileto (kg) 15 665,28 %10 9.979,20\nAyçiçek Yağı (1 L) 2 136,26 %10 272,52\nSalatalık (kg) 4 18,99 %1 75,96\nPirinç (1 kg) 5 100,65 %1 503,25\nAra Toplam: 17.704,45\nKDV Toplam: 1.734,66\nGenel Toplam: 19.439,11\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000579",
+  "source_pdf": "0579_FATURA_INV-2024-000579.pdf",
+  "date": "2024-05-24",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 26.69,
+      "vat_rate": 0.01,
+      "net_total": 320.28
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 129.33,
+      "vat_rate": 0.1,
+      "net_total": 517.32
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 91.68,
+      "vat_rate": 0.1,
+      "net_total": 916.8
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 174.91,
+      "vat_rate": 0.2,
+      "net_total": 3498.2
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 55.88,
+      "vat_rate": 0.01,
+      "net_total": 55.88
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 43.82,
+      "vat_rate": 0.01,
+      "net_total": 87.64
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 59.13,
+      "vat_rate": 0.2,
+      "net_total": 591.3
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 302.87,
+      "vat_rate": 0.1,
+      "net_total": 2422.96
+    }
+  ],
+  "subtotal": 8410.38,
+  "vat_total": 1208.25,
+  "grand_total": 9618.63,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000579 | Tarih: 24.05.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Seyhan/Samsun\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 12 26,69 %1 320,28\nAyçiçek Yağı (1 L) 4 129,33 %10 517,32\nAyçiçek Yağı (1 L) 10 91,68 %10 916,80\nKahve Çekirdeği (250 g) 20 174,91 %20 3.498,20\nSüt (1 L) 1 55,88 %1 55,88\nSalatalık (kg) 2 43,82 %1 87,64\nÇikolata (80 g) 10 59,13 %20 591,30\nDana Kıyma (kg) 8 302,87 %10 2.422,96\nAra Toplam: 8.410,38\nKDV Toplam: 1.208,25\nGenel Toplam: 9.618,63\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

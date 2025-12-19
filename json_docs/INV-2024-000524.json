@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000524",
+  "source_pdf": "0524_FATURA_INV-2024-000524.pdf",
+  "date": "2024-03-10",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 51.28,
+      "vat_rate": 0.1,
+      "net_total": 1025.6
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 39.22,
+      "vat_rate": 0.01,
+      "net_total": 196.1
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 74.18,
+      "vat_rate": 0.1,
+      "net_total": 74.18
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 152.74,
+      "vat_rate": 0.2,
+      "net_total": 152.74
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 629.93,
+      "vat_rate": 0.1,
+      "net_total": 5039.44
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 41.78,
+      "vat_rate": 0.01,
+      "net_total": 125.34
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 54.07,
+      "vat_rate": 0.2,
+      "net_total": 432.56
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 117.92,
+      "vat_rate": 0.01,
+      "net_total": 471.68
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 195.04,
+      "vat_rate": 0.1,
+      "net_total": 1950.4
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 36.39,
+      "vat_rate": 0.1,
+      "net_total": 545.85
+    }
+  ],
+  "subtotal": 10013.89,
+  "vat_total": 988.54,
+  "grand_total": 11002.43,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000524 | Tarih: 10.03.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 20 51,28 %10 1.025,60\nSüt (1 L) 5 39,22 %1 196,10\nŞeker (1 kg) 1 74,18 %10 74,18\nKahve Çekirdeği (250 g) 1 152,74 %20 152,74\nSomon Fileto (kg) 8 629,93 %10 5.039,44\nSüt (1 L) 3 41,78 %1 125,34\nÇikolata (80 g) 8 54,07 %20 432,56\nKuru Fasulye (1 kg) 4 117,92 %1 471,68\nTavuk Göğüs (kg) 10 195,04 %10 1.950,40\nŞeker (1 kg) 15 36,39 %10 545,85\nAra Toplam: 10.013,89\nKDV Toplam: 988,54\nGenel Toplam: 11.002,43\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

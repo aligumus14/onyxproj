@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000543",
+  "source_pdf": "0543_FATURA_INV-2025-000543.pdf",
+  "date": "2025-02-13",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 19.79,
+      "vat_rate": 0.1,
+      "net_total": 395.8
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 384.55,
+      "vat_rate": 0.1,
+      "net_total": 384.55
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 53.64,
+      "vat_rate": 0.1,
+      "net_total": 160.92
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 52.82,
+      "vat_rate": 0.01,
+      "net_total": 316.92
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 33.25,
+      "vat_rate": 0.01,
+      "net_total": 166.25
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 8,
+      "unit_price": 33.89,
+      "vat_rate": 0.1,
+      "net_total": 271.12
+    }
+  ],
+  "subtotal": 1695.56,
+  "vat_total": 126.07,
+  "grand_total": 1821.63,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000543 | Tarih: 13.02.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Beşiktaş/Antalya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 20 19,79 %10 395,80\nDana Kıyma (kg) 1 384,55 %10 384,55\nŞeker (1 kg) 3 53,64 %10 160,92\nDomates (kg) 6 52,82 %1 316,92\nElma (kg) 5 33,25 %1 166,25\nMakarna (500 g) 8 33,89 %10 271,12\nAra Toplam: 1.695,56\nKDV Toplam: 126,07\nGenel Toplam: 1.821,63\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

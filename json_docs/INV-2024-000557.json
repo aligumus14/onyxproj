@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000557",
+  "source_pdf": "0557_FATURA_INV-2024-000557.pdf",
+  "date": "2024-09-27",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 42.7,
+      "vat_rate": 0.01,
+      "net_total": 170.8
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 193.03,
+      "vat_rate": 0.1,
+      "net_total": 2316.36
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 91.44,
+      "vat_rate": 0.01,
+      "net_total": 1097.28
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 61.25,
+      "vat_rate": 0.2,
+      "net_total": 306.25
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 208.49,
+      "vat_rate": 0.1,
+      "net_total": 416.98
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 42.81,
+      "vat_rate": 0.01,
+      "net_total": 214.05
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 64.61,
+      "vat_rate": 0.1,
+      "net_total": 129.22
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 59.58,
+      "vat_rate": 0.01,
+      "net_total": 59.58
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 25.14,
+      "vat_rate": 0.01,
+      "net_total": 377.1
+    }
+  ],
+  "subtotal": 5087.62,
+  "vat_total": 366.7,
+  "grand_total": 5454.32,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000557 | Tarih: 27.09.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Şehitkamil/İzmir\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 4 42,70 %1 170,80\nTavuk Göğüs (kg) 12 193,03 %10 2.316,36\nMuz (kg) 12 91,44 %1 1.097,28\nGazlı İçecek (1 L) 5 61,25 %20 306,25\nTavuk Göğüs (kg) 2 208,49 %10 416,98\nSalatalık (kg) 5 42,81 %1 214,05\nŞeker (1 kg) 2 64,61 %10 129,22\nYoğurt (1 kg) 1 59,58 %1 59,58\nElma (kg) 15 25,14 %1 377,10\nAra Toplam: 5.087,62\nKDV Toplam: 366,70\nGenel Toplam: 5.454,32\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

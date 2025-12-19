@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000450",
+  "source_pdf": "0450_FATURA_INV-2025-000450.pdf",
+  "date": "2025-03-29",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 143.59,
+      "vat_rate": 0.1,
+      "net_total": 1723.08
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 29.63,
+      "vat_rate": 0.2,
+      "net_total": 296.3
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 133.13,
+      "vat_rate": 0.1,
+      "net_total": 1996.95
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 55.17,
+      "vat_rate": 0.01,
+      "net_total": 331.02
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 264.9,
+      "vat_rate": 0.2,
+      "net_total": 794.7
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 146.54,
+      "vat_rate": 0.01,
+      "net_total": 879.24
+    }
+  ],
+  "subtotal": 6021.29,
+  "vat_total": 602.31,
+  "grand_total": 6623.6,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000450 | Tarih: 29.03.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Beşiktaş/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 12 143,59 %10 1.723,08\nÇikolata (80 g) 10 29,63 %20 296,30\nTavuk Göğüs (kg) 15 133,13 %10 1.996,95\nPirinç (1 kg) 6 55,17 %1 331,02\nKahve Çekirdeği (250 g) 3 264,90 %20 794,70\nKuru Fasulye (1 kg) 6 146,54 %1 879,24\nAra Toplam: 6.021,29\nKDV Toplam: 602,31\nGenel Toplam: 6.623,60\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

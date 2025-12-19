@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000194",
+  "source_pdf": "0194_FATURA_INV-2025-000194.pdf",
+  "date": "2025-10-23",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 174.99,
+      "vat_rate": 0.2,
+      "net_total": 1399.92
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 35.88,
+      "vat_rate": 0.01,
+      "net_total": 107.64
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 79.02,
+      "vat_rate": 0.1,
+      "net_total": 790.2
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 497.72,
+      "vat_rate": 0.1,
+      "net_total": 9954.4
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 77.3,
+      "vat_rate": 0.01,
+      "net_total": 154.6
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 137.18,
+      "vat_rate": 0.1,
+      "net_total": 2743.6
+    }
+  ],
+  "subtotal": 15150.36,
+  "vat_total": 1631.43,
+  "grand_total": 16781.79,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000194 | Tarih: 23.10.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Şehitkamil/İzmir\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 8 174,99 %20 1.399,92\nDomates (kg) 3 35,88 %1 107,64\nAyçiçek Yağı (1 L) 10 79,02 %10 790,20\nDana Kıyma (kg) 20 497,72 %10 9.954,40\nKuru Fasulye (1 kg) 2 77,30 %1 154,60\nUn (5 kg) 20 137,18 %10 2.743,60\nAra Toplam: 15.150,36\nKDV Toplam: 1.631,43\nGenel Toplam: 16.781,79\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000549",
+  "source_pdf": "0549_FATURA_INV-2025-000549.pdf",
+  "date": "2025-05-28",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 288.92,
+      "vat_rate": 0.2,
+      "net_total": 3467.04
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 146.97,
+      "vat_rate": 0.1,
+      "net_total": 1175.76
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 44.03,
+      "vat_rate": 0.01,
+      "net_total": 440.3
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 14.35,
+      "vat_rate": 0.2,
+      "net_total": 172.2
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 126.98,
+      "vat_rate": 0.1,
+      "net_total": 126.98
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 40.63,
+      "vat_rate": 0.01,
+      "net_total": 325.04
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 85.63,
+      "vat_rate": 0.01,
+      "net_total": 856.3
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 76.13,
+      "vat_rate": 0.1,
+      "net_total": 761.3
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 23.85,
+      "vat_rate": 0.2,
+      "net_total": 95.4
+    }
+  ],
+  "subtotal": 7420.32,
+  "vat_total": 969.55,
+  "grand_total": 8389.87,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000549 | Tarih: 28.05.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Selçuklu/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 12 288,92 %20 3.467,04\nAyçiçek Yağı (1 L) 8 146,97 %10 1.175,76\nSalatalık (kg) 10 44,03 %1 440,30\nMaden Suyu (200 ml) 12 14,35 %20 172,20\nUn (5 kg) 1 126,98 %10 126,98\nDomates (kg) 8 40,63 %1 325,04\nMuz (kg) 10 85,63 %1 856,30\nŞeker (1 kg) 10 76,13 %10 761,30\nMaden Suyu (200 ml) 4 23,85 %20 95,40\nAra Toplam: 7.420,32\nKDV Toplam: 969,55\nGenel Toplam: 8.389,87\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

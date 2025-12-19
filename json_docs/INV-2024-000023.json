@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000023",
+  "source_pdf": "0023_FATURA_INV-2024-000023.pdf",
+  "date": "2024-11-04",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 652.38,
+      "vat_rate": 0.1,
+      "net_total": 1304.76
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 483.9,
+      "vat_rate": 0.1,
+      "net_total": 483.9
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 29.71,
+      "vat_rate": 0.1,
+      "net_total": 59.42
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 806.63,
+      "vat_rate": 0.1,
+      "net_total": 16132.6
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 146.61,
+      "vat_rate": 0.1,
+      "net_total": 439.83
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 37.15,
+      "vat_rate": 0.2,
+      "net_total": 743.0
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 43.59,
+      "vat_rate": 0.2,
+      "net_total": 435.9
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 14.83,
+      "vat_rate": 0.2,
+      "net_total": 74.15
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 34.76,
+      "vat_rate": 0.01,
+      "net_total": 69.52
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 187.56,
+      "vat_rate": 0.1,
+      "net_total": 750.24
+    }
+  ],
+  "subtotal": 20493.32,
+  "vat_total": 2168.38,
+  "grand_total": 22661.7,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000023 | Tarih: 04.11.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Selçuklu/Adana\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 2 652,38 %10 1.304,76\nDana Kıyma (kg) 1 483,90 %10 483,90\nMakarna (500 g) 2 29,71 %10 59,42\nSomon Fileto (kg) 20 806,63 %10 16.132,60\nUn (5 kg) 3 146,61 %10 439,83\nÇikolata (80 g) 20 37,15 %20 743,00\nGazlı İçecek (1 L) 10 43,59 %20 435,90\nMaden Suyu (200 ml) 5 14,83 %20 74,15\nSüt (1 L) 2 34,76 %1 69,52\nUn (5 kg) 4 187,56 %10 750,24\nAra Toplam: 20.493,32\nKDV Toplam: 2.168,38\nGenel Toplam: 22.661,70\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

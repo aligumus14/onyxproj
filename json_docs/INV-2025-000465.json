@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000465",
+  "source_pdf": "0465_FATURA_INV-2025-000465.pdf",
+  "date": "2025-05-14",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 706.92,
+      "vat_rate": 0.1,
+      "net_total": 5655.36
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 28.78,
+      "vat_rate": 0.2,
+      "net_total": 86.34
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 2,
+      "unit_price": 105.64,
+      "vat_rate": 0.1,
+      "net_total": 211.28
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 206.06,
+      "vat_rate": 0.1,
+      "net_total": 618.18
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 157.98,
+      "vat_rate": 0.1,
+      "net_total": 1579.8
+    }
+  ],
+  "subtotal": 8150.96,
+  "vat_total": 823.74,
+  "grand_total": 8974.7,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000465 | Tarih: 14.05.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 8 706,92 %10 5.655,36\nGazlı İçecek (1 L) 3 28,78 %20 86,34\nUn (5 kg) 2 105,64 %10 211,28\nTavuk Göğüs (kg) 3 206,06 %10 618,18\nTavuk Göğüs (kg) 10 157,98 %10 1.579,80\nAra Toplam: 8.150,96\nKDV Toplam: 823,74\nGenel Toplam: 8.974,70\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

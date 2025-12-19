@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000032",
+  "source_pdf": "0032_FATURA_INV-2024-000032.pdf",
+  "date": "2024-10-06",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 276.72,
+      "vat_rate": 0.2,
+      "net_total": 1106.88
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 63.88,
+      "vat_rate": 0.2,
+      "net_total": 191.64
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 73.79,
+      "vat_rate": 0.01,
+      "net_total": 590.32
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 61.92,
+      "vat_rate": 0.2,
+      "net_total": 309.6
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 202.12,
+      "vat_rate": 0.1,
+      "net_total": 1010.6
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 17.34,
+      "vat_rate": 0.2,
+      "net_total": 346.8
+    }
+  ],
+  "subtotal": 3555.84,
+  "vat_total": 497.95,
+  "grand_total": 4053.79,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000032 | Tarih: 06.10.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Seyhan/Bursa\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 4 276,72 %20 1.106,88\nÇikolata (80 g) 3 63,88 %20 191,64\nYoğurt (1 kg) 8 73,79 %1 590,32\nÇikolata (80 g) 5 61,92 %20 309,60\nTavuk Göğüs (kg) 5 202,12 %10 1.010,60\nMaden Suyu (200 ml) 20 17,34 %20 346,80\nAra Toplam: 3.555,84\nKDV Toplam: 497,95\nGenel Toplam: 4.053,79\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

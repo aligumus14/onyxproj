@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000286",
+  "source_pdf": "0286_FATURA_INV-2024-000286.pdf",
+  "date": "2024-05-16",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 55.5,
+      "vat_rate": 0.2,
+      "net_total": 555.0
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 56.49,
+      "vat_rate": 0.2,
+      "net_total": 112.98
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 41.7,
+      "vat_rate": 0.01,
+      "net_total": 500.4
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 106.04,
+      "vat_rate": 0.1,
+      "net_total": 2120.8
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 180.85,
+      "vat_rate": 0.2,
+      "net_total": 2712.75
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 79.98,
+      "vat_rate": 0.01,
+      "net_total": 79.98
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 627.83,
+      "vat_rate": 0.1,
+      "net_total": 2511.32
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 51.54,
+      "vat_rate": 0.01,
+      "net_total": 51.54
+    }
+  ],
+  "subtotal": 8644.77,
+  "vat_total": 1145.68,
+  "grand_total": 9790.45,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000286 | Tarih: 16.05.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Kadıköy/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 10 55,50 %20 555,00\nGazlı İçecek (1 L) 2 56,49 %20 112,98\nMuz (kg) 12 41,70 %1 500,40\nUn (5 kg) 20 106,04 %10 2.120,80\nKahve Çekirdeği (250 g) 15 180,85 %20 2.712,75\nKuru Fasulye (1 kg) 1 79,98 %1 79,98\nSomon Fileto (kg) 4 627,83 %10 2.511,32\nSüt (1 L) 1 51,54 %1 51,54\nAra Toplam: 8.644,77\nKDV Toplam: 1.145,68\nGenel Toplam: 9.790,45\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

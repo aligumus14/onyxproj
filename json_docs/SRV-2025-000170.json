@@ -1,0 +1,46 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000170",
+  "source_pdf": "0770_SERVIS_SRV-2025-000170.pdf",
+  "date": "2025-10-19",
+  "status": "Parça Bekleniyor",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Çankaya/Gaziantep",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-52072",
+  "technician": "Deniz Arı",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 888.3,
+      "unit_price": 4.0,
+      "total": 1332.51
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 453.94,
+      "total": 453.94
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1312.16,
+      "total": 1312.16
+    }
+  ],
+  "subtotal": 3098.61,
+  "vat_rate": 0.2,
+  "vat_amount": 619.72,
+  "grand_total": 3718.33,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000170 | Tarih: 19.10.2025 | Durum: Parça Bekleniyor\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Çankaya/Gaziantep | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-52072\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 888,34 1.332,51\nKayış 1 453,94 453,94\nSensör 1 1.312,16 1.312,16\nAra Toplam: 3.098,61\nKDV (%20): 619,72\nGenel Toplam: 3.718,33\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

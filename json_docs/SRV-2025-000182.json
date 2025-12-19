@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000182",
+  "source_pdf": "0782_SERVIS_SRV-2025-000182.pdf",
+  "date": "2025-04-30",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Düşük (72 saat)",
+  "location": "Şişli/Antalya",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-41896",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 967.5,
+      "unit_price": 6.0,
+      "total": 967.56
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1597.82,
+      "total": 1597.82
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 403.4,
+      "total": 403.4
+    }
+  ],
+  "subtotal": 2968.78,
+  "vat_rate": 0.2,
+  "vat_amount": 593.76,
+  "grand_total": 3562.54,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000182 | Tarih: 30.04.2025 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Düşük (72 saat)\nLokasyon: Şişli/Antalya | Şube/DM: TR-IZM-DC03 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-41896\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 967,56 967,56\nTermostat 1 1.597,82 1.597,82\nRulman Seti 1 403,40 403,40\nAra Toplam: 2.968,78\nKDV (%20): 593,76\nGenel Toplam: 3.562,54\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

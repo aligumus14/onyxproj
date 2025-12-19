@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000187",
+  "source_pdf": "0787_SERVIS_SRV-2024-000187.pdf",
+  "date": "2024-09-28",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Nilüfer/İstanbul",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-A",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-97723",
+  "technician": "Emre Taş",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 456.2,
+      "unit_price": 0.0,
+      "total": 684.3
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 2.0,
+      "unit_price": 1509.0,
+      "total": 3018.0
+    }
+  ],
+  "subtotal": 3702.3,
+  "vat_rate": 0.2,
+  "vat_amount": 740.46,
+  "grand_total": 4442.76,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000187 | Tarih: 28.09.2024 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Nilüfer/İstanbul | Şube/DM: TR-IST-DC01 | Depo: Depo-A\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-97723\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 456,20 684,30\nHidrolik Hortum 2 1.509,00 3.018,00\nAra Toplam: 3.702,30\nKDV (%20): 740,46\nGenel Toplam: 4.442,76\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

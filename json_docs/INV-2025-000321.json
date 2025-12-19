@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000321",
+  "source_pdf": "0321_FATURA_INV-2025-000321.pdf",
+  "date": "2025-11-26",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 108.81,
+      "vat_rate": 0.1,
+      "net_total": 652.86
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 164.98,
+      "vat_rate": 0.1,
+      "net_total": 659.92
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 168.19,
+      "vat_rate": 0.1,
+      "net_total": 504.57
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 100.19,
+      "vat_rate": 0.01,
+      "net_total": 2003.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 26.64,
+      "vat_rate": 0.01,
+      "net_total": 399.6
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 2,
+      "unit_price": 37.31,
+      "vat_rate": 0.2,
+      "net_total": 74.62
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 10,
+      "unit_price": 19.47,
+      "vat_rate": 0.2,
+      "net_total": 194.7
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 99.15,
+      "vat_rate": 0.1,
+      "net_total": 991.5
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 286.79,
+      "vat_rate": 0.2,
+      "net_total": 286.79
+    }
+  ],
+  "subtotal": 5768.36,
+  "vat_total": 416.15,
+  "grand_total": 6184.51,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000321 | Tarih: 26.11.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/Ankara\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 6 108,81 %10 652,86\nTavuk Göğüs (kg) 4 164,98 %10 659,92\nUn (5 kg) 3 168,19 %10 504,57\nPirinç (1 kg) 20 100,19 %1 2.003,80\nSalatalık (kg) 15 26,64 %1 399,60\nÇikolata (80 g) 2 37,31 %20 74,62\nMaden Suyu (200 ml) 10 19,47 %20 194,70\nAyçiçek Yağı (1 L) 10 99,15 %10 991,50\nKahve Çekirdeği (250 g) 1 286,79 %20 286,79\nAra Toplam: 5.768,36\nKDV Toplam: 416,15\nGenel Toplam: 6.184,51\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

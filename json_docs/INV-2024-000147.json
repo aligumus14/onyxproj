@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000147",
+  "source_pdf": "0147_FATURA_INV-2024-000147.pdf",
+  "date": "2024-12-05",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 43.41,
+      "vat_rate": 0.01,
+      "net_total": 86.82
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 207.58,
+      "vat_rate": 0.1,
+      "net_total": 830.32
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 48.89,
+      "vat_rate": 0.01,
+      "net_total": 48.89
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 499.82,
+      "vat_rate": 0.1,
+      "net_total": 3998.56
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 33.98,
+      "vat_rate": 0.01,
+      "net_total": 271.84
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 210.25,
+      "vat_rate": 0.1,
+      "net_total": 210.25
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 771.13,
+      "vat_rate": 0.1,
+      "net_total": 9253.56
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 95.7,
+      "vat_rate": 0.1,
+      "net_total": 957.0
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 121.39,
+      "vat_rate": 0.1,
+      "net_total": 728.34
+    }
+  ],
+  "subtotal": 16385.58,
+  "vat_total": 1601.89,
+  "grand_total": 17987.47,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000147 | Tarih: 05.12.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Selçuklu/Samsun\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 2 43,41 %1 86,82\nUn (5 kg) 4 207,58 %10 830,32\nSüt (1 L) 1 48,89 %1 48,89\nDana Kıyma (kg) 8 499,82 %10 3.998,56\nElma (kg) 8 33,98 %1 271,84\nTavuk Göğüs (kg) 1 210,25 %10 210,25\nSomon Fileto (kg) 12 771,13 %10 9.253,56\nUn (5 kg) 10 95,70 %10 957,00\nAyçiçek Yağı (1 L) 6 121,39 %10 728,34\nAra Toplam: 16.385,58\nKDV Toplam: 1.601,89\nGenel Toplam: 17.987,47\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

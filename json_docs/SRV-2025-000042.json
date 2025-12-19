@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000042",
+  "source_pdf": "0642_SERVIS_SRV-2025-000042.pdf",
+  "date": "2025-02-20",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Yüksek (8 saat)",
+  "location": "Selçuklu/Antalya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-B",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-75867",
+  "technician": "Deniz Arı",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 849.5,
+      "unit_price": 3.0,
+      "total": 2123.82
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1632.47,
+      "total": 1632.47
+    }
+  ],
+  "subtotal": 3756.29,
+  "vat_rate": 0.2,
+  "vat_amount": 751.26,
+  "grand_total": 4507.55,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000042 | Tarih: 20.02.2025 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Yüksek (8 saat)\nLokasyon: Selçuklu/Antalya | Şube/DM: TR-ANT-DC05 | Depo: Depo-B\nMakine: Forklift - Linde H35D | Seri No: FLT-75867\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 849,53 2.123,82\nTermostat 1 1.632,47 1.632,47\nAra Toplam: 3.756,29\nKDV (%20): 751,26\nGenel Toplam: 4.507,55\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

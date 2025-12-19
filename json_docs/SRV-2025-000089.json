@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000089",
+  "source_pdf": "0689_SERVIS_SRV-2025-000089.pdf",
+  "date": "2025-07-07",
+  "status": "Parça Bekleniyor",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Muratpaşa/Gaziantep",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-11827",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 744.4,
+      "unit_price": 4.0,
+      "total": 1861.1
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 609.75,
+      "total": 609.75
+    }
+  ],
+  "subtotal": 2470.85,
+  "vat_rate": 0.2,
+  "vat_amount": 494.17,
+  "grand_total": 2965.02,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000089 | Tarih: 07.07.2025 | Durum: Parça Bekleniyor\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Muratpaşa/Gaziantep | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-11827\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 744,44 1.861,10\nKayış 1 609,75 609,75\nAra Toplam: 2.470,85\nKDV (%20): 494,17\nGenel Toplam: 2.965,02\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

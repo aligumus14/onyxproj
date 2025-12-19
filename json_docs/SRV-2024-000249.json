@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000249",
+  "source_pdf": "0849_SERVIS_SRV-2024-000249.pdf",
+  "date": "2024-04-05",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Yüksek (8 saat)",
+  "location": "Çankaya/Samsun",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-22817",
+  "technician": "Emre Taş",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 507.0,
+      "unit_price": 1.0,
+      "total": 1267.53
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 317.57,
+      "total": 635.14
+    }
+  ],
+  "subtotal": 1902.67,
+  "vat_rate": 0.2,
+  "vat_amount": 380.53,
+  "grand_total": 2283.2,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000249 | Tarih: 05.04.2024 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Yüksek (8 saat)\nLokasyon: Çankaya/Samsun | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-22817\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 507,01 1.267,53\nFiltre 2 317,57 635,14\nAra Toplam: 1.902,67\nKDV (%20): 380,53\nGenel Toplam: 2.283,20\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

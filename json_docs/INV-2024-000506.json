@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000506",
+  "source_pdf": "0506_FATURA_INV-2024-000506.pdf",
+  "date": "2024-07-18",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 29.13,
+      "vat_rate": 0.01,
+      "net_total": 145.65
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 46.64,
+      "vat_rate": 0.01,
+      "net_total": 233.2
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 51.59,
+      "vat_rate": 0.1,
+      "net_total": 103.18
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 85.68,
+      "vat_rate": 0.01,
+      "net_total": 856.8
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 48.75,
+      "vat_rate": 0.2,
+      "net_total": 146.25
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 504.86,
+      "vat_rate": 0.1,
+      "net_total": 1009.72
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 115.71,
+      "vat_rate": 0.1,
+      "net_total": 578.55
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 111.18,
+      "vat_rate": 0.1,
+      "net_total": 555.9
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 107.15,
+      "vat_rate": 0.01,
+      "net_total": 642.9
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 55.37,
+      "vat_rate": 0.01,
+      "net_total": 55.37
+    }
+  ],
+  "subtotal": 4327.52,
+  "vat_total": 273.32,
+  "grand_total": 4600.84,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000506 | Tarih: 18.07.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/Bursa\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 5 29,13 %1 145,65\nPirinç (1 kg) 5 46,64 %1 233,20\nŞeker (1 kg) 2 51,59 %10 103,18\nPirinç (1 kg) 10 85,68 %1 856,80\nGazlı İçecek (1 L) 3 48,75 %20 146,25\nDana Kıyma (kg) 2 504,86 %10 1.009,72\nUn (5 kg) 5 115,71 %10 578,55\nUn (5 kg) 5 111,18 %10 555,90\nPirinç (1 kg) 6 107,15 %1 642,90\nElma (kg) 1 55,37 %1 55,37\nAra Toplam: 4.327,52\nKDV Toplam: 273,32\nGenel Toplam: 4.600,84\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

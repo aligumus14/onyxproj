@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000362",
+  "source_pdf": "0362_FATURA_INV-2025-000362.pdf",
+  "date": "2025-04-10",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 208.04,
+      "vat_rate": 0.1,
+      "net_total": 1664.32
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 279.73,
+      "vat_rate": 0.2,
+      "net_total": 279.73
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 34.93,
+      "vat_rate": 0.01,
+      "net_total": 419.16
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 108.69,
+      "vat_rate": 0.01,
+      "net_total": 543.45
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 45.87,
+      "vat_rate": 0.1,
+      "net_total": 917.4
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 35.7,
+      "vat_rate": 0.1,
+      "net_total": 35.7
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 99.65,
+      "vat_rate": 0.01,
+      "net_total": 597.9
+    }
+  ],
+  "subtotal": 4457.66,
+  "vat_total": 333.29,
+  "grand_total": 4790.95,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000362 | Tarih: 10.04.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Seyhan/Bursa\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 8 208,04 %10 1.664,32\nKahve Çekirdeği (250 g) 1 279,73 %20 279,73\nSüt (1 L) 12 34,93 %1 419,16\nYoğurt (1 kg) 5 108,69 %1 543,45\nŞeker (1 kg) 20 45,87 %10 917,40\nŞeker (1 kg) 1 35,70 %10 35,70\nPirinç (1 kg) 6 99,65 %1 597,90\nAra Toplam: 4.457,66\nKDV Toplam: 333,29\nGenel Toplam: 4.790,95\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

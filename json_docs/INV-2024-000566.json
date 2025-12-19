@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000566",
+  "source_pdf": "0566_FATURA_INV-2024-000566.pdf",
+  "date": "2024-08-14",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 11.8,
+      "vat_rate": 0.2,
+      "net_total": 94.4
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 91.2,
+      "vat_rate": 0.01,
+      "net_total": 1824.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 102.15,
+      "vat_rate": 0.1,
+      "net_total": 408.6
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 29.16,
+      "vat_rate": 0.01,
+      "net_total": 437.4
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 87.58,
+      "vat_rate": 0.01,
+      "net_total": 1313.7
+    }
+  ],
+  "subtotal": 4078.1,
+  "vat_total": 95.49,
+  "grand_total": 4173.59,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000566 | Tarih: 14.08.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Kadıköy/Ankara\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 8 11,80 %20 94,40\nYoğurt (1 kg) 20 91,20 %1 1.824,00\nUn (5 kg) 4 102,15 %10 408,60\nSüt (1 L) 15 29,16 %1 437,40\nYoğurt (1 kg) 15 87,58 %1 1.313,70\nAra Toplam: 4.078,10\nKDV Toplam: 95,49\nGenel Toplam: 4.173,59\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

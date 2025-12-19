@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000198",
+  "source_pdf": "0198_FATURA_INV-2024-000198.pdf",
+  "date": "2024-11-26",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 21.29,
+      "vat_rate": 0.1,
+      "net_total": 63.87
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 86.89,
+      "vat_rate": 0.01,
+      "net_total": 521.34
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 56.31,
+      "vat_rate": 0.2,
+      "net_total": 225.24
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 33.43,
+      "vat_rate": 0.01,
+      "net_total": 66.86
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 2,
+      "unit_price": 46.76,
+      "vat_rate": 0.2,
+      "net_total": 93.52
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 176.97,
+      "vat_rate": 0.1,
+      "net_total": 1415.76
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 406.09,
+      "vat_rate": 0.1,
+      "net_total": 2030.45
+    }
+  ],
+  "subtotal": 4417.04,
+  "vat_total": 420.65,
+  "grand_total": 4837.69,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000198 | Tarih: 26.11.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Kocaeli\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 3 21,29 %10 63,87\nYoğurt (1 kg) 6 86,89 %1 521,34\nÇikolata (80 g) 4 56,31 %20 225,24\nSalatalık (kg) 2 33,43 %1 66,86\nÇikolata (80 g) 2 46,76 %20 93,52\nTavuk Göğüs (kg) 8 176,97 %10 1.415,76\nDana Kıyma (kg) 5 406,09 %10 2.030,45\nAra Toplam: 4.417,04\nKDV Toplam: 420,65\nGenel Toplam: 4.837,69\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000272",
+  "source_pdf": "0272_FATURA_INV-2024-000272.pdf",
+  "date": "2024-04-23",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 79.44,
+      "vat_rate": 0.01,
+      "net_total": 1588.8
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 85.7,
+      "vat_rate": 0.1,
+      "net_total": 514.2
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 193.82,
+      "vat_rate": 0.1,
+      "net_total": 1938.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 22.17,
+      "vat_rate": 0.1,
+      "net_total": 44.34
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 777.66,
+      "vat_rate": 0.1,
+      "net_total": 4665.96
+    }
+  ],
+  "subtotal": 8751.5,
+  "vat_total": 732.16,
+  "grand_total": 9483.66,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000272 | Tarih: 23.04.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Kadıköy/Gaziantep\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 20 79,44 %1 1.588,80\nAyçiçek Yağı (1 L) 6 85,70 %10 514,20\nTavuk Göğüs (kg) 10 193,82 %10 1.938,20\nMakarna (500 g) 2 22,17 %10 44,34\nSomon Fileto (kg) 6 777,66 %10 4.665,96\nAra Toplam: 8.751,50\nKDV Toplam: 732,16\nGenel Toplam: 9.483,66\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

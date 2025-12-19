@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000306",
+  "source_pdf": "0306_FATURA_INV-2024-000306.pdf",
+  "date": "2024-01-12",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 32.37,
+      "vat_rate": 0.01,
+      "net_total": 647.4
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 198.75,
+      "vat_rate": 0.1,
+      "net_total": 198.75
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 54.81,
+      "vat_rate": 0.2,
+      "net_total": 1096.2
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 49.16,
+      "vat_rate": 0.01,
+      "net_total": 393.28
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 167.77,
+      "vat_rate": 0.1,
+      "net_total": 167.77
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 38.71,
+      "vat_rate": 0.01,
+      "net_total": 309.68
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 56.81,
+      "vat_rate": 0.01,
+      "net_total": 340.86
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 71.6,
+      "vat_rate": 0.1,
+      "net_total": 143.2
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 31.8,
+      "vat_rate": 0.01,
+      "net_total": 31.8
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 136.89,
+      "vat_rate": 0.1,
+      "net_total": 2737.8
+    }
+  ],
+  "subtotal": 6066.74,
+  "vat_total": 561.23,
+  "grand_total": 6627.97,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000306 | Tarih: 12.01.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Şişli/Adana\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 20 32,37 %1 647,40\nUn (5 kg) 1 198,75 %10 198,75\nÇikolata (80 g) 20 54,81 %20 1.096,20\nElma (kg) 8 49,16 %1 393,28\nUn (5 kg) 1 167,77 %10 167,77\nSalatalık (kg) 8 38,71 %1 309,68\nSüt (1 L) 6 56,81 %1 340,86\nAyçiçek Yağı (1 L) 2 71,60 %10 143,20\nDomates (kg) 1 31,80 %1 31,80\nAyçiçek Yağı (1 L) 20 136,89 %10 2.737,80\nAra Toplam: 6.066,74\nKDV Toplam: 561,23\nGenel Toplam: 6.627,97\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

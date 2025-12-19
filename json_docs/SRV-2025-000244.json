@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000244",
+  "source_pdf": "0844_SERVIS_SRV-2025-000244.pdf",
+  "date": "2025-04-08",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Düşük (72 saat)",
+  "location": "Selçuklu/İstanbul",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-1",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-10365",
+  "technician": "Selin Uçar",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 759.5,
+      "unit_price": 9.0,
+      "total": 4557.54
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 4557.54,
+  "vat_rate": 0.2,
+  "vat_amount": 911.51,
+  "grand_total": 5469.05,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000244 | Tarih: 08.04.2025 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Düşük (72 saat)\nLokasyon: Selçuklu/İstanbul | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-1\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-10365\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 759,59 4.557,54\nParça Değişimi - - 0,00\nAra Toplam: 4.557,54\nKDV (%20): 911,51\nGenel Toplam: 5.469,05\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

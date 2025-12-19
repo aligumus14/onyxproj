@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000564",
+  "source_pdf": "0564_FATURA_INV-2025-000564.pdf",
+  "date": "2025-06-25",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 395.44,
+      "vat_rate": 0.1,
+      "net_total": 395.44
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 128.61,
+      "vat_rate": 0.01,
+      "net_total": 257.22
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 66.32,
+      "vat_rate": 0.1,
+      "net_total": 331.6
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 63.96,
+      "vat_rate": 0.01,
+      "net_total": 959.4
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 263.12,
+      "vat_rate": 0.2,
+      "net_total": 5262.4
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 15.35,
+      "vat_rate": 0.2,
+      "net_total": 230.25
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 226.19,
+      "vat_rate": 0.2,
+      "net_total": 2261.9
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 26.6,
+      "vat_rate": 0.01,
+      "net_total": 159.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 393.13,
+      "vat_rate": 0.1,
+      "net_total": 2358.78
+    }
+  ],
+  "subtotal": 12216.59,
+  "vat_total": 1873.25,
+  "grand_total": 14089.84,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000564 | Tarih: 25.06.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Selçuklu/Adana\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 1 395,44 %10 395,44\nKuru Fasulye (1 kg) 2 128,61 %1 257,22\nŞeker (1 kg) 5 66,32 %10 331,60\nYoğurt (1 kg) 15 63,96 %1 959,40\nKahve Çekirdeği (250 g) 20 263,12 %20 5.262,40\nMaden Suyu (200 ml) 15 15,35 %20 230,25\nKahve Çekirdeği (250 g) 10 226,19 %20 2.261,90\nSüt (1 L) 6 26,60 %1 159,60\nDana Kıyma (kg) 6 393,13 %10 2.358,78\nAra Toplam: 12.216,59\nKDV Toplam: 1.873,25\nGenel Toplam: 14.089,84\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

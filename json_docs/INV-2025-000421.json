@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000421",
+  "source_pdf": "0421_FATURA_INV-2025-000421.pdf",
+  "date": "2025-01-27",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 54.62,
+      "vat_rate": 0.01,
+      "net_total": 218.48
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 48.06,
+      "vat_rate": 0.01,
+      "net_total": 720.9
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 139.97,
+      "vat_rate": 0.01,
+      "net_total": 1399.7
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 495.03,
+      "vat_rate": 0.1,
+      "net_total": 990.06
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 31.82,
+      "vat_rate": 0.01,
+      "net_total": 95.46
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 176.43,
+      "vat_rate": 0.1,
+      "net_total": 1411.44
+    }
+  ],
+  "subtotal": 4836.04,
+  "vat_total": 264.49,
+  "grand_total": 5100.53,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000421 | Tarih: 27.01.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Seyhan/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 4 54,62 %1 218,48\nMuz (kg) 15 48,06 %1 720,90\nKuru Fasulye (1 kg) 10 139,97 %1 1.399,70\nDana Kıyma (kg) 2 495,03 %10 990,06\nSalatalık (kg) 3 31,82 %1 95,46\nUn (5 kg) 8 176,43 %10 1.411,44\nAra Toplam: 4.836,04\nKDV Toplam: 264,49\nGenel Toplam: 5.100,53\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

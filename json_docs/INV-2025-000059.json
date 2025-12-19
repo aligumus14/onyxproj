@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000059",
+  "source_pdf": "0059_FATURA_INV-2025-000059.pdf",
+  "date": "2025-12-13",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 149.11,
+      "vat_rate": 0.1,
+      "net_total": 149.11
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 43.2,
+      "vat_rate": 0.01,
+      "net_total": 259.2
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 69.51,
+      "vat_rate": 0.2,
+      "net_total": 556.08
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 35.13,
+      "vat_rate": 0.2,
+      "net_total": 351.3
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 105.7,
+      "vat_rate": 0.1,
+      "net_total": 528.5
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 26.96,
+      "vat_rate": 0.01,
+      "net_total": 539.2
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 40.29,
+      "vat_rate": 0.01,
+      "net_total": 241.74
+    }
+  ],
+  "subtotal": 2625.13,
+  "vat_total": 259.64,
+  "grand_total": 2884.77,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000059 | Tarih: 13.12.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Seyhan/Ankara\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 1 149,11 %10 149,11\nSalatalık (kg) 6 43,20 %1 259,20\nÇikolata (80 g) 8 69,51 %20 556,08\nGazlı İçecek (1 L) 10 35,13 %20 351,30\nAyçiçek Yağı (1 L) 5 105,70 %10 528,50\nSalatalık (kg) 20 26,96 %1 539,20\nElma (kg) 6 40,29 %1 241,74\nAra Toplam: 2.625,13\nKDV Toplam: 259,64\nGenel Toplam: 2.884,77\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000044",
+  "source_pdf": "0644_SERVIS_SRV-2024-000044.pdf",
+  "date": "2024-08-26",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Yüksek (8 saat)",
+  "location": "Seyhan/Bursa",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-A",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-34455",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 867.2,
+      "unit_price": 2.0,
+      "total": 1734.44
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1734.44,
+  "vat_rate": 0.2,
+  "vat_amount": 346.89,
+  "grand_total": 2081.33,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000044 | Tarih: 26.08.2024 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Yüksek (8 saat)\nLokasyon: Seyhan/Bursa | Şube/DM: TR-BUR-DC04 | Depo: Depo-A\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-34455\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 867,22 1.734,44\nParça Değişimi - - 0,00\nAra Toplam: 1.734,44\nKDV (%20): 346,89\nGenel Toplam: 2.081,33\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

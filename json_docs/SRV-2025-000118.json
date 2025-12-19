@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000118",
+  "source_pdf": "0718_SERVIS_SRV-2025-000118.pdf",
+  "date": "2025-03-14",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Yüksek (8 saat)",
+  "location": "Kadıköy/Antalya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-A",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-59279",
+  "technician": "Deniz Arı",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 822.4,
+      "unit_price": 9.0,
+      "total": 2467.47
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 511.54,
+      "total": 1023.08
+    }
+  ],
+  "subtotal": 3490.55,
+  "vat_rate": 0.2,
+  "vat_amount": 698.11,
+  "grand_total": 4188.66,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000118 | Tarih: 14.03.2025 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Yüksek (8 saat)\nLokasyon: Kadıköy/Antalya | Şube/DM: TR-ANT-DC05 | Depo: Depo-A\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-59279\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 822,49 2.467,47\nFiltre 2 511,54 1.023,08\nAra Toplam: 3.490,55\nKDV (%20): 698,11\nGenel Toplam: 4.188,66\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

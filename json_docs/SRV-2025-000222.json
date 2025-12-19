@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000222",
+  "source_pdf": "0822_SERVIS_SRV-2025-000222.pdf",
+  "date": "2025-02-01",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Nilüfer/İzmir",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-A",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-43865",
+  "technician": "Deniz Arı",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 842.9,
+      "unit_price": 1.0,
+      "total": 5057.46
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 184.67,
+      "total": 184.67
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 1559.75,
+      "total": 1559.75
+    }
+  ],
+  "subtotal": 6801.88,
+  "vat_rate": 0.2,
+  "vat_amount": 1360.38,
+  "grand_total": 8162.26,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000222 | Tarih: 01.02.2025 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Nilüfer/İzmir | Şube/DM: TR-ANT-DC05 | Depo: Depo-A\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-43865\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 842,91 5.057,46\nFiltre 1 184,67 184,67\nHidrolik Hortum 1 1.559,75 1.559,75\nAra Toplam: 6.801,88\nKDV (%20): 1.360,38\nGenel Toplam: 8.162,26\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

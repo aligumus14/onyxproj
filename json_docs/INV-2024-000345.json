@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000345",
+  "source_pdf": "0345_FATURA_INV-2024-000345.pdf",
+  "date": "2024-10-01",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 328.56,
+      "vat_rate": 0.1,
+      "net_total": 657.12
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 42.09,
+      "vat_rate": 0.1,
+      "net_total": 631.35
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 96.54,
+      "vat_rate": 0.01,
+      "net_total": 482.7
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 48.63,
+      "vat_rate": 0.01,
+      "net_total": 194.52
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 88.05,
+      "vat_rate": 0.01,
+      "net_total": 1761.0
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 23.6,
+      "vat_rate": 0.01,
+      "net_total": 23.6
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 166.27,
+      "vat_rate": 0.1,
+      "net_total": 332.54
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 35.05,
+      "vat_rate": 0.1,
+      "net_total": 105.15
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 32.93,
+      "vat_rate": 0.01,
+      "net_total": 32.93
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 180.06,
+      "vat_rate": 0.2,
+      "net_total": 540.18
+    }
+  ],
+  "subtotal": 4761.09,
+  "vat_total": 305.62,
+  "grand_total": 5066.71,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000345 | Tarih: 01.10.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Beşiktaş/İstanbul\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 2 328,56 %10 657,12\nMakarna (500 g) 15 42,09 %10 631,35\nKuru Fasulye (1 kg) 5 96,54 %1 482,70\nPirinç (1 kg) 4 48,63 %1 194,52\nYoğurt (1 kg) 20 88,05 %1 1.761,00\nDomates (kg) 1 23,60 %1 23,60\nTavuk Göğüs (kg) 2 166,27 %10 332,54\nŞeker (1 kg) 3 35,05 %10 105,15\nSüt (1 L) 1 32,93 %1 32,93\nKahve Çekirdeği (250 g) 3 180,06 %20 540,18\nAra Toplam: 4.761,09\nKDV Toplam: 305,62\nGenel Toplam: 5.066,71\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

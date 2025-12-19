@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000584",
+  "source_pdf": "0584_FATURA_INV-2025-000584.pdf",
+  "date": "2025-10-21",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 24.54,
+      "vat_rate": 0.01,
+      "net_total": 49.08
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 56.75,
+      "vat_rate": 0.2,
+      "net_total": 56.75
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 134.54,
+      "vat_rate": 0.1,
+      "net_total": 538.16
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 55.2,
+      "vat_rate": 0.01,
+      "net_total": 552.0
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 30.46,
+      "vat_rate": 0.2,
+      "net_total": 365.52
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 24.31,
+      "vat_rate": 0.01,
+      "net_total": 97.24
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 739.54,
+      "vat_rate": 0.1,
+      "net_total": 11093.1
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 36.01,
+      "vat_rate": 0.01,
+      "net_total": 72.02
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 168.74,
+      "vat_rate": 0.1,
+      "net_total": 168.74
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 27.94,
+      "vat_rate": 0.01,
+      "net_total": 335.28
+    }
+  ],
+  "subtotal": 13327.89,
+  "vat_total": 1275.5,
+  "grand_total": 14603.39,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000584 | Tarih: 21.10.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Karşıyaka/Gaziantep\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 2 24,54 %1 49,08\nGazlı İçecek (1 L) 1 56,75 %20 56,75\nUn (5 kg) 4 134,54 %10 538,16\nSüt (1 L) 10 55,20 %1 552,00\nGazlı İçecek (1 L) 12 30,46 %20 365,52\nSalatalık (kg) 4 24,31 %1 97,24\nSomon Fileto (kg) 15 739,54 %10 11.093,10\nSalatalık (kg) 2 36,01 %1 72,02\nUn (5 kg) 1 168,74 %10 168,74\nSalatalık (kg) 12 27,94 %1 335,28\nAra Toplam: 13.327,89\nKDV Toplam: 1.275,50\nGenel Toplam: 14.603,39\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

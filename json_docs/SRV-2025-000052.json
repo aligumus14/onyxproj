@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000052",
+  "source_pdf": "0652_SERVIS_SRV-2025-000052.pdf",
+  "date": "2025-01-25",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Kritik (4 saat)",
+  "location": "Şişli/İzmir",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-17103",
+  "technician": "Selin Uçar",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 906.1,
+      "unit_price": 8.0,
+      "total": 2718.54
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 462.66,
+      "total": 462.66
+    }
+  ],
+  "subtotal": 3181.2,
+  "vat_rate": 0.2,
+  "vat_amount": 636.24,
+  "grand_total": 3817.44,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000052 | Tarih: 25.01.2025 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Kritik (4 saat)\nLokasyon: Şişli/İzmir | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-17103\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 906,18 2.718,54\nFiltre 1 462,66 462,66\nAra Toplam: 3.181,20\nKDV (%20): 636,24\nGenel Toplam: 3.817,44\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

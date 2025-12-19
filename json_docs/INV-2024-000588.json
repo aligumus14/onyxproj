@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000588",
+  "source_pdf": "0588_FATURA_INV-2024-000588.pdf",
+  "date": "2024-08-21",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 29.85,
+      "vat_rate": 0.01,
+      "net_total": 358.2
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 58.44,
+      "vat_rate": 0.2,
+      "net_total": 58.44
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 208.7,
+      "vat_rate": 0.1,
+      "net_total": 208.7
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 40.3,
+      "vat_rate": 0.1,
+      "net_total": 806.0
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 84.65,
+      "vat_rate": 0.01,
+      "net_total": 1269.75
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 411.82,
+      "vat_rate": 0.1,
+      "net_total": 411.82
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 83.38,
+      "vat_rate": 0.01,
+      "net_total": 667.04
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 720.62,
+      "vat_rate": 0.1,
+      "net_total": 8647.44
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 46.97,
+      "vat_rate": 0.1,
+      "net_total": 939.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 47.92,
+      "vat_rate": 0.2,
+      "net_total": 383.36
+    }
+  ],
+  "subtotal": 13750.15,
+  "vat_total": 1212.64,
+  "grand_total": 14962.79,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000588 | Tarih: 21.08.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Şehitkamil/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 12 29,85 %1 358,20\nGazlı İçecek (1 L) 1 58,44 %20 58,44\nTavuk Göğüs (kg) 1 208,70 %10 208,70\nŞeker (1 kg) 20 40,30 %10 806,00\nPirinç (1 kg) 15 84,65 %1 1.269,75\nDana Kıyma (kg) 1 411,82 %10 411,82\nPirinç (1 kg) 8 83,38 %1 667,04\nSomon Fileto (kg) 12 720,62 %10 8.647,44\nŞeker (1 kg) 20 46,97 %10 939,40\nGazlı İçecek (1 L) 8 47,92 %20 383,36\nAra Toplam: 13.750,15\nKDV Toplam: 1.212,64\nGenel Toplam: 14.962,79\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

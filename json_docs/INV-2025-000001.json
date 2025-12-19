@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000001",
+  "source_pdf": "0001_FATURA_INV-2025-000001.pdf",
+  "date": "2025-10-16",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 50.92,
+      "vat_rate": 0.01,
+      "net_total": 1018.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 48.62,
+      "vat_rate": 0.2,
+      "net_total": 97.24
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 20.53,
+      "vat_rate": 0.01,
+      "net_total": 20.53
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 46.07,
+      "vat_rate": 0.01,
+      "net_total": 552.84
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 53.64,
+      "vat_rate": 0.2,
+      "net_total": 214.56
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 33.82,
+      "vat_rate": 0.2,
+      "net_total": 270.56
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 22.14,
+      "vat_rate": 0.2,
+      "net_total": 110.7
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 44.43,
+      "vat_rate": 0.01,
+      "net_total": 133.29
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 317.32,
+      "vat_rate": 0.1,
+      "net_total": 1586.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 302.26,
+      "vat_rate": 0.1,
+      "net_total": 604.52
+    }
+  ],
+  "subtotal": 4609.24,
+  "vat_total": 374.97,
+  "grand_total": 4984.21,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000001 | Tarih: 16.10.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Çankaya/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 20 50,92 %1 1.018,40\nGazlı İçecek (1 L) 2 48,62 %20 97,24\nSalatalık (kg) 1 20,53 %1 20,53\nSüt (1 L) 12 46,07 %1 552,84\nGazlı İçecek (1 L) 4 53,64 %20 214,56\nGazlı İçecek (1 L) 8 33,82 %20 270,56\nMaden Suyu (200 ml) 5 22,14 %20 110,70\nDomates (kg) 3 44,43 %1 133,29\nDana Kıyma (kg) 5 317,32 %10 1.586,60\nDana Kıyma (kg) 2 302,26 %10 604,52\nAra Toplam: 4.609,24\nKDV Toplam: 374,97\nGenel Toplam: 4.984,21\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000143",
+  "source_pdf": "0743_SERVIS_SRV-2025-000143.pdf",
+  "date": "2025-01-20",
+  "status": "Onay Bekliyor",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Karşıyaka/Adana",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-1",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-35598",
+  "technician": "Emre Taş",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 670.8,
+      "unit_price": 2.0,
+      "total": 1341.64
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 375.99,
+      "total": 375.99
+    },
+    {
+      "item": "Termostat",
+      "qty": 2.0,
+      "unit_price": 1112.0,
+      "total": 2224.0
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 416.44,
+      "total": 416.44
+    }
+  ],
+  "subtotal": 4358.07,
+  "vat_rate": 0.2,
+  "vat_amount": 871.61,
+  "grand_total": 5229.68,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000143 | Tarih: 20.01.2025 | Durum: Onay Bekliyor\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Karşıyaka/Adana | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-1\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-35598\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 670,82 1.341,64\nFiltre 1 375,99 375,99\nTermostat 2 1.112,00 2.224,00\nTermostat 1 416,44 416,44\nAra Toplam: 4.358,07\nKDV (%20): 871,61\nGenel Toplam: 5.229,68\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

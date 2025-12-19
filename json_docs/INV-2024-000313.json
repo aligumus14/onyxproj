@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000313",
+  "source_pdf": "0313_FATURA_INV-2024-000313.pdf",
+  "date": "2024-07-13",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 645.82,
+      "vat_rate": 0.1,
+      "net_total": 5166.56
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 16.13,
+      "vat_rate": 0.2,
+      "net_total": 32.26
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 28.39,
+      "vat_rate": 0.01,
+      "net_total": 56.78
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 12.91,
+      "vat_rate": 0.2,
+      "net_total": 38.73
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 69.71,
+      "vat_rate": 0.1,
+      "net_total": 348.55
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 733.65,
+      "vat_rate": 0.1,
+      "net_total": 8803.8
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 710.36,
+      "vat_rate": 0.1,
+      "net_total": 710.36
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 45.91,
+      "vat_rate": 0.1,
+      "net_total": 183.64
+    }
+  ],
+  "subtotal": 15340.68,
+  "vat_total": 1536.07,
+  "grand_total": 16876.75,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000313 | Tarih: 13.07.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Muratpaşa/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 8 645,82 %10 5.166,56\nMaden Suyu (200 ml) 2 16,13 %20 32,26\nSalatalık (kg) 2 28,39 %1 56,78\nMaden Suyu (200 ml) 3 12,91 %20 38,73\nŞeker (1 kg) 5 69,71 %10 348,55\nSomon Fileto (kg) 12 733,65 %10 8.803,80\nSomon Fileto (kg) 1 710,36 %10 710,36\nŞeker (1 kg) 4 45,91 %10 183,64\nAra Toplam: 15.340,68\nKDV Toplam: 1.536,07\nGenel Toplam: 16.876,75\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

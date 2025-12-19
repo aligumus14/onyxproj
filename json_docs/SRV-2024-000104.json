@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000104",
+  "source_pdf": "0704_SERVIS_SRV-2024-000104.pdf",
+  "date": "2024-12-17",
+  "status": "Parça Bekleniyor",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Nilüfer/Antalya",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-2",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-85063",
+  "technician": "Deniz Arı",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 1061.0,
+      "unit_price": 7.0,
+      "total": 1061.07
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 1898.53,
+      "total": 1898.53
+    }
+  ],
+  "subtotal": 2959.6,
+  "vat_rate": 0.2,
+  "vat_amount": 591.92,
+  "grand_total": 3551.52,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000104 | Tarih: 17.12.2024 | Durum: Parça Bekleniyor\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Nilüfer/Antalya | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-2\nMakine: Forklift - Linde H35D | Seri No: FLT-85063\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 1.061,07 1.061,07\nHidrolik Hortum 1 1.898,53 1.898,53\nAra Toplam: 2.959,60\nKDV (%20): 591,92\nGenel Toplam: 3.551,52\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

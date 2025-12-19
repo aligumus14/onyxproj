@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000007",
+  "source_pdf": "0007_FATURA_INV-2025-000007.pdf",
+  "date": "2025-12-07",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 32.86,
+      "vat_rate": 0.01,
+      "net_total": 131.44
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 421.19,
+      "vat_rate": 0.1,
+      "net_total": 421.19
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 32.71,
+      "vat_rate": 0.01,
+      "net_total": 490.65
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 43.24,
+      "vat_rate": 0.01,
+      "net_total": 864.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 87.28,
+      "vat_rate": 0.01,
+      "net_total": 87.28
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 53.09,
+      "vat_rate": 0.01,
+      "net_total": 637.08
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 32.56,
+      "vat_rate": 0.1,
+      "net_total": 130.24
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 17.09,
+      "vat_rate": 0.2,
+      "net_total": 256.35
+    }
+  ],
+  "subtotal": 3019.03,
+  "vat_total": 128.52,
+  "grand_total": 3147.55,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000007 | Tarih: 07.12.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-C | Teslim Yeri: Seyhan/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 4 32,86 %1 131,44\nDana Kıyma (kg) 1 421,19 %10 421,19\nSüt (1 L) 15 32,71 %1 490,65\nMuz (kg) 20 43,24 %1 864,80\nMuz (kg) 1 87,28 %1 87,28\nMuz (kg) 12 53,09 %1 637,08\nMakarna (500 g) 4 32,56 %10 130,24\nMaden Suyu (200 ml) 15 17,09 %20 256,35\nAra Toplam: 3.019,03\nKDV Toplam: 128,52\nGenel Toplam: 3.147,55\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

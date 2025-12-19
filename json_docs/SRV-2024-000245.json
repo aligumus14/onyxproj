@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000245",
+  "source_pdf": "0845_SERVIS_SRV-2024-000245.pdf",
+  "date": "2024-06-24",
+  "status": "Kapatıldı",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Kadıköy/Samsun",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-B",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-58680",
+  "technician": "Emre Taş",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 659.6,
+      "unit_price": 2.0,
+      "total": 659.62
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 659.62,
+  "vat_rate": 0.2,
+  "vat_amount": 131.92,
+  "grand_total": 791.54,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000245 | Tarih: 24.06.2024 | Durum: Kapatıldı\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Kadıköy/Samsun | Şube/DM: TR-ANK-DC02 | Depo: Depo-B\nMakine: Forklift - Linde H35D | Seri No: FLT-58680\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 659,62 659,62\nParça Değişimi - - 0,00\nAra Toplam: 659,62\nKDV (%20): 131,92\nGenel Toplam: 791,54\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

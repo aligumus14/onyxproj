@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000369",
+  "source_pdf": "0369_FATURA_INV-2025-000369.pdf",
+  "date": "2025-08-04",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 29.63,
+      "vat_rate": 0.2,
+      "net_total": 118.52
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 116.24,
+      "vat_rate": 0.01,
+      "net_total": 1743.6
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 89.1,
+      "vat_rate": 0.01,
+      "net_total": 1336.5
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 69.03,
+      "vat_rate": 0.1,
+      "net_total": 1380.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 327.56,
+      "vat_rate": 0.1,
+      "net_total": 1965.36
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 31.46,
+      "vat_rate": 0.01,
+      "net_total": 314.6
+    }
+  ],
+  "subtotal": 6859.18,
+  "vat_total": 392.26,
+  "grand_total": 7251.44,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000369 | Tarih: 04.08.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Karşıyaka/Kocaeli\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 4 29,63 %20 118,52\nYoğurt (1 kg) 15 116,24 %1 1.743,60\nMuz (kg) 15 89,10 %1 1.336,50\nŞeker (1 kg) 20 69,03 %10 1.380,60\nDana Kıyma (kg) 6 327,56 %10 1.965,36\nSalatalık (kg) 10 31,46 %1 314,60\nAra Toplam: 6.859,18\nKDV Toplam: 392,26\nGenel Toplam: 7.251,44\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

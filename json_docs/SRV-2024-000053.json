@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000053",
+  "source_pdf": "0653_SERVIS_SRV-2024-000053.pdf",
+  "date": "2024-10-28",
+  "status": "Açık",
+  "priority": "Kritik",
+  "sla": "Düşük (72 saat)",
+  "location": "Seyhan/İzmir",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-1",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-50713",
+  "technician": "Emre Taş",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 500.5,
+      "unit_price": 0.0,
+      "total": 1501.5
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1501.5,
+  "vat_rate": 0.2,
+  "vat_amount": 300.3,
+  "grand_total": 1801.8,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000053 | Tarih: 28.10.2024 | Durum: Açık\nÖncelik: Kritik | SLA: Düşük (72 saat)\nLokasyon: Seyhan/İzmir | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-1\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-50713\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 500,50 1.501,50\nParça Değişimi - - 0,00\nAra Toplam: 1.501,50\nKDV (%20): 300,30\nGenel Toplam: 1.801,80\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

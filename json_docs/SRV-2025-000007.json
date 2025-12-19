@@ -1,0 +1,46 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000007",
+  "source_pdf": "0607_SERVIS_SRV-2025-000007.pdf",
+  "date": "2025-08-20",
+  "status": "Parça Bekleniyor",
+  "priority": "Orta",
+  "sla": "Orta (24 saat)",
+  "location": "Muratpaşa/Gaziantep",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-46639",
+  "technician": "Emre Taş",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 979.5,
+      "unit_price": 8.0,
+      "total": 2448.95
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 1026.69,
+      "total": 1026.69
+    },
+    {
+      "item": "Sensör",
+      "qty": 2.0,
+      "unit_price": 2429.07,
+      "total": 4858.14
+    }
+  ],
+  "subtotal": 8333.78,
+  "vat_rate": 0.2,
+  "vat_amount": 1666.76,
+  "grand_total": 10000.54,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000007 | Tarih: 20.08.2025 | Durum: Parça Bekleniyor\nÖncelik: Orta | SLA: Orta (24 saat)\nLokasyon: Muratpaşa/Gaziantep | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-46639\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 979,58 2.448,95\nRulman Seti 1 1.026,69 1.026,69\nSensör 2 2.429,07 4.858,14\nAra Toplam: 8.333,78\nKDV (%20): 1.666,76\nGenel Toplam: 10.000,54\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

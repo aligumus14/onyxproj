@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000438",
+  "source_pdf": "0438_FATURA_INV-2024-000438.pdf",
+  "date": "2024-06-04",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 232.32,
+      "vat_rate": 0.2,
+      "net_total": 232.32
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 19.47,
+      "vat_rate": 0.2,
+      "net_total": 38.94
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 28.32,
+      "vat_rate": 0.2,
+      "net_total": 169.92
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 38.68,
+      "vat_rate": 0.2,
+      "net_total": 232.08
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 441.88,
+      "vat_rate": 0.1,
+      "net_total": 4418.8
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 41.87,
+      "vat_rate": 0.01,
+      "net_total": 125.61
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 98.13,
+      "vat_rate": 0.01,
+      "net_total": 1471.95
+    }
+  ],
+  "subtotal": 6689.62,
+  "vat_total": 592.51,
+  "grand_total": 7282.13,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000438 | Tarih: 04.06.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Gaziantep\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 1 232,32 %20 232,32\nMaden Suyu (200 ml) 2 19,47 %20 38,94\nGazlı İçecek (1 L) 6 28,32 %20 169,92\nÇikolata (80 g) 6 38,68 %20 232,08\nDana Kıyma (kg) 10 441,88 %10 4.418,80\nDomates (kg) 3 41,87 %1 125,61\nKuru Fasulye (1 kg) 15 98,13 %1 1.471,95\nAra Toplam: 6.689,62\nKDV Toplam: 592,51\nGenel Toplam: 7.282,13\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

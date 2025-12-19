@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000440",
+  "source_pdf": "0440_FATURA_INV-2025-000440.pdf",
+  "date": "2025-10-10",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 127.27,
+      "vat_rate": 0.1,
+      "net_total": 1272.7
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 93.07,
+      "vat_rate": 0.01,
+      "net_total": 744.56
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 55.52,
+      "vat_rate": 0.2,
+      "net_total": 333.12
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 142.58,
+      "vat_rate": 0.01,
+      "net_total": 2851.6
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 231.03,
+      "vat_rate": 0.2,
+      "net_total": 3465.45
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 43.5,
+      "vat_rate": 0.1,
+      "net_total": 348.0
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 27.85,
+      "vat_rate": 0.01,
+      "net_total": 417.75
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 2,
+      "unit_price": 51.98,
+      "vat_rate": 0.2,
+      "net_total": 103.96
+    }
+  ],
+  "subtotal": 9537.14,
+  "vat_total": 982.72,
+  "grand_total": 10519.86,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000440 | Tarih: 10.10.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/Bursa\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 10 127,27 %10 1.272,70\nKuru Fasulye (1 kg) 8 93,07 %1 744,56\nGazlı İçecek (1 L) 6 55,52 %20 333,12\nKuru Fasulye (1 kg) 20 142,58 %1 2.851,60\nKahve Çekirdeği (250 g) 15 231,03 %20 3.465,45\nŞeker (1 kg) 8 43,50 %10 348,00\nDomates (kg) 15 27,85 %1 417,75\nÇikolata (80 g) 2 51,98 %20 103,96\nAra Toplam: 9.537,14\nKDV Toplam: 982,72\nGenel Toplam: 10.519,86\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

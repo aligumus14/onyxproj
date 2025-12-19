@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000210",
+  "source_pdf": "0210_FATURA_INV-2025-000210.pdf",
+  "date": "2025-11-17",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 29.79,
+      "vat_rate": 0.1,
+      "net_total": 595.8
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 53.92,
+      "vat_rate": 0.01,
+      "net_total": 107.84
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 75.21,
+      "vat_rate": 0.1,
+      "net_total": 752.1
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 43.09,
+      "vat_rate": 0.1,
+      "net_total": 646.35
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 49.84,
+      "vat_rate": 0.2,
+      "net_total": 398.72
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 136.19,
+      "vat_rate": 0.1,
+      "net_total": 1089.52
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 118.37,
+      "vat_rate": 0.01,
+      "net_total": 946.96
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 10,
+      "unit_price": 22.7,
+      "vat_rate": 0.2,
+      "net_total": 227.0
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 34.42,
+      "vat_rate": 0.01,
+      "net_total": 413.04
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 39.68,
+      "vat_rate": 0.2,
+      "net_total": 595.2
+    }
+  ],
+  "subtotal": 5772.53,
+  "vat_total": 567.24,
+  "grand_total": 6339.77,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000210 | Tarih: 17.11.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Kadıköy/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 20 29,79 %10 595,80\nPirinç (1 kg) 2 53,92 %1 107,84\nŞeker (1 kg) 10 75,21 %10 752,10\nŞeker (1 kg) 15 43,09 %10 646,35\nÇikolata (80 g) 8 49,84 %20 398,72\nUn (5 kg) 8 136,19 %10 1.089,52\nKuru Fasulye (1 kg) 8 118,37 %1 946,96\nMaden Suyu (200 ml) 10 22,70 %20 227,00\nSüt (1 L) 12 34,42 %1 413,04\nGazlı İçecek (1 L) 15 39,68 %20 595,20\nAra Toplam: 5.772,53\nKDV Toplam: 567,24\nGenel Toplam: 6.339,77\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000250",
+  "source_pdf": "0250_FATURA_INV-2025-000250.pdf",
+  "date": "2025-07-14",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 211.83,
+      "vat_rate": 0.1,
+      "net_total": 1059.15
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 59.11,
+      "vat_rate": 0.2,
+      "net_total": 886.65
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 67.7,
+      "vat_rate": 0.1,
+      "net_total": 1015.5
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 23.42,
+      "vat_rate": 0.01,
+      "net_total": 281.04
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 3,
+      "unit_price": 121.25,
+      "vat_rate": 0.1,
+      "net_total": 363.75
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 155.13,
+      "vat_rate": 0.1,
+      "net_total": 1241.04
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 51.2,
+      "vat_rate": 0.01,
+      "net_total": 1024.0
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 72.07,
+      "vat_rate": 0.1,
+      "net_total": 360.35
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 124.95,
+      "vat_rate": 0.01,
+      "net_total": 624.75
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 33.35,
+      "vat_rate": 0.01,
+      "net_total": 266.8
+    }
+  ],
+  "subtotal": 7123.03,
+  "vat_total": 603.29,
+  "grand_total": 7726.32,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000250 | Tarih: 14.07.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Seyhan/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 5 211,83 %10 1.059,15\nGazlı İçecek (1 L) 15 59,11 %20 886,65\nŞeker (1 kg) 15 67,70 %10 1.015,50\nSalatalık (kg) 12 23,42 %1 281,04\nUn (5 kg) 3 121,25 %10 363,75\nTavuk Göğüs (kg) 8 155,13 %10 1.241,04\nMuz (kg) 20 51,20 %1 1.024,00\nŞeker (1 kg) 5 72,07 %10 360,35\nKuru Fasulye (1 kg) 5 124,95 %1 624,75\nSüt (1 L) 8 33,35 %1 266,80\nAra Toplam: 7.123,03\nKDV Toplam: 603,29\nGenel Toplam: 7.726,32\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

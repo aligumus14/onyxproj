@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000290",
+  "source_pdf": "0290_FATURA_INV-2024-000290.pdf",
+  "date": "2024-04-09",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 41.58,
+      "vat_rate": 0.01,
+      "net_total": 83.16
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 477.19,
+      "vat_rate": 0.1,
+      "net_total": 477.19
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 67.46,
+      "vat_rate": 0.2,
+      "net_total": 269.84
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 2,
+      "unit_price": 171.3,
+      "vat_rate": 0.1,
+      "net_total": 342.6
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 11.28,
+      "vat_rate": 0.2,
+      "net_total": 22.56
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 28.19,
+      "vat_rate": 0.01,
+      "net_total": 28.19
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 43.41,
+      "vat_rate": 0.01,
+      "net_total": 130.23
+    }
+  ],
+  "subtotal": 1353.77,
+  "vat_total": 142.87,
+  "grand_total": 1496.64,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000290 | Tarih: 09.04.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Şehitkamil/İstanbul\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 2 41,58 %1 83,16\nDana Kıyma (kg) 1 477,19 %10 477,19\nÇikolata (80 g) 4 67,46 %20 269,84\nUn (5 kg) 2 171,30 %10 342,60\nMaden Suyu (200 ml) 2 11,28 %20 22,56\nSalatalık (kg) 1 28,19 %1 28,19\nMuz (kg) 3 43,41 %1 130,23\nAra Toplam: 1.353,77\nKDV Toplam: 142,87\nGenel Toplam: 1.496,64\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

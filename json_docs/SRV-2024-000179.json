@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000179",
+  "source_pdf": "0779_SERVIS_SRV-2024-000179.pdf",
+  "date": "2024-12-02",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Düşük (72 saat)",
+  "location": "Karşıyaka/Ankara",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-1",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-30955",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 994.5,
+      "unit_price": 9.0,
+      "total": 1491.88
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1491.88,
+  "vat_rate": 0.2,
+  "vat_amount": 298.38,
+  "grand_total": 1790.26,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000179 | Tarih: 02.12.2024 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Düşük (72 saat)\nLokasyon: Karşıyaka/Ankara | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-1\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-30955\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 994,59 1.491,88\nParça Değişimi - - 0,00\nAra Toplam: 1.491,88\nKDV (%20): 298,38\nGenel Toplam: 1.790,26\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

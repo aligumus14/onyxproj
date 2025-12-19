@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000182",
+  "source_pdf": "0182_FATURA_INV-2024-000182.pdf",
+  "date": "2024-01-01",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 133.63,
+      "vat_rate": 0.1,
+      "net_total": 534.52
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 465.17,
+      "vat_rate": 0.1,
+      "net_total": 465.17
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 85.79,
+      "vat_rate": 0.01,
+      "net_total": 1029.48
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 12.32,
+      "vat_rate": 0.2,
+      "net_total": 184.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 27.6,
+      "vat_rate": 0.01,
+      "net_total": 276.0
+    }
+  ],
+  "subtotal": 2489.97,
+  "vat_total": 149.98,
+  "grand_total": 2639.95,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000182 | Tarih: 01.01.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Şişli/Gaziantep\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 4 133,63 %10 534,52\nDana Kıyma (kg) 1 465,17 %10 465,17\nYoğurt (1 kg) 12 85,79 %1 1.029,48\nMaden Suyu (200 ml) 15 12,32 %20 184,80\nSalatalık (kg) 10 27,60 %1 276,00\nAra Toplam: 2.489,97\nKDV Toplam: 149,98\nGenel Toplam: 2.639,95\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

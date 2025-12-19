@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000091",
+  "source_pdf": "0091_FATURA_INV-2024-000091.pdf",
+  "date": "2024-11-29",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 12.7,
+      "vat_rate": 0.2,
+      "net_total": 152.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 63.12,
+      "vat_rate": 0.2,
+      "net_total": 63.12
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 147.0,
+      "vat_rate": 0.1,
+      "net_total": 588.0
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 200.09,
+      "vat_rate": 0.1,
+      "net_total": 400.18
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 57.47,
+      "vat_rate": 0.1,
+      "net_total": 1149.4
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 137.79,
+      "vat_rate": 0.1,
+      "net_total": 551.16
+    }
+  ],
+  "subtotal": 2904.26,
+  "vat_total": 311.98,
+  "grand_total": 3216.24,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000091 | Tarih: 29.11.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Beşiktaş/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 12 12,70 %20 152,40\nGazlı İçecek (1 L) 1 63,12 %20 63,12\nUn (5 kg) 4 147,00 %10 588,00\nTavuk Göğüs (kg) 2 200,09 %10 400,18\nŞeker (1 kg) 20 57,47 %10 1.149,40\nTavuk Göğüs (kg) 4 137,79 %10 551,16\nAra Toplam: 2.904,26\nKDV Toplam: 311,98\nGenel Toplam: 3.216,24\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

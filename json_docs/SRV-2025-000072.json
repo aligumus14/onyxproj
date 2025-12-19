@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000072",
+  "source_pdf": "0672_SERVIS_SRV-2025-000072.pdf",
+  "date": "2025-08-14",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Kritik (4 saat)",
+  "location": "Şişli/İzmir",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-1",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-85303",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 749.4,
+      "unit_price": 7.0,
+      "total": 2997.88
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 4032.17,
+      "total": 4032.17
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 1518.33,
+      "total": 1518.33
+    }
+  ],
+  "subtotal": 8548.38,
+  "vat_rate": 0.2,
+  "vat_amount": 1709.68,
+  "grand_total": 10258.06,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000072 | Tarih: 14.08.2025 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Kritik (4 saat)\nLokasyon: Şişli/İzmir | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-1\nMakine: Forklift - Linde H35D | Seri No: FLT-85303\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 749,47 2.997,88\nHidrolik Hortum 1 4.032,17 4.032,17\nHidrolik Hortum 1 1.518,33 1.518,33\nAra Toplam: 8.548,38\nKDV (%20): 1.709,68\nGenel Toplam: 10.258,06\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

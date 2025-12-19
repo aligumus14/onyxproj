@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000217",
+  "source_pdf": "0217_FATURA_INV-2024-000217.pdf",
+  "date": "2024-09-28",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 109.36,
+      "vat_rate": 0.01,
+      "net_total": 2187.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 94.97,
+      "vat_rate": 0.01,
+      "net_total": 1139.64
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 134.33,
+      "vat_rate": 0.1,
+      "net_total": 2014.95
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 103.43,
+      "vat_rate": 0.1,
+      "net_total": 517.15
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 71.42,
+      "vat_rate": 0.01,
+      "net_total": 142.84
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 51.31,
+      "vat_rate": 0.01,
+      "net_total": 513.1
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 35.63,
+      "vat_rate": 0.1,
+      "net_total": 106.89
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 43.26,
+      "vat_rate": 0.01,
+      "net_total": 43.26
+    }
+  ],
+  "subtotal": 6665.03,
+  "vat_total": 304.17,
+  "grand_total": 6969.2,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000217 | Tarih: 28.09.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/Konya\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 20 109,36 %1 2.187,20\nPirinç (1 kg) 12 94,97 %1 1.139,64\nAyçiçek Yağı (1 L) 15 134,33 %10 2.014,95\nUn (5 kg) 5 103,43 %10 517,15\nMuz (kg) 2 71,42 %1 142,84\nYoğurt (1 kg) 10 51,31 %1 513,10\nMakarna (500 g) 3 35,63 %10 106,89\nDomates (kg) 1 43,26 %1 43,26\nAra Toplam: 6.665,03\nKDV Toplam: 304,17\nGenel Toplam: 6.969,20\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

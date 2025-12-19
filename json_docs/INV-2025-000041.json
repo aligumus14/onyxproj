@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000041",
+  "source_pdf": "0041_FATURA_INV-2025-000041.pdf",
+  "date": "2025-07-21",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 50.04,
+      "vat_rate": 0.01,
+      "net_total": 250.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 80.11,
+      "vat_rate": 0.01,
+      "net_total": 240.33
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 122.88,
+      "vat_rate": 0.01,
+      "net_total": 245.76
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 20.52,
+      "vat_rate": 0.01,
+      "net_total": 61.56
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 36.33,
+      "vat_rate": 0.01,
+      "net_total": 544.95
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 74.19,
+      "vat_rate": 0.01,
+      "net_total": 370.95
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 40.11,
+      "vat_rate": 0.1,
+      "net_total": 481.32
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 64.66,
+      "vat_rate": 0.01,
+      "net_total": 646.6
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 687.47,
+      "vat_rate": 0.1,
+      "net_total": 8249.64
+    }
+  ],
+  "subtotal": 11091.31,
+  "vat_total": 896.7,
+  "grand_total": 11988.01,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000041 | Tarih: 21.07.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Nilüfer/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 5 50,04 %1 250,20\nPirinç (1 kg) 3 80,11 %1 240,33\nKuru Fasulye (1 kg) 2 122,88 %1 245,76\nDomates (kg) 3 20,52 %1 61,56\nSüt (1 L) 15 36,33 %1 544,95\nKuru Fasulye (1 kg) 5 74,19 %1 370,95\nŞeker (1 kg) 12 40,11 %10 481,32\nMuz (kg) 10 64,66 %1 646,60\nSomon Fileto (kg) 12 687,47 %10 8.249,64\nAra Toplam: 11.091,31\nKDV Toplam: 896,70\nGenel Toplam: 11.988,01\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

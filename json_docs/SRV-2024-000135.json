@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000135",
+  "source_pdf": "0735_SERVIS_SRV-2024-000135.pdf",
+  "date": "2024-07-24",
+  "status": "Kapatıldı",
+  "priority": "Yüksek",
+  "sla": "Yüksek (8 saat)",
+  "location": "Selçuklu/İzmir",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-2",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-11221",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 750.9,
+      "unit_price": 5.0,
+      "total": 1501.9
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1501.9,
+  "vat_rate": 0.2,
+  "vat_amount": 300.38,
+  "grand_total": 1802.28,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000135 | Tarih: 24.07.2024 | Durum: Kapatıldı\nÖncelik: Yüksek | SLA: Yüksek (8 saat)\nLokasyon: Selçuklu/İzmir | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-2\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-11221\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 750,95 1.501,90\nParça Değişimi - - 0,00\nAra Toplam: 1.501,90\nKDV (%20): 300,38\nGenel Toplam: 1.802,28\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

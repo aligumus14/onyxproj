@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000513",
+  "source_pdf": "0513_FATURA_INV-2024-000513.pdf",
+  "date": "2024-01-12",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 37.88,
+      "vat_rate": 0.01,
+      "net_total": 37.88
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 144.18,
+      "vat_rate": 0.1,
+      "net_total": 1153.44
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 561.99,
+      "vat_rate": 0.1,
+      "net_total": 1123.98
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 46.97,
+      "vat_rate": 0.01,
+      "net_total": 234.85
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 29.96,
+      "vat_rate": 0.01,
+      "net_total": 149.8
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 105.64,
+      "vat_rate": 0.1,
+      "net_total": 422.56
+    }
+  ],
+  "subtotal": 3122.51,
+  "vat_total": 274.23,
+  "grand_total": 3396.74,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000513 | Tarih: 12.01.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Muratpaşa/Konya\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 1 37,88 %1 37,88\nAyçiçek Yağı (1 L) 8 144,18 %10 1.153,44\nSomon Fileto (kg) 2 561,99 %10 1.123,98\nDomates (kg) 5 46,97 %1 234,85\nElma (kg) 5 29,96 %1 149,80\nUn (5 kg) 4 105,64 %10 422,56\nAra Toplam: 3.122,51\nKDV Toplam: 274,23\nGenel Toplam: 3.396,74\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

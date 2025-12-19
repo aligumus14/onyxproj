@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000448",
+  "source_pdf": "0448_FATURA_INV-2025-000448.pdf",
+  "date": "2025-03-28",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 33.37,
+      "vat_rate": 0.1,
+      "net_total": 166.85
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 22.92,
+      "vat_rate": 0.2,
+      "net_total": 183.36
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 52.21,
+      "vat_rate": 0.01,
+      "net_total": 522.1
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 150.58,
+      "vat_rate": 0.1,
+      "net_total": 2258.7
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 1,
+      "unit_price": 122.73,
+      "vat_rate": 0.1,
+      "net_total": 122.73
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 47.18,
+      "vat_rate": 0.1,
+      "net_total": 707.7
+    }
+  ],
+  "subtotal": 3961.44,
+  "vat_total": 367.48,
+  "grand_total": 4328.92,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000448 | Tarih: 28.03.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Ankara\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 5 33,37 %10 166,85\nMaden Suyu (200 ml) 8 22,92 %20 183,36\nElma (kg) 10 52,21 %1 522,10\nAyçiçek Yağı (1 L) 15 150,58 %10 2.258,70\nUn (5 kg) 1 122,73 %10 122,73\nŞeker (1 kg) 15 47,18 %10 707,70\nAra Toplam: 3.961,44\nKDV Toplam: 367,48\nGenel Toplam: 4.328,92\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

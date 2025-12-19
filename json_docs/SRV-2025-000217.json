@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000217",
+  "source_pdf": "0817_SERVIS_SRV-2025-000217.pdf",
+  "date": "2025-06-06",
+  "status": "Onay Bekliyor",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Selçuklu/Antalya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-1",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-29080",
+  "technician": "Emre Taş",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 653.9,
+      "unit_price": 1.0,
+      "total": 3923.46
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1114.48,
+      "total": 1114.48
+    }
+  ],
+  "subtotal": 5037.94,
+  "vat_rate": 0.2,
+  "vat_amount": 1007.59,
+  "grand_total": 6045.53,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000217 | Tarih: 06.06.2025 | Durum: Onay Bekliyor\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Selçuklu/Antalya | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-1\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-29080\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 653,91 3.923,46\nSensör 1 1.114,48 1.114,48\nAra Toplam: 5.037,94\nKDV (%20): 1.007,59\nGenel Toplam: 6.045,53\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000476",
+  "source_pdf": "0476_FATURA_INV-2024-000476.pdf",
+  "date": "2024-04-08",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 840.6,
+      "vat_rate": 0.1,
+      "net_total": 16812.0
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 34.42,
+      "vat_rate": 0.01,
+      "net_total": 344.2
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 34.71,
+      "vat_rate": 0.01,
+      "net_total": 347.1
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 29.78,
+      "vat_rate": 0.1,
+      "net_total": 446.7
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 114.8,
+      "vat_rate": 0.01,
+      "net_total": 114.8
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 27.3,
+      "vat_rate": 0.2,
+      "net_total": 546.0
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 797.03,
+      "vat_rate": 0.1,
+      "net_total": 7970.3
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 89.33,
+      "vat_rate": 0.01,
+      "net_total": 178.66
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 71.34,
+      "vat_rate": 0.01,
+      "net_total": 356.7
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 37.18,
+      "vat_rate": 0.01,
+      "net_total": 557.7
+    }
+  ],
+  "subtotal": 27674.16,
+  "vat_total": 2651.1,
+  "grand_total": 30325.26,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000476 | Tarih: 08.04.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Şehitkamil/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 20 840,60 %10 16.812,00\nSüt (1 L) 10 34,42 %1 344,20\nSalatalık (kg) 10 34,71 %1 347,10\nMakarna (500 g) 15 29,78 %10 446,70\nKuru Fasulye (1 kg) 1 114,80 %1 114,80\nGazlı İçecek (1 L) 20 27,30 %20 546,00\nSomon Fileto (kg) 10 797,03 %10 7.970,30\nPirinç (1 kg) 2 89,33 %1 178,66\nMuz (kg) 5 71,34 %1 356,70\nDomates (kg) 15 37,18 %1 557,70\nAra Toplam: 27.674,16\nKDV Toplam: 2.651,10\nGenel Toplam: 30.325,26\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

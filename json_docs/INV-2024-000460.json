@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000460",
+  "source_pdf": "0460_FATURA_INV-2024-000460.pdf",
+  "date": "2024-10-08",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 55.12,
+      "vat_rate": 0.01,
+      "net_total": 661.44
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 19.65,
+      "vat_rate": 0.1,
+      "net_total": 19.65
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 99.31,
+      "vat_rate": 0.1,
+      "net_total": 1986.2
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 53.87,
+      "vat_rate": 0.1,
+      "net_total": 161.61
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 147.22,
+      "vat_rate": 0.01,
+      "net_total": 1766.64
+    }
+  ],
+  "subtotal": 4595.54,
+  "vat_total": 241.02,
+  "grand_total": 4836.56,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000460 | Tarih: 08.10.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Şişli/Bursa\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 12 55,12 %1 661,44\nMakarna (500 g) 1 19,65 %10 19,65\nAyçiçek Yağı (1 L) 20 99,31 %10 1.986,20\nŞeker (1 kg) 3 53,87 %10 161,61\nKuru Fasulye (1 kg) 12 147,22 %1 1.766,64\nAra Toplam: 4.595,54\nKDV Toplam: 241,02\nGenel Toplam: 4.836,56\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

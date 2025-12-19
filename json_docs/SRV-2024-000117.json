@@ -1,0 +1,46 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000117",
+  "source_pdf": "0717_SERVIS_SRV-2024-000117.pdf",
+  "date": "2024-10-20",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Kritik (4 saat)",
+  "location": "Çankaya/Kocaeli",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-1",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-60609",
+  "technician": "Deniz Arı",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 807.1,
+      "unit_price": 1.0,
+      "total": 4842.66
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1637.35,
+      "total": 1637.35
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 705.12,
+      "total": 705.12
+    }
+  ],
+  "subtotal": 7185.13,
+  "vat_rate": 0.2,
+  "vat_amount": 1437.03,
+  "grand_total": 8622.16,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000117 | Tarih: 20.10.2024 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Kritik (4 saat)\nLokasyon: Çankaya/Kocaeli | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-1\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-60609\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 807,11 4.842,66\nSensör 1 1.637,35 1.637,35\nKayış 1 705,12 705,12\nAra Toplam: 7.185,13\nKDV (%20): 1.437,03\nGenel Toplam: 8.622,16\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

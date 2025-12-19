@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000599",
+  "source_pdf": "0599_FATURA_INV-2025-000599.pdf",
+  "date": "2025-11-03",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 76.5,
+      "vat_rate": 0.01,
+      "net_total": 1530.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 169.36,
+      "vat_rate": 0.1,
+      "net_total": 1693.6
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 8,
+      "unit_price": 32.63,
+      "vat_rate": 0.1,
+      "net_total": 261.04
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 17.59,
+      "vat_rate": 0.2,
+      "net_total": 140.72
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 65.81,
+      "vat_rate": 0.01,
+      "net_total": 197.43
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 17.41,
+      "vat_rate": 0.2,
+      "net_total": 69.64
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 32.37,
+      "vat_rate": 0.01,
+      "net_total": 647.4
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 42.94,
+      "vat_rate": 0.2,
+      "net_total": 42.94
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 120.02,
+      "vat_rate": 0.01,
+      "net_total": 2400.4
+    }
+  ],
+  "subtotal": 6983.17,
+  "vat_total": 293.86,
+  "grand_total": 7277.03,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000599 | Tarih: 03.11.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Muratpaşa/Antalya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 20 76,50 %1 1.530,00\nUn (5 kg) 10 169,36 %10 1.693,60\nMakarna (500 g) 8 32,63 %10 261,04\nMaden Suyu (200 ml) 8 17,59 %20 140,72\nPirinç (1 kg) 3 65,81 %1 197,43\nMaden Suyu (200 ml) 4 17,41 %20 69,64\nSalatalık (kg) 20 32,37 %1 647,40\nÇikolata (80 g) 1 42,94 %20 42,94\nKuru Fasulye (1 kg) 20 120,02 %1 2.400,40\nAra Toplam: 6.983,17\nKDV Toplam: 293,86\nGenel Toplam: 7.277,03\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

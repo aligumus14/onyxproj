@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000393",
+  "source_pdf": "0393_FATURA_INV-2024-000393.pdf",
+  "date": "2024-05-12",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 641.04,
+      "vat_rate": 0.1,
+      "net_total": 5128.32
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 57.59,
+      "vat_rate": 0.01,
+      "net_total": 57.59
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 38.7,
+      "vat_rate": 0.01,
+      "net_total": 154.8
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 236.21,
+      "vat_rate": 0.2,
+      "net_total": 4724.2
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 36.88,
+      "vat_rate": 0.01,
+      "net_total": 442.56
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 238.22,
+      "vat_rate": 0.2,
+      "net_total": 1905.76
+    }
+  ],
+  "subtotal": 12413.23,
+  "vat_total": 1845.38,
+  "grand_total": 14258.61,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000393 | Tarih: 12.05.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Seyhan/İstanbul\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 8 641,04 %10 5.128,32\nSüt (1 L) 1 57,59 %1 57,59\nDomates (kg) 4 38,70 %1 154,80\nKahve Çekirdeği (250 g) 20 236,21 %20 4.724,20\nDomates (kg) 12 36,88 %1 442,56\nKahve Çekirdeği (250 g) 8 238,22 %20 1.905,76\nAra Toplam: 12.413,23\nKDV Toplam: 1.845,38\nGenel Toplam: 14.258,61\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

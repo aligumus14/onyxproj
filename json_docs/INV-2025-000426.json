@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000426",
+  "source_pdf": "0426_FATURA_INV-2025-000426.pdf",
+  "date": "2025-08-04",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 57.46,
+      "vat_rate": 0.01,
+      "net_total": 172.38
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 47.61,
+      "vat_rate": 0.01,
+      "net_total": 142.83
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 107.45,
+      "vat_rate": 0.1,
+      "net_total": 2149.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 56.93,
+      "vat_rate": 0.01,
+      "net_total": 227.72
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 101.05,
+      "vat_rate": 0.1,
+      "net_total": 303.15
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 150.26,
+      "vat_rate": 0.2,
+      "net_total": 751.3
+    }
+  ],
+  "subtotal": 3746.38,
+  "vat_total": 400.9,
+  "grand_total": 4147.28,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000426 | Tarih: 04.08.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Beşiktaş/Ankara\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 3 57,46 %1 172,38\nDomates (kg) 3 47,61 %1 142,83\nAyçiçek Yağı (1 L) 20 107,45 %10 2.149,00\nMuz (kg) 4 56,93 %1 227,72\nAyçiçek Yağı (1 L) 3 101,05 %10 303,15\nKahve Çekirdeği (250 g) 5 150,26 %20 751,30\nAra Toplam: 3.746,38\nKDV Toplam: 400,90\nGenel Toplam: 4.147,28\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

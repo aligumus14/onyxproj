@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000110",
+  "source_pdf": "0110_FATURA_INV-2025-000110.pdf",
+  "date": "2025-05-20",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 37.12,
+      "vat_rate": 0.01,
+      "net_total": 445.44
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 20.05,
+      "vat_rate": 0.01,
+      "net_total": 120.3
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 137.67,
+      "vat_rate": 0.2,
+      "net_total": 688.35
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 43.89,
+      "vat_rate": 0.2,
+      "net_total": 175.56
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 37.21,
+      "vat_rate": 0.01,
+      "net_total": 111.63
+    }
+  ],
+  "subtotal": 1541.28,
+  "vat_total": 179.55,
+  "grand_total": 1720.83,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000110 | Tarih: 20.05.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Kadıköy/İzmir\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 12 37,12 %1 445,44\nDomates (kg) 6 20,05 %1 120,30\nKahve Çekirdeği (250 g) 5 137,67 %20 688,35\nÇikolata (80 g) 4 43,89 %20 175,56\nSalatalık (kg) 3 37,21 %1 111,63\nAra Toplam: 1.541,28\nKDV Toplam: 179,55\nGenel Toplam: 1.720,83\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

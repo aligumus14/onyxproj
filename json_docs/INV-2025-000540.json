@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000540",
+  "source_pdf": "0540_FATURA_INV-2025-000540.pdf",
+  "date": "2025-06-13",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 45.24,
+      "vat_rate": 0.2,
+      "net_total": 678.6
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 66.46,
+      "vat_rate": 0.01,
+      "net_total": 531.68
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 124.72,
+      "vat_rate": 0.1,
+      "net_total": 2494.4
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 51.06,
+      "vat_rate": 0.01,
+      "net_total": 204.24
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 187.05,
+      "vat_rate": 0.2,
+      "net_total": 935.25
+    }
+  ],
+  "subtotal": 4844.17,
+  "vat_total": 579.57,
+  "grand_total": 5423.74,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000540 | Tarih: 13.06.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Muratpaşa/Konya\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 15 45,24 %20 678,60\nPirinç (1 kg) 8 66,46 %1 531,68\nUn (5 kg) 20 124,72 %10 2.494,40\nPirinç (1 kg) 4 51,06 %1 204,24\nKahve Çekirdeği (250 g) 5 187,05 %20 935,25\nAra Toplam: 4.844,17\nKDV Toplam: 579,57\nGenel Toplam: 5.423,74\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

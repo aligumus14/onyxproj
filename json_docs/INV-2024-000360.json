@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000360",
+  "source_pdf": "0360_FATURA_INV-2024-000360.pdf",
+  "date": "2024-07-11",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 167.17,
+      "vat_rate": 0.1,
+      "net_total": 668.68
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 15.55,
+      "vat_rate": 0.2,
+      "net_total": 15.55
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 570.78,
+      "vat_rate": 0.1,
+      "net_total": 570.78
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 200.1,
+      "vat_rate": 0.1,
+      "net_total": 2401.2
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 47.71,
+      "vat_rate": 0.01,
+      "net_total": 477.1
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 143.35,
+      "vat_rate": 0.1,
+      "net_total": 1146.8
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 620.34,
+      "vat_rate": 0.1,
+      "net_total": 7444.08
+    }
+  ],
+  "subtotal": 12724.19,
+  "vat_total": 1231.04,
+  "grand_total": 13955.23,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000360 | Tarih: 11.07.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 4 167,17 %10 668,68\nMaden Suyu (200 ml) 1 15,55 %20 15,55\nSomon Fileto (kg) 1 570,78 %10 570,78\nTavuk Göğüs (kg) 12 200,10 %10 2.401,20\nElma (kg) 10 47,71 %1 477,10\nUn (5 kg) 8 143,35 %10 1.146,80\nSomon Fileto (kg) 12 620,34 %10 7.444,08\nAra Toplam: 12.724,19\nKDV Toplam: 1.231,04\nGenel Toplam: 13.955,23\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

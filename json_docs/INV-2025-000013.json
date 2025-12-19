@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000013",
+  "source_pdf": "0013_FATURA_INV-2025-000013.pdf",
+  "date": "2025-03-16",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 28.6,
+      "vat_rate": 0.01,
+      "net_total": 572.0
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 63.95,
+      "vat_rate": 0.2,
+      "net_total": 511.6
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 101.2,
+      "vat_rate": 0.01,
+      "net_total": 404.8
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 71.98,
+      "vat_rate": 0.01,
+      "net_total": 575.84
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 472.54,
+      "vat_rate": 0.1,
+      "net_total": 3780.32
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 30.57,
+      "vat_rate": 0.01,
+      "net_total": 152.85
+    }
+  ],
+  "subtotal": 5997.41,
+  "vat_total": 497.41,
+  "grand_total": 6494.82,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000013 | Tarih: 16.03.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Kadıköy/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 20 28,60 %1 572,00\nGazlı İçecek (1 L) 8 63,95 %20 511,60\nPirinç (1 kg) 4 101,20 %1 404,80\nKuru Fasulye (1 kg) 8 71,98 %1 575,84\nDana Kıyma (kg) 8 472,54 %10 3.780,32\nSüt (1 L) 5 30,57 %1 152,85\nAra Toplam: 5.997,41\nKDV Toplam: 497,41\nGenel Toplam: 6.494,82\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

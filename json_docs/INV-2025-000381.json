@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000381",
+  "source_pdf": "0381_FATURA_INV-2025-000381.pdf",
+  "date": "2025-07-28",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 52.04,
+      "vat_rate": 0.01,
+      "net_total": 260.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 24.72,
+      "vat_rate": 0.1,
+      "net_total": 148.32
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 187.85,
+      "vat_rate": 0.2,
+      "net_total": 1502.8
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 57.21,
+      "vat_rate": 0.01,
+      "net_total": 286.05
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 172.03,
+      "vat_rate": 0.1,
+      "net_total": 516.09
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 313.4,
+      "vat_rate": 0.1,
+      "net_total": 4701.0
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 83.57,
+      "vat_rate": 0.1,
+      "net_total": 417.85
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 37.04,
+      "vat_rate": 0.2,
+      "net_total": 148.16
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 71.17,
+      "vat_rate": 0.01,
+      "net_total": 355.85
+    }
+  ],
+  "subtotal": 8336.32,
+  "vat_total": 917.54,
+  "grand_total": 9253.86,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000381 | Tarih: 28.07.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Çankaya/İzmir\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 5 52,04 %1 260,20\nMakarna (500 g) 6 24,72 %10 148,32\nKahve Çekirdeği (250 g) 8 187,85 %20 1.502,80\nElma (kg) 5 57,21 %1 286,05\nTavuk Göğüs (kg) 3 172,03 %10 516,09\nDana Kıyma (kg) 15 313,40 %10 4.701,00\nAyçiçek Yağı (1 L) 5 83,57 %10 417,85\nGazlı İçecek (1 L) 4 37,04 %20 148,16\nMuz (kg) 5 71,17 %1 355,85\nAra Toplam: 8.336,32\nKDV Toplam: 917,54\nGenel Toplam: 9.253,86\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

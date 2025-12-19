@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000189",
+  "source_pdf": "0789_SERVIS_SRV-2024-000189.pdf",
+  "date": "2024-06-26",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Düşük (72 saat)",
+  "location": "Selçuklu/İzmir",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-76734",
+  "technician": "Deniz Arı",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 1170.6,
+      "unit_price": 9.0,
+      "total": 7024.14
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 7024.14,
+  "vat_rate": 0.2,
+  "vat_amount": 1404.83,
+  "grand_total": 8428.97,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000189 | Tarih: 26.06.2024 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Düşük (72 saat)\nLokasyon: Selçuklu/İzmir | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-76734\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 1.170,69 7.024,14\nParça Değişimi - - 0,00\nAra Toplam: 7.024,14\nKDV (%20): 1.404,83\nGenel Toplam: 8.428,97\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

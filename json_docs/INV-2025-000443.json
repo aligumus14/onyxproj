@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000443",
+  "source_pdf": "0443_FATURA_INV-2025-000443.pdf",
+  "date": "2025-06-07",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 37.83,
+      "vat_rate": 0.01,
+      "net_total": 113.49
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 499.11,
+      "vat_rate": 0.1,
+      "net_total": 1497.33
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 25.14,
+      "vat_rate": 0.1,
+      "net_total": 100.56
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 446.49,
+      "vat_rate": 0.1,
+      "net_total": 8929.8
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 187.83,
+      "vat_rate": 0.1,
+      "net_total": 1878.3
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 70.67,
+      "vat_rate": 0.01,
+      "net_total": 424.02
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 192.36,
+      "vat_rate": 0.1,
+      "net_total": 1154.16
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 69.27,
+      "vat_rate": 0.01,
+      "net_total": 1039.05
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 22.0,
+      "vat_rate": 0.01,
+      "net_total": 66.0
+    }
+  ],
+  "subtotal": 15202.71,
+  "vat_total": 1372.44,
+  "grand_total": 16575.15,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000443 | Tarih: 07.06.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Ankara\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 3 37,83 %1 113,49\nDana Kıyma (kg) 3 499,11 %10 1.497,33\nMakarna (500 g) 4 25,14 %10 100,56\nDana Kıyma (kg) 20 446,49 %10 8.929,80\nUn (5 kg) 10 187,83 %10 1.878,30\nYoğurt (1 kg) 6 70,67 %1 424,02\nUn (5 kg) 6 192,36 %10 1.154,16\nYoğurt (1 kg) 15 69,27 %1 1.039,05\nSalatalık (kg) 3 22,00 %1 66,00\nAra Toplam: 15.202,71\nKDV Toplam: 1.372,44\nGenel Toplam: 16.575,15\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

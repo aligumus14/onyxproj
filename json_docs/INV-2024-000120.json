@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000120",
+  "source_pdf": "0120_FATURA_INV-2024-000120.pdf",
+  "date": "2024-02-04",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 82.87,
+      "vat_rate": 0.01,
+      "net_total": 662.96
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 91.8,
+      "vat_rate": 0.01,
+      "net_total": 1101.6
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 72.67,
+      "vat_rate": 0.01,
+      "net_total": 436.02
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 29.65,
+      "vat_rate": 0.1,
+      "net_total": 29.65
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 141.18,
+      "vat_rate": 0.01,
+      "net_total": 2117.7
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 78.1,
+      "vat_rate": 0.01,
+      "net_total": 78.1
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 110.93,
+      "vat_rate": 0.1,
+      "net_total": 443.72
+    }
+  ],
+  "subtotal": 4869.75,
+  "vat_total": 91.3,
+  "grand_total": 4961.05,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000120 | Tarih: 04.02.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Beşiktaş/Antalya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 8 82,87 %1 662,96\nMuz (kg) 12 91,80 %1 1.101,60\nMuz (kg) 6 72,67 %1 436,02\nMakarna (500 g) 1 29,65 %10 29,65\nKuru Fasulye (1 kg) 15 141,18 %1 2.117,70\nKuru Fasulye (1 kg) 1 78,10 %1 78,10\nAyçiçek Yağı (1 L) 4 110,93 %10 443,72\nAra Toplam: 4.869,75\nKDV Toplam: 91,30\nGenel Toplam: 4.961,05\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

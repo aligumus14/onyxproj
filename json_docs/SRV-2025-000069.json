@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000069",
+  "source_pdf": "0669_SERVIS_SRV-2025-000069.pdf",
+  "date": "2025-10-08",
+  "status": "Açık",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Şehitkamil/Gaziantep",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-B",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-11925",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 454.3,
+      "unit_price": 8.0,
+      "total": 2726.28
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1162.36,
+      "total": 1162.36
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1520.99,
+      "total": 1520.99
+    }
+  ],
+  "subtotal": 5409.63,
+  "vat_rate": 0.2,
+  "vat_amount": 1081.93,
+  "grand_total": 6491.56,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000069 | Tarih: 08.10.2025 | Durum: Açık\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Şehitkamil/Gaziantep | Şube/DM: TR-ANT-DC05 | Depo: Depo-B\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-11925\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 454,38 2.726,28\nKayış 1 1.162,36 1.162,36\nSensör 1 1.520,99 1.520,99\nAra Toplam: 5.409,63\nKDV (%20): 1.081,93\nGenel Toplam: 6.491,56\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000457",
+  "source_pdf": "0457_FATURA_INV-2025-000457.pdf",
+  "date": "2025-11-12",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 88.16,
+      "vat_rate": 0.1,
+      "net_total": 440.8
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 41.07,
+      "vat_rate": 0.01,
+      "net_total": 492.84
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 32.58,
+      "vat_rate": 0.01,
+      "net_total": 97.74
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 87.88,
+      "vat_rate": 0.01,
+      "net_total": 527.28
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 32.31,
+      "vat_rate": 0.01,
+      "net_total": 646.2
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 156.67,
+      "vat_rate": 0.1,
+      "net_total": 470.01
+    }
+  ],
+  "subtotal": 2674.87,
+  "vat_total": 108.72,
+  "grand_total": 2783.59,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000457 | Tarih: 12.11.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 5 88,16 %10 440,80\nDomates (kg) 12 41,07 %1 492,84\nSalatalık (kg) 3 32,58 %1 97,74\nMuz (kg) 6 87,88 %1 527,28\nSüt (1 L) 20 32,31 %1 646,20\nTavuk Göğüs (kg) 3 156,67 %10 470,01\nAra Toplam: 2.674,87\nKDV Toplam: 108,72\nGenel Toplam: 2.783,59\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

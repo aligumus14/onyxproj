@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000509",
+  "source_pdf": "0509_FATURA_INV-2025-000509.pdf",
+  "date": "2025-10-19",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 66.75,
+      "vat_rate": 0.01,
+      "net_total": 267.0
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 27.1,
+      "vat_rate": 0.2,
+      "net_total": 27.1
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 26.48,
+      "vat_rate": 0.01,
+      "net_total": 264.8
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 58.25,
+      "vat_rate": 0.01,
+      "net_total": 233.0
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 65.76,
+      "vat_rate": 0.01,
+      "net_total": 789.12
+    }
+  ],
+  "subtotal": 1581.02,
+  "vat_total": 20.96,
+  "grand_total": 1601.98,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000509 | Tarih: 19.10.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Seyhan/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 4 66,75 %1 267,00\nGazlı İçecek (1 L) 1 27,10 %20 27,10\nSüt (1 L) 10 26,48 %1 264,80\nSüt (1 L) 4 58,25 %1 233,00\nPirinç (1 kg) 12 65,76 %1 789,12\nAra Toplam: 1.581,02\nKDV Toplam: 20,96\nGenel Toplam: 1.601,98\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

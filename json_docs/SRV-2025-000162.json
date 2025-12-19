@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000162",
+  "source_pdf": "0762_SERVIS_SRV-2025-000162.pdf",
+  "date": "2025-09-11",
+  "status": "Parça Bekleniyor",
+  "priority": "Orta",
+  "sla": "Kritik (4 saat)",
+  "location": "Selçuklu/İzmir",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-A",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-32400",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 554.6,
+      "unit_price": 6.0,
+      "total": 1386.65
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 330.1,
+      "total": 660.2
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 425.31,
+      "total": 425.31
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 778.78,
+      "total": 778.78
+    }
+  ],
+  "subtotal": 3250.94,
+  "vat_rate": 0.2,
+  "vat_amount": 650.19,
+  "grand_total": 3901.13,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000162 | Tarih: 11.09.2025 | Durum: Parça Bekleniyor\nÖncelik: Orta | SLA: Kritik (4 saat)\nLokasyon: Selçuklu/İzmir | Şube/DM: TR-BUR-DC04 | Depo: Depo-A\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-32400\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 554,66 1.386,65\nFiltre 2 330,10 660,20\nTermostat 1 425,31 425,31\nTermostat 1 778,78 778,78\nAra Toplam: 3.250,94\nKDV (%20): 650,19\nGenel Toplam: 3.901,13\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

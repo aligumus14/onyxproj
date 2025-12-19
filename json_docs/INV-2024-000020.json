@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000020",
+  "source_pdf": "0020_FATURA_INV-2024-000020.pdf",
+  "date": "2024-01-07",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 32.68,
+      "vat_rate": 0.01,
+      "net_total": 326.8
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 36.31,
+      "vat_rate": 0.1,
+      "net_total": 363.1
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 442.99,
+      "vat_rate": 0.1,
+      "net_total": 8859.8
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 262.89,
+      "vat_rate": 0.2,
+      "net_total": 788.67
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 79.72,
+      "vat_rate": 0.01,
+      "net_total": 1195.8
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 215.95,
+      "vat_rate": 0.2,
+      "net_total": 3239.25
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 42.5,
+      "vat_rate": 0.01,
+      "net_total": 85.0
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 56.81,
+      "vat_rate": 0.01,
+      "net_total": 568.1
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 72.91,
+      "vat_rate": 0.01,
+      "net_total": 583.28
+    }
+  ],
+  "subtotal": 16009.8,
+  "vat_total": 1755.46,
+  "grand_total": 17765.26,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000020 | Tarih: 07.01.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Selçuklu/Kocaeli\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 10 32,68 %1 326,80\nŞeker (1 kg) 10 36,31 %10 363,10\nDana Kıyma (kg) 20 442,99 %10 8.859,80\nKahve Çekirdeği (250 g) 3 262,89 %20 788,67\nPirinç (1 kg) 15 79,72 %1 1.195,80\nKahve Çekirdeği (250 g) 15 215,95 %20 3.239,25\nDomates (kg) 2 42,50 %1 85,00\nPirinç (1 kg) 10 56,81 %1 568,10\nYoğurt (1 kg) 8 72,91 %1 583,28\nAra Toplam: 16.009,80\nKDV Toplam: 1.755,46\nGenel Toplam: 17.765,26\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

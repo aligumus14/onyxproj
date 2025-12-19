@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000265",
+  "source_pdf": "0265_FATURA_INV-2025-000265.pdf",
+  "date": "2025-10-24",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 218.26,
+      "vat_rate": 0.1,
+      "net_total": 654.78
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 167.54,
+      "vat_rate": 0.1,
+      "net_total": 670.16
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 115.25,
+      "vat_rate": 0.1,
+      "net_total": 1728.75
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 68.24,
+      "vat_rate": 0.01,
+      "net_total": 68.24
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 8,
+      "unit_price": 43.59,
+      "vat_rate": 0.2,
+      "net_total": 348.72
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 183.64,
+      "vat_rate": 0.1,
+      "net_total": 3672.8
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 67.84,
+      "vat_rate": 0.01,
+      "net_total": 407.04
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 40.89,
+      "vat_rate": 0.01,
+      "net_total": 490.68
+    }
+  ],
+  "subtotal": 8041.17,
+  "vat_total": 752.06,
+  "grand_total": 8793.23,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000265 | Tarih: 24.10.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Muratpaşa/Konya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 3 218,26 %10 654,78\nTavuk Göğüs (kg) 4 167,54 %10 670,16\nTavuk Göğüs (kg) 15 115,25 %10 1.728,75\nMuz (kg) 1 68,24 %1 68,24\nÇikolata (80 g) 8 43,59 %20 348,72\nUn (5 kg) 20 183,64 %10 3.672,80\nYoğurt (1 kg) 6 67,84 %1 407,04\nMuz (kg) 12 40,89 %1 490,68\nAra Toplam: 8.041,17\nKDV Toplam: 752,06\nGenel Toplam: 8.793,23\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000153",
+  "source_pdf": "0153_FATURA_INV-2025-000153.pdf",
+  "date": "2025-07-18",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 12.01,
+      "vat_rate": 0.2,
+      "net_total": 60.05
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 12,
+      "unit_price": 29.07,
+      "vat_rate": 0.2,
+      "net_total": 348.84
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 454.24,
+      "vat_rate": 0.1,
+      "net_total": 5450.88
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 48.95,
+      "vat_rate": 0.01,
+      "net_total": 734.25
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 45.08,
+      "vat_rate": 0.2,
+      "net_total": 135.24
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 145.9,
+      "vat_rate": 0.01,
+      "net_total": 2188.5
+    }
+  ],
+  "subtotal": 8917.76,
+  "vat_total": 683.15,
+  "grand_total": 9600.91,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000153 | Tarih: 18.07.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Nilüfer/İzmir\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 5 12,01 %20 60,05\nÇikolata (80 g) 12 29,07 %20 348,84\nSomon Fileto (kg) 12 454,24 %10 5.450,88\nSüt (1 L) 15 48,95 %1 734,25\nÇikolata (80 g) 3 45,08 %20 135,24\nKuru Fasulye (1 kg) 15 145,90 %1 2.188,50\nAra Toplam: 8.917,76\nKDV Toplam: 683,15\nGenel Toplam: 9.600,91\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000209",
+  "source_pdf": "0209_FATURA_INV-2025-000209.pdf",
+  "date": "2025-09-18",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 36.99,
+      "vat_rate": 0.01,
+      "net_total": 36.99
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 794.5,
+      "vat_rate": 0.1,
+      "net_total": 1589.0
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 35.11,
+      "vat_rate": 0.01,
+      "net_total": 140.44
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 19.38,
+      "vat_rate": 0.2,
+      "net_total": 155.04
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 184.87,
+      "vat_rate": 0.2,
+      "net_total": 1478.96
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 51.5,
+      "vat_rate": 0.2,
+      "net_total": 206.0
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 23.08,
+      "vat_rate": 0.1,
+      "net_total": 69.24
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 6,
+      "unit_price": 262.79,
+      "vat_rate": 0.2,
+      "net_total": 1576.74
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 109.83,
+      "vat_rate": 0.01,
+      "net_total": 549.15
+    }
+  ],
+  "subtotal": 5801.56,
+  "vat_total": 856.43,
+  "grand_total": 6657.99,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000209 | Tarih: 18.09.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Kadıköy/Antalya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 1 36,99 %1 36,99\nSomon Fileto (kg) 2 794,50 %10 1.589,00\nDomates (kg) 4 35,11 %1 140,44\nMaden Suyu (200 ml) 8 19,38 %20 155,04\nKahve Çekirdeği (250 g) 8 184,87 %20 1.478,96\nGazlı İçecek (1 L) 4 51,50 %20 206,00\nMakarna (500 g) 3 23,08 %10 69,24\nKahve Çekirdeği (250 g) 6 262,79 %20 1.576,74\nPirinç (1 kg) 5 109,83 %1 549,15\nAra Toplam: 5.801,56\nKDV Toplam: 856,43\nGenel Toplam: 6.657,99\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

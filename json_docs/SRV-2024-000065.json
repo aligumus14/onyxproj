@@ -1,0 +1,52 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000065",
+  "source_pdf": "0665_SERVIS_SRV-2024-000065.pdf",
+  "date": "2024-11-18",
+  "status": "Açık",
+  "priority": "Orta",
+  "sla": "Kritik (4 saat)",
+  "location": "Muratpaşa/Antalya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-14570",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 1076.4,
+      "unit_price": 8.0,
+      "total": 2691.2
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 707.06,
+      "total": 707.06
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 2404.99,
+      "total": 2404.99
+    },
+    {
+      "item": "Termostat",
+      "qty": 2.0,
+      "unit_price": 1012.55,
+      "total": 2025.1
+    }
+  ],
+  "subtotal": 7828.35,
+  "vat_rate": 0.2,
+  "vat_amount": 1565.67,
+  "grand_total": 9394.02,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000065 | Tarih: 18.11.2024 | Durum: Açık\nÖncelik: Orta | SLA: Kritik (4 saat)\nLokasyon: Muratpaşa/Antalya | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-14570\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 1.076,48 2.691,20\nKayış 1 707,06 707,06\nSensör 1 2.404,99 2.404,99\nTermostat 2 1.012,55 2.025,10\nAra Toplam: 7.828,35\nKDV (%20): 1.565,67\nGenel Toplam: 9.394,02\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

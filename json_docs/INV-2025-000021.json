@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000021",
+  "source_pdf": "0021_FATURA_INV-2025-000021.pdf",
+  "date": "2025-04-10",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 38.22,
+      "vat_rate": 0.1,
+      "net_total": 38.22
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 24.05,
+      "vat_rate": 0.01,
+      "net_total": 144.3
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 42.21,
+      "vat_rate": 0.01,
+      "net_total": 844.2
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 26.98,
+      "vat_rate": 0.01,
+      "net_total": 107.92
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 25.33,
+      "vat_rate": 0.01,
+      "net_total": 379.95
+    }
+  ],
+  "subtotal": 1514.59,
+  "vat_total": 18.58,
+  "grand_total": 1533.17,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000021 | Tarih: 10.04.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Muratpaşa/Antalya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 1 38,22 %10 38,22\nSalatalık (kg) 6 24,05 %1 144,30\nMuz (kg) 20 42,21 %1 844,20\nDomates (kg) 4 26,98 %1 107,92\nDomates (kg) 15 25,33 %1 379,95\nAra Toplam: 1.514,59\nKDV Toplam: 18,58\nGenel Toplam: 1.533,17\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

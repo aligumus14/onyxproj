@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000237",
+  "source_pdf": "0837_SERVIS_SRV-2024-000237.pdf",
+  "date": "2024-07-15",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Muratpaşa/Adana",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-A",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-75561",
+  "technician": "Selin Uçar",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 641.0,
+      "unit_price": 2.0,
+      "total": 1282.04
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 258.56,
+      "total": 258.56
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 606.03,
+      "total": 606.03
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 531.06,
+      "total": 1062.12
+    }
+  ],
+  "subtotal": 3208.75,
+  "vat_rate": 0.2,
+  "vat_amount": 641.75,
+  "grand_total": 3850.5,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000237 | Tarih: 15.07.2024 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Muratpaşa/Adana | Şube/DM: TR-BUR-DC04 | Depo: Depo-A\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-75561\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 641,02 1.282,04\nFiltre 1 258,56 258,56\nTermostat 1 606,03 606,03\nKayış 2 531,06 1.062,12\nAra Toplam: 3.208,75\nKDV (%20): 641,75\nGenel Toplam: 3.850,50\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000559",
+  "source_pdf": "0559_FATURA_INV-2024-000559.pdf",
+  "date": "2024-01-06",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 62.6,
+      "vat_rate": 0.1,
+      "net_total": 250.4
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 260.25,
+      "vat_rate": 0.2,
+      "net_total": 1041.0
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 124.98,
+      "vat_rate": 0.1,
+      "net_total": 749.88
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 23.66,
+      "vat_rate": 0.2,
+      "net_total": 189.28
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 137.39,
+      "vat_rate": 0.1,
+      "net_total": 686.95
+    }
+  ],
+  "subtotal": 2917.51,
+  "vat_total": 414.79,
+  "grand_total": 3332.3,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000559 | Tarih: 06.01.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Selçuklu/Konya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 4 62,60 %10 250,40\nKahve Çekirdeği (250 g) 4 260,25 %20 1.041,00\nTavuk Göğüs (kg) 6 124,98 %10 749,88\nMaden Suyu (200 ml) 8 23,66 %20 189,28\nTavuk Göğüs (kg) 5 137,39 %10 686,95\nAra Toplam: 2.917,51\nKDV Toplam: 414,79\nGenel Toplam: 3.332,30\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

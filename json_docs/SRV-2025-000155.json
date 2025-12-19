@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000155",
+  "source_pdf": "0755_SERVIS_SRV-2025-000155.pdf",
+  "date": "2025-04-13",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Düşük (72 saat)",
+  "location": "Çankaya/Kocaeli",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-B",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-37106",
+  "technician": "Emre Taş",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 812.7,
+      "unit_price": 4.0,
+      "total": 4876.44
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 4876.44,
+  "vat_rate": 0.2,
+  "vat_amount": 975.29,
+  "grand_total": 5851.73,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000155 | Tarih: 13.04.2025 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Düşük (72 saat)\nLokasyon: Çankaya/Kocaeli | Şube/DM: TR-ANK-DC02 | Depo: Depo-B\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-37106\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 812,74 4.876,44\nParça Değişimi - - 0,00\nAra Toplam: 4.876,44\nKDV (%20): 975,29\nGenel Toplam: 5.851,73\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

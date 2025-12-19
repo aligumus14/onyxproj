@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000590",
+  "source_pdf": "0590_FATURA_INV-2024-000590.pdf",
+  "date": "2024-06-17",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 130.64,
+      "vat_rate": 0.2,
+      "net_total": 1045.12
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 40.51,
+      "vat_rate": 0.01,
+      "net_total": 81.02
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 12,
+      "unit_price": 154.35,
+      "vat_rate": 0.2,
+      "net_total": 1852.2
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 50.63,
+      "vat_rate": 0.01,
+      "net_total": 1012.6
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 291.5,
+      "vat_rate": 0.1,
+      "net_total": 291.5
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 69.03,
+      "vat_rate": 0.01,
+      "net_total": 552.24
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 70.51,
+      "vat_rate": 0.01,
+      "net_total": 141.02
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 42.99,
+      "vat_rate": 0.01,
+      "net_total": 257.94
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 73.83,
+      "vat_rate": 0.1,
+      "net_total": 221.49
+    }
+  ],
+  "subtotal": 5455.13,
+  "vat_total": 651.21,
+  "grand_total": 6106.34,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000590 | Tarih: 17.06.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Selçuklu/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 8 130,64 %20 1.045,12\nSalatalık (kg) 2 40,51 %1 81,02\nKahve Çekirdeği (250 g) 12 154,35 %20 1.852,20\nMuz (kg) 20 50,63 %1 1.012,60\nDana Kıyma (kg) 1 291,50 %10 291,50\nMuz (kg) 8 69,03 %1 552,24\nYoğurt (1 kg) 2 70,51 %1 141,02\nMuz (kg) 6 42,99 %1 257,94\nŞeker (1 kg) 3 73,83 %10 221,49\nAra Toplam: 5.455,13\nKDV Toplam: 651,21\nGenel Toplam: 6.106,34\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

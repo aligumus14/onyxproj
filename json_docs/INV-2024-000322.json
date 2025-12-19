@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000322",
+  "source_pdf": "0322_FATURA_INV-2024-000322.pdf",
+  "date": "2024-12-07",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 287.35,
+      "vat_rate": 0.2,
+      "net_total": 1436.75
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 113.84,
+      "vat_rate": 0.01,
+      "net_total": 113.84
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 442.7,
+      "vat_rate": 0.1,
+      "net_total": 3541.6
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 606.43,
+      "vat_rate": 0.1,
+      "net_total": 4851.44
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 37.71,
+      "vat_rate": 0.2,
+      "net_total": 188.55
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 109.38,
+      "vat_rate": 0.1,
+      "net_total": 1312.56
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 93.9,
+      "vat_rate": 0.01,
+      "net_total": 563.4
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 22.75,
+      "vat_rate": 0.2,
+      "net_total": 22.75
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 182.01,
+      "vat_rate": 0.1,
+      "net_total": 1820.1
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 16.63,
+      "vat_rate": 0.2,
+      "net_total": 49.89
+    }
+  ],
+  "subtotal": 13900.88,
+  "vat_total": 1498.93,
+  "grand_total": 15399.81,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000322 | Tarih: 07.12.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 5 287,35 %20 1.436,75\nKuru Fasulye (1 kg) 1 113,84 %1 113,84\nDana Kıyma (kg) 8 442,70 %10 3.541,60\nSomon Fileto (kg) 8 606,43 %10 4.851,44\nÇikolata (80 g) 5 37,71 %20 188,55\nAyçiçek Yağı (1 L) 12 109,38 %10 1.312,56\nPirinç (1 kg) 6 93,90 %1 563,40\nMaden Suyu (200 ml) 1 22,75 %20 22,75\nTavuk Göğüs (kg) 10 182,01 %10 1.820,10\nMaden Suyu (200 ml) 3 16,63 %20 49,89\nAra Toplam: 13.900,88\nKDV Toplam: 1.498,93\nGenel Toplam: 15.399,81\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

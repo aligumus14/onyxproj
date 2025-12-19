@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000125",
+  "source_pdf": "0125_FATURA_INV-2024-000125.pdf",
+  "date": "2024-05-27",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 51.1,
+      "vat_rate": 0.01,
+      "net_total": 51.1
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 51.42,
+      "vat_rate": 0.01,
+      "net_total": 308.52
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 140.84,
+      "vat_rate": 0.1,
+      "net_total": 704.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 20.65,
+      "vat_rate": 0.1,
+      "net_total": 413.0
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 35.52,
+      "vat_rate": 0.01,
+      "net_total": 106.56
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 125.02,
+      "vat_rate": 0.1,
+      "net_total": 750.12
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 64.05,
+      "vat_rate": 0.1,
+      "net_total": 960.75
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 91.14,
+      "vat_rate": 0.1,
+      "net_total": 911.4
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 69.18,
+      "vat_rate": 0.1,
+      "net_total": 691.8
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 656.11,
+      "vat_rate": 0.1,
+      "net_total": 656.11
+    }
+  ],
+  "subtotal": 5553.56,
+  "vat_total": 513.41,
+  "grand_total": 6066.97,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000125 | Tarih: 27.05.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/İstanbul\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 1 51,10 %1 51,10\nYoğurt (1 kg) 6 51,42 %1 308,52\nTavuk Göğüs (kg) 5 140,84 %10 704,20\nMakarna (500 g) 20 20,65 %10 413,00\nSüt (1 L) 3 35,52 %1 106,56\nUn (5 kg) 6 125,02 %10 750,12\nŞeker (1 kg) 15 64,05 %10 960,75\nAyçiçek Yağı (1 L) 10 91,14 %10 911,40\nŞeker (1 kg) 10 69,18 %10 691,80\nSomon Fileto (kg) 1 656,11 %10 656,11\nAra Toplam: 5.553,56\nKDV Toplam: 513,41\nGenel Toplam: 6.066,97\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

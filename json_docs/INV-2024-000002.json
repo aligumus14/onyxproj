@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000002",
+  "source_pdf": "0002_FATURA_INV-2024-000002.pdf",
+  "date": "2024-04-09",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 213.85,
+      "vat_rate": 0.2,
+      "net_total": 427.7
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 526.92,
+      "vat_rate": 0.1,
+      "net_total": 7903.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 76.37,
+      "vat_rate": 0.01,
+      "net_total": 76.37
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 204.08,
+      "vat_rate": 0.1,
+      "net_total": 408.16
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 34.73,
+      "vat_rate": 0.01,
+      "net_total": 277.84
+    }
+  ],
+  "subtotal": 9093.87,
+  "vat_total": 920.28,
+  "grand_total": 10014.15,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000002 | Tarih: 09.04.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Seyhan/İstanbul\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 2 213,85 %20 427,70\nSomon Fileto (kg) 15 526,92 %10 7.903,80\nMuz (kg) 1 76,37 %1 76,37\nTavuk Göğüs (kg) 2 204,08 %10 408,16\nElma (kg) 8 34,73 %1 277,84\nAra Toplam: 9.093,87\nKDV Toplam: 920,28\nGenel Toplam: 10.014,15\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

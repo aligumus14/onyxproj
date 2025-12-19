@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000196",
+  "source_pdf": "0796_SERVIS_SRV-2024-000196.pdf",
+  "date": "2024-06-04",
+  "status": "Kapatıldı",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Kadıköy/İstanbul",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-C",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-61239",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 720.2,
+      "unit_price": 9.0,
+      "total": 2160.87
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 413.97,
+      "total": 413.97
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 2.0,
+      "unit_price": 2856.71,
+      "total": 5713.42
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 193.1,
+      "total": 193.1
+    }
+  ],
+  "subtotal": 8481.36,
+  "vat_rate": 0.2,
+  "vat_amount": 1696.27,
+  "grand_total": 10177.63,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000196 | Tarih: 04.06.2024 | Durum: Kapatıldı\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Kadıköy/İstanbul | Şube/DM: TR-ANT-DC05 | Depo: Depo-C\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-61239\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 720,29 2.160,87\nTermostat 1 413,97 413,97\nHidrolik Hortum 2 2.856,71 5.713,42\nFiltre 1 193,10 193,10\nAra Toplam: 8.481,36\nKDV (%20): 1.696,27\nGenel Toplam: 10.177,63\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

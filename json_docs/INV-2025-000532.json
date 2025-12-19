@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000532",
+  "source_pdf": "0532_FATURA_INV-2025-000532.pdf",
+  "date": "2025-01-28",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 8,
+      "unit_price": 39.32,
+      "vat_rate": 0.1,
+      "net_total": 314.56
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 39.49,
+      "vat_rate": 0.2,
+      "net_total": 236.94
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 34.62,
+      "vat_rate": 0.1,
+      "net_total": 415.44
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 116.71,
+      "vat_rate": 0.1,
+      "net_total": 1750.65
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 84.06,
+      "vat_rate": 0.01,
+      "net_total": 168.12
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 253.97,
+      "vat_rate": 0.2,
+      "net_total": 761.91
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 101.42,
+      "vat_rate": 0.1,
+      "net_total": 405.68
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 162.29,
+      "vat_rate": 0.2,
+      "net_total": 811.45
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 151.74,
+      "vat_rate": 0.1,
+      "net_total": 606.96
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 36.54,
+      "vat_rate": 0.1,
+      "net_total": 36.54
+    }
+  ],
+  "subtotal": 5508.25,
+  "vat_total": 716.73,
+  "grand_total": 6224.98,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000532 | Tarih: 28.01.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Karşıyaka/Gaziantep\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 8 39,32 %10 314,56\nÇikolata (80 g) 6 39,49 %20 236,94\nMakarna (500 g) 12 34,62 %10 415,44\nUn (5 kg) 15 116,71 %10 1.750,65\nPirinç (1 kg) 2 84,06 %1 168,12\nKahve Çekirdeği (250 g) 3 253,97 %20 761,91\nAyçiçek Yağı (1 L) 4 101,42 %10 405,68\nKahve Çekirdeği (250 g) 5 162,29 %20 811,45\nTavuk Göğüs (kg) 4 151,74 %10 606,96\nMakarna (500 g) 1 36,54 %10 36,54\nAra Toplam: 5.508,25\nKDV Toplam: 716,73\nGenel Toplam: 6.224,98\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

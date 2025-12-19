@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000135",
+  "source_pdf": "0135_FATURA_INV-2024-000135.pdf",
+  "date": "2024-07-25",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 103.06,
+      "vat_rate": 0.1,
+      "net_total": 1030.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 43.51,
+      "vat_rate": 0.01,
+      "net_total": 43.51
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 48.42,
+      "vat_rate": 0.01,
+      "net_total": 726.3
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 95.67,
+      "vat_rate": 0.01,
+      "net_total": 191.34
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 89.76,
+      "vat_rate": 0.01,
+      "net_total": 179.52
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 59.6,
+      "vat_rate": 0.01,
+      "net_total": 596.0
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 161.07,
+      "vat_rate": 0.1,
+      "net_total": 805.35
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 55.59,
+      "vat_rate": 0.01,
+      "net_total": 166.77
+    }
+  ],
+  "subtotal": 3739.39,
+  "vat_total": 202.64,
+  "grand_total": 3942.03,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000135 | Tarih: 25.07.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-1 | Teslim Yeri: Kadıköy/İzmir\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 10 103,06 %10 1.030,60\nDomates (kg) 1 43,51 %1 43,51\nElma (kg) 15 48,42 %1 726,30\nPirinç (1 kg) 2 95,67 %1 191,34\nMuz (kg) 2 89,76 %1 179,52\nSüt (1 L) 10 59,60 %1 596,00\nTavuk Göğüs (kg) 5 161,07 %10 805,35\nElma (kg) 3 55,59 %1 166,77\nAra Toplam: 3.739,39\nKDV Toplam: 202,64\nGenel Toplam: 3.942,03\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

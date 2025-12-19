@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000131",
+  "source_pdf": "0731_SERVIS_SRV-2024-000131.pdf",
+  "date": "2024-11-01",
+  "status": "Kapatıldı",
+  "priority": "Orta",
+  "sla": "Kritik (4 saat)",
+  "location": "Karşıyaka/Bursa",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-1",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-39004",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 863.0,
+      "unit_price": 5.0,
+      "total": 2589.15
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 2589.15,
+  "vat_rate": 0.2,
+  "vat_amount": 517.83,
+  "grand_total": 3106.98,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000131 | Tarih: 01.11.2024 | Durum: Kapatıldı\nÖncelik: Orta | SLA: Kritik (4 saat)\nLokasyon: Karşıyaka/Bursa | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-1\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-39004\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 863,05 2.589,15\nParça Değişimi - - 0,00\nAra Toplam: 2.589,15\nKDV (%20): 517,83\nGenel Toplam: 3.106,98\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

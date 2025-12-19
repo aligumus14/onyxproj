@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000408",
+  "source_pdf": "0408_FATURA_INV-2024-000408.pdf",
+  "date": "2024-07-18",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 58.44,
+      "vat_rate": 0.1,
+      "net_total": 584.4
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 209.34,
+      "vat_rate": 0.1,
+      "net_total": 1046.7
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 56.11,
+      "vat_rate": 0.01,
+      "net_total": 561.1
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 20.35,
+      "vat_rate": 0.1,
+      "net_total": 101.75
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 92.56,
+      "vat_rate": 0.01,
+      "net_total": 462.8
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 53.13,
+      "vat_rate": 0.01,
+      "net_total": 318.78
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 36.45,
+      "vat_rate": 0.01,
+      "net_total": 72.9
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 37.42,
+      "vat_rate": 0.2,
+      "net_total": 224.52
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 59.97,
+      "vat_rate": 0.2,
+      "net_total": 1199.4
+    }
+  ],
+  "subtotal": 4572.35,
+  "vat_total": 472.23,
+  "grand_total": 5044.58,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000408 | Tarih: 18.07.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 10 58,44 %10 584,40\nUn (5 kg) 5 209,34 %10 1.046,70\nElma (kg) 10 56,11 %1 561,10\nMakarna (500 g) 5 20,35 %10 101,75\nPirinç (1 kg) 5 92,56 %1 462,80\nElma (kg) 6 53,13 %1 318,78\nSüt (1 L) 2 36,45 %1 72,90\nÇikolata (80 g) 6 37,42 %20 224,52\nÇikolata (80 g) 20 59,97 %20 1.199,40\nAra Toplam: 4.572,35\nKDV Toplam: 472,23\nGenel Toplam: 5.044,58\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

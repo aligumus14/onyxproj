@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000079",
+  "source_pdf": "0079_FATURA_INV-2025-000079.pdf",
+  "date": "2025-01-26",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 521.39,
+      "vat_rate": 0.1,
+      "net_total": 1042.78
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 46.15,
+      "vat_rate": 0.2,
+      "net_total": 369.2
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 51.47,
+      "vat_rate": 0.01,
+      "net_total": 51.47
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 184.08,
+      "vat_rate": 0.1,
+      "net_total": 1840.8
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 46.28,
+      "vat_rate": 0.2,
+      "net_total": 370.24
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 41.12,
+      "vat_rate": 0.01,
+      "net_total": 164.48
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 57.25,
+      "vat_rate": 0.01,
+      "net_total": 286.25
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 53.33,
+      "vat_rate": 0.01,
+      "net_total": 53.33
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 69.47,
+      "vat_rate": 0.1,
+      "net_total": 1042.05
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 27.21,
+      "vat_rate": 0.01,
+      "net_total": 108.84
+    }
+  ],
+  "subtotal": 5329.44,
+  "vat_total": 547.08,
+  "grand_total": 5876.52,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000079 | Tarih: 26.01.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 2 521,39 %10 1.042,78\nGazlı İçecek (1 L) 8 46,15 %20 369,20\nSüt (1 L) 1 51,47 %1 51,47\nTavuk Göğüs (kg) 10 184,08 %10 1.840,80\nGazlı İçecek (1 L) 8 46,28 %20 370,24\nSüt (1 L) 4 41,12 %1 164,48\nPirinç (1 kg) 5 57,25 %1 286,25\nElma (kg) 1 53,33 %1 53,33\nŞeker (1 kg) 15 69,47 %10 1.042,05\nDomates (kg) 4 27,21 %1 108,84\nAra Toplam: 5.329,44\nKDV Toplam: 547,08\nGenel Toplam: 5.876,52\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

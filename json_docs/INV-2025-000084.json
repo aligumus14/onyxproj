@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000084",
+  "source_pdf": "0084_FATURA_INV-2025-000084.pdf",
+  "date": "2025-05-15",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 32.36,
+      "vat_rate": 0.2,
+      "net_total": 323.6
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 63.29,
+      "vat_rate": 0.2,
+      "net_total": 1265.8
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 62.76,
+      "vat_rate": 0.2,
+      "net_total": 62.76
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 42.67,
+      "vat_rate": 0.01,
+      "net_total": 853.4
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 24.81,
+      "vat_rate": 0.01,
+      "net_total": 198.48
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 49.75,
+      "vat_rate": 0.01,
+      "net_total": 99.5
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 37.7,
+      "vat_rate": 0.01,
+      "net_total": 150.8
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 697.13,
+      "vat_rate": 0.1,
+      "net_total": 697.13
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 31.17,
+      "vat_rate": 0.1,
+      "net_total": 623.4
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 39.31,
+      "vat_rate": 0.01,
+      "net_total": 471.72
+    }
+  ],
+  "subtotal": 4746.59,
+  "vat_total": 480.21,
+  "grand_total": 5226.8,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000084 | Tarih: 15.05.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Adana\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 10 32,36 %20 323,60\nGazlı İçecek (1 L) 20 63,29 %20 1.265,80\nÇikolata (80 g) 1 62,76 %20 62,76\nMuz (kg) 20 42,67 %1 853,40\nDomates (kg) 8 24,81 %1 198,48\nSüt (1 L) 2 49,75 %1 99,50\nDomates (kg) 4 37,70 %1 150,80\nSomon Fileto (kg) 1 697,13 %10 697,13\nMakarna (500 g) 20 31,17 %10 623,40\nDomates (kg) 12 39,31 %1 471,72\nAra Toplam: 4.746,59\nKDV Toplam: 480,21\nGenel Toplam: 5.226,80\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

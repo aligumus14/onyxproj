@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000073",
+  "source_pdf": "0673_SERVIS_SRV-2025-000073.pdf",
+  "date": "2025-09-17",
+  "status": "Kapatıldı",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Karşıyaka/Adana",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-A",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-73632",
+  "technician": "Emre Taş",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 789.4,
+      "unit_price": 7.0,
+      "total": 3157.88
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 3157.88,
+  "vat_rate": 0.2,
+  "vat_amount": 631.58,
+  "grand_total": 3789.46,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000073 | Tarih: 17.09.2025 | Durum: Kapatıldı\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Karşıyaka/Adana | Şube/DM: TR-IST-DC01 | Depo: Depo-A\nMakine: Forklift - Linde H35D | Seri No: FLT-73632\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 789,47 3.157,88\nParça Değişimi - - 0,00\nAra Toplam: 3.157,88\nKDV (%20): 631,58\nGenel Toplam: 3.789,46\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

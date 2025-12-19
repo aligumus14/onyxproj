@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000204",
+  "source_pdf": "0804_SERVIS_SRV-2024-000204.pdf",
+  "date": "2024-06-10",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Orta (24 saat)",
+  "location": "Çankaya/Ankara",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-51754",
+  "technician": "Selin Uçar",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 985.8,
+      "unit_price": 1.0,
+      "total": 1478.71
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1478.71,
+  "vat_rate": 0.2,
+  "vat_amount": 295.74,
+  "grand_total": 1774.45,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000204 | Tarih: 10.06.2024 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Orta (24 saat)\nLokasyon: Çankaya/Ankara | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-51754\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 985,81 1.478,71\nParça Değişimi - - 0,00\nAra Toplam: 1.478,71\nKDV (%20): 295,74\nGenel Toplam: 1.774,45\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

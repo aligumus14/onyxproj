@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000226",
+  "source_pdf": "0826_SERVIS_SRV-2025-000226.pdf",
+  "date": "2025-09-08",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Selçuklu/Kocaeli",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-1",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-62220",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 781.8,
+      "unit_price": 6.0,
+      "total": 4691.16
+    },
+    {
+      "item": "Filtre",
+      "qty": 2.0,
+      "unit_price": 428.88,
+      "total": 857.76
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 410.13,
+      "total": 410.13
+    }
+  ],
+  "subtotal": 5959.05,
+  "vat_rate": 0.2,
+  "vat_amount": 1191.81,
+  "grand_total": 7150.86,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000226 | Tarih: 08.09.2025 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Selçuklu/Kocaeli | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-1\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-62220\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 781,86 4.691,16\nFiltre 2 428,88 857,76\nFiltre 1 410,13 410,13\nAra Toplam: 5.959,05\nKDV (%20): 1.191,81\nGenel Toplam: 7.150,86\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

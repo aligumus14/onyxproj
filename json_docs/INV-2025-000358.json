@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000358",
+  "source_pdf": "0358_FATURA_INV-2025-000358.pdf",
+  "date": "2025-01-05",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 46.34,
+      "vat_rate": 0.1,
+      "net_total": 231.7
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 81.34,
+      "vat_rate": 0.01,
+      "net_total": 162.68
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 55.72,
+      "vat_rate": 0.01,
+      "net_total": 445.76
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 158.22,
+      "vat_rate": 0.1,
+      "net_total": 1265.76
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 108.14,
+      "vat_rate": 0.01,
+      "net_total": 324.42
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 58.81,
+      "vat_rate": 0.01,
+      "net_total": 470.48
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 131.85,
+      "vat_rate": 0.1,
+      "net_total": 395.55
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 56.4,
+      "vat_rate": 0.1,
+      "net_total": 564.0
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 98.38,
+      "vat_rate": 0.01,
+      "net_total": 787.04
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 22.35,
+      "vat_rate": 0.2,
+      "net_total": 178.8
+    }
+  ],
+  "subtotal": 4826.19,
+  "vat_total": 303.37,
+  "grand_total": 5129.56,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000358 | Tarih: 05.01.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/İstanbul\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 5 46,34 %10 231,70\nKuru Fasulye (1 kg) 2 81,34 %1 162,68\nYoğurt (1 kg) 8 55,72 %1 445,76\nUn (5 kg) 8 158,22 %10 1.265,76\nYoğurt (1 kg) 3 108,14 %1 324,42\nMuz (kg) 8 58,81 %1 470,48\nTavuk Göğüs (kg) 3 131,85 %10 395,55\nŞeker (1 kg) 10 56,40 %10 564,00\nKuru Fasulye (1 kg) 8 98,38 %1 787,04\nMaden Suyu (200 ml) 8 22,35 %20 178,80\nAra Toplam: 4.826,19\nKDV Toplam: 303,37\nGenel Toplam: 5.129,56\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000158",
+  "source_pdf": "0758_SERVIS_SRV-2025-000158.pdf",
+  "date": "2025-09-13",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Muratpaşa/Konya",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-1",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-24505",
+  "technician": "Selin Uçar",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 849.9,
+      "unit_price": 3.0,
+      "total": 5099.58
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 889.92,
+      "total": 889.92
+    }
+  ],
+  "subtotal": 5989.5,
+  "vat_rate": 0.2,
+  "vat_amount": 1197.9,
+  "grand_total": 7187.4,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000158 | Tarih: 13.09.2025 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Muratpaşa/Konya | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-1\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-24505\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 849,93 5.099,58\nTermostat 1 889,92 889,92\nAra Toplam: 5.989,50\nKDV (%20): 1.197,90\nGenel Toplam: 7.187,40\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

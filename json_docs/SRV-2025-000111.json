@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000111",
+  "source_pdf": "0711_SERVIS_SRV-2025-000111.pdf",
+  "date": "2025-01-17",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Yüksek (8 saat)",
+  "location": "Nilüfer/Samsun",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-B",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-32148",
+  "technician": "Selin Uçar",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 911.9,
+      "unit_price": 6.0,
+      "total": 3647.84
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 313.62,
+      "total": 313.62
+    }
+  ],
+  "subtotal": 3961.46,
+  "vat_rate": 0.2,
+  "vat_amount": 792.29,
+  "grand_total": 4753.75,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000111 | Tarih: 17.01.2025 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Yüksek (8 saat)\nLokasyon: Nilüfer/Samsun | Şube/DM: TR-ANK-DC02 | Depo: Depo-B\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-32148\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 911,96 3.647,84\nFiltre 1 313,62 313,62\nAra Toplam: 3.961,46\nKDV (%20): 792,29\nGenel Toplam: 4.753,75\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

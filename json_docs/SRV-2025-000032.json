@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000032",
+  "source_pdf": "0632_SERVIS_SRV-2025-000032.pdf",
+  "date": "2025-05-12",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Orta (24 saat)",
+  "location": "Beşiktaş/Konya",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-A",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-95865",
+  "technician": "Emre Taş",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 1156.1,
+      "unit_price": 1.0,
+      "total": 6936.66
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 6936.66,
+  "vat_rate": 0.2,
+  "vat_amount": 1387.33,
+  "grand_total": 8323.99,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000032 | Tarih: 12.05.2025 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Orta (24 saat)\nLokasyon: Beşiktaş/Konya | Şube/DM: TR-IZM-DC03 | Depo: Depo-A\nMakine: Forklift - Linde H35D | Seri No: FLT-95865\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 1.156,11 6.936,66\nParça Değişimi - - 0,00\nAra Toplam: 6.936,66\nKDV (%20): 1.387,33\nGenel Toplam: 8.323,99\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

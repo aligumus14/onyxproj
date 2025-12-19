@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000560",
+  "source_pdf": "0560_FATURA_INV-2024-000560.pdf",
+  "date": "2024-05-07",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 139.13,
+      "vat_rate": 0.1,
+      "net_total": 695.65
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 22.22,
+      "vat_rate": 0.2,
+      "net_total": 66.66
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 24.51,
+      "vat_rate": 0.2,
+      "net_total": 49.02
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 49.89,
+      "vat_rate": 0.01,
+      "net_total": 149.67
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 51.07,
+      "vat_rate": 0.01,
+      "net_total": 204.28
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 61.71,
+      "vat_rate": 0.01,
+      "net_total": 1234.2
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 165.94,
+      "vat_rate": 0.1,
+      "net_total": 829.7
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 19.78,
+      "vat_rate": 0.2,
+      "net_total": 19.78
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 39.47,
+      "vat_rate": 0.01,
+      "net_total": 39.47
+    }
+  ],
+  "subtotal": 3288.43,
+  "vat_total": 195.89,
+  "grand_total": 3484.32,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000560 | Tarih: 07.05.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Beşiktaş/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 5 139,13 %10 695,65\nMaden Suyu (200 ml) 3 22,22 %20 66,66\nMaden Suyu (200 ml) 2 24,51 %20 49,02\nSüt (1 L) 3 49,89 %1 149,67\nSüt (1 L) 4 51,07 %1 204,28\nMuz (kg) 20 61,71 %1 1.234,20\nAyçiçek Yağı (1 L) 5 165,94 %10 829,70\nMaden Suyu (200 ml) 1 19,78 %20 19,78\nElma (kg) 1 39,47 %1 39,47\nAra Toplam: 3.288,43\nKDV Toplam: 195,89\nGenel Toplam: 3.484,32\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

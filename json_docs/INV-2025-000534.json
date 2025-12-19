@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000534",
+  "source_pdf": "0534_FATURA_INV-2025-000534.pdf",
+  "date": "2025-01-25",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 35.02,
+      "vat_rate": 0.2,
+      "net_total": 35.02
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 45.39,
+      "vat_rate": 0.2,
+      "net_total": 226.95
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 204.44,
+      "vat_rate": 0.1,
+      "net_total": 613.32
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 66.04,
+      "vat_rate": 0.01,
+      "net_total": 198.12
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 167.26,
+      "vat_rate": 0.1,
+      "net_total": 501.78
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 46.73,
+      "vat_rate": 0.01,
+      "net_total": 93.46
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 21.75,
+      "vat_rate": 0.2,
+      "net_total": 435.0
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 113.84,
+      "vat_rate": 0.01,
+      "net_total": 569.2
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 45.63,
+      "vat_rate": 0.1,
+      "net_total": 136.89
+    }
+  ],
+  "subtotal": 2809.74,
+  "vat_total": 273.19,
+  "grand_total": 3082.93,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000534 | Tarih: 25.01.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Şişli/Ankara\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 1 35,02 %20 35,02\nÇikolata (80 g) 5 45,39 %20 226,95\nTavuk Göğüs (kg) 3 204,44 %10 613,32\nYoğurt (1 kg) 3 66,04 %1 198,12\nTavuk Göğüs (kg) 3 167,26 %10 501,78\nSüt (1 L) 2 46,73 %1 93,46\nMaden Suyu (200 ml) 20 21,75 %20 435,00\nKuru Fasulye (1 kg) 5 113,84 %1 569,20\nŞeker (1 kg) 3 45,63 %10 136,89\nAra Toplam: 2.809,74\nKDV Toplam: 273,19\nGenel Toplam: 3.082,93\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

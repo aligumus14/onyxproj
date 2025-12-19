@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000205",
+  "source_pdf": "0205_FATURA_INV-2024-000205.pdf",
+  "date": "2024-12-06",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 2,
+      "unit_price": 149.23,
+      "vat_rate": 0.1,
+      "net_total": 298.46
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 120.12,
+      "vat_rate": 0.1,
+      "net_total": 1201.2
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 55.14,
+      "vat_rate": 0.01,
+      "net_total": 165.42
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 77.45,
+      "vat_rate": 0.01,
+      "net_total": 464.7
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 388.79,
+      "vat_rate": 0.1,
+      "net_total": 2332.74
+    }
+  ],
+  "subtotal": 4462.52,
+  "vat_total": 389.54,
+  "grand_total": 4852.06,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000205 | Tarih: 06.12.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Şehitkamil/Konya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 2 149,23 %10 298,46\nUn (5 kg) 10 120,12 %10 1.201,20\nSüt (1 L) 3 55,14 %1 165,42\nYoğurt (1 kg) 6 77,45 %1 464,70\nDana Kıyma (kg) 6 388,79 %10 2.332,74\nAra Toplam: 4.462,52\nKDV Toplam: 389,54\nGenel Toplam: 4.852,06\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

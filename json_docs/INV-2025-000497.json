@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000497",
+  "source_pdf": "0497_FATURA_INV-2025-000497.pdf",
+  "date": "2025-11-13",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 60.54,
+      "vat_rate": 0.01,
+      "net_total": 181.62
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 97.09,
+      "vat_rate": 0.01,
+      "net_total": 1456.35
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 40.53,
+      "vat_rate": 0.01,
+      "net_total": 81.06
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 50.46,
+      "vat_rate": 0.01,
+      "net_total": 302.76
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 72.05,
+      "vat_rate": 0.01,
+      "net_total": 216.15
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 20,
+      "unit_price": 203.54,
+      "vat_rate": 0.1,
+      "net_total": 4070.8
+    }
+  ],
+  "subtotal": 6308.74,
+  "vat_total": 429.46,
+  "grand_total": 6738.2,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000497 | Tarih: 13.11.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 3 60,54 %1 181,62\nPirinç (1 kg) 15 97,09 %1 1.456,35\nMuz (kg) 2 40,53 %1 81,06\nDomates (kg) 6 50,46 %1 302,76\nMuz (kg) 3 72,05 %1 216,15\nUn (5 kg) 20 203,54 %10 4.070,80\nAra Toplam: 6.308,74\nKDV Toplam: 429,46\nGenel Toplam: 6.738,20\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

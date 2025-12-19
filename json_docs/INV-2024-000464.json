@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000464",
+  "source_pdf": "0464_FATURA_INV-2024-000464.pdf",
+  "date": "2024-07-21",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 417.3,
+      "vat_rate": 0.1,
+      "net_total": 417.3
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 23.07,
+      "vat_rate": 0.1,
+      "net_total": 138.42
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 16.78,
+      "vat_rate": 0.2,
+      "net_total": 134.24
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 132.13,
+      "vat_rate": 0.1,
+      "net_total": 1321.3
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 29.71,
+      "vat_rate": 0.2,
+      "net_total": 297.1
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 103.8,
+      "vat_rate": 0.01,
+      "net_total": 2076.0
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 519.2,
+      "vat_rate": 0.1,
+      "net_total": 3115.2
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 97.28,
+      "vat_rate": 0.01,
+      "net_total": 486.4
+    }
+  ],
+  "subtotal": 7985.96,
+  "vat_total": 611.11,
+  "grand_total": 8597.07,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000464 | Tarih: 21.07.2024 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Çankaya/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 1 417,30 %10 417,30\nMakarna (500 g) 6 23,07 %10 138,42\nMaden Suyu (200 ml) 8 16,78 %20 134,24\nAyçiçek Yağı (1 L) 10 132,13 %10 1.321,30\nGazlı İçecek (1 L) 10 29,71 %20 297,10\nYoğurt (1 kg) 20 103,80 %1 2.076,00\nDana Kıyma (kg) 6 519,20 %10 3.115,20\nKuru Fasulye (1 kg) 5 97,28 %1 486,40\nAra Toplam: 7.985,96\nKDV Toplam: 611,11\nGenel Toplam: 8.597,07\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

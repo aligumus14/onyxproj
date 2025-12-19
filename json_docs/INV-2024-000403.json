@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000403",
+  "source_pdf": "0403_FATURA_INV-2024-000403.pdf",
+  "date": "2024-10-02",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 36.02,
+      "vat_rate": 0.01,
+      "net_total": 360.2
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 40.58,
+      "vat_rate": 0.01,
+      "net_total": 162.32
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 38.59,
+      "vat_rate": 0.1,
+      "net_total": 231.54
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 28.06,
+      "vat_rate": 0.2,
+      "net_total": 336.72
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 643.66,
+      "vat_rate": 0.1,
+      "net_total": 12873.2
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 52.52,
+      "vat_rate": 0.01,
+      "net_total": 525.2
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 53.97,
+      "vat_rate": 0.01,
+      "net_total": 809.55
+    }
+  ],
+  "subtotal": 15298.73,
+  "vat_total": 1396.38,
+  "grand_total": 16695.11,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000403 | Tarih: 02.10.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Nilüfer/Bursa\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 10 36,02 %1 360,20\nElma (kg) 4 40,58 %1 162,32\nŞeker (1 kg) 6 38,59 %10 231,54\nGazlı İçecek (1 L) 12 28,06 %20 336,72\nSomon Fileto (kg) 20 643,66 %10 12.873,20\nSüt (1 L) 10 52,52 %1 525,20\nSüt (1 L) 15 53,97 %1 809,55\nAra Toplam: 15.298,73\nKDV Toplam: 1.396,38\nGenel Toplam: 16.695,11\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

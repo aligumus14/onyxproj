@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000046",
+  "source_pdf": "0646_SERVIS_SRV-2024-000046.pdf",
+  "date": "2024-09-21",
+  "status": "Parça Bekleniyor",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Selçuklu/Samsun",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-81657",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 863.3,
+      "unit_price": 6.0,
+      "total": 5180.16
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 5180.16,
+  "vat_rate": 0.2,
+  "vat_amount": 1036.03,
+  "grand_total": 6216.19,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000046 | Tarih: 21.09.2024 | Durum: Parça Bekleniyor\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Selçuklu/Samsun | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Forklift - Linde H35D | Seri No: FLT-81657\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 863,36 5.180,16\nParça Değişimi - - 0,00\nAra Toplam: 5.180,16\nKDV (%20): 1.036,03\nGenel Toplam: 6.216,19\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

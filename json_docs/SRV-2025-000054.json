@@ -1,0 +1,52 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000054",
+  "source_pdf": "0654_SERVIS_SRV-2025-000054.pdf",
+  "date": "2025-01-16",
+  "status": "Açık",
+  "priority": "Orta",
+  "sla": "Kritik (4 saat)",
+  "location": "Karşıyaka/Gaziantep",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-17860",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 891.6,
+      "unit_price": 1.0,
+      "total": 2229.03
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 2.0,
+      "unit_price": 4171.57,
+      "total": 8343.14
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1262.08,
+      "total": 1262.08
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 788.5,
+      "total": 788.5
+    }
+  ],
+  "subtotal": 12622.75,
+  "vat_rate": 0.2,
+  "vat_amount": 2524.55,
+  "grand_total": 15147.3,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000054 | Tarih: 16.01.2025 | Durum: Açık\nÖncelik: Orta | SLA: Kritik (4 saat)\nLokasyon: Karşıyaka/Gaziantep | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-17860\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 891,61 2.229,03\nHidrolik Hortum 2 4.171,57 8.343,14\nKayış 1 1.262,08 1.262,08\nKayış 1 788,50 788,50\nAra Toplam: 12.622,75\nKDV (%20): 2.524,55\nGenel Toplam: 15.147,30\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

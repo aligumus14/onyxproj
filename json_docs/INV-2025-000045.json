@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000045",
+  "source_pdf": "0045_FATURA_INV-2025-000045.pdf",
+  "date": "2025-09-28",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 114.51,
+      "vat_rate": 0.01,
+      "net_total": 572.55
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 522.56,
+      "vat_rate": 0.1,
+      "net_total": 522.56
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 87.73,
+      "vat_rate": 0.01,
+      "net_total": 1315.95
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 80.75,
+      "vat_rate": 0.01,
+      "net_total": 242.25
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 46.11,
+      "vat_rate": 0.01,
+      "net_total": 92.22
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 111.98,
+      "vat_rate": 0.1,
+      "net_total": 895.84
+    }
+  ],
+  "subtotal": 3641.37,
+  "vat_total": 164.07,
+  "grand_total": 3805.44,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000045 | Tarih: 28.09.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Karşıyaka/Samsun\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 5 114,51 %1 572,55\nSomon Fileto (kg) 1 522,56 %10 522,56\nPirinç (1 kg) 15 87,73 %1 1.315,95\nMuz (kg) 3 80,75 %1 242,25\nDomates (kg) 2 46,11 %1 92,22\nAyçiçek Yağı (1 L) 8 111,98 %10 895,84\nAra Toplam: 3.641,37\nKDV Toplam: 164,07\nGenel Toplam: 3.805,44\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

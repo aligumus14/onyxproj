@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000061",
+  "source_pdf": "0661_SERVIS_SRV-2024-000061.pdf",
+  "date": "2024-11-18",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Düşük (72 saat)",
+  "location": "Şehitkamil/Konya",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Soğuk Oda-1",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-45945",
+  "technician": "Emre Taş",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 624.4,
+      "unit_price": 1.0,
+      "total": 1561.02
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1561.02,
+  "vat_rate": 0.2,
+  "vat_amount": 312.2,
+  "grand_total": 1873.22,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000061 | Tarih: 18.11.2024 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Düşük (72 saat)\nLokasyon: Şehitkamil/Konya | Şube/DM: TR-ANK-DC02 | Depo: Soğuk Oda-1\nMakine: Forklift - Linde H35D | Seri No: FLT-45945\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 624,41 1.561,02\nParça Değişimi - - 0,00\nAra Toplam: 1.561,02\nKDV (%20): 312,20\nGenel Toplam: 1.873,22\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

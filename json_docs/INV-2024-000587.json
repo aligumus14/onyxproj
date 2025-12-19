@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000587",
+  "source_pdf": "0587_FATURA_INV-2024-000587.pdf",
+  "date": "2024-08-16",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 66.49,
+      "vat_rate": 0.1,
+      "net_total": 997.35
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 31.2,
+      "vat_rate": 0.2,
+      "net_total": 312.0
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 51.73,
+      "vat_rate": 0.01,
+      "net_total": 517.3
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 35.47,
+      "vat_rate": 0.01,
+      "net_total": 709.4
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 126.17,
+      "vat_rate": 0.1,
+      "net_total": 630.85
+    }
+  ],
+  "subtotal": 3166.9,
+  "vat_total": 237.49,
+  "grand_total": 3404.39,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000587 | Tarih: 16.08.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Şehitkamil/Kocaeli\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 15 66,49 %10 997,35\nGazlı İçecek (1 L) 10 31,20 %20 312,00\nElma (kg) 10 51,73 %1 517,30\nDomates (kg) 20 35,47 %1 709,40\nAyçiçek Yağı (1 L) 5 126,17 %10 630,85\nAra Toplam: 3.166,90\nKDV Toplam: 237,49\nGenel Toplam: 3.404,39\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

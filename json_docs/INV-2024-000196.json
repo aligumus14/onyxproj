@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000196",
+  "source_pdf": "0196_FATURA_INV-2024-000196.pdf",
+  "date": "2024-07-26",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 49.32,
+      "vat_rate": 0.2,
+      "net_total": 49.32
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 23.86,
+      "vat_rate": 0.1,
+      "net_total": 95.44
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 29.07,
+      "vat_rate": 0.1,
+      "net_total": 290.7
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 73.01,
+      "vat_rate": 0.01,
+      "net_total": 1095.15
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 34.73,
+      "vat_rate": 0.01,
+      "net_total": 416.76
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 26.96,
+      "vat_rate": 0.2,
+      "net_total": 107.84
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 87.46,
+      "vat_rate": 0.01,
+      "net_total": 87.46
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 41.05,
+      "vat_rate": 0.01,
+      "net_total": 123.15
+    }
+  ],
+  "subtotal": 2265.82,
+  "vat_total": 87.26,
+  "grand_total": 2353.08,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000196 | Tarih: 26.07.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Seyhan/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 1 49,32 %20 49,32\nMakarna (500 g) 4 23,86 %10 95,44\nMakarna (500 g) 10 29,07 %10 290,70\nMuz (kg) 15 73,01 %1 1.095,15\nSüt (1 L) 12 34,73 %1 416,76\nGazlı İçecek (1 L) 4 26,96 %20 107,84\nPirinç (1 kg) 1 87,46 %1 87,46\nSalatalık (kg) 3 41,05 %1 123,15\nAra Toplam: 2.265,82\nKDV Toplam: 87,26\nGenel Toplam: 2.353,08\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

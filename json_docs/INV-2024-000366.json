@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000366",
+  "source_pdf": "0366_FATURA_INV-2024-000366.pdf",
+  "date": "2024-01-11",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 31.34,
+      "vat_rate": 0.2,
+      "net_total": 31.34
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 63.5,
+      "vat_rate": 0.01,
+      "net_total": 127.0
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 20.81,
+      "vat_rate": 0.01,
+      "net_total": 249.72
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 3,
+      "unit_price": 34.73,
+      "vat_rate": 0.2,
+      "net_total": 104.19
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 809.43,
+      "vat_rate": 0.1,
+      "net_total": 1618.86
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 24.85,
+      "vat_rate": 0.01,
+      "net_total": 149.1
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 54.72,
+      "vat_rate": 0.01,
+      "net_total": 164.16
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 43.74,
+      "vat_rate": 0.1,
+      "net_total": 174.96
+    }
+  ],
+  "subtotal": 2619.33,
+  "vat_total": 213.4,
+  "grand_total": 2832.73,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000366 | Tarih: 11.01.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Nilüfer/Ankara\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 1 31,34 %20 31,34\nYoğurt (1 kg) 2 63,50 %1 127,00\nDomates (kg) 12 20,81 %1 249,72\nÇikolata (80 g) 3 34,73 %20 104,19\nSomon Fileto (kg) 2 809,43 %10 1.618,86\nDomates (kg) 6 24,85 %1 149,10\nMuz (kg) 3 54,72 %1 164,16\nMakarna (500 g) 4 43,74 %10 174,96\nAra Toplam: 2.619,33\nKDV Toplam: 213,40\nGenel Toplam: 2.832,73\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

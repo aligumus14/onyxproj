@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000323",
+  "source_pdf": "0323_FATURA_INV-2025-000323.pdf",
+  "date": "2025-05-09",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 20.17,
+      "vat_rate": 0.2,
+      "net_total": 40.34
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 106.78,
+      "vat_rate": 0.01,
+      "net_total": 854.24
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 72.87,
+      "vat_rate": 0.1,
+      "net_total": 1457.4
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 27.6,
+      "vat_rate": 0.01,
+      "net_total": 55.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 43.52,
+      "vat_rate": 0.1,
+      "net_total": 130.56
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 47.75,
+      "vat_rate": 0.01,
+      "net_total": 573.0
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 24.55,
+      "vat_rate": 0.2,
+      "net_total": 196.4
+    }
+  ],
+  "subtotal": 3307.14,
+  "vat_total": 220.97,
+  "grand_total": 3528.11,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000323 | Tarih: 09.05.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Çankaya/Bursa\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 2 20,17 %20 40,34\nPirinç (1 kg) 8 106,78 %1 854,24\nŞeker (1 kg) 20 72,87 %10 1.457,40\nSalatalık (kg) 2 27,60 %1 55,20\nMakarna (500 g) 3 43,52 %10 130,56\nElma (kg) 12 47,75 %1 573,00\nMaden Suyu (200 ml) 8 24,55 %20 196,40\nAra Toplam: 3.307,14\nKDV Toplam: 220,97\nGenel Toplam: 3.528,11\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

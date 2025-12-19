@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000089",
+  "source_pdf": "0089_FATURA_INV-2024-000089.pdf",
+  "date": "2024-01-27",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 34.48,
+      "vat_rate": 0.01,
+      "net_total": 172.4
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 89.79,
+      "vat_rate": 0.01,
+      "net_total": 1077.48
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 43.24,
+      "vat_rate": 0.01,
+      "net_total": 648.6
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 143.6,
+      "vat_rate": 0.2,
+      "net_total": 430.8
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 164.24,
+      "vat_rate": 0.1,
+      "net_total": 821.2
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 63.91,
+      "vat_rate": 0.01,
+      "net_total": 191.73
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 56.79,
+      "vat_rate": 0.1,
+      "net_total": 283.95
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 53.84,
+      "vat_rate": 0.01,
+      "net_total": 323.04
+    }
+  ],
+  "subtotal": 3949.2,
+  "vat_total": 220.8,
+  "grand_total": 4170.0,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000089 | Tarih: 27.01.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Şehitkamil/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 5 34,48 %1 172,40\nMuz (kg) 12 89,79 %1 1.077,48\nSüt (1 L) 15 43,24 %1 648,60\nKahve Çekirdeği (250 g) 3 143,60 %20 430,80\nTavuk Göğüs (kg) 5 164,24 %10 821,20\nMuz (kg) 3 63,91 %1 191,73\nŞeker (1 kg) 5 56,79 %10 283,95\nMuz (kg) 6 53,84 %1 323,04\nAra Toplam: 3.949,20\nKDV Toplam: 220,80\nGenel Toplam: 4.170,00\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

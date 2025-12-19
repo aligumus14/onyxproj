@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000209",
+  "source_pdf": "0809_SERVIS_SRV-2025-000209.pdf",
+  "date": "2025-02-26",
+  "status": "Açık",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Kadıköy/Kocaeli",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-85334",
+  "technician": "Deniz Arı",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (4.0 saat)",
+      "qty": 655.0,
+      "unit_price": 0.0,
+      "total": 2620.0
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 2.0,
+      "unit_price": 1304.12,
+      "total": 2608.24
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 176.35,
+      "total": 176.35
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 1269.36,
+      "total": 1269.36
+    }
+  ],
+  "subtotal": 6673.95,
+  "vat_rate": 0.2,
+  "vat_amount": 1334.79,
+  "grand_total": 8008.74,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000209 | Tarih: 26.02.2025 | Durum: Açık\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Kadıköy/Kocaeli | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-85334\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (4.0 saat) 655,00 2.620,00\nHidrolik Hortum 2 1.304,12 2.608,24\nFiltre 1 176,35 176,35\nKayış 1 1.269,36 1.269,36\nAra Toplam: 6.673,95\nKDV (%20): 1.334,79\nGenel Toplam: 8.008,74\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

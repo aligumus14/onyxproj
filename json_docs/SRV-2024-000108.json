@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000108",
+  "source_pdf": "0708_SERVIS_SRV-2024-000108.pdf",
+  "date": "2024-06-16",
+  "status": "Açık",
+  "priority": "Orta",
+  "sla": "Düşük (72 saat)",
+  "location": "Selçuklu/İstanbul",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Konveyör Hattı - FlexLine 2000",
+  "serial_no": "CNV-39171",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 882.9,
+      "unit_price": 8.0,
+      "total": 1324.47
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 858.42,
+      "total": 858.42
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 303.75,
+      "total": 607.5
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 1791.41,
+      "total": 1791.41
+    }
+  ],
+  "subtotal": 4581.8,
+  "vat_rate": 0.2,
+  "vat_amount": 916.36,
+  "grand_total": 5498.16,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000108 | Tarih: 16.06.2024 | Durum: Açık\nÖncelik: Orta | SLA: Düşük (72 saat)\nLokasyon: Selçuklu/İstanbul | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Konveyör Hattı - FlexLine 2000 | Seri No: CNV-39171\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 882,98 1.324,47\nRulman Seti 1 858,42 858,42\nKayış 2 303,75 607,50\nSensör 1 1.791,41 1.791,41\nAra Toplam: 4.581,80\nKDV (%20): 916,36\nGenel Toplam: 5.498,16\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

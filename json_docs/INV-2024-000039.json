@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000039",
+  "source_pdf": "0039_FATURA_INV-2024-000039.pdf",
+  "date": "2024-04-29",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 29.75,
+      "vat_rate": 0.01,
+      "net_total": 357.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 177.16,
+      "vat_rate": 0.1,
+      "net_total": 1062.96
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 48.49,
+      "vat_rate": 0.2,
+      "net_total": 387.92
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 87.57,
+      "vat_rate": 0.01,
+      "net_total": 700.56
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 29.02,
+      "vat_rate": 0.1,
+      "net_total": 435.3
+    }
+  ],
+  "subtotal": 2943.74,
+  "vat_total": 237.99,
+  "grand_total": 3181.73,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000039 | Tarih: 29.04.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-A | Teslim Yeri: Seyhan/Antalya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 12 29,75 %1 357,00\nUn (5 kg) 6 177,16 %10 1.062,96\nGazlı İçecek (1 L) 8 48,49 %20 387,92\nPirinç (1 kg) 8 87,57 %1 700,56\nMakarna (500 g) 15 29,02 %10 435,30\nAra Toplam: 2.943,74\nKDV Toplam: 237,99\nGenel Toplam: 3.181,73\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

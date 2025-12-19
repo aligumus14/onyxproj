@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000204",
+  "source_pdf": "0204_FATURA_INV-2024-000204.pdf",
+  "date": "2024-01-16",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 313.97,
+      "vat_rate": 0.1,
+      "net_total": 1569.85
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 136.93,
+      "vat_rate": 0.1,
+      "net_total": 2053.95
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 73.73,
+      "vat_rate": 0.01,
+      "net_total": 368.65
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 386.48,
+      "vat_rate": 0.1,
+      "net_total": 4637.76
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 75.6,
+      "vat_rate": 0.01,
+      "net_total": 75.6
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 28.36,
+      "vat_rate": 0.01,
+      "net_total": 56.72
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 61.56,
+      "vat_rate": 0.01,
+      "net_total": 492.48
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 22.54,
+      "vat_rate": 0.2,
+      "net_total": 450.8
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 136.23,
+      "vat_rate": 0.1,
+      "net_total": 2043.45
+    }
+  ],
+  "subtotal": 11749.26,
+  "vat_total": 1130.61,
+  "grand_total": 12879.87,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000204 | Tarih: 16.01.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Selçuklu/Bursa\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 5 313,97 %10 1.569,85\nTavuk Göğüs (kg) 15 136,93 %10 2.053,95\nMuz (kg) 5 73,73 %1 368,65\nDana Kıyma (kg) 12 386,48 %10 4.637,76\nPirinç (1 kg) 1 75,60 %1 75,60\nSalatalık (kg) 2 28,36 %1 56,72\nMuz (kg) 8 61,56 %1 492,48\nMaden Suyu (200 ml) 20 22,54 %20 450,80\nUn (5 kg) 15 136,23 %10 2.043,45\nAra Toplam: 11.749,26\nKDV Toplam: 1.130,61\nGenel Toplam: 12.879,87\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

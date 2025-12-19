@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000179",
+  "source_pdf": "0179_FATURA_INV-2024-000179.pdf",
+  "date": "2024-11-25",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 118.54,
+      "vat_rate": 0.1,
+      "net_total": 237.08
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 44.99,
+      "vat_rate": 0.01,
+      "net_total": 44.99
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 203.28,
+      "vat_rate": 0.2,
+      "net_total": 4065.6
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 10.74,
+      "vat_rate": 0.2,
+      "net_total": 53.7
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 50.12,
+      "vat_rate": 0.01,
+      "net_total": 751.8
+    }
+  ],
+  "subtotal": 5153.17,
+  "vat_total": 855.54,
+  "grand_total": 6008.71,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000179 | Tarih: 25.11.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Şişli/İstanbul\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 2 118,54 %10 237,08\nElma (kg) 1 44,99 %1 44,99\nKahve Çekirdeği (250 g) 20 203,28 %20 4.065,60\nMaden Suyu (200 ml) 5 10,74 %20 53,70\nSüt (1 L) 15 50,12 %1 751,80\nAra Toplam: 5.153,17\nKDV Toplam: 855,54\nGenel Toplam: 6.008,71\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

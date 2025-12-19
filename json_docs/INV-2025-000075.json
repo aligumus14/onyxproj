@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000075",
+  "source_pdf": "0075_FATURA_INV-2025-000075.pdf",
+  "date": "2025-04-14",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 131.1,
+      "vat_rate": 0.1,
+      "net_total": 393.3
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 207.6,
+      "vat_rate": 0.2,
+      "net_total": 1660.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 76.81,
+      "vat_rate": 0.01,
+      "net_total": 614.48
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 108.2,
+      "vat_rate": 0.01,
+      "net_total": 324.6
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 34.13,
+      "vat_rate": 0.01,
+      "net_total": 34.13
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 51.38,
+      "vat_rate": 0.01,
+      "net_total": 513.8
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 419.79,
+      "vat_rate": 0.1,
+      "net_total": 2098.95
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 13.92,
+      "vat_rate": 0.2,
+      "net_total": 13.92
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 474.85,
+      "vat_rate": 0.1,
+      "net_total": 1899.4
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 35.74,
+      "vat_rate": 0.01,
+      "net_total": 357.4
+    }
+  ],
+  "subtotal": 7910.78,
+  "vat_total": 792.54,
+  "grand_total": 8703.32,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000075 | Tarih: 14.04.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Karşıyaka/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 3 131,10 %10 393,30\nKahve Çekirdeği (250 g) 8 207,60 %20 1.660,80\nMuz (kg) 8 76,81 %1 614,48\nKuru Fasulye (1 kg) 3 108,20 %1 324,60\nSüt (1 L) 1 34,13 %1 34,13\nSüt (1 L) 10 51,38 %1 513,80\nDana Kıyma (kg) 5 419,79 %10 2.098,95\nMaden Suyu (200 ml) 1 13,92 %20 13,92\nSomon Fileto (kg) 4 474,85 %10 1.899,40\nElma (kg) 10 35,74 %1 357,40\nAra Toplam: 7.910,78\nKDV Toplam: 792,54\nGenel Toplam: 8.703,32\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

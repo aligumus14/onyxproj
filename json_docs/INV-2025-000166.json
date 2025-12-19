@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000166",
+  "source_pdf": "0166_FATURA_INV-2025-000166.pdf",
+  "date": "2025-08-11",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 10.81,
+      "vat_rate": 0.2,
+      "net_total": 32.43
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 77.28,
+      "vat_rate": 0.1,
+      "net_total": 772.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 27.38,
+      "vat_rate": 0.01,
+      "net_total": 328.56
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 148.12,
+      "vat_rate": 0.01,
+      "net_total": 1481.2
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 39.2,
+      "vat_rate": 0.2,
+      "net_total": 392.0
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 43.59,
+      "vat_rate": 0.01,
+      "net_total": 43.59
+    }
+  ],
+  "subtotal": 3050.58,
+  "vat_total": 180.71,
+  "grand_total": 3231.29,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000166 | Tarih: 11.08.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-1 | Teslim Yeri: Karşıyaka/Gaziantep\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 3 10,81 %20 32,43\nŞeker (1 kg) 10 77,28 %10 772,80\nSalatalık (kg) 12 27,38 %1 328,56\nKuru Fasulye (1 kg) 10 148,12 %1 1.481,20\nÇikolata (80 g) 10 39,20 %20 392,00\nDomates (kg) 1 43,59 %1 43,59\nAra Toplam: 3.050,58\nKDV Toplam: 180,71\nGenel Toplam: 3.231,29\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

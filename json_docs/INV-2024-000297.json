@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000297",
+  "source_pdf": "0297_FATURA_INV-2024-000297.pdf",
+  "date": "2024-08-12",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 146.73,
+      "vat_rate": 0.2,
+      "net_total": 2200.95
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 670.22,
+      "vat_rate": 0.1,
+      "net_total": 3351.1
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 64.18,
+      "vat_rate": 0.01,
+      "net_total": 128.36
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 35.36,
+      "vat_rate": 0.2,
+      "net_total": 212.16
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 31.83,
+      "vat_rate": 0.01,
+      "net_total": 318.3
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 388.28,
+      "vat_rate": 0.1,
+      "net_total": 3106.24
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 51.54,
+      "vat_rate": 0.1,
+      "net_total": 412.32
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 25.37,
+      "vat_rate": 0.1,
+      "net_total": 152.22
+    }
+  ],
+  "subtotal": 9881.65,
+  "vat_total": 1189.26,
+  "grand_total": 11070.91,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000297 | Tarih: 12.08.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/Kocaeli\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 15 146,73 %20 2.200,95\nSomon Fileto (kg) 5 670,22 %10 3.351,10\nPirinç (1 kg) 2 64,18 %1 128,36\nÇikolata (80 g) 6 35,36 %20 212,16\nSalatalık (kg) 10 31,83 %1 318,30\nDana Kıyma (kg) 8 388,28 %10 3.106,24\nŞeker (1 kg) 8 51,54 %10 412,32\nMakarna (500 g) 6 25,37 %10 152,22\nAra Toplam: 9.881,65\nKDV Toplam: 1.189,26\nGenel Toplam: 11.070,91\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

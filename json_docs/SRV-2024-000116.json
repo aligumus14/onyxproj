@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000116",
+  "source_pdf": "0716_SERVIS_SRV-2024-000116.pdf",
+  "date": "2024-02-26",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Kritik (4 saat)",
+  "location": "Muratpaşa/Antalya",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-C",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-40974",
+  "technician": "Selin Uçar",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 1092.5,
+      "unit_price": 8.0,
+      "total": 1638.87
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 216.82,
+      "total": 216.82
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 624.69,
+      "total": 624.69
+    }
+  ],
+  "subtotal": 2480.38,
+  "vat_rate": 0.2,
+  "vat_amount": 496.08,
+  "grand_total": 2976.46,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000116 | Tarih: 26.02.2024 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Kritik (4 saat)\nLokasyon: Muratpaşa/Antalya | Şube/DM: TR-BUR-DC04 | Depo: Depo-C\nMakine: Forklift - Linde H35D | Seri No: FLT-40974\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 1.092,58 1.638,87\nFiltre 1 216,82 216,82\nRulman Seti 1 624,69 624,69\nAra Toplam: 2.480,38\nKDV (%20): 496,08\nGenel Toplam: 2.976,46\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000044",
+  "source_pdf": "0044_FATURA_INV-2025-000044.pdf",
+  "date": "2025-11-12",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 13.19,
+      "vat_rate": 0.2,
+      "net_total": 158.28
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 40.88,
+      "vat_rate": 0.1,
+      "net_total": 163.52
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 597.02,
+      "vat_rate": 0.1,
+      "net_total": 7164.24
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 65.83,
+      "vat_rate": 0.01,
+      "net_total": 987.45
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 78.85,
+      "vat_rate": 0.1,
+      "net_total": 946.2
+    }
+  ],
+  "subtotal": 9419.69,
+  "vat_total": 868.92,
+  "grand_total": 10288.61,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000044 | Tarih: 12.11.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Karşıyaka/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 12 13,19 %20 158,28\nMakarna (500 g) 4 40,88 %10 163,52\nSomon Fileto (kg) 12 597,02 %10 7.164,24\nYoğurt (1 kg) 15 65,83 %1 987,45\nŞeker (1 kg) 12 78,85 %10 946,20\nAra Toplam: 9.419,69\nKDV Toplam: 868,92\nGenel Toplam: 10.288,61\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

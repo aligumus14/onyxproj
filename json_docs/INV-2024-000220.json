@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000220",
+  "source_pdf": "0220_FATURA_INV-2024-000220.pdf",
+  "date": "2024-02-27",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 54.64,
+      "vat_rate": 0.2,
+      "net_total": 163.92
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 26.29,
+      "vat_rate": 0.01,
+      "net_total": 52.58
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 87.5,
+      "vat_rate": 0.01,
+      "net_total": 875.0
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 19.24,
+      "vat_rate": 0.1,
+      "net_total": 288.6
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 56.2,
+      "vat_rate": 0.01,
+      "net_total": 56.2
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 40.16,
+      "vat_rate": 0.01,
+      "net_total": 200.8
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 46.39,
+      "vat_rate": 0.01,
+      "net_total": 463.9
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 22.27,
+      "vat_rate": 0.2,
+      "net_total": 44.54
+    }
+  ],
+  "subtotal": 2145.54,
+  "vat_total": 87.04,
+  "grand_total": 2232.58,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000220 | Tarih: 27.02.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Çankaya/Ankara\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 3 54,64 %20 163,92\nSüt (1 L) 2 26,29 %1 52,58\nPirinç (1 kg) 10 87,50 %1 875,00\nMakarna (500 g) 15 19,24 %10 288,60\nPirinç (1 kg) 1 56,20 %1 56,20\nSalatalık (kg) 5 40,16 %1 200,80\nElma (kg) 10 46,39 %1 463,90\nMaden Suyu (200 ml) 2 22,27 %20 44,54\nAra Toplam: 2.145,54\nKDV Toplam: 87,04\nGenel Toplam: 2.232,58\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000356",
+  "source_pdf": "0356_FATURA_INV-2025-000356.pdf",
+  "date": "2025-10-01",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 44.39,
+      "vat_rate": 0.01,
+      "net_total": 665.85
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 36.89,
+      "vat_rate": 0.01,
+      "net_total": 147.56
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 31.18,
+      "vat_rate": 0.2,
+      "net_total": 31.18
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 38.15,
+      "vat_rate": 0.01,
+      "net_total": 190.75
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 22.81,
+      "vat_rate": 0.2,
+      "net_total": 182.48
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 55.6,
+      "vat_rate": 0.01,
+      "net_total": 444.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 65.62,
+      "vat_rate": 0.01,
+      "net_total": 393.72
+    }
+  ],
+  "subtotal": 2056.34,
+  "vat_total": 61.18,
+  "grand_total": 2117.52,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000356 | Tarih: 01.10.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Selçuklu/Kocaeli\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 15 44,39 %1 665,85\nSalatalık (kg) 4 36,89 %1 147,56\nGazlı İçecek (1 L) 1 31,18 %20 31,18\nElma (kg) 5 38,15 %1 190,75\nMaden Suyu (200 ml) 8 22,81 %20 182,48\nSüt (1 L) 8 55,60 %1 444,80\nMuz (kg) 6 65,62 %1 393,72\nAra Toplam: 2.056,34\nKDV Toplam: 61,18\nGenel Toplam: 2.117,52\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

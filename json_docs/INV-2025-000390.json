@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000390",
+  "source_pdf": "0390_FATURA_INV-2025-000390.pdf",
+  "date": "2025-02-21",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 127.04,
+      "vat_rate": 0.1,
+      "net_total": 508.16
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 27.51,
+      "vat_rate": 0.1,
+      "net_total": 330.12
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 57.06,
+      "vat_rate": 0.2,
+      "net_total": 171.18
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 171.31,
+      "vat_rate": 0.1,
+      "net_total": 1370.48
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 44.3,
+      "vat_rate": 0.01,
+      "net_total": 664.5
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 29.54,
+      "vat_rate": 0.2,
+      "net_total": 147.7
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 19.39,
+      "vat_rate": 0.1,
+      "net_total": 77.56
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 25.9,
+      "vat_rate": 0.2,
+      "net_total": 155.4
+    }
+  ],
+  "subtotal": 3425.1,
+  "vat_total": 330.15,
+  "grand_total": 3755.25,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000390 | Tarih: 21.02.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nAyçiçek Yağı (1 L) 4 127,04 %10 508,16\nMakarna (500 g) 12 27,51 %10 330,12\nGazlı İçecek (1 L) 3 57,06 %20 171,18\nUn (5 kg) 8 171,31 %10 1.370,48\nMuz (kg) 15 44,30 %1 664,50\nÇikolata (80 g) 5 29,54 %20 147,70\nMakarna (500 g) 4 19,39 %10 77,56\nGazlı İçecek (1 L) 6 25,90 %20 155,40\nAra Toplam: 3.425,10\nKDV Toplam: 330,15\nGenel Toplam: 3.755,25\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

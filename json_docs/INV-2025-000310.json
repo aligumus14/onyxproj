@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000310",
+  "source_pdf": "0310_FATURA_INV-2025-000310.pdf",
+  "date": "2025-09-04",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 71.57,
+      "vat_rate": 0.1,
+      "net_total": 1431.4
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 49.64,
+      "vat_rate": 0.01,
+      "net_total": 198.56
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 338.14,
+      "vat_rate": 0.1,
+      "net_total": 2028.84
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 61.27,
+      "vat_rate": 0.2,
+      "net_total": 61.27
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 49.37,
+      "vat_rate": 0.01,
+      "net_total": 987.4
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 55.54,
+      "vat_rate": 0.01,
+      "net_total": 833.1
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 33.26,
+      "vat_rate": 0.2,
+      "net_total": 199.56
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 50.45,
+      "vat_rate": 0.01,
+      "net_total": 100.9
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 42.87,
+      "vat_rate": 0.01,
+      "net_total": 171.48
+    }
+  ],
+  "subtotal": 6012.51,
+  "vat_total": 421.09,
+  "grand_total": 6433.6,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000310 | Tarih: 04.09.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-C | Teslim Yeri: Nilüfer/Antalya\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 20 71,57 %10 1.431,40\nDomates (kg) 4 49,64 %1 198,56\nDana Kıyma (kg) 6 338,14 %10 2.028,84\nGazlı İçecek (1 L) 1 61,27 %20 61,27\nSüt (1 L) 20 49,37 %1 987,40\nSüt (1 L) 15 55,54 %1 833,10\nÇikolata (80 g) 6 33,26 %20 199,56\nDomates (kg) 2 50,45 %1 100,90\nMuz (kg) 4 42,87 %1 171,48\nAra Toplam: 6.012,51\nKDV Toplam: 421,09\nGenel Toplam: 6.433,60\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

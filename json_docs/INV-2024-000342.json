@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000342",
+  "source_pdf": "0342_FATURA_INV-2024-000342.pdf",
+  "date": "2024-08-03",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 54.52,
+      "vat_rate": 0.01,
+      "net_total": 654.24
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 103.39,
+      "vat_rate": 0.01,
+      "net_total": 827.12
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 218.38,
+      "vat_rate": 0.1,
+      "net_total": 1310.28
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 27.67,
+      "vat_rate": 0.01,
+      "net_total": 166.02
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 67.92,
+      "vat_rate": 0.01,
+      "net_total": 203.76
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 43.01,
+      "vat_rate": 0.01,
+      "net_total": 516.12
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 2,
+      "unit_price": 20.84,
+      "vat_rate": 0.2,
+      "net_total": 41.68
+    }
+  ],
+  "subtotal": 3719.22,
+  "vat_total": 163.04,
+  "grand_total": 3882.26,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000342 | Tarih: 03.08.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Şehitkamil/Adana\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 12 54,52 %1 654,24\nPirinç (1 kg) 8 103,39 %1 827,12\nTavuk Göğüs (kg) 6 218,38 %10 1.310,28\nDomates (kg) 6 27,67 %1 166,02\nYoğurt (1 kg) 3 67,92 %1 203,76\nDomates (kg) 12 43,01 %1 516,12\nMaden Suyu (200 ml) 2 20,84 %20 41,68\nAra Toplam: 3.719,22\nKDV Toplam: 163,04\nGenel Toplam: 3.882,26\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

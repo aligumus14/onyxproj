@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000550",
+  "source_pdf": "0550_FATURA_INV-2025-000550.pdf",
+  "date": "2025-08-28",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 5,
+      "unit_price": 15.92,
+      "vat_rate": 0.2,
+      "net_total": 79.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 28.02,
+      "vat_rate": 0.01,
+      "net_total": 336.24
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 33.36,
+      "vat_rate": 0.01,
+      "net_total": 333.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 21.67,
+      "vat_rate": 0.01,
+      "net_total": 173.36
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 69.44,
+      "vat_rate": 0.01,
+      "net_total": 347.2
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 25.65,
+      "vat_rate": 0.2,
+      "net_total": 205.2
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 182.96,
+      "vat_rate": 0.1,
+      "net_total": 2744.4
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 23.76,
+      "vat_rate": 0.1,
+      "net_total": 356.4
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 56.19,
+      "vat_rate": 0.2,
+      "net_total": 280.95
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 44.63,
+      "vat_rate": 0.01,
+      "net_total": 357.04
+    }
+  ],
+  "subtotal": 5213.99,
+  "vat_total": 438.7,
+  "grand_total": 5652.69,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000550 | Tarih: 28.08.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Kadıköy/Antalya\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 5 15,92 %20 79,60\nDomates (kg) 12 28,02 %1 336,24\nSüt (1 L) 10 33,36 %1 333,60\nDomates (kg) 8 21,67 %1 173,36\nMuz (kg) 5 69,44 %1 347,20\nGazlı İçecek (1 L) 8 25,65 %20 205,20\nTavuk Göğüs (kg) 15 182,96 %10 2.744,40\nMakarna (500 g) 15 23,76 %10 356,40\nGazlı İçecek (1 L) 5 56,19 %20 280,95\nSüt (1 L) 8 44,63 %1 357,04\nAra Toplam: 5.213,99\nKDV Toplam: 438,70\nGenel Toplam: 5.652,69\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

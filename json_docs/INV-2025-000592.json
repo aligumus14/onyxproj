@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000592",
+  "source_pdf": "0592_FATURA_INV-2025-000592.pdf",
+  "date": "2025-09-08",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 50.91,
+      "vat_rate": 0.01,
+      "net_total": 203.64
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 4,
+      "unit_price": 101.59,
+      "vat_rate": 0.1,
+      "net_total": 406.36
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 68.26,
+      "vat_rate": 0.01,
+      "net_total": 409.56
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 97.58,
+      "vat_rate": 0.01,
+      "net_total": 390.32
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 199.42,
+      "vat_rate": 0.2,
+      "net_total": 398.84
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 40.59,
+      "vat_rate": 0.01,
+      "net_total": 405.9
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 78.13,
+      "vat_rate": 0.01,
+      "net_total": 1562.6
+    }
+  ],
+  "subtotal": 3777.22,
+  "vat_total": 150.14,
+  "grand_total": 3927.36,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000592 | Tarih: 08.09.2025 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Selçuklu/Kocaeli\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 4 50,91 %1 203,64\nUn (5 kg) 4 101,59 %10 406,36\nPirinç (1 kg) 6 68,26 %1 409,56\nKuru Fasulye (1 kg) 4 97,58 %1 390,32\nKahve Çekirdeği (250 g) 2 199,42 %20 398,84\nMuz (kg) 10 40,59 %1 405,90\nKuru Fasulye (1 kg) 20 78,13 %1 1.562,60\nAra Toplam: 3.777,22\nKDV Toplam: 150,14\nGenel Toplam: 3.927,36\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

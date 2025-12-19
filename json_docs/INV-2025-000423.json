@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000423",
+  "source_pdf": "0423_FATURA_INV-2025-000423.pdf",
+  "date": "2025-11-17",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 823.28,
+      "vat_rate": 0.1,
+      "net_total": 2469.84
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 35.47,
+      "vat_rate": 0.01,
+      "net_total": 141.88
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 25.25,
+      "vat_rate": 0.2,
+      "net_total": 101.0
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 120.35,
+      "vat_rate": 0.1,
+      "net_total": 722.1
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 651.12,
+      "vat_rate": 0.1,
+      "net_total": 3255.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 29.56,
+      "vat_rate": 0.01,
+      "net_total": 443.4
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 83.51,
+      "vat_rate": 0.01,
+      "net_total": 1670.2
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 25.4,
+      "vat_rate": 0.01,
+      "net_total": 127.0
+    }
+  ],
+  "subtotal": 8931.02,
+  "vat_total": 688.77,
+  "grand_total": 9619.79,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000423 | Tarih: 17.11.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 3 823,28 %10 2.469,84\nDomates (kg) 4 35,47 %1 141,88\nÇikolata (80 g) 4 25,25 %20 101,00\nTavuk Göğüs (kg) 6 120,35 %10 722,10\nSomon Fileto (kg) 5 651,12 %10 3.255,60\nDomates (kg) 15 29,56 %1 443,40\nYoğurt (1 kg) 20 83,51 %1 1.670,20\nSalatalık (kg) 5 25,40 %1 127,00\nAra Toplam: 8.931,02\nKDV Toplam: 688,77\nGenel Toplam: 9.619,79\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

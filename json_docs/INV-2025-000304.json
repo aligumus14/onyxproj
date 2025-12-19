@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000304",
+  "source_pdf": "0304_FATURA_INV-2025-000304.pdf",
+  "date": "2025-11-05",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 87.64,
+      "vat_rate": 0.01,
+      "net_total": 1752.8
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 89.98,
+      "vat_rate": 0.01,
+      "net_total": 359.92
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 40.46,
+      "vat_rate": 0.1,
+      "net_total": 485.52
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 752.16,
+      "vat_rate": 0.1,
+      "net_total": 1504.32
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 43.45,
+      "vat_rate": 0.2,
+      "net_total": 260.7
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 86.59,
+      "vat_rate": 0.01,
+      "net_total": 432.95
+    }
+  ],
+  "subtotal": 4796.21,
+  "vat_total": 276.58,
+  "grand_total": 5072.79,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000304 | Tarih: 05.11.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Kadıköy/Kocaeli\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 20 87,64 %1 1.752,80\nMuz (kg) 4 89,98 %1 359,92\nŞeker (1 kg) 12 40,46 %10 485,52\nSomon Fileto (kg) 2 752,16 %10 1.504,32\nÇikolata (80 g) 6 43,45 %20 260,70\nKuru Fasulye (1 kg) 5 86,59 %1 432,95\nAra Toplam: 4.796,21\nKDV Toplam: 276,58\nGenel Toplam: 5.072,79\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

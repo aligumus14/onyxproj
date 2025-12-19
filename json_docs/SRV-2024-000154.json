@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000154",
+  "source_pdf": "0754_SERVIS_SRV-2024-000154.pdf",
+  "date": "2024-09-07",
+  "status": "Açık",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Çankaya/Gaziantep",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-A",
+  "machine": "Soğutma Ünitesi - Carrier Supra 850",
+  "serial_no": "SOG-82502",
+  "technician": "Selin Uçar",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 944.9,
+      "unit_price": 9.0,
+      "total": 1417.49
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1417.49,
+  "vat_rate": 0.2,
+  "vat_amount": 283.5,
+  "grand_total": 1700.99,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000154 | Tarih: 07.09.2024 | Durum: Açık\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Çankaya/Gaziantep | Şube/DM: TR-ANT-DC05 | Depo: Depo-A\nMakine: Soğutma Ünitesi - Carrier Supra 850 | Seri No: SOG-82502\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 944,99 1.417,49\nParça Değişimi - - 0,00\nAra Toplam: 1.417,49\nKDV (%20): 283,50\nGenel Toplam: 1.700,99\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

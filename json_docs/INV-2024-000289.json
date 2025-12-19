@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000289",
+  "source_pdf": "0289_FATURA_INV-2024-000289.pdf",
+  "date": "2024-08-17",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 4,
+      "unit_price": 176.9,
+      "vat_rate": 0.2,
+      "net_total": 707.6
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 1,
+      "unit_price": 24.85,
+      "vat_rate": 0.2,
+      "net_total": 24.85
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 58.52,
+      "vat_rate": 0.01,
+      "net_total": 468.16
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 30.76,
+      "vat_rate": 0.01,
+      "net_total": 123.04
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 178.86,
+      "vat_rate": 0.1,
+      "net_total": 357.72
+    }
+  ],
+  "subtotal": 1681.37,
+  "vat_total": 188.17,
+  "grand_total": 1869.54,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000289 | Tarih: 17.08.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Seyhan/Gaziantep\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 4 176,90 %20 707,60\nMaden Suyu (200 ml) 1 24,85 %20 24,85\nSüt (1 L) 8 58,52 %1 468,16\nSüt (1 L) 4 30,76 %1 123,04\nTavuk Göğüs (kg) 2 178,86 %10 357,72\nAra Toplam: 1.681,37\nKDV Toplam: 188,17\nGenel Toplam: 1.869,54\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

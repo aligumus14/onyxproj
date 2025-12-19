@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000430",
+  "source_pdf": "0430_FATURA_INV-2025-000430.pdf",
+  "date": "2025-02-14",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 67.82,
+      "vat_rate": 0.2,
+      "net_total": 271.28
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 11.95,
+      "vat_rate": 0.2,
+      "net_total": 35.85
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 512.88,
+      "vat_rate": 0.1,
+      "net_total": 512.88
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 198.16,
+      "vat_rate": 0.1,
+      "net_total": 594.48
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 111.49,
+      "vat_rate": 0.1,
+      "net_total": 891.92
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 25.16,
+      "vat_rate": 0.01,
+      "net_total": 503.2
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 94.6,
+      "vat_rate": 0.01,
+      "net_total": 473.0
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 138.62,
+      "vat_rate": 0.01,
+      "net_total": 554.48
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 67.59,
+      "vat_rate": 0.1,
+      "net_total": 135.18
+    }
+  ],
+  "subtotal": 3972.27,
+  "vat_total": 290.18,
+  "grand_total": 4262.45,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000430 | Tarih: 14.02.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Şişli/Gaziantep\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 4 67,82 %20 271,28\nMaden Suyu (200 ml) 3 11,95 %20 35,85\nDana Kıyma (kg) 1 512,88 %10 512,88\nTavuk Göğüs (kg) 3 198,16 %10 594,48\nUn (5 kg) 8 111,49 %10 891,92\nDomates (kg) 20 25,16 %1 503,20\nKuru Fasulye (1 kg) 5 94,60 %1 473,00\nKuru Fasulye (1 kg) 4 138,62 %1 554,48\nŞeker (1 kg) 2 67,59 %10 135,18\nAra Toplam: 3.972,27\nKDV Toplam: 290,18\nGenel Toplam: 4.262,45\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

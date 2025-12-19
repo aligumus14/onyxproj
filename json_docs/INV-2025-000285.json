@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000285",
+  "source_pdf": "0285_FATURA_INV-2025-000285.pdf",
+  "date": "2025-05-08",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 27.05,
+      "vat_rate": 0.2,
+      "net_total": 135.25
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 27.8,
+      "vat_rate": 0.2,
+      "net_total": 417.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 78.41,
+      "vat_rate": 0.01,
+      "net_total": 627.28
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 109.92,
+      "vat_rate": 0.01,
+      "net_total": 1319.04
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 62.47,
+      "vat_rate": 0.1,
+      "net_total": 249.88
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 506.9,
+      "vat_rate": 0.1,
+      "net_total": 10138.0
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 69.11,
+      "vat_rate": 0.01,
+      "net_total": 691.1
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 330.55,
+      "vat_rate": 0.1,
+      "net_total": 1983.3
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 499.36,
+      "vat_rate": 0.1,
+      "net_total": 499.36
+    }
+  ],
+  "subtotal": 16060.21,
+  "vat_total": 1423.88,
+  "grand_total": 17484.09,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000285 | Tarih: 08.05.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Nilüfer/Kocaeli\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 5 27,05 %20 135,25\nGazlı İçecek (1 L) 15 27,80 %20 417,00\nMuz (kg) 8 78,41 %1 627,28\nPirinç (1 kg) 12 109,92 %1 1.319,04\nŞeker (1 kg) 4 62,47 %10 249,88\nDana Kıyma (kg) 20 506,90 %10 10.138,00\nYoğurt (1 kg) 10 69,11 %1 691,10\nDana Kıyma (kg) 6 330,55 %10 1.983,30\nDana Kıyma (kg) 1 499,36 %10 499,36\nAra Toplam: 16.060,21\nKDV Toplam: 1.423,88\nGenel Toplam: 17.484,09\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

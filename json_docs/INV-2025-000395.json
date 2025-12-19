@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000395",
+  "source_pdf": "0395_FATURA_INV-2025-000395.pdf",
+  "date": "2025-02-11",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 6,
+      "unit_price": 42.24,
+      "vat_rate": 0.1,
+      "net_total": 253.44
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 49.96,
+      "vat_rate": 0.01,
+      "net_total": 499.6
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 567.07,
+      "vat_rate": 0.1,
+      "net_total": 6804.84
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 56.25,
+      "vat_rate": 0.01,
+      "net_total": 675.0
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 400.83,
+      "vat_rate": 0.1,
+      "net_total": 4809.96
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 42.31,
+      "vat_rate": 0.01,
+      "net_total": 253.86
+    }
+  ],
+  "subtotal": 13296.7,
+  "vat_total": 1201.11,
+  "grand_total": 14497.81,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000395 | Tarih: 11.02.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Karşıyaka/Ankara\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 6 42,24 %10 253,44\nSüt (1 L) 10 49,96 %1 499,60\nSomon Fileto (kg) 12 567,07 %10 6.804,84\nSüt (1 L) 12 56,25 %1 675,00\nDana Kıyma (kg) 12 400,83 %10 4.809,96\nSalatalık (kg) 6 42,31 %1 253,86\nAra Toplam: 13.296,70\nKDV Toplam: 1.201,11\nGenel Toplam: 14.497,81\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

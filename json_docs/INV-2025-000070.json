@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000070",
+  "source_pdf": "0070_FATURA_INV-2025-000070.pdf",
+  "date": "2025-11-02",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 57.45,
+      "vat_rate": 0.2,
+      "net_total": 1149.0
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 3,
+      "unit_price": 259.68,
+      "vat_rate": 0.2,
+      "net_total": 779.04
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 45.04,
+      "vat_rate": 0.01,
+      "net_total": 45.04
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 25.66,
+      "vat_rate": 0.01,
+      "net_total": 102.64
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 316.34,
+      "vat_rate": 0.1,
+      "net_total": 2530.72
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 120.18,
+      "vat_rate": 0.1,
+      "net_total": 961.44
+    }
+  ],
+  "subtotal": 5567.88,
+  "vat_total": 736.3,
+  "grand_total": 6304.18,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000070 | Tarih: 02.11.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-2 | Teslim Yeri: Şehitkamil/İstanbul\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nÇikolata (80 g) 20 57,45 %20 1.149,00\nKahve Çekirdeği (250 g) 3 259,68 %20 779,04\nSüt (1 L) 1 45,04 %1 45,04\nElma (kg) 4 25,66 %1 102,64\nDana Kıyma (kg) 8 316,34 %10 2.530,72\nAyçiçek Yağı (1 L) 8 120,18 %10 961,44\nAra Toplam: 5.567,88\nKDV Toplam: 736,30\nGenel Toplam: 6.304,18\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

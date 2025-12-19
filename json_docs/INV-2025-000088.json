@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000088",
+  "source_pdf": "0088_FATURA_INV-2025-000088.pdf",
+  "date": "2025-11-07",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 91.26,
+      "vat_rate": 0.01,
+      "net_total": 730.08
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 65.58,
+      "vat_rate": 0.01,
+      "net_total": 524.64
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 25.18,
+      "vat_rate": 0.01,
+      "net_total": 50.36
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 149.59,
+      "vat_rate": 0.1,
+      "net_total": 1495.9
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 59.28,
+      "vat_rate": 0.01,
+      "net_total": 118.56
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 105.91,
+      "vat_rate": 0.01,
+      "net_total": 847.28
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 41.32,
+      "vat_rate": 0.2,
+      "net_total": 495.84
+    }
+  ],
+  "subtotal": 4262.66,
+  "vat_total": 271.47,
+  "grand_total": 4534.13,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000088 | Tarih: 07.11.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-A | Teslim Yeri: Beşiktaş/Bursa\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 8 91,26 %1 730,08\nPirinç (1 kg) 8 65,58 %1 524,64\nElma (kg) 2 25,18 %1 50,36\nTavuk Göğüs (kg) 10 149,59 %10 1.495,90\nYoğurt (1 kg) 2 59,28 %1 118,56\nKuru Fasulye (1 kg) 8 105,91 %1 847,28\nGazlı İçecek (1 L) 12 41,32 %20 495,84\nAra Toplam: 4.262,66\nKDV Toplam: 271,47\nGenel Toplam: 4.534,13\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000319",
+  "source_pdf": "0319_FATURA_INV-2025-000319.pdf",
+  "date": "2025-07-07",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 52.52,
+      "vat_rate": 0.01,
+      "net_total": 157.56
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 463.91,
+      "vat_rate": 0.1,
+      "net_total": 3711.28
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 48.31,
+      "vat_rate": 0.01,
+      "net_total": 241.55
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 29.75,
+      "vat_rate": 0.01,
+      "net_total": 595.0
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 54.02,
+      "vat_rate": 0.2,
+      "net_total": 1080.4
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 87.96,
+      "vat_rate": 0.01,
+      "net_total": 527.76
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 10.97,
+      "vat_rate": 0.2,
+      "net_total": 164.55
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 498.44,
+      "vat_rate": 0.1,
+      "net_total": 3987.52
+    }
+  ],
+  "subtotal": 10465.62,
+  "vat_total": 1034.1,
+  "grand_total": 11499.72,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000319 | Tarih: 07.07.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Beşiktaş/İzmir\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 3 52,52 %1 157,56\nDana Kıyma (kg) 8 463,91 %10 3.711,28\nSüt (1 L) 5 48,31 %1 241,55\nElma (kg) 20 29,75 %1 595,00\nGazlı İçecek (1 L) 20 54,02 %20 1.080,40\nMuz (kg) 6 87,96 %1 527,76\nMaden Suyu (200 ml) 15 10,97 %20 164,55\nDana Kıyma (kg) 8 498,44 %10 3.987,52\nAra Toplam: 10.465,62\nKDV Toplam: 1.034,10\nGenel Toplam: 11.499,72\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

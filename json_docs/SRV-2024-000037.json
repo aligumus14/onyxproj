@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000037",
+  "source_pdf": "0637_SERVIS_SRV-2024-000037.pdf",
+  "date": "2024-11-07",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Yüksek (8 saat)",
+  "location": "Şişli/Gaziantep",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-A",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-56668",
+  "technician": "Selin Uçar",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.0 saat)",
+      "qty": 778.2,
+      "unit_price": 5.0,
+      "total": 1556.5
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 1556.5,
+  "vat_rate": 0.2,
+  "vat_amount": 311.3,
+  "grand_total": 1867.8,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000037 | Tarih: 07.11.2024 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Yüksek (8 saat)\nLokasyon: Şişli/Gaziantep | Şube/DM: TR-ANK-DC02 | Depo: Depo-A\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-56668\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.0 saat) 778,25 1.556,50\nParça Değişimi - - 0,00\nAra Toplam: 1.556,50\nKDV (%20): 311,30\nGenel Toplam: 1.867,80\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

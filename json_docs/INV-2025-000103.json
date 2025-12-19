@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000103",
+  "source_pdf": "0103_FATURA_INV-2025-000103.pdf",
+  "date": "2025-03-26",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 47.7,
+      "vat_rate": 0.01,
+      "net_total": 95.4
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 50.55,
+      "vat_rate": 0.01,
+      "net_total": 758.25
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 575.8,
+      "vat_rate": 0.1,
+      "net_total": 4606.4
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 63.0,
+      "vat_rate": 0.01,
+      "net_total": 252.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 70.44,
+      "vat_rate": 0.01,
+      "net_total": 281.76
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 203.27,
+      "vat_rate": 0.1,
+      "net_total": 203.27
+    }
+  ],
+  "subtotal": 6197.08,
+  "vat_total": 494.84,
+  "grand_total": 6691.92,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000103 | Tarih: 26.03.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Şehitkamil/Kocaeli\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 2 47,70 %1 95,40\nElma (kg) 15 50,55 %1 758,25\nSomon Fileto (kg) 8 575,80 %10 4.606,40\nPirinç (1 kg) 4 63,00 %1 252,00\nMuz (kg) 4 70,44 %1 281,76\nTavuk Göğüs (kg) 1 203,27 %10 203,27\nAra Toplam: 6.197,08\nKDV Toplam: 494,84\nGenel Toplam: 6.691,92\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000133",
+  "source_pdf": "0733_SERVIS_SRV-2025-000133.pdf",
+  "date": "2025-08-16",
+  "status": "Kapatıldı",
+  "priority": "Kritik",
+  "sla": "Orta (24 saat)",
+  "location": "Selçuklu/Kocaeli",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Soğuk Oda-2",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-14282",
+  "technician": "Emre Taş",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 660.4,
+      "unit_price": 3.0,
+      "total": 3962.58
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 3962.58,
+  "vat_rate": 0.2,
+  "vat_amount": 792.52,
+  "grand_total": 4755.1,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000133 | Tarih: 16.08.2025 | Durum: Kapatıldı\nÖncelik: Kritik | SLA: Orta (24 saat)\nLokasyon: Selçuklu/Kocaeli | Şube/DM: TR-BUR-DC04 | Depo: Soğuk Oda-2\nMakine: Forklift - Linde H35D | Seri No: FLT-14282\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 660,43 3.962,58\nParça Değişimi - - 0,00\nAra Toplam: 3.962,58\nKDV (%20): 792,52\nGenel Toplam: 4.755,10\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

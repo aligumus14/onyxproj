@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000268",
+  "source_pdf": "0268_FATURA_INV-2025-000268.pdf",
+  "date": "2025-08-22",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 42.06,
+      "vat_rate": 0.01,
+      "net_total": 84.12
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 73.19,
+      "vat_rate": 0.1,
+      "net_total": 585.52
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 15,
+      "unit_price": 20.97,
+      "vat_rate": 0.2,
+      "net_total": 314.55
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 163.62,
+      "vat_rate": 0.1,
+      "net_total": 163.62
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 33.96,
+      "vat_rate": 0.1,
+      "net_total": 407.52
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 37.29,
+      "vat_rate": 0.1,
+      "net_total": 149.16
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 43.99,
+      "vat_rate": 0.2,
+      "net_total": 43.99
+    }
+  ],
+  "subtotal": 1748.48,
+  "vat_total": 203.13,
+  "grand_total": 1951.61,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000268 | Tarih: 22.08.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Muratpaşa/Samsun\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 2 42,06 %1 84,12\nŞeker (1 kg) 8 73,19 %10 585,52\nMaden Suyu (200 ml) 15 20,97 %20 314,55\nTavuk Göğüs (kg) 1 163,62 %10 163,62\nMakarna (500 g) 12 33,96 %10 407,52\nMakarna (500 g) 4 37,29 %10 149,16\nÇikolata (80 g) 1 43,99 %20 43,99\nAra Toplam: 1.748,48\nKDV Toplam: 203,13\nGenel Toplam: 1.951,61\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000085",
+  "source_pdf": "0085_FATURA_INV-2024-000085.pdf",
+  "date": "2024-01-13",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 39.82,
+      "vat_rate": 0.1,
+      "net_total": 119.46
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 30.21,
+      "vat_rate": 0.01,
+      "net_total": 362.52
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 122.65,
+      "vat_rate": 0.1,
+      "net_total": 1839.75
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 767.97,
+      "vat_rate": 0.1,
+      "net_total": 3839.85
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 92.76,
+      "vat_rate": 0.01,
+      "net_total": 556.56
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 121.62,
+      "vat_rate": 0.1,
+      "net_total": 1824.3
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 48.94,
+      "vat_rate": 0.01,
+      "net_total": 244.7
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 94.54,
+      "vat_rate": 0.01,
+      "net_total": 1890.8
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 28.94,
+      "vat_rate": 0.01,
+      "net_total": 57.88
+    }
+  ],
+  "subtotal": 10735.82,
+  "vat_total": 793.49,
+  "grand_total": 11529.31,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000085 | Tarih: 13.01.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-2 | Teslim Yeri: Karşıyaka/Gaziantep\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 3 39,82 %10 119,46\nElma (kg) 12 30,21 %1 362,52\nAyçiçek Yağı (1 L) 15 122,65 %10 1.839,75\nSomon Fileto (kg) 5 767,97 %10 3.839,85\nMuz (kg) 6 92,76 %1 556,56\nUn (5 kg) 15 121,62 %10 1.824,30\nSüt (1 L) 5 48,94 %1 244,70\nMuz (kg) 20 94,54 %1 1.890,80\nSalatalık (kg) 2 28,94 %1 57,88\nAra Toplam: 10.735,82\nKDV Toplam: 793,49\nGenel Toplam: 11.529,31\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

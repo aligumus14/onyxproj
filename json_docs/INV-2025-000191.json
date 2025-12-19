@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000191",
+  "source_pdf": "0191_FATURA_INV-2025-000191.pdf",
+  "date": "2025-06-29",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 54.94,
+      "vat_rate": 0.1,
+      "net_total": 274.7
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 104.54,
+      "vat_rate": 0.01,
+      "net_total": 313.62
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 31.47,
+      "vat_rate": 0.01,
+      "net_total": 94.41
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 89.69,
+      "vat_rate": 0.01,
+      "net_total": 1345.35
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 33.13,
+      "vat_rate": 0.01,
+      "net_total": 496.95
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 22.78,
+      "vat_rate": 0.01,
+      "net_total": 136.68
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 31.56,
+      "vat_rate": 0.1,
+      "net_total": 94.68
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 28.1,
+      "vat_rate": 0.1,
+      "net_total": 562.0
+    }
+  ],
+  "subtotal": 3318.39,
+  "vat_total": 117.01,
+  "grand_total": 3435.4,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000191 | Tarih: 29.06.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-B | Teslim Yeri: Kadıköy/İzmir\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 5 54,94 %10 274,70\nYoğurt (1 kg) 3 104,54 %1 313,62\nElma (kg) 3 31,47 %1 94,41\nYoğurt (1 kg) 15 89,69 %1 1.345,35\nSüt (1 L) 15 33,13 %1 496,95\nDomates (kg) 6 22,78 %1 136,68\nMakarna (500 g) 3 31,56 %10 94,68\nMakarna (500 g) 20 28,10 %10 562,00\nAra Toplam: 3.318,39\nKDV Toplam: 117,01\nGenel Toplam: 3.435,40\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000574",
+  "source_pdf": "0574_FATURA_INV-2024-000574.pdf",
+  "date": "2024-08-29",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 26.37,
+      "vat_rate": 0.01,
+      "net_total": 158.22
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 100.03,
+      "vat_rate": 0.01,
+      "net_total": 1500.45
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 37.29,
+      "vat_rate": 0.01,
+      "net_total": 447.48
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 28.98,
+      "vat_rate": 0.1,
+      "net_total": 28.98
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 46.07,
+      "vat_rate": 0.01,
+      "net_total": 368.56
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 49.72,
+      "vat_rate": 0.2,
+      "net_total": 497.2
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 47.25,
+      "vat_rate": 0.01,
+      "net_total": 708.75
+    }
+  ],
+  "subtotal": 3709.64,
+  "vat_total": 134.17,
+  "grand_total": 3843.81,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000574 | Tarih: 29.08.2024 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Çankaya/Gaziantep\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 6 26,37 %1 158,22\nKuru Fasulye (1 kg) 15 100,03 %1 1.500,45\nSalatalık (kg) 12 37,29 %1 447,48\nMakarna (500 g) 1 28,98 %10 28,98\nSüt (1 L) 8 46,07 %1 368,56\nGazlı İçecek (1 L) 10 49,72 %20 497,20\nDomates (kg) 15 47,25 %1 708,75\nAra Toplam: 3.709,64\nKDV Toplam: 134,17\nGenel Toplam: 3.843,81\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

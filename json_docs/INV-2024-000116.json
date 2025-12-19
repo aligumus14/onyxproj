@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000116",
+  "source_pdf": "0116_FATURA_INV-2024-000116.pdf",
+  "date": "2024-02-27",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 6,
+      "unit_price": 22.09,
+      "vat_rate": 0.2,
+      "net_total": 132.54
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 461.28,
+      "vat_rate": 0.1,
+      "net_total": 6919.2
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 675.44,
+      "vat_rate": 0.1,
+      "net_total": 10131.6
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 22.55,
+      "vat_rate": 0.2,
+      "net_total": 90.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 26.34,
+      "vat_rate": 0.1,
+      "net_total": 316.08
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 20.44,
+      "vat_rate": 0.1,
+      "net_total": 20.44
+    }
+  ],
+  "subtotal": 17610.06,
+  "vat_total": 1783.28,
+  "grand_total": 19393.34,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000116 | Tarih: 27.02.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/Adana\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMaden Suyu (200 ml) 6 22,09 %20 132,54\nSomon Fileto (kg) 15 461,28 %10 6.919,20\nSomon Fileto (kg) 15 675,44 %10 10.131,60\nMaden Suyu (200 ml) 4 22,55 %20 90,20\nMakarna (500 g) 12 26,34 %10 316,08\nMakarna (500 g) 1 20,44 %10 20,44\nAra Toplam: 17.610,06\nKDV Toplam: 1.783,28\nGenel Toplam: 19.393,34\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

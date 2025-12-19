@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000245",
+  "source_pdf": "0245_FATURA_INV-2024-000245.pdf",
+  "date": "2024-09-13",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 31.45,
+      "vat_rate": 0.01,
+      "net_total": 62.9
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 33.39,
+      "vat_rate": 0.01,
+      "net_total": 100.17
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 352.66,
+      "vat_rate": 0.1,
+      "net_total": 1057.98
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 48.14,
+      "vat_rate": 0.01,
+      "net_total": 96.28
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 60.67,
+      "vat_rate": 0.2,
+      "net_total": 606.7
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 136.21,
+      "vat_rate": 0.1,
+      "net_total": 681.05
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 12,
+      "unit_price": 25.06,
+      "vat_rate": 0.1,
+      "net_total": 300.72
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 411.19,
+      "vat_rate": 0.1,
+      "net_total": 4934.28
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 41.76,
+      "vat_rate": 0.01,
+      "net_total": 334.08
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 40.75,
+      "vat_rate": 0.01,
+      "net_total": 326.0
+    }
+  ],
+  "subtotal": 8500.16,
+  "vat_total": 827.94,
+  "grand_total": 9328.1,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000245 | Tarih: 13.09.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Kadıköy/İzmir\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSalatalık (kg) 2 31,45 %1 62,90\nDomates (kg) 3 33,39 %1 100,17\nDana Kıyma (kg) 3 352,66 %10 1.057,98\nElma (kg) 2 48,14 %1 96,28\nÇikolata (80 g) 10 60,67 %20 606,70\nAyçiçek Yağı (1 L) 5 136,21 %10 681,05\nMakarna (500 g) 12 25,06 %10 300,72\nDana Kıyma (kg) 12 411,19 %10 4.934,28\nSalatalık (kg) 8 41,76 %1 334,08\nElma (kg) 8 40,75 %1 326,00\nAra Toplam: 8.500,16\nKDV Toplam: 827,94\nGenel Toplam: 9.328,10\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

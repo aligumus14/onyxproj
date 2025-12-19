@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000236",
+  "source_pdf": "0236_FATURA_INV-2024-000236.pdf",
+  "date": "2024-11-07",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 116.92,
+      "vat_rate": 0.01,
+      "net_total": 584.6
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 35.65,
+      "vat_rate": 0.1,
+      "net_total": 71.3
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 129.73,
+      "vat_rate": 0.1,
+      "net_total": 1037.84
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 1,
+      "unit_price": 29.18,
+      "vat_rate": 0.01,
+      "net_total": 29.18
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 119.6,
+      "vat_rate": 0.01,
+      "net_total": 1196.0
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 81.01,
+      "vat_rate": 0.01,
+      "net_total": 1215.15
+    }
+  ],
+  "subtotal": 4134.07,
+  "vat_total": 141.16,
+  "grand_total": 4275.23,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000236 | Tarih: 07.11.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Kadıköy/Bursa\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 5 116,92 %1 584,60\nMakarna (500 g) 2 35,65 %10 71,30\nTavuk Göğüs (kg) 8 129,73 %10 1.037,84\nSüt (1 L) 1 29,18 %1 29,18\nYoğurt (1 kg) 10 119,60 %1 1.196,00\nMuz (kg) 15 81,01 %1 1.215,15\nAra Toplam: 4.134,07\nKDV Toplam: 141,16\nGenel Toplam: 4.275,23\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000451",
+  "source_pdf": "0451_FATURA_INV-2025-000451.pdf",
+  "date": "2025-04-30",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 572.49,
+      "vat_rate": 0.1,
+      "net_total": 1717.47
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 629.88,
+      "vat_rate": 0.1,
+      "net_total": 3779.28
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 52.71,
+      "vat_rate": 0.1,
+      "net_total": 790.65
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 69.3,
+      "vat_rate": 0.1,
+      "net_total": 69.3
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 284.68,
+      "vat_rate": 0.2,
+      "net_total": 284.68
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 772.15,
+      "vat_rate": 0.1,
+      "net_total": 15443.0
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 92.53,
+      "vat_rate": 0.1,
+      "net_total": 462.65
+    }
+  ],
+  "subtotal": 22547.03,
+  "vat_total": 2283.18,
+  "grand_total": 24830.21,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000451 | Tarih: 30.04.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Karşıyaka/Bursa\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 3 572,49 %10 1.717,47\nSomon Fileto (kg) 6 629,88 %10 3.779,28\nŞeker (1 kg) 15 52,71 %10 790,65\nŞeker (1 kg) 1 69,30 %10 69,30\nKahve Çekirdeği (250 g) 1 284,68 %20 284,68\nSomon Fileto (kg) 20 772,15 %10 15.443,00\nUn (5 kg) 5 92,53 %10 462,65\nAra Toplam: 22.547,03\nKDV Toplam: 2.283,18\nGenel Toplam: 24.830,21\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000164",
+  "source_pdf": "0164_FATURA_INV-2024-000164.pdf",
+  "date": "2024-08-13",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 70.11,
+      "vat_rate": 0.01,
+      "net_total": 280.44
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 20,
+      "unit_price": 247.29,
+      "vat_rate": 0.2,
+      "net_total": 4945.8
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 413.09,
+      "vat_rate": 0.1,
+      "net_total": 826.18
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 95.11,
+      "vat_rate": 0.01,
+      "net_total": 951.1
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 15,
+      "unit_price": 96.91,
+      "vat_rate": 0.1,
+      "net_total": 1453.65
+    }
+  ],
+  "subtotal": 8457.17,
+  "vat_total": 1229.46,
+  "grand_total": 9686.63,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000164 | Tarih: 13.08.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-C | Teslim Yeri: Selçuklu/Adana\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nYoğurt (1 kg) 4 70,11 %1 280,44\nKahve Çekirdeği (250 g) 20 247,29 %20 4.945,80\nDana Kıyma (kg) 2 413,09 %10 826,18\nKuru Fasulye (1 kg) 10 95,11 %1 951,10\nAyçiçek Yağı (1 L) 15 96,91 %10 1.453,65\nAra Toplam: 8.457,17\nKDV Toplam: 1.229,46\nGenel Toplam: 9.686,63\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

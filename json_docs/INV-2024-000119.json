@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000119",
+  "source_pdf": "0119_FATURA_INV-2024-000119.pdf",
+  "date": "2024-05-24",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 75.15,
+      "vat_rate": 0.01,
+      "net_total": 1503.0
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 282.73,
+      "vat_rate": 0.1,
+      "net_total": 2827.3
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 139.32,
+      "vat_rate": 0.1,
+      "net_total": 557.28
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 764.81,
+      "vat_rate": 0.1,
+      "net_total": 3824.05
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 33.51,
+      "vat_rate": 0.01,
+      "net_total": 33.51
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 74.8,
+      "vat_rate": 0.1,
+      "net_total": 224.4
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 8,
+      "unit_price": 27.48,
+      "vat_rate": 0.1,
+      "net_total": 219.84
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 2,
+      "unit_price": 260.9,
+      "vat_rate": 0.2,
+      "net_total": 521.8
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 21.37,
+      "vat_rate": 0.2,
+      "net_total": 427.4
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 40.8,
+      "vat_rate": 0.01,
+      "net_total": 122.4
+    }
+  ],
+  "subtotal": 10260.98,
+  "vat_total": 971.72,
+  "grand_total": 11232.7,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000119 | Tarih: 24.05.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Nilüfer/Adana\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMuz (kg) 20 75,15 %1 1.503,00\nDana Kıyma (kg) 10 282,73 %10 2.827,30\nAyçiçek Yağı (1 L) 4 139,32 %10 557,28\nSomon Fileto (kg) 5 764,81 %10 3.824,05\nDomates (kg) 1 33,51 %1 33,51\nŞeker (1 kg) 3 74,80 %10 224,40\nMakarna (500 g) 8 27,48 %10 219,84\nKahve Çekirdeği (250 g) 2 260,90 %20 521,80\nMaden Suyu (200 ml) 20 21,37 %20 427,40\nSüt (1 L) 3 40,80 %1 122,40\nAra Toplam: 10.260,98\nKDV Toplam: 971,72\nGenel Toplam: 11.232,70\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

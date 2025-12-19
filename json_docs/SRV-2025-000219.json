@@ -1,0 +1,52 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000219",
+  "source_pdf": "0819_SERVIS_SRV-2025-000219.pdf",
+  "date": "2025-03-15",
+  "status": "Açık",
+  "priority": "Kritik",
+  "sla": "Yüksek (8 saat)",
+  "location": "Karşıyaka/Bursa",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-C",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-47683",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 657.9,
+      "unit_price": 2.0,
+      "total": 1973.76
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1790.3,
+      "total": 1790.3
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 3744.98,
+      "total": 3744.98
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 531.03,
+      "total": 531.03
+    }
+  ],
+  "subtotal": 8040.07,
+  "vat_rate": 0.2,
+  "vat_amount": 1608.01,
+  "grand_total": 9648.08,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000219 | Tarih: 15.03.2025 | Durum: Açık\nÖncelik: Kritik | SLA: Yüksek (8 saat)\nLokasyon: Karşıyaka/Bursa | Şube/DM: TR-ANK-DC02 | Depo: Depo-C\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-47683\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 657,92 1.973,76\nTermostat 1 1.790,30 1.790,30\nHidrolik Hortum 1 3.744,98 3.744,98\nFiltre 1 531,03 531,03\nAra Toplam: 8.040,07\nKDV (%20): 1.608,01\nGenel Toplam: 9.648,08\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000017",
+  "source_pdf": "0017_FATURA_INV-2024-000017.pdf",
+  "date": "2024-08-28",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 40.94,
+      "vat_rate": 0.1,
+      "net_total": 614.1
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 62.79,
+      "vat_rate": 0.01,
+      "net_total": 627.9
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 4,
+      "unit_price": 20.78,
+      "vat_rate": 0.2,
+      "net_total": 83.12
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 187.94,
+      "vat_rate": 0.2,
+      "net_total": 1879.4
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 89.7,
+      "vat_rate": 0.01,
+      "net_total": 1794.0
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 32.66,
+      "vat_rate": 0.01,
+      "net_total": 261.28
+    }
+  ],
+  "subtotal": 5259.8,
+  "vat_total": 480.74,
+  "grand_total": 5740.54,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000017 | Tarih: 28.08.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-B | Teslim Yeri: Kadıköy/İzmir\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 15 40,94 %10 614,10\nMuz (kg) 10 62,79 %1 627,90\nMaden Suyu (200 ml) 4 20,78 %20 83,12\nKahve Çekirdeği (250 g) 10 187,94 %20 1.879,40\nPirinç (1 kg) 20 89,70 %1 1.794,00\nElma (kg) 8 32,66 %1 261,28\nAra Toplam: 5.259,80\nKDV Toplam: 480,74\nGenel Toplam: 5.740,54\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

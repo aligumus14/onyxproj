@@ -1,0 +1,70 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000558",
+  "source_pdf": "0558_FATURA_INV-2025-000558.pdf",
+  "date": "2025-05-03",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 145.17,
+      "vat_rate": 0.01,
+      "net_total": 2177.55
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 2,
+      "unit_price": 36.69,
+      "vat_rate": 0.01,
+      "net_total": 73.38
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 143.45,
+      "vat_rate": 0.01,
+      "net_total": 2869.0
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 53.43,
+      "vat_rate": 0.01,
+      "net_total": 1068.6
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 37.68,
+      "vat_rate": 0.1,
+      "net_total": 150.72
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 92.96,
+      "vat_rate": 0.01,
+      "net_total": 278.88
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 4,
+      "unit_price": 69.53,
+      "vat_rate": 0.2,
+      "net_total": 278.12
+    }
+  ],
+  "subtotal": 6896.25,
+  "vat_total": 135.37,
+  "grand_total": 7031.62,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000558 | Tarih: 03.05.2025 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Selçuklu/Kocaeli\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 15 145,17 %1 2.177,55\nSüt (1 L) 2 36,69 %1 73,38\nKuru Fasulye (1 kg) 20 143,45 %1 2.869,00\nElma (kg) 20 53,43 %1 1.068,60\nMakarna (500 g) 4 37,68 %10 150,72\nPirinç (1 kg) 3 92,96 %1 278,88\nÇikolata (80 g) 4 69,53 %20 278,12\nAra Toplam: 6.896,25\nKDV Toplam: 135,37\nGenel Toplam: 7.031,62\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

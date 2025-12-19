@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000038",
+  "source_pdf": "0038_FATURA_INV-2024-000038.pdf",
+  "date": "2024-12-12",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 766.27,
+      "vat_rate": 0.1,
+      "net_total": 1532.54
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 38.78,
+      "vat_rate": 0.01,
+      "net_total": 193.9
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 177.47,
+      "vat_rate": 0.1,
+      "net_total": 1064.82
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 76.67,
+      "vat_rate": 0.01,
+      "net_total": 1150.05
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 719.93,
+      "vat_rate": 0.1,
+      "net_total": 1439.86
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 34.73,
+      "vat_rate": 0.1,
+      "net_total": 34.73
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 61.61,
+      "vat_rate": 0.2,
+      "net_total": 369.66
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 27.21,
+      "vat_rate": 0.01,
+      "net_total": 544.2
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 174.4,
+      "vat_rate": 0.1,
+      "net_total": 872.0
+    }
+  ],
+  "subtotal": 7201.76,
+  "vat_total": 587.2,
+  "grand_total": 7788.96,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000038 | Tarih: 12.12.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/İzmir\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSomon Fileto (kg) 2 766,27 %10 1.532,54\nDomates (kg) 5 38,78 %1 193,90\nUn (5 kg) 6 177,47 %10 1.064,82\nYoğurt (1 kg) 15 76,67 %1 1.150,05\nSomon Fileto (kg) 2 719,93 %10 1.439,86\nMakarna (500 g) 1 34,73 %10 34,73\nGazlı İçecek (1 L) 6 61,61 %20 369,66\nSüt (1 L) 20 27,21 %1 544,20\nUn (5 kg) 5 174,40 %10 872,00\nAra Toplam: 7.201,76\nKDV Toplam: 587,20\nGenel Toplam: 7.788,96\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

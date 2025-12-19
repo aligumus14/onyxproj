@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000409",
+  "source_pdf": "0409_FATURA_INV-2025-000409.pdf",
+  "date": "2025-12-24",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 58.51,
+      "vat_rate": 0.2,
+      "net_total": 1170.2
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 34.94,
+      "vat_rate": 0.01,
+      "net_total": 698.8
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 3,
+      "unit_price": 45.52,
+      "vat_rate": 0.01,
+      "net_total": 136.56
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 31.85,
+      "vat_rate": 0.01,
+      "net_total": 637.0
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 31.08,
+      "vat_rate": 0.1,
+      "net_total": 93.24
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 92.61,
+      "vat_rate": 0.01,
+      "net_total": 926.1
+    }
+  ],
+  "subtotal": 3661.9,
+  "vat_total": 267.35,
+  "grand_total": 3929.25,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000409 | Tarih: 24.12.2025 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Selçuklu/Ankara\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nGazlı İçecek (1 L) 20 58,51 %20 1.170,20\nSalatalık (kg) 20 34,94 %1 698,80\nSüt (1 L) 3 45,52 %1 136,56\nSüt (1 L) 20 31,85 %1 637,00\nMakarna (500 g) 3 31,08 %10 93,24\nKuru Fasulye (1 kg) 10 92,61 %1 926,10\nAra Toplam: 3.661,90\nKDV Toplam: 267,35\nGenel Toplam: 3.929,25\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

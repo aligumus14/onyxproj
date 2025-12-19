@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000573",
+  "source_pdf": "0573_FATURA_INV-2024-000573.pdf",
+  "date": "2024-02-11",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 29.14,
+      "vat_rate": 0.01,
+      "net_total": 582.8
+    },
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 8,
+      "unit_price": 37.09,
+      "vat_rate": 0.01,
+      "net_total": 296.72
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 366.75,
+      "vat_rate": 0.1,
+      "net_total": 733.5
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 48.85,
+      "vat_rate": 0.2,
+      "net_total": 244.25
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 215.71,
+      "vat_rate": 0.2,
+      "net_total": 1725.68
+    }
+  ],
+  "subtotal": 3582.95,
+  "vat_total": 476.14,
+  "grand_total": 4059.09,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000573 | Tarih: 11.02.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Kadıköy/İstanbul\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDomates (kg) 20 29,14 %1 582,80\nSüt (1 L) 8 37,09 %1 296,72\nDana Kıyma (kg) 2 366,75 %10 733,50\nÇikolata (80 g) 5 48,85 %20 244,25\nKahve Çekirdeği (250 g) 8 215,71 %20 1.725,68\nAra Toplam: 3.582,95\nKDV Toplam: 476,14\nGenel Toplam: 4.059,09\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

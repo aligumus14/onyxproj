@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000427",
+  "source_pdf": "0427_FATURA_INV-2024-000427.pdf",
+  "date": "2024-05-23",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 90.75,
+      "vat_rate": 0.01,
+      "net_total": 453.75
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 102.01,
+      "vat_rate": 0.1,
+      "net_total": 510.05
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 595.45,
+      "vat_rate": 0.1,
+      "net_total": 8931.75
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 62.33,
+      "vat_rate": 0.2,
+      "net_total": 623.3
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 145.97,
+      "vat_rate": 0.01,
+      "net_total": 145.97
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 8,
+      "unit_price": 12.34,
+      "vat_rate": 0.2,
+      "net_total": 98.72
+    }
+  ],
+  "subtotal": 10763.54,
+  "vat_total": 1094.59,
+  "grand_total": 11858.13,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000427 | Tarih: 23.05.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Çankaya/Bursa\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 5 90,75 %1 453,75\nUn (5 kg) 5 102,01 %10 510,05\nSomon Fileto (kg) 15 595,45 %10 8.931,75\nÇikolata (80 g) 10 62,33 %20 623,30\nKuru Fasulye (1 kg) 1 145,97 %1 145,97\nMaden Suyu (200 ml) 8 12,34 %20 98,72\nAra Toplam: 10.763,54\nKDV Toplam: 1.094,59\nGenel Toplam: 11.858,13\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

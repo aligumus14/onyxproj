@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000192",
+  "source_pdf": "0192_FATURA_INV-2025-000192.pdf",
+  "date": "2025-01-31",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 76.64,
+      "vat_rate": 0.1,
+      "net_total": 76.64
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 68.41,
+      "vat_rate": 0.1,
+      "net_total": 273.64
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 76.61,
+      "vat_rate": 0.1,
+      "net_total": 306.44
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 153.69,
+      "vat_rate": 0.1,
+      "net_total": 2305.35
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 493.02,
+      "vat_rate": 0.1,
+      "net_total": 4930.2
+    }
+  ],
+  "subtotal": 7892.27,
+  "vat_total": 789.21,
+  "grand_total": 8681.48,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000192 | Tarih: 31.01.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-1 | Teslim Yeri: Çankaya/İzmir\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nŞeker (1 kg) 1 76,64 %10 76,64\nŞeker (1 kg) 4 68,41 %10 273,64\nAyçiçek Yağı (1 L) 4 76,61 %10 306,44\nUn (5 kg) 15 153,69 %10 2.305,35\nDana Kıyma (kg) 10 493,02 %10 4.930,20\nAra Toplam: 7.892,27\nKDV Toplam: 789,21\nGenel Toplam: 8.681,48\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

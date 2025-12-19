@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000380",
+  "source_pdf": "0380_FATURA_INV-2024-000380.pdf",
+  "date": "2024-12-21",
+  "currency": "TRY",
+  "vendor": "Marmara Gıda Tedarik A.Ş.",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 12,
+      "unit_price": 107.83,
+      "vat_rate": 0.01,
+      "net_total": 1293.96
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 20,
+      "unit_price": 31.5,
+      "vat_rate": 0.2,
+      "net_total": 630.0
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 5,
+      "unit_price": 19.74,
+      "vat_rate": 0.1,
+      "net_total": 98.7
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 159.92,
+      "vat_rate": 0.1,
+      "net_total": 159.92
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 152.55,
+      "vat_rate": 0.1,
+      "net_total": 762.75
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 42.09,
+      "vat_rate": 0.01,
+      "net_total": 42.09
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 32.33,
+      "vat_rate": 0.01,
+      "net_total": 258.64
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 1,
+      "unit_price": 28.8,
+      "vat_rate": 0.01,
+      "net_total": 28.8
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 764.11,
+      "vat_rate": 0.1,
+      "net_total": 3820.55
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 20,
+      "unit_price": 68.13,
+      "vat_rate": 0.2,
+      "net_total": 1362.6
+    }
+  ],
+  "subtotal": 8458.01,
+  "vat_total": 898.96,
+  "grand_total": 9356.97,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000380 | Tarih: 21.12.2024 | Para Birimi: TRY\nTedarikçi: Marmara Gıda Tedarik A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-A | Teslim Yeri: Şişli/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 12 107,83 %1 1.293,96\nGazlı İçecek (1 L) 20 31,50 %20 630,00\nMakarna (500 g) 5 19,74 %10 98,70\nTavuk Göğüs (kg) 1 159,92 %10 159,92\nAyçiçek Yağı (1 L) 5 152,55 %10 762,75\nElma (kg) 1 42,09 %1 42,09\nDomates (kg) 8 32,33 %1 258,64\nDomates (kg) 1 28,80 %1 28,80\nSomon Fileto (kg) 5 764,11 %10 3.820,55\nÇikolata (80 g) 20 68,13 %20 1.362,60\nAra Toplam: 8.458,01\nKDV Toplam: 898,96\nGenel Toplam: 9.356,97\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

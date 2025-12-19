@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000187",
+  "source_pdf": "0187_FATURA_INV-2024-000187.pdf",
+  "date": "2024-03-28",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 353.23,
+      "vat_rate": 0.1,
+      "net_total": 706.46
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 1,
+      "unit_price": 26.96,
+      "vat_rate": 0.1,
+      "net_total": 26.96
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 33.15,
+      "vat_rate": 0.2,
+      "net_total": 132.6
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 49.7,
+      "vat_rate": 0.2,
+      "net_total": 248.5
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 46.2,
+      "vat_rate": 0.01,
+      "net_total": 924.0
+    }
+  ],
+  "subtotal": 2038.52,
+  "vat_total": 158.81,
+  "grand_total": 2197.33,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000187 | Tarih: 28.03.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-A | Teslim Yeri: Şişli/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 2 353,23 %10 706,46\nMakarna (500 g) 1 26,96 %10 26,96\nGazlı İçecek (1 L) 4 33,15 %20 132,60\nÇikolata (80 g) 5 49,70 %20 248,50\nPirinç (1 kg) 20 46,20 %1 924,00\nAra Toplam: 2.038,52\nKDV Toplam: 158,81\nGenel Toplam: 2.197,33\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

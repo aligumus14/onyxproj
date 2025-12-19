@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000119",
+  "source_pdf": "0719_SERVIS_SRV-2025-000119.pdf",
+  "date": "2025-11-13",
+  "status": "Onay Bekliyor",
+  "priority": "Düşük",
+  "sla": "Kritik (4 saat)",
+  "location": "Beşiktaş/İstanbul",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-1",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-27819",
+  "technician": "Emre Taş",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 1155.6,
+      "unit_price": 0.0,
+      "total": 1155.6
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 2.0,
+      "unit_price": 1482.42,
+      "total": 2964.84
+    }
+  ],
+  "subtotal": 4120.44,
+  "vat_rate": 0.2,
+  "vat_amount": 824.09,
+  "grand_total": 4944.53,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000119 | Tarih: 13.11.2025 | Durum: Onay Bekliyor\nÖncelik: Düşük | SLA: Kritik (4 saat)\nLokasyon: Beşiktaş/İstanbul | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-1\nMakine: Forklift - Linde H35D | Seri No: FLT-27819\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 1.155,60 1.155,60\nRulman Seti 2 1.482,42 2.964,84\nAra Toplam: 4.120,44\nKDV (%20): 824,09\nGenel Toplam: 4.944,53\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

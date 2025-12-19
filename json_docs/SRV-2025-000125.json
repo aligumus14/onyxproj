@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000125",
+  "source_pdf": "0725_SERVIS_SRV-2025-000125.pdf",
+  "date": "2025-09-20",
+  "status": "Parça Bekleniyor",
+  "priority": "Yüksek",
+  "sla": "Düşük (72 saat)",
+  "location": "Selçuklu/Antalya",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-53961",
+  "technician": "Deniz Arı",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (2.5 saat)",
+      "qty": 943.0,
+      "unit_price": 9.0,
+      "total": 2357.72
+    },
+    {
+      "item": "Sensör",
+      "qty": 1.0,
+      "unit_price": 2007.44,
+      "total": 2007.44
+    }
+  ],
+  "subtotal": 4365.16,
+  "vat_rate": 0.2,
+  "vat_amount": 873.03,
+  "grand_total": 5238.19,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000125 | Tarih: 20.09.2025 | Durum: Parça Bekleniyor\nÖncelik: Yüksek | SLA: Düşük (72 saat)\nLokasyon: Selçuklu/Antalya | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-53961\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (2.5 saat) 943,09 2.357,72\nSensör 1 2.007,44 2.007,44\nAra Toplam: 4.365,16\nKDV (%20): 873,03\nGenel Toplam: 5.238,19\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

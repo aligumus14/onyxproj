@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000490",
+  "source_pdf": "0490_FATURA_INV-2024-000490.pdf",
+  "date": "2024-06-05",
+  "currency": "TRY",
+  "vendor": "Trakya İçecek Dağıtım A.Ş.",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 149.93,
+      "vat_rate": 0.01,
+      "net_total": 1199.44
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 129.2,
+      "vat_rate": 0.01,
+      "net_total": 775.2
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 41.48,
+      "vat_rate": 0.1,
+      "net_total": 207.4
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 8,
+      "unit_price": 182.39,
+      "vat_rate": 0.1,
+      "net_total": 1459.12
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 64.5,
+      "vat_rate": 0.2,
+      "net_total": 258.0
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 67.94,
+      "vat_rate": 0.01,
+      "net_total": 1358.8
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 8,
+      "unit_price": 270.22,
+      "vat_rate": 0.2,
+      "net_total": 2161.76
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 147.71,
+      "vat_rate": 0.1,
+      "net_total": 1477.1
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 181.81,
+      "vat_rate": 0.2,
+      "net_total": 1818.1
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 375.73,
+      "vat_rate": 0.1,
+      "net_total": 7514.6
+    }
+  ],
+  "subtotal": 18229.52,
+  "vat_total": 1946.72,
+  "grand_total": 20176.24,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000490 | Tarih: 05.06.2024 | Para Birimi: TRY\nTedarikçi: Trakya İçecek Dağıtım A.Ş.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Şişli/Bursa\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 8 149,93 %1 1.199,44\nKuru Fasulye (1 kg) 6 129,20 %1 775,20\nŞeker (1 kg) 5 41,48 %10 207,40\nUn (5 kg) 8 182,39 %10 1.459,12\nGazlı İçecek (1 L) 4 64,50 %20 258,00\nPirinç (1 kg) 20 67,94 %1 1.358,80\nKahve Çekirdeği (250 g) 8 270,22 %20 2.161,76\nUn (5 kg) 10 147,71 %10 1.477,10\nKahve Çekirdeği (250 g) 10 181,81 %20 1.818,10\nDana Kıyma (kg) 20 375,73 %10 7.514,60\nAra Toplam: 18.229,52\nKDV Toplam: 1.946,72\nGenel Toplam: 20.176,24\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

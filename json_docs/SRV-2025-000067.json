@@ -1,0 +1,53 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000067",
+  "source_pdf": "0667_SERVIS_SRV-2025-000067.pdf",
+  "date": "2025-02-12",
+  "status": "Onay Bekliyor",
+  "priority": "Kritik",
+  "sla": "Kritik (4 saat)",
+  "location": "Şehitkamil/Samsun",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Soğuk Oda-2",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-15499",
+  "technician": "Deniz Arı",
+  "fault_description": "Soğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 595.9,
+      "unit_price": 9.0,
+      "total": 3575.94
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 811.88,
+      "total": 811.88
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 887.73,
+      "total": 1775.46
+    },
+    {
+      "item": "Termostat",
+      "qty": 2.0,
+      "unit_price": 623.03,
+      "total": 1246.06
+    }
+  ],
+  "subtotal": 7409.34,
+  "vat_rate": 0.2,
+  "vat_amount": 1481.87,
+  "grand_total": 8891.21,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000067 | Tarih: 12.02.2025 | Durum: Onay Bekliyor\nÖncelik: Kritik | SLA: Kritik (4 saat)\nLokasyon: Şehitkamil/Samsun | Şube/DM: TR-IZM-DC03 | Depo: Soğuk Oda-2\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-15499\nServis Teknisyeni: Deniz Arı\nArıza Tanımı\nSoğutma performansı düşüşü: Soğutucu gaz basıncı düşük, evaporatör yüzeyi kirli.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 595,99 3.575,94\nTermostat 1 811,88 811,88\nKayış 2 887,73 1.775,46\nTermostat 2 623,03 1.246,06\nAra Toplam: 7.409,34\nKDV (%20): 1.481,87\nGenel Toplam: 8.891,21\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

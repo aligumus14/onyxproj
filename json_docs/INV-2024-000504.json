@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000504",
+  "source_pdf": "0504_FATURA_INV-2024-000504.pdf",
+  "date": "2024-05-10",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 15,
+      "unit_price": 30.68,
+      "vat_rate": 0.1,
+      "net_total": 460.2
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 37.88,
+      "vat_rate": 0.01,
+      "net_total": 227.28
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 51.26,
+      "vat_rate": 0.01,
+      "net_total": 410.08
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 407.02,
+      "vat_rate": 0.1,
+      "net_total": 814.04
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 15,
+      "unit_price": 207.06,
+      "vat_rate": 0.1,
+      "net_total": 3105.9
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 81.46,
+      "vat_rate": 0.01,
+      "net_total": 162.92
+    }
+  ],
+  "subtotal": 5180.42,
+  "vat_total": 446.01,
+  "grand_total": 5626.43,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000504 | Tarih: 10.05.2024 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Soğuk Oda-2 | Teslim Yeri: Şehitkamil/Samsun\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 15 30,68 %10 460,20\nDomates (kg) 6 37,88 %1 227,28\nElma (kg) 8 51,26 %1 410,08\nDana Kıyma (kg) 2 407,02 %10 814,04\nUn (5 kg) 15 207,06 %10 3.105,90\nYoğurt (1 kg) 2 81,46 %1 162,92\nAra Toplam: 5.180,42\nKDV Toplam: 446,01\nGenel Toplam: 5.626,43\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

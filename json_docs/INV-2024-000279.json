@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000279",
+  "source_pdf": "0279_FATURA_INV-2024-000279.pdf",
+  "date": "2024-01-29",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 70.17,
+      "vat_rate": 0.01,
+      "net_total": 701.7
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 6,
+      "unit_price": 27.7,
+      "vat_rate": 0.2,
+      "net_total": 166.2
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 30.99,
+      "vat_rate": 0.01,
+      "net_total": 247.92
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 159.76,
+      "vat_rate": 0.1,
+      "net_total": 2396.4
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 394.05,
+      "vat_rate": 0.1,
+      "net_total": 3152.4
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 3,
+      "unit_price": 77.81,
+      "vat_rate": 0.01,
+      "net_total": 233.43
+    }
+  ],
+  "subtotal": 6898.05,
+  "vat_total": 599.95,
+  "grand_total": 7498.0,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000279 | Tarih: 29.01.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Depo-B | Teslim Yeri: Karşıyaka/İstanbul\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKuru Fasulye (1 kg) 10 70,17 %1 701,70\nGazlı İçecek (1 L) 6 27,70 %20 166,20\nSalatalık (kg) 8 30,99 %1 247,92\nTavuk Göğüs (kg) 15 159,76 %10 2.396,40\nDana Kıyma (kg) 8 394,05 %10 3.152,40\nPirinç (1 kg) 3 77,81 %1 233,43\nAra Toplam: 6.898,05\nKDV Toplam: 599,95\nGenel Toplam: 7.498,00\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

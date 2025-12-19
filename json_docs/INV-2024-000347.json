@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000347",
+  "source_pdf": "0347_FATURA_INV-2024-000347.pdf",
+  "date": "2024-12-22",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 20,
+      "unit_price": 54.53,
+      "vat_rate": 0.01,
+      "net_total": 1090.6
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 74.04,
+      "vat_rate": 0.01,
+      "net_total": 592.32
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 2,
+      "unit_price": 21.06,
+      "vat_rate": 0.1,
+      "net_total": 42.12
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 41.51,
+      "vat_rate": 0.1,
+      "net_total": 207.55
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 323.65,
+      "vat_rate": 0.1,
+      "net_total": 970.95
+    }
+  ],
+  "subtotal": 2903.54,
+  "vat_total": 138.9,
+  "grand_total": 3042.44,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000347 | Tarih: 22.12.2024 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Karşıyaka/Adana\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 20 54,53 %1 1.090,60\nPirinç (1 kg) 8 74,04 %1 592,32\nMakarna (500 g) 2 21,06 %10 42,12\nŞeker (1 kg) 5 41,51 %10 207,55\nDana Kıyma (kg) 3 323,65 %10 970,95\nAra Toplam: 2.903,54\nKDV Toplam: 138,90\nGenel Toplam: 3.042,44\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

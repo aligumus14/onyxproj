@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000236",
+  "source_pdf": "0836_SERVIS_SRV-2024-000236.pdf",
+  "date": "2024-08-28",
+  "status": "Parça Bekleniyor",
+  "priority": "Düşük",
+  "sla": "Yüksek (8 saat)",
+  "location": "Kadıköy/Antalya",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-A",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-89165",
+  "technician": "Selin Uçar",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 763.5,
+      "unit_price": 9.0,
+      "total": 2290.77
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 2290.77,
+  "vat_rate": 0.2,
+  "vat_amount": 458.15,
+  "grand_total": 2748.92,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000236 | Tarih: 28.08.2024 | Durum: Parça Bekleniyor\nÖncelik: Düşük | SLA: Yüksek (8 saat)\nLokasyon: Kadıköy/Antalya | Şube/DM: TR-IZM-DC03 | Depo: Depo-A\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-89165\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 763,59 2.290,77\nParça Değişimi - - 0,00\nAra Toplam: 2.290,77\nKDV (%20): 458,15\nGenel Toplam: 2.748,92\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

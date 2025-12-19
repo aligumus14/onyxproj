@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000303",
+  "source_pdf": "0303_FATURA_INV-2025-000303.pdf",
+  "date": "2025-11-11",
+  "currency": "TRY",
+  "vendor": "Karadeniz Deniz Ürünleri Ltd.",
+  "lines": [
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 116.22,
+      "vat_rate": 0.1,
+      "net_total": 581.1
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 49.16,
+      "vat_rate": 0.01,
+      "net_total": 491.6
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 257.29,
+      "vat_rate": 0.2,
+      "net_total": 3859.35
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 6,
+      "unit_price": 65.96,
+      "vat_rate": 0.2,
+      "net_total": 395.76
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 30.49,
+      "vat_rate": 0.1,
+      "net_total": 304.9
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 2,
+      "unit_price": 25.77,
+      "vat_rate": 0.01,
+      "net_total": 51.54
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 6,
+      "unit_price": 181.04,
+      "vat_rate": 0.1,
+      "net_total": 1086.24
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 177.43,
+      "vat_rate": 0.1,
+      "net_total": 1419.44
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 89.93,
+      "vat_rate": 0.01,
+      "net_total": 719.44
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 52.31,
+      "vat_rate": 0.1,
+      "net_total": 523.1
+    }
+  ],
+  "subtotal": 9432.47,
+  "vat_total": 1255.12,
+  "grand_total": 10687.59,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000303 | Tarih: 11.11.2025 | Para Birimi: TRY\nTedarikçi: Karadeniz Deniz Ürünleri Ltd.\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Depo-B | Teslim Yeri: Çankaya/Samsun\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nUn (5 kg) 5 116,22 %10 581,10\nPirinç (1 kg) 10 49,16 %1 491,60\nKahve Çekirdeği (250 g) 15 257,29 %20 3.859,35\nÇikolata (80 g) 6 65,96 %20 395,76\nMakarna (500 g) 10 30,49 %10 304,90\nSalatalık (kg) 2 25,77 %1 51,54\nUn (5 kg) 6 181,04 %10 1.086,24\nTavuk Göğüs (kg) 8 177,43 %10 1.419,44\nKuru Fasulye (1 kg) 8 89,93 %1 719,44\nŞeker (1 kg) 10 52,31 %10 523,10\nAra Toplam: 9.432,47\nKDV Toplam: 1.255,12\nGenel Toplam: 10.687,59\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

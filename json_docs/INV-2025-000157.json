@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000157",
+  "source_pdf": "0157_FATURA_INV-2025-000157.pdf",
+  "date": "2025-10-14",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 3,
+      "unit_price": 23.92,
+      "vat_rate": 0.1,
+      "net_total": 71.76
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 41.42,
+      "vat_rate": 0.1,
+      "net_total": 621.3
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 3,
+      "unit_price": 19.35,
+      "vat_rate": 0.2,
+      "net_total": 58.05
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 5,
+      "unit_price": 32.55,
+      "vat_rate": 0.2,
+      "net_total": 162.75
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 423.17,
+      "vat_rate": 0.1,
+      "net_total": 4231.7
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 60.8,
+      "vat_rate": 0.01,
+      "net_total": 243.2
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 2,
+      "unit_price": 46.08,
+      "vat_rate": 0.01,
+      "net_total": 92.16
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 12,
+      "unit_price": 55.8,
+      "vat_rate": 0.2,
+      "net_total": 669.6
+    }
+  ],
+  "subtotal": 6150.52,
+  "vat_total": 673.91,
+  "grand_total": 6824.43,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000157 | Tarih: 14.10.2025 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Depo-C | Teslim Yeri: Seyhan/Bursa\nÖdeme Yöntemi: Sanal POS\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nMakarna (500 g) 3 23,92 %10 71,76\nŞeker (1 kg) 15 41,42 %10 621,30\nMaden Suyu (200 ml) 3 19,35 %20 58,05\nÇikolata (80 g) 5 32,55 %20 162,75\nDana Kıyma (kg) 10 423,17 %10 4.231,70\nMuz (kg) 4 60,80 %1 243,20\nPirinç (1 kg) 2 46,08 %1 92,16\nÇikolata (80 g) 12 55,80 %20 669,60\nAra Toplam: 6.150,52\nKDV Toplam: 673,91\nGenel Toplam: 6.824,43\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

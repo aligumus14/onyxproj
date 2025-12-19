@@ -1,0 +1,41 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000212",
+  "source_pdf": "0812_SERVIS_SRV-2025-000212.pdf",
+  "date": "2025-03-04",
+  "status": "Onay Bekliyor",
+  "priority": "Kritik",
+  "sla": "Orta (24 saat)",
+  "location": "Şişli/Ankara",
+  "branch_dm": "TR-IZM-DC03",
+  "depot": "Depo-C",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-12346",
+  "technician": "Selin Uçar",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 495.6,
+      "unit_price": 2.0,
+      "total": 495.62
+    },
+    {
+      "item": "Kayış",
+      "qty": 1.0,
+      "unit_price": 590.95,
+      "total": 590.95
+    }
+  ],
+  "subtotal": 1086.57,
+  "vat_rate": 0.2,
+  "vat_amount": 217.31,
+  "grand_total": 1303.88,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000212 | Tarih: 04.03.2025 | Durum: Onay Bekliyor\nÖncelik: Kritik | SLA: Orta (24 saat)\nLokasyon: Şişli/Ankara | Şube/DM: TR-IZM-DC03 | Depo: Depo-C\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-12346\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 495,62 495,62\nKayış 1 590,95 590,95\nAra Toplam: 1.086,57\nKDV (%20): 217,31\nGenel Toplam: 1.303,88\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

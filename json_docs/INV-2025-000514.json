@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000514",
+  "source_pdf": "0514_FATURA_INV-2025-000514.pdf",
+  "date": "2025-10-13",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 10,
+      "unit_price": 55.44,
+      "vat_rate": 0.01,
+      "net_total": 554.4
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 12,
+      "unit_price": 14.1,
+      "vat_rate": 0.2,
+      "net_total": 169.2
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 36.79,
+      "vat_rate": 0.01,
+      "net_total": 551.85
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 49.24,
+      "vat_rate": 0.01,
+      "net_total": 196.96
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 126.32,
+      "vat_rate": 0.2,
+      "net_total": 126.32
+    },
+    {
+      "name": "Şeker",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 53.56,
+      "vat_rate": 0.1,
+      "net_total": 535.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 51.41,
+      "vat_rate": 0.01,
+      "net_total": 771.15
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 79.04,
+      "vat_rate": 0.01,
+      "net_total": 395.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 39.65,
+      "vat_rate": 0.1,
+      "net_total": 158.6
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 29.52,
+      "vat_rate": 0.01,
+      "net_total": 590.4
+    }
+  ],
+  "subtotal": 4049.68,
+  "vat_total": 159.11,
+  "grand_total": 4208.79,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000514 | Tarih: 13.10.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IST-DC01 | Depo: Soğuk Oda-1 | Teslim Yeri: Beşiktaş/İstanbul\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 10 55,44 %1 554,40\nMaden Suyu (200 ml) 12 14,10 %20 169,20\nDomates (kg) 15 36,79 %1 551,85\nPirinç (1 kg) 4 49,24 %1 196,96\nKahve Çekirdeği (250 g) 1 126,32 %20 126,32\nŞeker (1 kg) 10 53,56 %10 535,60\nDomates (kg) 15 51,41 %1 771,15\nMuz (kg) 5 79,04 %1 395,20\nMakarna (500 g) 4 39,65 %10 158,60\nDomates (kg) 20 29,52 %1 590,40\nAra Toplam: 4.049,68\nKDV Toplam: 159,11\nGenel Toplam: 4.208,79\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

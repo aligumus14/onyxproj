@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000174",
+  "source_pdf": "0174_FATURA_INV-2024-000174.pdf",
+  "date": "2024-09-12",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Süt",
+      "unit": "1 L",
+      "qty": 12,
+      "unit_price": 51.76,
+      "vat_rate": 0.01,
+      "net_total": 621.12
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 95.39,
+      "vat_rate": 0.01,
+      "net_total": 476.95
+    },
+    {
+      "name": "Gazlı İçecek",
+      "unit": "1 L",
+      "qty": 5,
+      "unit_price": 41.52,
+      "vat_rate": 0.2,
+      "net_total": 207.6
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 47.51,
+      "vat_rate": 0.01,
+      "net_total": 142.53
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 40.94,
+      "vat_rate": 0.01,
+      "net_total": 818.8
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 5,
+      "unit_price": 181.06,
+      "vat_rate": 0.1,
+      "net_total": 905.3
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 4,
+      "unit_price": 26.66,
+      "vat_rate": 0.1,
+      "net_total": 106.64
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 1,
+      "unit_price": 108.03,
+      "vat_rate": 0.01,
+      "net_total": 108.03
+    }
+  ],
+  "subtotal": 3386.97,
+  "vat_total": 164.39,
+  "grand_total": 3551.36,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000174 | Tarih: 12.09.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANK-DC02 | Depo: Soğuk Oda-1 | Teslim Yeri: Karşıyaka/Bursa\nÖdeme Yöntemi: Kredi Kartı\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nSüt (1 L) 12 51,76 %1 621,12\nYoğurt (1 kg) 5 95,39 %1 476,95\nGazlı İçecek (1 L) 5 41,52 %20 207,60\nMuz (kg) 3 47,51 %1 142,53\nElma (kg) 20 40,94 %1 818,80\nUn (5 kg) 5 181,06 %10 905,30\nMakarna (500 g) 4 26,66 %10 106,64\nPirinç (1 kg) 1 108,03 %1 108,03\nAra Toplam: 3.386,97\nKDV Toplam: 164,39\nGenel Toplam: 3.551,36\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

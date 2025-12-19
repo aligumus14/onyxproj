@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000127",
+  "source_pdf": "0727_SERVIS_SRV-2025-000127.pdf",
+  "date": "2025-03-06",
+  "status": "Onay Bekliyor",
+  "priority": "Yüksek",
+  "sla": "Orta (24 saat)",
+  "location": "Şehitkamil/İzmir",
+  "branch_dm": "TR-BUR-DC04",
+  "depot": "Depo-B",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-97688",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Motor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.",
+  "actions": [
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 527.7,
+      "unit_price": 1.0,
+      "total": 791.57
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 791.57,
+  "vat_rate": 0.2,
+  "vat_amount": 158.31,
+  "grand_total": 949.88,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000127 | Tarih: 06.03.2025 | Durum: Onay Bekliyor\nÖncelik: Yüksek | SLA: Orta (24 saat)\nLokasyon: Şehitkamil/İzmir | Şube/DM: TR-BUR-DC04 | Depo: Depo-B\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-97688\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nMotor aşırı ısınma: Soğutma fanı düzensiz çalışıyor, termostat arızası şüphesi.\nYapılan İşlemler\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 527,71 791,57\nParça Değişimi - - 0,00\nAra Toplam: 791,57\nKDV (%20): 158,31\nGenel Toplam: 949,88\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

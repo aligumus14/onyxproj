@@ -1,0 +1,39 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2025-000085",
+  "source_pdf": "0685_SERVIS_SRV-2025-000085.pdf",
+  "date": "2025-02-01",
+  "status": "Açık",
+  "priority": "Düşük",
+  "sla": "Kritik (4 saat)",
+  "location": "Kadıköy/Ankara",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Soğuk Oda-1",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-84631",
+  "technician": "Ahmet Korkmaz",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 771.3,
+      "unit_price": 5.0,
+      "total": 2314.05
+    },
+    {
+      "item": "Parça Değişimi",
+      "qty": null,
+      "unit_price": null,
+      "total": 0.0
+    }
+  ],
+  "subtotal": 2314.05,
+  "vat_rate": 0.2,
+  "vat_amount": 462.81,
+  "grand_total": 2776.86,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2025-000085 | Tarih: 01.02.2025 | Durum: Açık\nÖncelik: Düşük | SLA: Kritik (4 saat)\nLokasyon: Kadıköy/Ankara | Şube/DM: TR-IST-DC01 | Depo: Soğuk Oda-1\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-84631\nServis Teknisyeni: Ahmet Korkmaz\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 771,35 2.314,05\nParça Değişimi - - 0,00\nAra Toplam: 2.314,05\nKDV (%20): 462,81\nGenel Toplam: 2.776,86\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

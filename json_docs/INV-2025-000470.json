@@ -1,0 +1,54 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000470",
+  "source_pdf": "0470_FATURA_INV-2025-000470.pdf",
+  "date": "2025-09-09",
+  "currency": "TRY",
+  "vendor": "Akdeniz Et ve Süt Ürünleri A.Ş.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 54.48,
+      "vat_rate": 0.01,
+      "net_total": 272.4
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 5,
+      "unit_price": 94.82,
+      "vat_rate": 0.01,
+      "net_total": 474.1
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 440.07,
+      "vat_rate": 0.1,
+      "net_total": 3520.56
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 6,
+      "unit_price": 55.82,
+      "vat_rate": 0.01,
+      "net_total": 334.92
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 33.5,
+      "vat_rate": 0.01,
+      "net_total": 335.0
+    }
+  ],
+  "subtotal": 4936.98,
+  "vat_total": 366.22,
+  "grand_total": 5303.2,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000470 | Tarih: 09.09.2025 | Para Birimi: TRY\nTedarikçi: Akdeniz Et ve Süt Ürünleri A.Ş.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Muratpaşa/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 5 54,48 %1 272,40\nYoğurt (1 kg) 5 94,82 %1 474,10\nDana Kıyma (kg) 8 440,07 %10 3.520,56\nYoğurt (1 kg) 6 55,82 %1 334,92\nElma (kg) 10 33,50 %1 335,00\nAra Toplam: 4.936,98\nKDV Toplam: 366,22\nGenel Toplam: 5.303,20\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

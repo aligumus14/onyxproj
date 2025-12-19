@@ -1,0 +1,78 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000050",
+  "source_pdf": "0050_FATURA_INV-2025-000050.pdf",
+  "date": "2025-10-01",
+  "currency": "TRY",
+  "vendor": "Anadolu Un ve Bakliyat Sanayi",
+  "lines": [
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 175.06,
+      "vat_rate": 0.1,
+      "net_total": 875.3
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 479.68,
+      "vat_rate": 0.1,
+      "net_total": 5756.16
+    },
+    {
+      "name": "Un",
+      "unit": "5 kg",
+      "qty": 10,
+      "unit_price": 94.89,
+      "vat_rate": 0.1,
+      "net_total": 948.9
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 480.69,
+      "vat_rate": 0.1,
+      "net_total": 2403.45
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 72.67,
+      "vat_rate": 0.01,
+      "net_total": 1090.05
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 218.66,
+      "vat_rate": 0.2,
+      "net_total": 2186.6
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 42.54,
+      "vat_rate": 0.01,
+      "net_total": 425.4
+    },
+    {
+      "name": "Maden Suyu",
+      "unit": "200 ml",
+      "qty": 20,
+      "unit_price": 12.82,
+      "vat_rate": 0.2,
+      "net_total": 256.4
+    }
+  ],
+  "subtotal": 13942.26,
+  "vat_total": 1502.13,
+  "grand_total": 15444.39,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000050 | Tarih: 01.10.2025 | Para Birimi: TRY\nTedarikçi: Anadolu Un ve Bakliyat Sanayi\nŞube/Dağıtım Merkezi: TR-IZM-DC03 | Depo: Depo-C | Teslim Yeri: Beşiktaş/Konya\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nTavuk Göğüs (kg) 5 175,06 %10 875,30\nSomon Fileto (kg) 12 479,68 %10 5.756,16\nUn (5 kg) 10 94,89 %10 948,90\nSomon Fileto (kg) 5 480,69 %10 2.403,45\nMuz (kg) 15 72,67 %1 1.090,05\nKahve Çekirdeği (250 g) 10 218,66 %20 2.186,60\nSalatalık (kg) 10 42,54 %1 425,40\nMaden Suyu (200 ml) 20 12,82 %20 256,40\nAra Toplam: 13.942,26\nKDV Toplam: 1.502,13\nGenel Toplam: 15.444,39\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

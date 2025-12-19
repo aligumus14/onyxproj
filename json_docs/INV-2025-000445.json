@@ -1,0 +1,94 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2025-000445",
+  "source_pdf": "0445_FATURA_INV-2025-000445.pdf",
+  "date": "2025-06-04",
+  "currency": "TRY",
+  "vendor": "Güneydoğu Baklava Üretim",
+  "lines": [
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 15,
+      "unit_price": 100.42,
+      "vat_rate": 0.01,
+      "net_total": 1506.3
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 369.85,
+      "vat_rate": 0.1,
+      "net_total": 4438.2
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 20,
+      "unit_price": 22.57,
+      "vat_rate": 0.1,
+      "net_total": 451.4
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 10,
+      "unit_price": 32.89,
+      "vat_rate": 0.2,
+      "net_total": 328.9
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 1,
+      "unit_price": 233.69,
+      "vat_rate": 0.2,
+      "net_total": 233.69
+    },
+    {
+      "name": "Muz",
+      "unit": "kg",
+      "qty": 6,
+      "unit_price": 52.37,
+      "vat_rate": 0.01,
+      "net_total": 314.22
+    },
+    {
+      "name": "Ayçiçek Yağı",
+      "unit": "1 L",
+      "qty": 4,
+      "unit_price": 85.01,
+      "vat_rate": 0.1,
+      "net_total": 340.04
+    },
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 31.89,
+      "vat_rate": 0.01,
+      "net_total": 637.8
+    },
+    {
+      "name": "Makarna",
+      "unit": "500 g",
+      "qty": 10,
+      "unit_price": 33.37,
+      "vat_rate": 0.1,
+      "net_total": 333.7
+    },
+    {
+      "name": "Domates",
+      "unit": "kg",
+      "qty": 12,
+      "unit_price": 51.43,
+      "vat_rate": 0.01,
+      "net_total": 617.16
+    }
+  ],
+  "subtotal": 9201.41,
+  "vat_total": 699.6,
+  "grand_total": 9901.01,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2025-000445 | Tarih: 04.06.2025 | Para Birimi: TRY\nTedarikçi: Güneydoğu Baklava Üretim\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Soğuk Oda-1 | Teslim Yeri: Şişli/Samsun\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nPirinç (1 kg) 15 100,42 %1 1.506,30\nDana Kıyma (kg) 12 369,85 %10 4.438,20\nMakarna (500 g) 20 22,57 %10 451,40\nÇikolata (80 g) 10 32,89 %20 328,90\nKahve Çekirdeği (250 g) 1 233,69 %20 233,69\nMuz (kg) 6 52,37 %1 314,22\nAyçiçek Yağı (1 L) 4 85,01 %10 340,04\nElma (kg) 20 31,89 %1 637,80\nMakarna (500 g) 10 33,37 %10 333,70\nDomates (kg) 12 51,43 %1 617,16\nAra Toplam: 9.201,41\nKDV Toplam: 699,60\nGenel Toplam: 9.901,01\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

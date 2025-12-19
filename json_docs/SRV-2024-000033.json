@@ -1,0 +1,51 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000033",
+  "source_pdf": "0633_SERVIS_SRV-2024-000033.pdf",
+  "date": "2024-06-25",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Orta (24 saat)",
+  "location": "Karşıyaka/İstanbul",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Soğuk Oda-2",
+  "machine": "Etiketleme Makinesi - LabelPro 300",
+  "serial_no": "ETK-14967",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (6.0 saat)",
+      "qty": 904.5,
+      "unit_price": 8.0,
+      "total": 5427.48
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 1160.03,
+      "total": 1160.03
+    },
+    {
+      "item": "Kayış",
+      "qty": 2.0,
+      "unit_price": 949.35,
+      "total": 1898.7
+    },
+    {
+      "item": "Rulman Seti",
+      "qty": 1.0,
+      "unit_price": 1367.08,
+      "total": 1367.08
+    }
+  ],
+  "subtotal": 9853.29,
+  "vat_rate": 0.2,
+  "vat_amount": 1970.66,
+  "grand_total": 11823.95,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000033 | Tarih: 25.06.2024 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Orta (24 saat)\nLokasyon: Karşıyaka/İstanbul | Şube/DM: TR-ANT-DC05 | Depo: Soğuk Oda-2\nMakine: Etiketleme Makinesi - LabelPro 300 | Seri No: ETK-14967\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (6.0 saat) 904,58 5.427,48\nRulman Seti 1 1.160,03 1.160,03\nKayış 2 949,35 1.898,70\nRulman Seti 1 1.367,08 1.367,08\nAra Toplam: 9.853,29\nKDV (%20): 1.970,66\nGenel Toplam: 11.823,95\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

@@ -1,0 +1,86 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000535",
+  "source_pdf": "0535_FATURA_INV-2024-000535.pdf",
+  "date": "2024-07-19",
+  "currency": "TRY",
+  "vendor": "Ege Soğuk Zincir Ltd. Şti.",
+  "lines": [
+    {
+      "name": "Elma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 44.37,
+      "vat_rate": 0.01,
+      "net_total": 443.7
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 511.09,
+      "vat_rate": 0.1,
+      "net_total": 1533.27
+    },
+    {
+      "name": "Kuru Fasulye",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 132.95,
+      "vat_rate": 0.01,
+      "net_total": 531.8
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 463.92,
+      "vat_rate": 0.1,
+      "net_total": 1391.76
+    },
+    {
+      "name": "Çikolata",
+      "unit": "80 g",
+      "qty": 1,
+      "unit_price": 47.54,
+      "vat_rate": 0.2,
+      "net_total": 47.54
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 8,
+      "unit_price": 21.64,
+      "vat_rate": 0.01,
+      "net_total": 173.12
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 22.21,
+      "vat_rate": 0.01,
+      "net_total": 222.1
+    },
+    {
+      "name": "Pirinç",
+      "unit": "1 kg",
+      "qty": 4,
+      "unit_price": 101.01,
+      "vat_rate": 0.01,
+      "net_total": 404.04
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 763.26,
+      "vat_rate": 0.1,
+      "net_total": 11448.9
+    }
+  ],
+  "subtotal": 16196.23,
+  "vat_total": 1464.66,
+  "grand_total": 17660.89,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000535 | Tarih: 19.07.2024 | Para Birimi: TRY\nTedarikçi: Ege Soğuk Zincir Ltd. Şti.\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-A | Teslim Yeri: Karşıyaka/Ankara\nÖdeme Yöntemi: Havale/EFT\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nElma (kg) 10 44,37 %1 443,70\nSomon Fileto (kg) 3 511,09 %10 1.533,27\nKuru Fasulye (1 kg) 4 132,95 %1 531,80\nDana Kıyma (kg) 3 463,92 %10 1.391,76\nÇikolata (80 g) 1 47,54 %20 47,54\nSalatalık (kg) 8 21,64 %1 173,12\nSalatalık (kg) 10 22,21 %1 222,10\nPirinç (1 kg) 4 101,01 %1 404,04\nSomon Fileto (kg) 15 763,26 %10 11.448,90\nAra Toplam: 16.196,23\nKDV Toplam: 1.464,66\nGenel Toplam: 17.660,89\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

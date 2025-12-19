@@ -1,0 +1,47 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000002",
+  "source_pdf": "0602_SERVIS_SRV-2024-000002.pdf",
+  "date": "2024-12-17",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Yüksek (8 saat)",
+  "location": "Şişli/Kocaeli",
+  "branch_dm": "TR-ANT-DC05",
+  "depot": "Depo-B",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-87217",
+  "technician": "Emre Taş",
+  "fault_description": "Sensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.",
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Kalibrasyon/ayar prosedürü uygulandı."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (3.0 saat)",
+      "qty": 905.9,
+      "unit_price": 5.0,
+      "total": 2717.85
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 537.2,
+      "total": 537.2
+    },
+    {
+      "item": "Termostat",
+      "qty": 1.0,
+      "unit_price": 1183.91,
+      "total": 1183.91
+    }
+  ],
+  "subtotal": 4438.96,
+  "vat_rate": 0.2,
+  "vat_amount": 887.79,
+  "grand_total": 5326.75,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000002 | Tarih: 17.12.2024 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Yüksek (8 saat)\nLokasyon: Şişli/Kocaeli | Şube/DM: TR-ANT-DC05 | Depo: Depo-B\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-87217\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nSensör hatası: Hat duruşuna sebep olan sensör sapması ve kablo temassızlığı.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Kalibrasyon/ayar prosedürü uygulandı.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (3.0 saat) 905,95 2.717,85\nFiltre 1 537,20 537,20\nTermostat 1 1.183,91 1.183,91\nAra Toplam: 4.438,96\nKDV (%20): 887,79\nGenel Toplam: 5.326,75\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

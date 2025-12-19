@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000478",
+  "source_pdf": "0478_FATURA_INV-2024-000478.pdf",
+  "date": "2024-04-06",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 303.01,
+      "vat_rate": 0.1,
+      "net_total": 909.03
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 3,
+      "unit_price": 732.91,
+      "vat_rate": 0.1,
+      "net_total": 2198.73
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 10,
+      "unit_price": 56.35,
+      "vat_rate": 0.01,
+      "net_total": 563.5
+    },
+    {
+      "name": "Yoğurt",
+      "unit": "1 kg",
+      "qty": 8,
+      "unit_price": 64.04,
+      "vat_rate": 0.01,
+      "net_total": 512.32
+    },
+    {
+      "name": "Somon Fileto",
+      "unit": "kg",
+      "qty": 20,
+      "unit_price": 703.2,
+      "vat_rate": 0.1,
+      "net_total": 14064.0
+    },
+    {
+      "name": "Dana Kıyma",
+      "unit": "kg",
+      "qty": 10,
+      "unit_price": 460.44,
+      "vat_rate": 0.1,
+      "net_total": 4604.4
+    }
+  ],
+  "subtotal": 22851.98,
+  "vat_total": 2188.36,
+  "grand_total": 25040.34,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000478 | Tarih: 06.04.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-BUR-DC04 | Depo: Soğuk Oda-2 | Teslim Yeri: Muratpaşa/Kocaeli\nÖdeme Yöntemi: Açık Hesap\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nDana Kıyma (kg) 3 303,01 %10 909,03\nSomon Fileto (kg) 3 732,91 %10 2.198,73\nYoğurt (1 kg) 10 56,35 %1 563,50\nYoğurt (1 kg) 8 64,04 %1 512,32\nSomon Fileto (kg) 20 703,20 %10 14.064,00\nDana Kıyma (kg) 10 460,44 %10 4.604,40\nAra Toplam: 22.851,98\nKDV Toplam: 2.188,36\nGenel Toplam: 25.040,34\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

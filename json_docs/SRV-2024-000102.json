@@ -1,0 +1,45 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000102",
+  "source_pdf": "0702_SERVIS_SRV-2024-000102.pdf",
+  "date": "2024-09-08",
+  "status": "Onay Bekliyor",
+  "priority": "Düşük",
+  "sla": "Orta (24 saat)",
+  "location": "Çankaya/Antalya",
+  "branch_dm": "TR-IST-DC01",
+  "depot": "Depo-B",
+  "machine": "Forklift - Linde H35D",
+  "serial_no": "FLT-20313",
+  "technician": "Selin Uçar",
+  "fault_description": "Kayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.",
+  "actions": [
+    "Ön inceleme ve güvenlik izolasyonu yapıldı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.0 saat)",
+      "qty": 730.4,
+      "unit_price": 0.0,
+      "total": 730.4
+    },
+    {
+      "item": "Sensör",
+      "qty": 2.0,
+      "unit_price": 2056.72,
+      "total": 4113.44
+    },
+    {
+      "item": "Hidrolik Hortum",
+      "qty": 1.0,
+      "unit_price": 2497.89,
+      "total": 2497.89
+    }
+  ],
+  "subtotal": 7341.73,
+  "vat_rate": 0.2,
+  "vat_amount": 1468.35,
+  "grand_total": 8810.08,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000102 | Tarih: 08.09.2024 | Durum: Onay Bekliyor\nÖncelik: Düşük | SLA: Orta (24 saat)\nLokasyon: Çankaya/Antalya | Şube/DM: TR-IST-DC01 | Depo: Depo-B\nMakine: Forklift - Linde H35D | Seri No: FLT-20313\nServis Teknisyeni: Selin Uçar\nArıza Tanımı\nKayış gevşemesi: Konveyör kayışı gerginliği düştü, kayma ve ses oluşuyor.\nYapılan İşlemler\n- Ön inceleme ve güvenlik izolasyonu yapıldı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.0 saat) 730,40 730,40\nSensör 2 2.056,72 4.113,44\nHidrolik Hortum 1 2.497,89 2.497,89\nAra Toplam: 7.341,73\nKDV (%20): 1.468,35\nGenel Toplam: 8.810,08\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}

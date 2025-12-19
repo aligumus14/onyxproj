@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "doc_id": "INV-2024-000036",
+  "source_pdf": "0036_FATURA_INV-2024-000036.pdf",
+  "date": "2024-12-19",
+  "currency": "TRY",
+  "vendor": "Kapadokya Baharat ve Kuruyemiş",
+  "lines": [
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 10,
+      "unit_price": 138.13,
+      "vat_rate": 0.2,
+      "net_total": 1381.3
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 15,
+      "unit_price": 181.02,
+      "vat_rate": 0.2,
+      "net_total": 2715.3
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 5,
+      "unit_price": 112.41,
+      "vat_rate": 0.1,
+      "net_total": 562.05
+    },
+    {
+      "name": "Kahve Çekirdeği",
+      "unit": "250 g",
+      "qty": 5,
+      "unit_price": 121.38,
+      "vat_rate": 0.2,
+      "net_total": 606.9
+    },
+    {
+      "name": "Salatalık",
+      "unit": "kg",
+      "qty": 15,
+      "unit_price": 38.12,
+      "vat_rate": 0.01,
+      "net_total": 571.8
+    },
+    {
+      "name": "Tavuk Göğüs",
+      "unit": "kg",
+      "qty": 4,
+      "unit_price": 176.78,
+      "vat_rate": 0.1,
+      "net_total": 707.12
+    }
+  ],
+  "subtotal": 6544.47,
+  "vat_total": 1073.33,
+  "grand_total": 7617.8,
+  "raw_text": "NORTHWIND TRADERS - Satınalma Faturası / Market Fişi\nBelge No: INV-2024-000036 | Tarih: 19.12.2024 | Para Birimi: TRY\nTedarikçi: Kapadokya Baharat ve Kuruyemiş\nŞube/Dağıtım Merkezi: TR-ANT-DC05 | Depo: Depo-C | Teslim Yeri: Seyhan/Antalya\nÖdeme Yöntemi: Nakit\nKalem Miktar Birim Fiyat KDV Tutar (Net)\nKahve Çekirdeği (250 g) 10 138,13 %20 1.381,30\nKahve Çekirdeği (250 g) 15 181,02 %20 2.715,30\nTavuk Göğüs (kg) 5 112,41 %10 562,05\nKahve Çekirdeği (250 g) 5 121,38 %20 606,90\nSalatalık (kg) 15 38,12 %1 571,80\nTavuk Göğüs (kg) 4 176,78 %10 707,12\nAra Toplam: 6.544,47\nKDV Toplam: 1.073,33\nGenel Toplam: 7.617,80\nNot: Bu belge ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Muhasebe kNaoyrıtthlawrıinnad eTsraads edresğ Gilldoibr.al - Finans Operasyonları"
+}

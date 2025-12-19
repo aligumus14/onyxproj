@@ -1,0 +1,40 @@
+{
+  "doc_type": "service_report",
+  "doc_id": "SRV-2024-000095",
+  "source_pdf": "0695_SERVIS_SRV-2024-000095.pdf",
+  "date": "2024-10-10",
+  "status": "Onay Bekliyor",
+  "priority": "Orta",
+  "sla": "Orta (24 saat)",
+  "location": "Çankaya/İzmir",
+  "branch_dm": "TR-ANK-DC02",
+  "depot": "Depo-B",
+  "machine": "Palet Sarma Makinesi - WrapMaster XM",
+  "serial_no": "PLT-75277",
+  "technician": "Emre Taş",
+  "fault_description": "Hidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.",
+  "actions": [
+    "Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.",
+    "Kalibrasyon/ayar prosedürü uygulandı.",
+    "Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi."
+  ],
+  "cost_items": [
+    {
+      "item": "İşçilik (1.5 saat)",
+      "qty": 729.7,
+      "unit_price": 0.0,
+      "total": 1094.55
+    },
+    {
+      "item": "Filtre",
+      "qty": 1.0,
+      "unit_price": 376.5,
+      "total": 376.5
+    }
+  ],
+  "subtotal": 1471.05,
+  "vat_rate": 0.2,
+  "vat_amount": 294.21,
+  "grand_total": 1765.26,
+  "raw_text": "NORTHWIND TRADERS - Teknik Servis / Arıza Raporu\nRapor No: SRV-2024-000095 | Tarih: 10.10.2024 | Durum: Onay Bekliyor\nÖncelik: Orta | SLA: Orta (24 saat)\nLokasyon: Çankaya/İzmir | Şube/DM: TR-ANK-DC02 | Depo: Depo-B\nMakine: Palet Sarma Makinesi - WrapMaster XM | Seri No: PLT-75277\nServis Teknisyeni: Emre Taş\nArıza Tanımı\nHidrolik sızıntı: Yağ basıncı düşük, bağlantı noktalarında kaçak tespit edildi.\nYapılan İşlemler\n- Test çalışması gerçekleştirildi ve sonuçlar kayıt altına alındı.\n- Kalibrasyon/ayar prosedürü uygulandı.\n- Arızalı bölge temizlendi, bağlantı noktaları kontrol edildi.\nMaliyet Özeti\nKalem Miktar Birim Fiyat Tutar\nİşçilik (1.5 saat) 729,70 1.094,55\nFiltre 1 376,50 376,50\nAra Toplam: 1.471,05\nKDV (%20): 294,21\nGenel Toplam: 1.765,26\nNot: Bu rapor ERP test amaçlı üretilmiş kurgusal bir çıktıdır. Bakım/servisN okartyhıwtlainrdın aT reasdaesr sd eGğloilbdairl. - Teknik Operasyonlar"
+}
