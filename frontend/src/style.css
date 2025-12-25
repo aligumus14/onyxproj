@@ -1,79 +1,147 @@
-:root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+/* =========================================================
+   Onyx BI Chat - Global Tokens + Base Styles
+   (Vite starter CSS yerine)
+   ========================================================= */
+
+/* Base reset */
+* { box-sizing: border-box; }
+html, body, #app { height: 100%; }
+body { margin: 0; }
+
+:root{
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* Layout */
+  --sidebar-width: 320px;
+
+  /* Radius */
+  --r-10: 10px;
+  --r-12: 12px;
+  --r-14: 14px;
+  --r-16: 16px;
+
+  /* Accent (marka rengi) */
+  --accent: #6d5efc;
+  --accent-soft: rgba(109, 94, 252, 0.18);
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
+/* ========= DARK ========= */
+:root[data-theme="dark"]{
+  color-scheme: dark;
+
+  --bg-app: #0b0f19;
+  --bg-sidebar: #0e1422;
+  --bg-topbar: rgba(14, 20, 34, 0.92);
+  --bg-chat: rgba(10, 14, 25, 0.55);
+  --bg-results: rgba(10, 14, 25, 0.55);
+
+  --text: rgba(233, 237, 245, 0.94);
+  --text-muted: rgba(233, 237, 245, 0.68);
+
+  --border-color: rgba(255,255,255,0.14);
+  --card: rgba(255,255,255,0.06);
+  --hover: rgba(255,255,255,0.08);
+  --pill: rgba(255,255,255,0.06);
 }
 
-body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+/* ========= LIGHT ========= */
+:root[data-theme="light"]{
+  color-scheme: light;
+
+  --bg-app: #f5f7fb;
+  --bg-sidebar: #ffffff;
+  --bg-topbar: rgba(255, 255, 255, 0.92);
+  --bg-chat: #ffffff;
+  --bg-results: #ffffff;
+
+  --text: rgba(15, 23, 42, 0.92);
+  --text-muted: rgba(15, 23, 42, 0.62);
+
+  --border-color: rgba(15, 23, 42, 0.12);
+  --card: rgba(15, 23, 42, 0.04);
+  --hover: rgba(15, 23, 42, 0.06);
+  --pill: rgba(15, 23, 42, 0.05);
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+/* Default theme (ilk açılışta) */
+:root:not([data-theme]){
+  color-scheme: dark;
+}
+:root:not([data-theme])[data-theme=""]{
+  color-scheme: dark;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
+/* App root */
+body{
+  background: var(--bg-app);
+  color: var(--text);
+  overflow: hidden; /* shell içi kendi scroll yönetiyor */
+}
+
+#app{
+  width: 100%;
+  height: 100%;
+}
+
+/* Links */
+a{
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover{
+  opacity: .9;
+}
+
+/* Forms */
+input, textarea, button{
+  font: inherit;
+}
+::placeholder{
+  color: rgba(127, 140, 163, 0.9);
+}
+
+/* Global UI helpers (bazı componentler bunlara dayanıyor) */
+.btn{
+  height: 36px;
+  padding: 0 12px;
+  border-radius: var(--r-12);
+  border: 1px solid var(--border-color);
+  background: var(--card);
+  color: var(--text);
   cursor: pointer;
-  transition: border-color 0.25s;
+  font-weight: 800;
 }
-button:hover {
-  border-color: #646cff;
+.btn:hover{
+  border-color: var(--accent);
 }
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+.btn:disabled{
+  opacity: .55;
+  cursor: not-allowed;
 }
-
-.card {
-  padding: 2em;
-}
-th, td{color:#000}
-#app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+.btn-primary{
+  background: var(--accent);
+  color: #fff;
+  border-color: transparent;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+.input{
+  height: 36px;
+  padding: 0 12px;
+  border-radius: var(--r-12);
+  border: 1px solid var(--border-color);
+  background: var(--card);
+  color: var(--text);
+  outline: none;
 }
+.input:focus{
+  border-color: var(--accent);
+}
+
+/* Tables: default olarak theme’e uyum */
+table{ color: inherit; }
+th, td{ color: inherit; }
